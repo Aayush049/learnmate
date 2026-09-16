@@ -4,6 +4,7 @@ export { hierarchyAPI } from './hierarchy';
 export { questionsAPI } from './questions';
 export { practiceAPI } from './practice';
 export { mockTestsAPI } from './mockTests';
+export { adminAPI } from './admin';
 export { default as apiClient } from './client';
 
 export type { User, LoginCredentials, RegisterData, AuthResponse } from './auth';

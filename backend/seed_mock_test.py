@@ -10,7 +10,7 @@ from app.config import settings
 from app import models
 import random
 
-engine = create_engine("sqlite:///./learnmate_test.db")
+engine = create_engine(settings.DATABASE_URL)
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 db = SessionLocal()
 

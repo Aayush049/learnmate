@@ -1,0 +1,41 @@
+[
+  {
+    "question_text": "What is the primary function of curing in concrete?",
+    "options": [
+      {"label": "A", "text": "To prevent water loss"},
+      {"label": "B", "text": "To increase workability"},
+      {"label": "C", "text": "To reduce weight"},
+      {"label": "D", "text": "To change color"}
+    ],
+    "correct_label": "A",
+    "explanation": "Curing maintains suitable moisture conditions to promote continuous hydration of cement.",
+    "year": 2023,
+    "marks": 2
+  },
+  {
+    "question_text": "Which property of steel is highly desirable in seismic design of structures?",
+    "options": [
+      {"label": "A", "text": "Brittleness"},
+      {"label": "B", "text": "Ductility"},
+      {"label": "C", "text": "Hardness"},
+      {"label": "D", "text": "Density"}
+    ],
+    "correct_label": "B",
+    "explanation": "Ductility allows structures to absorb large amounts of energy before failure during an earthquake.",
+    "year": 2022,
+    "marks": 1
+  },
+  {
+    "question_text": "In surveying, what is a contour?",
+    "options": [
+      {"label": "A", "text": "An imaginary line on the ground connecting points of equal elevation"},
+      {"label": "B", "text": "A line marking the property boundary"},
+      {"label": "C", "text": "The slope of a hill"},
+      {"label": "D", "text": "The instrument used to measure angles"}
+    ],
+    "correct_label": "A",
+    "explanation": "Contour lines join points of equal elevation above a given level.",
+    "year": 2021,
+    "marks": 1
+  }
+]

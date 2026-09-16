@@ -1,8 +1,31 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { Card } from '../../components/ui/Card';
 import { Icons } from '../../assets/icons';
+import { adminAPI } from '../../api';
 
 export const AdminDashboardPage: React.FC = () => {
+  const [stats, setStats] = useState({
+    total_users: 0,
+    active_exams: 0,
+    questions_bank: 0,
+    mock_tests: 0
+  });
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const fetchStats = async () => {
+      try {
+        const data = await adminAPI.getDashboardStats();
+        setStats(data);
+      } catch (error) {
+        console.error("Failed to load admin stats", error);
+      } finally {
+        setLoading(false);
+      }
+    };
+    fetchStats();
+  }, []);
+
   return (
     <div className="space-y-6">
       <div className="flex justify-between items-center">
@@ -17,7 +40,9 @@ export const AdminDashboardPage: React.FC = () => {
             </div>
             <div>
               <p className="text-sm text-slate-500 font-medium">Total Users</p>
-              <h3 className="text-2xl font-bold text-slate-800">--</h3>
+              <h3 className="text-2xl font-bold text-slate-800">
+                {loading ? '--' : stats.total_users}
+              </h3>
             </div>
           </div>
         </Card>
@@ -29,7 +54,9 @@ export const AdminDashboardPage: React.FC = () => {
             </div>
             <div>
               <p className="text-sm text-slate-500 font-medium">Active Exams</p>
-              <h3 className="text-2xl font-bold text-slate-800">--</h3>
+              <h3 className="text-2xl font-bold text-slate-800">
+                {loading ? '--' : stats.active_exams}
+              </h3>
             </div>
           </div>
         </Card>
@@ -41,7 +68,9 @@ export const AdminDashboardPage: React.FC = () => {
             </div>
             <div>
               <p className="text-sm text-slate-500 font-medium">Questions Bank</p>
-              <h3 className="text-2xl font-bold text-slate-800">--</h3>
+              <h3 className="text-2xl font-bold text-slate-800">
+                {loading ? '--' : stats.questions_bank}
+              </h3>
             </div>
           </div>
         </Card>
@@ -53,7 +82,9 @@ export const AdminDashboardPage: React.FC = () => {
             </div>
             <div>
               <p className="text-sm text-slate-500 font-medium">Mock Tests</p>
-              <h3 className="text-2xl font-bold text-slate-800">--</h3>
+              <h3 className="text-2xl font-bold text-slate-800">
+                {loading ? '--' : stats.mock_tests}
+              </h3>
             </div>
           </div>
         </Card>

@@ -24,6 +24,9 @@ class User(Base):
     question_attempts = relationship("QuestionAttempt", back_populates="user", cascade="all, delete-orphan")
     mock_test_attempts = relationship("MockTestAttempt", back_populates="user", cascade="all, delete-orphan")
     bookmarks = relationship("Bookmark", back_populates="user", cascade="all, delete-orphan")
+    goals = relationship("Goal", back_populates="user", cascade="all, delete-orphan")
+    notes = relationship("Note", back_populates="user", cascade="all, delete-orphan")
+    flashcards = relationship("Flashcard", back_populates="user", cascade="all, delete-orphan")
 
     def __repr__(self):
         return f"<User(id={self.id}, email={self.email}, full_name={self.full_name})>"

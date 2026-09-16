@@ -5,7 +5,7 @@ interface AuthContextType {
   user: User | null;
   isLoading: boolean;
   isAuthenticated: boolean;
-  login: (credentials: LoginCredentials) => Promise<void>;
+  login: (credentials: LoginCredentials) => Promise<User>;
   register: (data: RegisterData) => Promise<void>;
   logout: () => void;
 }
@@ -25,10 +25,11 @@ export const AuthProvider: React.FC<{ children: ReactNode }> = ({ children }) =>
     setIsLoading(false);
   }, []);
 
-  const login = async (credentials: LoginCredentials) => {
+  const login = async (credentials: LoginCredentials): Promise<User> => {
     try {
       const response = await authAPI.login(credentials);
       setUser(response.user);
+      return response.user;
     } catch (error: any) {
       const errorMessage = error.response?.data?.detail || 'Login failed. Please try again.';
       throw new Error(errorMessage);

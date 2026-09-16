@@ -2,6 +2,13 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.api.v1 import api_router
 from app.config import settings
+from app.database import engine
+from app.models import *  # ensure all models are loaded
+from app.database import Base
+
+# Create tables
+Base.metadata.create_all(bind=engine)
+
 
 app = FastAPI(
     title="LEARNMATE AI",

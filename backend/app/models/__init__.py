@@ -9,6 +9,7 @@ from .question import Question, QuestionOption
 from .attempt import QuestionAttempt, MockTestAttempt
 from .bookmark import Bookmark
 from .mock_test import MockTest, MockTestQuestion
+from .goal import Goal
 
 __all__ = [
     'User',
@@ -24,4 +25,9 @@ __all__ = [
     'Bookmark',
     'MockTest',
     'MockTestQuestion',
+    'Goal'
 ]
+from .note import Note
+__all__.append('Note')
+from .flashcard import Flashcard
+__all__.append('Flashcard')

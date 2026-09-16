@@ -28,7 +28,11 @@ class Settings(BaseSettings):
         "http://127.0.0.1:5176"
     ]
 
-    model_config = SettingsConfigDict(env_file=".env", case_sensitive=True)
+    # Third Party APIs
+    GEMINI_API_KEY: str | None = None
+    GOOGLE_CLIENT_ID: str | None = None
+
+    model_config = SettingsConfigDict(env_file=".env", case_sensitive=True, extra="ignore")
 
 
 settings = Settings()

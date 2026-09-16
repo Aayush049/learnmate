@@ -6,7 +6,6 @@ import traceback
 from pathlib import Path
 from dotenv import load_dotenv
 
-# We need pymupdf for image rendering and google-generativeai for parsing
 try:
     import pymupdf as fitz  # PyMuPDF
     import google.generativeai as genai
@@ -30,18 +29,19 @@ if not GEMINI_API_KEY:
     sys.exit(1)
 
 genai.configure(api_key=GEMINI_API_KEY)
-# We use gemini-1.5-flash as it is extremely fast and capable of vision extraction
 model = genai.GenerativeModel('gemini-1.5-flash-latest')
 
 PROMPT = """
-You are an expert educational content parser.
-I will give you an image of a Question Paper page.
+You are an expert engineer and educational content parser.
+I will give you an image of an Engineering Question Paper page.
 Extract all multiple-choice questions visible on this page.
 
 Output purely a JSON array of objects with this exact structure:
 [
   {
     "question_text": "Text of the question",
+    "subject": "The core engineering subject (e.g., Fluid Mechanics, Thermodynamics, Soil Mechanics)",
+    "topic": "The specific chapter or sub-topic (e.g., Buoyancy, Shear Strength)",
     "options": [
       {"label": "A", "text": "First option"},
       {"label": "B", "text": "Second option"},
@@ -61,10 +61,10 @@ async def extract_questions_from_page(image_path: str):
     try:
         sample_file = genai.upload_file(path=image_path)
         response = model.generate_content([sample_file, PROMPT])
-
+        
         # Cleanup uploaded file immediately
         genai.delete_file(sample_file.name)
-
+        
         text = response.text.strip()
         # Clean markdown if accidentally sent
         if text.startswith("```json"):
@@ -73,60 +73,84 @@ async def extract_questions_from_page(image_path: str):
             text = text[3:]
         if text.endswith("```"):
             text = text[:-3]
-
+        
         data = json.loads(text.strip())
         return data
     except Exception as e:
         print(f"Error parsing {image_path}: {e}")
         return []
 
-async def process_pdf(pdf_path: str, start_page: int, end_page: int, output_file: str):
+async def process_pdf(pdf_path: str, start_page: int, end_page: int, output_dir: str):
     print(f"Opening PDF: {pdf_path}")
     doc = fitz.open(pdf_path)
-
-    total_extracted = []
-
+    
+    # Store questions grouped by subject
+    subjectwise_questions = {}
+    
     # Ensure a local temp dir for images
     temp_dir = Path("temp_pdf_images")
     temp_dir.mkdir(exist_ok=True)
-
+    
+    out_path = Path(output_dir)
+    out_path.mkdir(exist_ok=True, parents=True)
+    
     # Restrict end_page to document bounds
     end_page = min(end_page, len(doc) - 1)
+    
+    total_parsed = 0
 
     for page_num in range(start_page, end_page + 1):
         print(f"Processing page {page_num}...")
         page = doc.load_page(page_num)
-
+        
         # High resolution render
         pix = page.get_pixmap(matrix=fitz.Matrix(2, 2))
         img_path = temp_dir / f"page_{page_num}.png"
         pix.save(str(img_path))
-
+        
         questions = await extract_questions_from_page(str(img_path))
         print(f"Extracted {len(questions)} questions from page {page_num}")
-        total_extracted.extend(questions)
-
+        
+        for q in questions:
+            subject = q.get("subject", "Uncategorized").strip()
+            # Normalize subject name for filenames
+            safe_subject = "".join([c if c.isalnum() else "_" for c in subject])
+            if safe_subject not in subjectwise_questions:
+                subjectwise_questions[safe_subject] = []
+            
+            subjectwise_questions[safe_subject].append(q)
+            total_parsed += 1
+            
         # Clean up image
         if img_path.exists():
             img_path.unlink()
-
+            
     doc.close()
-
-    # Save output
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(total_extracted, f, indent=2, ensure_ascii=False)
-
-    print(f"\nSaved {len(total_extracted)} total questions to {output_file}")
-
+    
+    # Save output subject-wise
+    for subject, q_list in subjectwise_questions.items():
+        subject_file = out_path / f"{subject}.json"
+        
+        # If file exists, load and append
+        if subject_file.exists():
+            with open(subject_file, 'r', encoding='utf-8') as f:
+                existing = json.load(f)
+            q_list = existing + q_list
+            
+        with open(subject_file, 'w', encoding='utf-8') as f:
+            json.dump(q_list, f, indent=2, ensure_ascii=False)
+        print(f"Saved {len(q_list)} total questions to {subject_file}")
+    
+    print(f"\nDone! Processed {total_parsed} questions across {len(subjectwise_questions)} subjects.")
 
 if __name__ == "__main__":
     import argparse
-    parser = argparse.ArgumentParser(description="Extract Questions from PDF pages.")
+    parser = argparse.ArgumentParser(description="Extract Questions from PDF pages subject-wise.")
     parser.add_argument("pdf_path", type=str, help="Path to the PDF file")
     parser.add_argument("--start", type=int, default=0, help="Starting page index (0-based)")
     parser.add_argument("--end", type=int, default=1, help="Ending page index (0-based)")
-    parser.add_argument("--out", type=str, default="extracted_questions.json", help="Output JSON file")
-
+    parser.add_argument("--out-dir", type=str, default="extracted_data", help="Output directory for subject JSONs")
+    
     args = parser.parse_args()
-
-    asyncio.run(process_pdf(args.pdf_path, args.start, args.end, args.out))
+    
+    asyncio.run(process_pdf(args.pdf_path, args.start, args.end, args.out_dir))

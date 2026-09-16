@@ -2,7 +2,7 @@ from fastapi import APIRouter, Depends, HTTPException, Query, status
 from sqlalchemy.orm import Session
 from typing import List, Optional
 import random
-from datetime import datetime
+from datetime import datetime, timezone
 
 from app import schemas, models
 from app.database import get_db
@@ -103,7 +103,7 @@ def start_mock_test(
     attempt = models.MockTestAttempt(
         user_id=current_user.id,
         mock_test_id=test_id,
-        started_at=datetime.utcnow(),
+        started_at=datetime.now(timezone.utc),
         total_questions=len(test_questions),
         score=0,
         correct_answers=0,
@@ -233,13 +233,13 @@ def submit_mock_test(
             total_score -= float(negative_marking)
 
     # Update attempt
-    attempt.completed_at = datetime.utcnow()
+    attempt.completed_at = datetime.now(timezone.utc)
     attempt.correct_answers = correct_count
     attempt.incorrect_answers = incorrect_count
     attempt.unattempted = unattempted_count
     attempt.score = total_score
     if attempt.started_at:
-        time_diff = attempt.completed_at - attempt.started_at
+        time_diff = attempt.completed_at.replace(tzinfo=None) - attempt.started_at.replace(tzinfo=None)
         attempt.total_time_seconds = int(time_diff.total_seconds())
 
     db.commit()

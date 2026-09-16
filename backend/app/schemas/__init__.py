@@ -1,20 +1,25 @@
 """Pydantic schemas for request/response validation"""
-from app.schemas.user import UserCreate, UserLogin, UserResponse, UserUpdate, TokenResponse
+from app.schemas.user import UserCreate, UserLogin, UserResponse, UserUpdate, TokenResponse, GoogleLoginRequest
 from app.schemas.exam import ExamCreate, ExamUpdate, Exam
 from app.schemas.branch import BranchCreate, BranchUpdate, Branch
 from app.schemas.chapter import ChapterCreate, ChapterUpdate, Chapter
 from app.schemas.subject import SubjectCreate, SubjectUpdate, SubjectResponse, SubjectWithTopics, ChapterWithTopics, TopicSimple
 from app.schemas.topic import TopicCreate, TopicUpdate, TopicResponse, TopicWithQuestionCount
 from app.schemas.question import (
+    QuestionCreate,
+    QuestionUpdate,
     QuestionResponse,
     QuestionDetail,
     QuestionWithOptions,
     QuestionOptionResponse,
+    QuestionOptionCreate,
     QuestionOptionWithCorrect,
     AnswerSubmission,
     AnswerResult
 )
 from app.schemas.mock_test import (
+    MockTestCreate,
+    MockTestUpdate,
     MockTestResponse,
     MockTestDetail,
     MockTestAttemptResponse,
@@ -28,6 +33,7 @@ __all__ = [
     "UserResponse",
     "UserUpdate",
     "TokenResponse",
+    "GoogleLoginRequest",
     "ExamCreate",
     "ExamUpdate",
     "Exam",
@@ -47,13 +53,18 @@ __all__ = [
     "TopicUpdate",
     "TopicResponse",
     "TopicWithQuestionCount",
+    "QuestionCreate",
+    "QuestionUpdate",
     "QuestionResponse",
     "QuestionDetail",
     "QuestionWithOptions",
     "QuestionOptionResponse",
+    "QuestionOptionCreate",
     "QuestionOptionWithCorrect",
     "AnswerSubmission",
     "AnswerResult",
+    "MockTestCreate",
+    "MockTestUpdate",
     "MockTestResponse",
     "MockTestDetail",
     "MockTestAttemptResponse",

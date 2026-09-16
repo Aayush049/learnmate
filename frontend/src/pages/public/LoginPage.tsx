@@ -22,13 +22,14 @@ export const LoginPage: React.FC = () => {
     setIsLoading(true);
 
     try {
-      await login({
+      const loggedInUser = await login({
         email: formData.email,
         password: formData.password,
       });
 
-      // Redirect to intended page or dashboard
-      const from = (location.state as any)?.from?.pathname || '/dashboard';
+      // Redirect to intended page or dashboard based on role
+      const fallbackRoute = loggedInUser.is_admin ? '/admin/dashboard' : '/dashboard';
+      const from = (location.state as any)?.from?.pathname || fallbackRoute;
       navigate(from, { replace: true });
     } catch (err: any) {
       setError(err.message || 'Login failed. Please check your credentials.');
