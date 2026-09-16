@@ -7,7 +7,7 @@ class Settings(BaseSettings):
     APP_VERSION: str = "0.1.0"
     DEBUG: bool = True
 
-    # Database (psycopg3 driver — use postgresql+psycopg:// to avoid psycopg2 lookup)
+    # Database
     DATABASE_URL: str = "postgresql+psycopg://postgres:postgres@localhost:5432/learnmate_db"
     DB_ECHO: bool = False
 
@@ -23,9 +23,7 @@ class Settings(BaseSettings):
         "http://localhost:5175",
         "http://localhost:5176",
         "http://127.0.0.1:5173",
-        "http://127.0.0.1:5174",
-        "http://127.0.0.1:5175",
-        "http://127.0.0.1:5176"
+        "https://learnmate-seven.vercel.app"
     ]
 
     # Third Party APIs
