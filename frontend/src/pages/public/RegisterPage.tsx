@@ -4,9 +4,12 @@ import { Button } from '../../components/ui/Button';
 import { Card, CardBody } from '../../components/ui/Card';
 import { useAuth } from '../../contexts/AuthContext';
 
+import { GoogleLogin } from '@react-oauth/google';
+
+
 export const RegisterPage: React.FC = () => {
   const navigate = useNavigate();
-  const { register } = useAuth();
+  const { register, googleLogin } = useAuth();
 
   const [formData, setFormData] = useState({
     fullName: '',
@@ -16,6 +19,25 @@ export const RegisterPage: React.FC = () => {
   });
   const [error, setError] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(false);
+
+  
+  const handleGoogleSuccess = async (credentialResponse: any) => {
+    try {
+      if (!credentialResponse.credential) throw new Error("No credential received from Google");
+      setIsLoading(true);
+      setError(null);
+      await googleLogin(credentialResponse.credential);
+      navigate('/dashboard', { replace: true });
+    } catch (err: any) {
+      setError(err.message || 'Google signup failed. Please try again.');
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
+  const handleGoogleError = () => {
+    setError("Google signup failed or was cancelled.");
+  };
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -135,6 +157,24 @@ export const RegisterPage: React.FC = () => {
               {isLoading ? 'Creating account...' : 'Create Account'}
             </Button>
 
+            <div className="relative my-6">
+              <div className="absolute inset-0 flex items-center">
+                <div className="w-full border-t border-gray-300"></div>
+              </div>
+              <div className="relative flex justify-center text-sm">
+                <span className="px-2 bg-white text-gray-500">Or sign up with</span>
+              </div>
+            </div>
+
+            <div className="flex justify-center">
+              <GoogleLogin
+                onSuccess={handleGoogleSuccess}
+                onError={handleGoogleError}
+                useOneTap
+              />
+            </div>
+
+
             <div className="text-center">
               <Button
                 type="button"
@@ -145,6 +185,9 @@ export const RegisterPage: React.FC = () => {
               >
                 Already have an account? Sign in
               </Button>
+
+            
+
             </div>
           </form>
         </CardBody>

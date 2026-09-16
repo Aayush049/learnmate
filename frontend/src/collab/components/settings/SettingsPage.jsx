@@ -1,88 +1,91 @@
-import { ChevronRight } from "lucide-react";
+import { useAuth } from "../../../contexts/AuthContext";
+import { User, Mail, Shield, Bell, Moon } from "lucide-react";
 import PageIntro from "../common/PageIntro";
 
 export default function SettingsPage({ section }) {
-  const title =
-    section === "profile"
-      ? "Profile Settings"
-      : section === "security"
-        ? "Account & Security"
-        : "Study Preferences";
-
+  const { user, logout } = useAuth();
+  
   return (
     <div className="page">
-      <PageIntro
-        title={title}
-        subtitle="Customize your SSC JE Civil preparation experience."
+      <PageIntro 
+        title="Settings" 
+        subtitle="Manage your account preferences and application settings."
       />
 
-      <section className="card settings-card">
-        {section === "profile" ? (
-          <>
-            <div className="profile-head">
-              <div className="profile-avatar">AS</div>
-              <button className="secondary-button">Change Photo</button>
+      <div className="max-w-3xl">
+        <div className="card mb-6">
+          <h3 className="font-semibold text-lg border-b pb-4 mb-4">Profile Information</h3>
+          
+          <div className="space-y-4">
+            <div className="flex items-center gap-4">
+              <div className="w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center text-blue-600 font-bold text-2xl">
+                {user?.full_name?.charAt(0) || user?.email?.charAt(0)?.toUpperCase() || 'U'}
+              </div>
+              <div>
+                <div className="font-medium text-lg">{user?.full_name || 'SSC JE Aspirant'}</div>
+                <div className="text-slate-500">{user?.email}</div>
+              </div>
             </div>
+            
+            <div className="grid gap-4 mt-4">
+              <div>
+                <label className="block text-sm font-medium text-slate-700 mb-1">Full Name</label>
+                <div className="relative">
+                  <User className="absolute left-3 top-1/2 -translate-y-1/2 text-slate-400" size={18} />
+                  <input type="text" disabled value={user?.full_name || ''} className="w-full pl-10 pr-4 py-2 border rounded-lg bg-slate-50 text-slate-500" />
+                </div>
+              </div>
+              <div>
+                <label className="block text-sm font-medium text-slate-700 mb-1">Email Address</label>
+                <div className="relative">
+                  <Mail className="absolute left-3 top-1/2 -translate-y-1/2 text-slate-400" size={18} />
+                  <input type="email" disabled value={user?.email || ''} className="w-full pl-10 pr-4 py-2 border rounded-lg bg-slate-50 text-slate-500" />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
 
-            <label>Full Name<input defaultValue="Arav Sharma" /></label>
-            <label>Exam<input defaultValue="SSC JE" /></label>
-            <label>Branch<input defaultValue="Civil Engineering" /></label>
+        <div className="card mb-6">
+          <h3 className="font-semibold text-lg border-b pb-4 mb-4 flex items-center gap-2">
+            <Shield size={18} /> Account Security
+          </h3>
+          <div className="flex justify-between items-center py-2">
+            <div>
+              <div className="font-medium">Password</div>
+              <div className="text-sm text-slate-500">Change your password to keep your account secure</div>
+            </div>
+            <button className="px-4 py-2 border rounded-lg hover:bg-slate-50 text-sm font-medium">Update</button>
+          </div>
+        </div>
+        
+        <div className="card mb-8">
+          <h3 className="font-semibold text-lg border-b pb-4 mb-4 flex items-center gap-2">
+            <Bell size={18} /> Preferences
+          </h3>
+          <div className="space-y-4">
+            <div className="flex justify-between items-center">
+              <div>
+                <div className="font-medium">Daily Reminders</div>
+                <div className="text-sm text-slate-500">Get a reminder to maintain your study streak</div>
+              </div>
+              <label className="relative inline-flex items-center cursor-pointer">
+                <input type="checkbox" className="sr-only peer" defaultChecked />
+                <div className="w-11 h-6 bg-gray-200 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-blue-600"></div>
+              </label>
+            </div>
+          </div>
+        </div>
 
-            <button className="primary-button">Save Changes</button>
-          </>
-        ) : section === "security" ? (
-          <>
-            {[
-              "Change Password",
-              "Two-Factor Authentication",
-              "Connected Accounts",
-              "Login History",
-              "Delete Account"
-            ].map((item) => (
-              <button className="setting-row" key={item}>
-                {item}
-                <ChevronRight size={17} />
-              </button>
-            ))}
-          </>
-        ) : (
-          <>
-            <label>
-              Target Exam
-              <select><option>SSC JE Civil</option></select>
-            </label>
-
-            <label>
-              Daily Study Goal
-              <select>
-                <option>2 hours</option>
-                <option>3 hours</option>
-                <option>4 hours</option>
-                <option>6 hours</option>
-              </select>
-            </label>
-
-            <label>
-              Primary Focus
-              <select>
-                <option>General Engineering - Civil</option>
-                <option>Reasoning</option>
-                <option>General Awareness</option>
-              </select>
-            </label>
-
-            <label>
-              Study Mode
-              <select>
-                <option>Balanced</option>
-                <option>Weak Topics First</option>
-                <option>Mock Test Focus</option>
-                <option>Revision Focus</option>
-              </select>
-            </label>
-          </>
-        )}
-      </section>
+        <div className="flex justify-end">
+          <button 
+            onClick={logout}
+            className="px-6 py-2 bg-red-50 text-red-600 hover:bg-red-100 rounded-lg font-medium transition-colors"
+          >
+            Sign Out
+          </button>
+        </div>
+      </div>
     </div>
   );
 }

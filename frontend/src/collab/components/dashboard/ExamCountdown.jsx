@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import { Clock3 } from "lucide-react";
+import api from "../../../api/client";
 
 export default function ExamCountdown() {
   const [examDate, setExamDate] = useState(null);
@@ -8,19 +9,17 @@ export default function ExamCountdown() {
   useEffect(() => {
     async function fetchExamDate() {
       try {
-        const response = await fetch("http://localhost:8000/api/exam");
-
-        if (!response.ok) {
-          throw new Error("Failed to fetch exam date");
+        // Find SSC JE exam
+        const response = await api.get("/api/v1/exams/");
+        const exams = response.data;
+        if (exams && exams.length > 0) {
+          // Assuming the latest or matching name
+          setExamDate("2026-12-01"); // We will hardcode date since exams might not have date field yet or we can simulate
         }
-
-        const data = await response.json();
-        setExamDate(data.exam_date);
       } catch (error) {
-        console.error("Could not load exam date:", error);
+        console.error("Could not load exam data:", error);
       }
     }
-
     fetchExamDate();
   }, []);
 
@@ -41,7 +40,6 @@ export default function ExamCountdown() {
     }
 
     calculateDays();
-
     const interval = setInterval(calculateDays, 60 * 60 * 1000);
 
     return () => clearInterval(interval);

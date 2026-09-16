@@ -7,6 +7,7 @@ export const AdminSidebar: React.FC = () => {
 
   const navItems = [
     { path: '/admin/dashboard', label: 'Dashboard', icon: Icons.Home },
+    { path: '/admin/users', label: 'Users', icon: Icons.Users },
     { path: '/admin/hierarchy', label: 'Hierarchy', icon: Icons.BookOpen },
     { path: '/admin/questions', label: 'Question Bank', icon: Icons.PenTool },
     { path: '/admin/mock-tests', label: 'Mock Tests', icon: Icons.Clock },

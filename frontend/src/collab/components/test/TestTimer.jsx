@@ -1,31 +1,40 @@
-import { useEffect, useRef, useState } from "react";
-import { Clock3, Pause, Play } from "lucide-react";
-import { formatTime } from "./timerUtils";
+import React, { useEffect, useRef, useState } from "react";
+import { Clock3 } from "lucide-react";
+import { formatTime } from "./timerUtils.js";
 
-export default function TestTimer({
-  initialSeconds,
-  running,
-  onExpire,
-  onTick,
-}) {
+const TestTimer = ({ initialSeconds, running, onExpire, onTick }) => {
   const [secondsLeft, setSecondsLeft] = useState(initialSeconds);
   const expiredRef = useRef(false);
+
+  const onExpireRef = useRef(onExpire);
+  const onTickRef = useRef(onTick);
+  
+  useEffect(() => {
+    onExpireRef.current = onExpire;
+    onTickRef.current = onTick;
+  }, [onExpire, onTick]);
 
   useEffect(() => {
     setSecondsLeft(initialSeconds);
   }, [initialSeconds]);
 
   useEffect(() => {
-    if (!running || secondsLeft <= 0) return;
+    if (!running) return;
 
     const interval = setInterval(() => {
       setSecondsLeft((current) => {
+        if (current <= 0) return 0;
         const next = Math.max(current - 1, 0);
-        onTick?.(initialSeconds - next);
+        
+        if (onTickRef.current) {
+          onTickRef.current(initialSeconds - next);
+        }
 
         if (next === 0 && !expiredRef.current) {
           expiredRef.current = true;
-          onExpire?.();
+          if (onExpireRef.current) {
+            onExpireRef.current();
+          }
         }
 
         return next;
@@ -33,7 +42,7 @@ export default function TestTimer({
     }, 1000);
 
     return () => clearInterval(interval);
-  }, [running, secondsLeft, initialSeconds, onExpire, onTick]);
+  }, [running, initialSeconds]); 
 
   const danger = secondsLeft <= 60;
   const warning = secondsLeft <= 180 && !danger;
@@ -45,4 +54,6 @@ export default function TestTimer({
       <strong>{formatTime(secondsLeft)}</strong>
     </div>
   );
-}
+};
+
+export default TestTimer;

@@ -1,0 +1,2027 @@
+[
+  {
+    "question_text": "This is a realistic simulated question #1 about Water Quality in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Quality",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Quality"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Quality"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Quality"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Quality"
+      }
+    ],
+    "correct_label": "A",
+    "explanation": "The correct answer is A because standard engineering principles of Water Quality dictate this outcome.",
+    "year": 2022,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #2 about Water Quality in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Quality",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Quality"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Quality"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Quality"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Quality"
+      }
+    ],
+    "correct_label": "C",
+    "explanation": "The correct answer is C because standard engineering principles of Water Quality dictate this outcome.",
+    "year": 2019,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #3 about Water Quality in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Quality",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Quality"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Quality"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Quality"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Quality"
+      }
+    ],
+    "correct_label": "B",
+    "explanation": "The correct answer is B because standard engineering principles of Water Quality dictate this outcome.",
+    "year": 2020,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #4 about Water Quality in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Quality",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Quality"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Quality"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Quality"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Quality"
+      }
+    ],
+    "correct_label": "D",
+    "explanation": "The correct answer is D because standard engineering principles of Water Quality dictate this outcome.",
+    "year": 2022,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #5 about Water Quality in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Quality",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Quality"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Quality"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Quality"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Quality"
+      }
+    ],
+    "correct_label": "B",
+    "explanation": "The correct answer is B because standard engineering principles of Water Quality dictate this outcome.",
+    "year": 2022,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #6 about Water Quality in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Quality",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Quality"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Quality"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Quality"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Quality"
+      }
+    ],
+    "correct_label": "C",
+    "explanation": "The correct answer is C because standard engineering principles of Water Quality dictate this outcome.",
+    "year": 2020,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #7 about Water Quality in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Quality",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Quality"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Quality"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Quality"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Quality"
+      }
+    ],
+    "correct_label": "D",
+    "explanation": "The correct answer is D because standard engineering principles of Water Quality dictate this outcome.",
+    "year": 2019,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #8 about Water Quality in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Quality",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Quality"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Quality"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Quality"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Quality"
+      }
+    ],
+    "correct_label": "D",
+    "explanation": "The correct answer is D because standard engineering principles of Water Quality dictate this outcome.",
+    "year": 2021,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #9 about Water Quality in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Quality",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Quality"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Quality"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Quality"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Quality"
+      }
+    ],
+    "correct_label": "C",
+    "explanation": "The correct answer is C because standard engineering principles of Water Quality dictate this outcome.",
+    "year": 2021,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #10 about Water Quality in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Quality",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Quality"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Quality"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Quality"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Quality"
+      }
+    ],
+    "correct_label": "A",
+    "explanation": "The correct answer is A because standard engineering principles of Water Quality dictate this outcome.",
+    "year": 2023,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #11 about Water Quality in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Quality",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Quality"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Quality"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Quality"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Quality"
+      }
+    ],
+    "correct_label": "C",
+    "explanation": "The correct answer is C because standard engineering principles of Water Quality dictate this outcome.",
+    "year": 2022,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #12 about Water Quality in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Quality",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Quality"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Quality"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Quality"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Quality"
+      }
+    ],
+    "correct_label": "B",
+    "explanation": "The correct answer is B because standard engineering principles of Water Quality dictate this outcome.",
+    "year": 2021,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #13 about Water Quality in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Quality",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Quality"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Quality"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Quality"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Quality"
+      }
+    ],
+    "correct_label": "A",
+    "explanation": "The correct answer is A because standard engineering principles of Water Quality dictate this outcome.",
+    "year": 2019,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #14 about Water Quality in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Quality",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Quality"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Quality"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Quality"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Quality"
+      }
+    ],
+    "correct_label": "D",
+    "explanation": "The correct answer is D because standard engineering principles of Water Quality dictate this outcome.",
+    "year": 2019,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #15 about Water Quality in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Quality",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Quality"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Quality"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Quality"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Quality"
+      }
+    ],
+    "correct_label": "A",
+    "explanation": "The correct answer is A because standard engineering principles of Water Quality dictate this outcome.",
+    "year": 2020,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #16 about Water Treatment in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Treatment",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Treatment"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Treatment"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Treatment"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Treatment"
+      }
+    ],
+    "correct_label": "B",
+    "explanation": "The correct answer is B because standard engineering principles of Water Treatment dictate this outcome.",
+    "year": 2021,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #17 about Water Treatment in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Treatment",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Treatment"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Treatment"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Treatment"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Treatment"
+      }
+    ],
+    "correct_label": "A",
+    "explanation": "The correct answer is A because standard engineering principles of Water Treatment dictate this outcome.",
+    "year": 2021,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #18 about Water Treatment in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Treatment",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Treatment"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Treatment"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Treatment"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Treatment"
+      }
+    ],
+    "correct_label": "C",
+    "explanation": "The correct answer is C because standard engineering principles of Water Treatment dictate this outcome.",
+    "year": 2020,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #19 about Water Treatment in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Treatment",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Treatment"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Treatment"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Treatment"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Treatment"
+      }
+    ],
+    "correct_label": "A",
+    "explanation": "The correct answer is A because standard engineering principles of Water Treatment dictate this outcome.",
+    "year": 2022,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #20 about Water Treatment in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Treatment",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Treatment"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Treatment"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Treatment"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Treatment"
+      }
+    ],
+    "correct_label": "C",
+    "explanation": "The correct answer is C because standard engineering principles of Water Treatment dictate this outcome.",
+    "year": 2019,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #21 about Water Treatment in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Treatment",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Treatment"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Treatment"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Treatment"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Treatment"
+      }
+    ],
+    "correct_label": "D",
+    "explanation": "The correct answer is D because standard engineering principles of Water Treatment dictate this outcome.",
+    "year": 2020,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #22 about Water Treatment in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Treatment",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Treatment"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Treatment"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Treatment"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Treatment"
+      }
+    ],
+    "correct_label": "A",
+    "explanation": "The correct answer is A because standard engineering principles of Water Treatment dictate this outcome.",
+    "year": 2022,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #23 about Water Treatment in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Treatment",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Treatment"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Treatment"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Treatment"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Treatment"
+      }
+    ],
+    "correct_label": "D",
+    "explanation": "The correct answer is D because standard engineering principles of Water Treatment dictate this outcome.",
+    "year": 2023,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #24 about Water Treatment in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Treatment",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Treatment"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Treatment"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Treatment"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Treatment"
+      }
+    ],
+    "correct_label": "D",
+    "explanation": "The correct answer is D because standard engineering principles of Water Treatment dictate this outcome.",
+    "year": 2021,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #25 about Water Treatment in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Treatment",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Treatment"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Treatment"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Treatment"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Treatment"
+      }
+    ],
+    "correct_label": "B",
+    "explanation": "The correct answer is B because standard engineering principles of Water Treatment dictate this outcome.",
+    "year": 2022,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #26 about Water Treatment in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Treatment",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Treatment"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Treatment"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Treatment"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Treatment"
+      }
+    ],
+    "correct_label": "C",
+    "explanation": "The correct answer is C because standard engineering principles of Water Treatment dictate this outcome.",
+    "year": 2023,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #27 about Water Treatment in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Treatment",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Treatment"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Treatment"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Treatment"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Treatment"
+      }
+    ],
+    "correct_label": "A",
+    "explanation": "The correct answer is A because standard engineering principles of Water Treatment dictate this outcome.",
+    "year": 2020,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #28 about Water Treatment in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Treatment",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Treatment"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Treatment"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Treatment"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Treatment"
+      }
+    ],
+    "correct_label": "A",
+    "explanation": "The correct answer is A because standard engineering principles of Water Treatment dictate this outcome.",
+    "year": 2023,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #29 about Water Treatment in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Treatment",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Treatment"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Treatment"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Treatment"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Treatment"
+      }
+    ],
+    "correct_label": "D",
+    "explanation": "The correct answer is D because standard engineering principles of Water Treatment dictate this outcome.",
+    "year": 2022,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #30 about Water Treatment in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Water Treatment",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Water Treatment"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Water Treatment"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Water Treatment"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Water Treatment"
+      }
+    ],
+    "correct_label": "B",
+    "explanation": "The correct answer is B because standard engineering principles of Water Treatment dictate this outcome.",
+    "year": 2019,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #31 about Wastewater Characteristics in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Wastewater Characteristics",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Wastewater Characteristics"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Wastewater Characteristics"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Wastewater Characteristics"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Wastewater Characteristics"
+      }
+    ],
+    "correct_label": "C",
+    "explanation": "The correct answer is C because standard engineering principles of Wastewater Characteristics dictate this outcome.",
+    "year": 2019,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #32 about Wastewater Characteristics in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Wastewater Characteristics",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Wastewater Characteristics"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Wastewater Characteristics"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Wastewater Characteristics"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Wastewater Characteristics"
+      }
+    ],
+    "correct_label": "D",
+    "explanation": "The correct answer is D because standard engineering principles of Wastewater Characteristics dictate this outcome.",
+    "year": 2022,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #33 about Wastewater Characteristics in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Wastewater Characteristics",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Wastewater Characteristics"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Wastewater Characteristics"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Wastewater Characteristics"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Wastewater Characteristics"
+      }
+    ],
+    "correct_label": "C",
+    "explanation": "The correct answer is C because standard engineering principles of Wastewater Characteristics dictate this outcome.",
+    "year": 2020,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #34 about Wastewater Characteristics in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Wastewater Characteristics",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Wastewater Characteristics"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Wastewater Characteristics"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Wastewater Characteristics"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Wastewater Characteristics"
+      }
+    ],
+    "correct_label": "B",
+    "explanation": "The correct answer is B because standard engineering principles of Wastewater Characteristics dictate this outcome.",
+    "year": 2019,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #35 about Wastewater Characteristics in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Wastewater Characteristics",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Wastewater Characteristics"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Wastewater Characteristics"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Wastewater Characteristics"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Wastewater Characteristics"
+      }
+    ],
+    "correct_label": "C",
+    "explanation": "The correct answer is C because standard engineering principles of Wastewater Characteristics dictate this outcome.",
+    "year": 2019,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #36 about Wastewater Characteristics in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Wastewater Characteristics",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Wastewater Characteristics"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Wastewater Characteristics"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Wastewater Characteristics"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Wastewater Characteristics"
+      }
+    ],
+    "correct_label": "D",
+    "explanation": "The correct answer is D because standard engineering principles of Wastewater Characteristics dictate this outcome.",
+    "year": 2020,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #37 about Wastewater Characteristics in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Wastewater Characteristics",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Wastewater Characteristics"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Wastewater Characteristics"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Wastewater Characteristics"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Wastewater Characteristics"
+      }
+    ],
+    "correct_label": "B",
+    "explanation": "The correct answer is B because standard engineering principles of Wastewater Characteristics dictate this outcome.",
+    "year": 2021,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #38 about Wastewater Characteristics in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Wastewater Characteristics",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Wastewater Characteristics"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Wastewater Characteristics"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Wastewater Characteristics"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Wastewater Characteristics"
+      }
+    ],
+    "correct_label": "D",
+    "explanation": "The correct answer is D because standard engineering principles of Wastewater Characteristics dictate this outcome.",
+    "year": 2020,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #39 about Wastewater Characteristics in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Wastewater Characteristics",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Wastewater Characteristics"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Wastewater Characteristics"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Wastewater Characteristics"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Wastewater Characteristics"
+      }
+    ],
+    "correct_label": "D",
+    "explanation": "The correct answer is D because standard engineering principles of Wastewater Characteristics dictate this outcome.",
+    "year": 2021,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #40 about Wastewater Characteristics in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Wastewater Characteristics",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Wastewater Characteristics"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Wastewater Characteristics"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Wastewater Characteristics"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Wastewater Characteristics"
+      }
+    ],
+    "correct_label": "D",
+    "explanation": "The correct answer is D because standard engineering principles of Wastewater Characteristics dictate this outcome.",
+    "year": 2020,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #41 about Wastewater Characteristics in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Wastewater Characteristics",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Wastewater Characteristics"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Wastewater Characteristics"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Wastewater Characteristics"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Wastewater Characteristics"
+      }
+    ],
+    "correct_label": "D",
+    "explanation": "The correct answer is D because standard engineering principles of Wastewater Characteristics dictate this outcome.",
+    "year": 2021,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #42 about Wastewater Characteristics in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Wastewater Characteristics",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Wastewater Characteristics"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Wastewater Characteristics"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Wastewater Characteristics"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Wastewater Characteristics"
+      }
+    ],
+    "correct_label": "C",
+    "explanation": "The correct answer is C because standard engineering principles of Wastewater Characteristics dictate this outcome.",
+    "year": 2023,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #43 about Wastewater Characteristics in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Wastewater Characteristics",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Wastewater Characteristics"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Wastewater Characteristics"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Wastewater Characteristics"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Wastewater Characteristics"
+      }
+    ],
+    "correct_label": "C",
+    "explanation": "The correct answer is C because standard engineering principles of Wastewater Characteristics dictate this outcome.",
+    "year": 2020,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #44 about Wastewater Characteristics in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Wastewater Characteristics",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Wastewater Characteristics"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Wastewater Characteristics"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Wastewater Characteristics"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Wastewater Characteristics"
+      }
+    ],
+    "correct_label": "D",
+    "explanation": "The correct answer is D because standard engineering principles of Wastewater Characteristics dictate this outcome.",
+    "year": 2022,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #45 about Wastewater Characteristics in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Wastewater Characteristics",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Wastewater Characteristics"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Wastewater Characteristics"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Wastewater Characteristics"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Wastewater Characteristics"
+      }
+    ],
+    "correct_label": "A",
+    "explanation": "The correct answer is A because standard engineering principles of Wastewater Characteristics dictate this outcome.",
+    "year": 2020,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #46 about Air Pollution in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Air Pollution",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Air Pollution"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Air Pollution"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Air Pollution"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Air Pollution"
+      }
+    ],
+    "correct_label": "D",
+    "explanation": "The correct answer is D because standard engineering principles of Air Pollution dictate this outcome.",
+    "year": 2020,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #47 about Air Pollution in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Air Pollution",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Air Pollution"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Air Pollution"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Air Pollution"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Air Pollution"
+      }
+    ],
+    "correct_label": "C",
+    "explanation": "The correct answer is C because standard engineering principles of Air Pollution dictate this outcome.",
+    "year": 2019,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #48 about Air Pollution in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Air Pollution",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Air Pollution"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Air Pollution"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Air Pollution"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Air Pollution"
+      }
+    ],
+    "correct_label": "A",
+    "explanation": "The correct answer is A because standard engineering principles of Air Pollution dictate this outcome.",
+    "year": 2020,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #49 about Air Pollution in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Air Pollution",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Air Pollution"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Air Pollution"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Air Pollution"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Air Pollution"
+      }
+    ],
+    "correct_label": "B",
+    "explanation": "The correct answer is B because standard engineering principles of Air Pollution dictate this outcome.",
+    "year": 2021,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #50 about Air Pollution in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Air Pollution",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Air Pollution"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Air Pollution"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Air Pollution"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Air Pollution"
+      }
+    ],
+    "correct_label": "D",
+    "explanation": "The correct answer is D because standard engineering principles of Air Pollution dictate this outcome.",
+    "year": 2020,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #51 about Air Pollution in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Air Pollution",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Air Pollution"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Air Pollution"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Air Pollution"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Air Pollution"
+      }
+    ],
+    "correct_label": "C",
+    "explanation": "The correct answer is C because standard engineering principles of Air Pollution dictate this outcome.",
+    "year": 2021,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #52 about Air Pollution in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Air Pollution",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Air Pollution"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Air Pollution"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Air Pollution"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Air Pollution"
+      }
+    ],
+    "correct_label": "D",
+    "explanation": "The correct answer is D because standard engineering principles of Air Pollution dictate this outcome.",
+    "year": 2023,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #53 about Air Pollution in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Air Pollution",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Air Pollution"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Air Pollution"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Air Pollution"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Air Pollution"
+      }
+    ],
+    "correct_label": "C",
+    "explanation": "The correct answer is C because standard engineering principles of Air Pollution dictate this outcome.",
+    "year": 2021,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #54 about Air Pollution in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Air Pollution",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Air Pollution"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Air Pollution"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Air Pollution"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Air Pollution"
+      }
+    ],
+    "correct_label": "D",
+    "explanation": "The correct answer is D because standard engineering principles of Air Pollution dictate this outcome.",
+    "year": 2022,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #55 about Air Pollution in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Air Pollution",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Air Pollution"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Air Pollution"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Air Pollution"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Air Pollution"
+      }
+    ],
+    "correct_label": "A",
+    "explanation": "The correct answer is A because standard engineering principles of Air Pollution dictate this outcome.",
+    "year": 2019,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #56 about Air Pollution in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Air Pollution",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Air Pollution"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Air Pollution"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Air Pollution"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Air Pollution"
+      }
+    ],
+    "correct_label": "B",
+    "explanation": "The correct answer is B because standard engineering principles of Air Pollution dictate this outcome.",
+    "year": 2019,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #57 about Air Pollution in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Air Pollution",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Air Pollution"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Air Pollution"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Air Pollution"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Air Pollution"
+      }
+    ],
+    "correct_label": "C",
+    "explanation": "The correct answer is C because standard engineering principles of Air Pollution dictate this outcome.",
+    "year": 2023,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #58 about Air Pollution in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Air Pollution",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Air Pollution"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Air Pollution"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Air Pollution"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Air Pollution"
+      }
+    ],
+    "correct_label": "C",
+    "explanation": "The correct answer is C because standard engineering principles of Air Pollution dictate this outcome.",
+    "year": 2023,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #59 about Air Pollution in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Air Pollution",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Air Pollution"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Air Pollution"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Air Pollution"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Air Pollution"
+      }
+    ],
+    "correct_label": "D",
+    "explanation": "The correct answer is D because standard engineering principles of Air Pollution dictate this outcome.",
+    "year": 2022,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #60 about Air Pollution in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Air Pollution",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Air Pollution"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Air Pollution"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Air Pollution"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Air Pollution"
+      }
+    ],
+    "correct_label": "A",
+    "explanation": "The correct answer is A because standard engineering principles of Air Pollution dictate this outcome.",
+    "year": 2022,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #61 about Solid Waste Management in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Solid Waste Management",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Solid Waste Management"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Solid Waste Management"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Solid Waste Management"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Solid Waste Management"
+      }
+    ],
+    "correct_label": "A",
+    "explanation": "The correct answer is A because standard engineering principles of Solid Waste Management dictate this outcome.",
+    "year": 2021,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #62 about Solid Waste Management in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Solid Waste Management",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Solid Waste Management"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Solid Waste Management"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Solid Waste Management"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Solid Waste Management"
+      }
+    ],
+    "correct_label": "B",
+    "explanation": "The correct answer is B because standard engineering principles of Solid Waste Management dictate this outcome.",
+    "year": 2022,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #63 about Solid Waste Management in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Solid Waste Management",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Solid Waste Management"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Solid Waste Management"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Solid Waste Management"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Solid Waste Management"
+      }
+    ],
+    "correct_label": "B",
+    "explanation": "The correct answer is B because standard engineering principles of Solid Waste Management dictate this outcome.",
+    "year": 2021,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #64 about Solid Waste Management in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Solid Waste Management",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Solid Waste Management"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Solid Waste Management"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Solid Waste Management"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Solid Waste Management"
+      }
+    ],
+    "correct_label": "B",
+    "explanation": "The correct answer is B because standard engineering principles of Solid Waste Management dictate this outcome.",
+    "year": 2023,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #65 about Solid Waste Management in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Solid Waste Management",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Solid Waste Management"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Solid Waste Management"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Solid Waste Management"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Solid Waste Management"
+      }
+    ],
+    "correct_label": "D",
+    "explanation": "The correct answer is D because standard engineering principles of Solid Waste Management dictate this outcome.",
+    "year": 2023,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #66 about Solid Waste Management in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Solid Waste Management",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Solid Waste Management"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Solid Waste Management"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Solid Waste Management"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Solid Waste Management"
+      }
+    ],
+    "correct_label": "D",
+    "explanation": "The correct answer is D because standard engineering principles of Solid Waste Management dictate this outcome.",
+    "year": 2022,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #67 about Solid Waste Management in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Solid Waste Management",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Solid Waste Management"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Solid Waste Management"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Solid Waste Management"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Solid Waste Management"
+      }
+    ],
+    "correct_label": "B",
+    "explanation": "The correct answer is B because standard engineering principles of Solid Waste Management dictate this outcome.",
+    "year": 2022,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #68 about Solid Waste Management in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Solid Waste Management",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Solid Waste Management"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Solid Waste Management"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Solid Waste Management"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Solid Waste Management"
+      }
+    ],
+    "correct_label": "D",
+    "explanation": "The correct answer is D because standard engineering principles of Solid Waste Management dictate this outcome.",
+    "year": 2022,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #69 about Solid Waste Management in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Solid Waste Management",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Solid Waste Management"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Solid Waste Management"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Solid Waste Management"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Solid Waste Management"
+      }
+    ],
+    "correct_label": "A",
+    "explanation": "The correct answer is A because standard engineering principles of Solid Waste Management dictate this outcome.",
+    "year": 2019,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #70 about Solid Waste Management in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Solid Waste Management",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Solid Waste Management"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Solid Waste Management"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Solid Waste Management"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Solid Waste Management"
+      }
+    ],
+    "correct_label": "B",
+    "explanation": "The correct answer is B because standard engineering principles of Solid Waste Management dictate this outcome.",
+    "year": 2021,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #71 about Solid Waste Management in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Solid Waste Management",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Solid Waste Management"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Solid Waste Management"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Solid Waste Management"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Solid Waste Management"
+      }
+    ],
+    "correct_label": "A",
+    "explanation": "The correct answer is A because standard engineering principles of Solid Waste Management dictate this outcome.",
+    "year": 2020,
+    "marks": 2
+  },
+  {
+    "question_text": "This is a realistic simulated question #72 about Solid Waste Management in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Solid Waste Management",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Solid Waste Management"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Solid Waste Management"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Solid Waste Management"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Solid Waste Management"
+      }
+    ],
+    "correct_label": "D",
+    "explanation": "The correct answer is D because standard engineering principles of Solid Waste Management dictate this outcome.",
+    "year": 2020,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #73 about Solid Waste Management in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Solid Waste Management",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Solid Waste Management"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Solid Waste Management"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Solid Waste Management"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Solid Waste Management"
+      }
+    ],
+    "correct_label": "A",
+    "explanation": "The correct answer is A because standard engineering principles of Solid Waste Management dictate this outcome.",
+    "year": 2022,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #74 about Solid Waste Management in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Solid Waste Management",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Solid Waste Management"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Solid Waste Management"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Solid Waste Management"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Solid Waste Management"
+      }
+    ],
+    "correct_label": "B",
+    "explanation": "The correct answer is B because standard engineering principles of Solid Waste Management dictate this outcome.",
+    "year": 2023,
+    "marks": 1
+  },
+  {
+    "question_text": "This is a realistic simulated question #75 about Solid Waste Management in the context of Environmental Engineering.",
+    "subject": "Environmental Engineering",
+    "topic": "Solid Waste Management",
+    "options": [
+      {
+        "label": "A",
+        "text": "Simulated logical option A for Solid Waste Management"
+      },
+      {
+        "label": "B",
+        "text": "Simulated logical option B for Solid Waste Management"
+      },
+      {
+        "label": "C",
+        "text": "Simulated logical option C for Solid Waste Management"
+      },
+      {
+        "label": "D",
+        "text": "Simulated logical option D for Solid Waste Management"
+      }
+    ],
+    "correct_label": "C",
+    "explanation": "The correct answer is C because standard engineering principles of Solid Waste Management dictate this outcome.",
+    "year": 2022,
+    "marks": 2
+  }
+]

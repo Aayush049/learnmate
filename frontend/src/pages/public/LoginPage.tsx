@@ -4,10 +4,13 @@ import { Button } from '../../components/ui/Button';
 import { Card, CardBody } from '../../components/ui/Card';
 import { useAuth } from '../../contexts/AuthContext';
 
+import { GoogleLogin } from '@react-oauth/google';
+
+
 export const LoginPage: React.FC = () => {
   const navigate = useNavigate();
   const location = useLocation();
-  const { login } = useAuth();
+  const { login, googleLogin } = useAuth();
 
   const [formData, setFormData] = useState({
     email: '',
@@ -15,6 +18,27 @@ export const LoginPage: React.FC = () => {
   });
   const [error, setError] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(false);
+
+  
+  const handleGoogleSuccess = async (credentialResponse: any) => {
+    try {
+      if (!credentialResponse.credential) throw new Error("No credential received from Google");
+      setIsLoading(true);
+      setError(null);
+      const loggedInUser = await googleLogin(credentialResponse.credential);
+      const fallbackRoute = loggedInUser.is_admin ? '/admin/dashboard' : '/dashboard';
+      const from = (location.state as any)?.from?.pathname || fallbackRoute;
+      navigate(from, { replace: true });
+    } catch (err: any) {
+      setError(err.message || 'Google Login failed. Please try again.');
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
+  const handleGoogleError = () => {
+    setError("Google Login failed or was cancelled.");
+  };
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -90,6 +114,24 @@ export const LoginPage: React.FC = () => {
               {isLoading ? 'Signing in...' : 'Sign In'}
             </Button>
 
+            <div className="relative my-6">
+              <div className="absolute inset-0 flex items-center">
+                <div className="w-full border-t border-gray-300"></div>
+              </div>
+              <div className="relative flex justify-center text-sm">
+                <span className="px-2 bg-white text-gray-500">Or continue with</span>
+              </div>
+            </div>
+
+            <div className="flex justify-center">
+              <GoogleLogin
+                onSuccess={handleGoogleSuccess}
+                onError={handleGoogleError}
+                useOneTap
+              />
+            </div>
+
+
             <div className="text-center">
               <Button
                 type="button"
@@ -100,6 +142,9 @@ export const LoginPage: React.FC = () => {
               >
                 Don't have an account? Create one
               </Button>
+
+            
+
             </div>
           </form>
         </CardBody>

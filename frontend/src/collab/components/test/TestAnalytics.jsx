@@ -1,5 +1,5 @@
 import { Clock3, Gauge, Target, TrendingUp } from "lucide-react";
-import { buildOverallInsights } from "./testAnalytics";
+import { buildOverallInsights } from "./analyticsLogic.js";
 import { formatLongTime } from "./timerUtils";
 
 export default function TestAnalytics({ topicAnalytics }) {

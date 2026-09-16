@@ -60,6 +60,20 @@ export const authAPI = {
     return response.data;
   },
 
+
+  // Google Login
+  async googleLogin(credential: string): Promise<AuthResponse> {
+    const response = await apiClient.post<AuthResponse>('/auth/google', { credential });
+    
+    // Store token and user data
+    if (response.data.access_token) {
+      localStorage.setItem('auth_token', response.data.access_token);
+      localStorage.setItem('user_data', JSON.stringify(response.data.user));
+    }
+    
+    return response.data;
+  },
+
   // Logout
   logout(): void {
     localStorage.removeItem('auth_token');

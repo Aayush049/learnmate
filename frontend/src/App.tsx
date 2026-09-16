@@ -12,6 +12,7 @@ import { AdminDashboardPage } from './pages/admin/AdminDashboardPage';
 import { AdminHierarchyPage } from './pages/admin/AdminHierarchyPage';
 import { AdminQuestionsPage } from './pages/admin/AdminQuestionsPage';
 import { AdminMockTestsPage } from './pages/admin/AdminMockTestsPage';
+import { AdminUsersPage } from './pages/admin/AdminUsersPage';
 
 // Collab Pages (Friend's UI)
 import CollabLayout from './collab/components/layout/Layout';
@@ -48,6 +49,7 @@ function App() {
               <Route element={<AdminLayout />}>
                 <Route path="/admin" element={<Navigate to="/admin/dashboard" replace />} />
                 <Route path="/admin/dashboard" element={<AdminDashboardPage />} />
+                <Route path="/admin/users" element={<AdminUsersPage />} />
                 <Route path="/admin/hierarchy" element={<AdminHierarchyPage />} />
                 <Route path="/admin/questions" element={<AdminQuestionsPage />} />
                 <Route path="/admin/mock-tests" element={<AdminMockTestsPage />} />

@@ -1,21 +1,23 @@
-import { useEffect } from "react";
+import React, { useEffect, useRef } from "react";
 import { Timer } from "lucide-react";
-import { formatLongTime } from "./timerUtils";
+import { formatLongTime } from "./timerUtils.js";
 
-export default function QuestionTimer({
-  elapsedSeconds,
-  onTick,
-  running,
-}) {
+const QuestionTimer = ({ elapsedSeconds, onTick, running }) => {
+  const onTickRef = useRef(onTick);
+  
+  useEffect(() => {
+    onTickRef.current = onTick;
+  }, [onTick]);
+
   useEffect(() => {
     if (!running) return;
-
     const interval = setInterval(() => {
-      onTick?.();
+      if (onTickRef.current) {
+        onTickRef.current();
+      }
     }, 1000);
-
     return () => clearInterval(interval);
-  }, [running, onTick]);
+  }, [running]);
 
   return (
     <div className="question-timer">
@@ -24,4 +26,6 @@ export default function QuestionTimer({
       <strong>{formatLongTime(elapsedSeconds)}</strong>
     </div>
   );
-}
+};
+
+export default QuestionTimer;

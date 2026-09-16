@@ -1,5 +1,5 @@
+import { useState, useEffect } from "react";
 import { NavLink } from "react-router-dom";
-import { subjects } from "../../data/data";
 import DashboardStats from "./DashboardStats";
 import ContinueLearning from "./ContinueLearning";
 import AIRecommendation from "./AIRecommendation";
@@ -7,10 +7,87 @@ import Goal from "./Goal";
 import WeeklyActivity from "./WeeklyActivity";
 import ExamCountdown from "./ExamCountdown";
 import { useAuth } from "../../../contexts/AuthContext";
+import { hierarchyAPI } from "../../../api/hierarchy";
+import { goalsAPI } from "../../../api/goals";
+import { analyticsAPI } from "../../../api/analytics";
 
 export default function Dashboard() {
   const { user } = useAuth();
   const firstName = user?.full_name?.split(' ')[0] || 'User';
+
+  const [subjects, setSubjects] = useState([]);
+  const [goals, setGoals] = useState([]);
+  const [newGoalText, setNewGoalText] = useState("");
+
+  useEffect(() => {
+    const fetchDependencies = async () => {
+      try {
+        const [hierachyData, progressData] = await Promise.all([
+          hierarchyAPI.getSubjects(),
+          analyticsAPI.getProgress() // from /analytics/progress
+        ]);
+
+        const colors = ["purple", "blue", "orange", "cyan", "red", "green"];
+
+        const authSubjects = hierachyData.slice(0, 4).map((sub, index) => {
+          // Find matching progress data
+          const prog = progressData.find(p => p.subject === sub.name);
+          const currentProgress = prog ? prog.progress : 0;
+          const currentTopics = prog ? prog.totalTopics : 0;
+
+          return {
+            name: sub.name,
+            progress: currentProgress,
+            topics: currentTopics,
+            color: colors[index % colors.length],
+            icon: sub.icon || sub.name.substring(0, 2).toUpperCase()
+          };
+        });
+
+        setSubjects(authSubjects);
+      } catch (error) {
+        console.error("Failed to load subjects:", error);
+      }
+    };
+
+    const fetchGoals = async () => {
+      try {
+        const data = await goalsAPI.getGoals();
+        setGoals(data.slice(0, 5)); // show latest 5
+      } catch (error) {
+        console.error("Failed to load goals", error);
+      }
+    };
+
+    fetchDependencies();
+    fetchGoals();
+  }, []);
+
+  const handleToggleGoal = async (id, is_completed) => {
+    try {
+      const updated = await goalsAPI.updateGoal(id, is_completed);
+      setGoals(goals.map(g => g.id === id ? updated : g));
+    } catch(err) {}
+  };
+
+  const handleAddGoal = async (e) => {
+    e.preventDefault();
+    if (!newGoalText.trim()) return;
+    try {
+      const g = await goalsAPI.createGoal(newGoalText);
+      setGoals([g, ...goals].slice(0, 5));
+      setNewGoalText("");
+    } catch(err) {}
+  };
+
+  const handleDeleteGoal = async (id) => {
+    try {
+      await goalsAPI.deleteGoal(id);
+      setGoals(goals.filter(g => g.id !== id));
+    } catch(err) {}
+  };
+
+  const remainingGoals = goals.filter(g => !g.is_completed).length;
 
   return (
     <div className="page">
@@ -39,18 +116,36 @@ export default function Dashboard() {
           <div className="card-header">
             <div>
               <h3>Today's SSC JE Goals</h3>
-              <p>3 tasks remaining</p>
+              <p>{remainingGoals} tasks remaining</p>
             </div>
             <NavLink to="/track/goals" className="text-link">
               Manage
             </NavLink>
           </div>
 
+          <form onSubmit={handleAddGoal} className="flex gap-2 mb-4">
+            <input 
+              type="text" 
+              className="flex-1 p-2 border rounded" 
+              placeholder="Add a new goal..." 
+              value={newGoalText}
+              onChange={e => setNewGoalText(e.target.value)}
+            />
+            <button className="primary-button text-sm whitespace-nowrap">Add</button>
+          </form>
+
           <div className="goal-list">
-            <Goal text="Revise Surveying formulas" done />
-            <Goal text="Solve 25 Civil Engineering PYQs" />
-            <Goal text="Complete one Soil Mechanics topic" />
-            <Goal text="Attempt one timed reasoning set" />
+            {goals.map(g => (
+              <Goal 
+                key={g.id} 
+                goal={g} 
+                onToggle={handleToggleGoal} 
+                onDelete={handleDeleteGoal} 
+              />
+            ))}
+            {goals.length === 0 && (
+              <p className="text-gray-500 text-sm italic py-2">No goals set yet.</p>
+            )}
           </div>
         </section>
 
