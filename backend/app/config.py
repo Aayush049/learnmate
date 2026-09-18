@@ -23,7 +23,8 @@ class Settings(BaseSettings):
         "http://localhost:5175",
         "http://localhost:5176",
         "http://127.0.0.1:5173",
-        "https://learnmate-seven.vercel.app"
+        "https://learnmate-seven.vercel.app",
+        "https://learnmate-mj6jibhxr-mrinal444s-projects.vercel.app"
     ]
 
     # Third Party APIs
