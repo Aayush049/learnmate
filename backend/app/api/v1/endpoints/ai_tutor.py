@@ -24,8 +24,8 @@ def solve_doubt(
             return {"answer": f"Simulated AI Tutor Response for: '{request.query}'. (Please configure a valid GEMINI_API_KEY in Render dashboard to enable real AI)."}
 
         genai.configure(api_key=api_key)
-        model = genai.GenerativeModel('gemini-1.5-flash')
-        
+        model = genai.GenerativeModel('gemini-flash-latest')
+
         prompt = f"You are a helpful engineering tutor focused on SSC JE Civil Engineering. Answer this student's question clearly and concisely.\n\nContext: {request.topic_context}\n\nQuestion: {request.query}"
         
         response = model.generate_content(prompt)
