@@ -1,11 +1,28 @@
-import { useState } from "react";
+﻿import { useState, useEffect } from "react";
 import { useLocation } from "react-router-dom";
 import Sidebar from "./Sidebar";
 import Topbar from "./Topbar";
 
 export default function Layout({ children }) {
   const [open, setOpen] = useState(false);
+  const [collapsed, setCollapsed] = useState(false);
   const location = useLocation();
+
+  // Optionally load collapse state from local storage
+  useEffect(() => {
+    const saved = localStorage.getItem('sidebarCollapsed');
+    if (saved === 'true') {
+      setCollapsed(true);
+    }
+  }, []);
+
+  const toggleCollapse = () => {
+    setCollapsed(prev => {
+      const next = !prev;
+      localStorage.setItem('sidebarCollapsed', String(next));
+      return next;
+    });
+  };
 
   const title =
     location.pathname === "/"
@@ -18,9 +35,17 @@ export default function Layout({ children }) {
 
   return (
     <div className="app-shell">
-      <Sidebar open={open} setOpen={setOpen} />
+      {/* Mobile overlay */}
+      {open && <div className="sidebar-overlay" onClick={() => setOpen(false)}></div>}
+      
+      <Sidebar 
+        open={open} 
+        setOpen={setOpen} 
+        collapsed={collapsed} 
+        toggleCollapse={toggleCollapse} 
+      />
 
-      <main className="main">
+      <main className={main }>
         <Topbar title={title} setOpen={setOpen} />
         {children}
       </main>

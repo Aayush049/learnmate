@@ -1,5 +1,7 @@
-import { NavLink } from "react-router-dom";
-import {LayoutDashboard,BookOpen,
+﻿import { NavLink } from "react-router-dom";
+import {
+  LayoutDashboard,
+  BookOpen,
   Layers3,
   Brain,
   Bot,
@@ -10,40 +12,68 @@ import {LayoutDashboard,BookOpen,
   Target,
   FileText,
   Bookmark,
-  MessageCircle,
   UserRound,
   SlidersHorizontal,
   Shield,
-  X
+  X,
+  Settings,
+  ChevronLeft,
+  ChevronRight,
+  LogOut
 } from "lucide-react";
+import { useAuth } from "../../contexts/AuthContext";
+import { useState, useRef, useEffect } from "react";
 
-const nav = [
-  { label: "Dashboard", icon: LayoutDashboard, to: "/" },
+const getNav = (isAdmin) => [
+  { label: "Dashboard", icon: LayoutDashboard, to: "/dashboard" },
+  ...(isAdmin ? [{ label: "Admin Panel", icon: Settings, to: "/admin/dashboard" }] : []),
   { section: "LEARN" },
-  { label: "Civil Syllabus", icon: BookOpen, to: "/learn/textbook" },
-  { label: "Civil Topics", icon: Layers3, to: "/learn/topics" },
-{ label: "PYQs & Practice", icon: Brain, to: "/learn/practice" },
-{ label: "Mock Test", icon: Clock3, to: "/test/mock" },
-{ label: "Civil AI Tutor", icon: Bot, to: "/learn/ai-tutor" },
-  { section: "TRACK" },
+  { label: "Syllabus", icon: BookOpen, to: "/learn/textbook" },
+  { label: "Topics", icon: Layers3, to: "/learn/topics" },
+  { label: "Study Material", icon: FileText, to: "/resources/notes" },
+  { section: "PRACTICE" },
+  { label: "PYQs", icon: Brain, to: "/learn/practice" },
+  { label: "Mock Tests", icon: Clock3, to: "/test/mock" },
+  { label: "Flashcards", icon: Layers3, to: "/resources/flashcards" },
+  { section: "AI" },
+  { label: "AI Tutor", icon: Bot, to: "/learn/ai-tutor" },
+  { section: "PROGRESS" },
   { label: "Progress", icon: BarChart3, to: "/track/progress" },
   { label: "Performance", icon: Trophy, to: "/track/performance" },
   { label: "Study Calendar", icon: CalendarDays, to: "/track/calendar" },
   { label: "Preparation Goals", icon: Target, to: "/track/goals" },
   { section: "RESOURCES" },
-  { label: "Civil Notes", icon: FileText, to: "/resources/notes" },
   { label: "Saved Resources", icon: Bookmark, to: "/resources/bookmarks" },
-  { label: "Flashcards", icon: Layers3, to: "/resources/flashcards" },
-  { label: "Doubt Solver", icon: MessageCircle, to: "/resources/doubt-solver" },
-  { section: "SETTINGS" },
-  { label: "Profile", icon: UserRound, to: "/settings/profile" },
-  { label: "Study Preferences", icon: SlidersHorizontal, to: "/settings/preferences" },
-  { label: "Security", icon: Shield, to: "/settings/security" }
+  { label: "Settings", icon: Settings, to: "/settings/profile" }
 ];
 
-export default function Sidebar({ open, setOpen }) {
+export default function Sidebar({ open, setOpen, collapsed, toggleCollapse }) {
+  const auth = useAuth();
+  const user = auth?.user;
+  const logout = auth?.logout || (() => {});
+  
+  const nav = getNav(user?.is_admin);
+  
+  const [menuOpen, setMenuOpen] = useState(false);
+  const menuRef = useRef(null);
+
+  // Close menu when clicking outside
+  useEffect(() => {
+    function handleClickOutside(event) {
+      if (menuRef.current && !menuRef.current.contains(event.target)) {
+        setMenuOpen(false);
+      }
+    }
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => document.removeEventListener("mousedown", handleClickOutside);
+  }, []);
+
   return (
-    <aside className={`sidebar ${open ? "open" : ""}`}>
+    <aside className={sidebar ${open ? "open" : ""} ${collapsed ? "collapsed" : ""}}>
+      <button className="collapse-toggle" onClick={toggleCollapse}>
+        {collapsed ? <ChevronRight size={14} /> : <ChevronLeft size={14} />}
+      </button>
+      
       <div className="brand">
         <div className="brand-mark">✦</div>
         <div>
@@ -64,7 +94,9 @@ export default function Sidebar({ open, setOpen }) {
               key={item.to}
               to={item.to}
               onClick={() => setOpen(false)}
-              className={({ isActive }) => `nav-item ${isActive ? "active" : ""}`}
+              className={({ isActive }) => 
+av-item ${isActive ? "active" : ""}}
+              title={collapsed ? item.label : undefined}
             >
               <item.icon size={17} />
               <span>{item.label}</span>
@@ -73,12 +105,35 @@ export default function Sidebar({ open, setOpen }) {
         )}
       </nav>
 
-      <div className="sidebar-user">
-        <div className="avatar">AS</div>
-        <div>
-          <strong>Arav Sharma</strong>
-          <span>SSC JE Civil</span>
+      <div 
+        className="sidebar-user" 
+        onClick={() => setMenuOpen(!menuOpen)}
+        ref={menuRef}
+      >
+        <div className="avatar">
+          {user?.full_name?.charAt(0) || user?.name?.charAt(0) || 'U'}
         </div>
+        <div>
+          <strong>{user?.full_name || user?.name || 'Mrinal'}</strong>
+          <span>{user?.email || 'user1@test.com'}</span>
+        </div>
+        
+        {menuOpen && (
+          <div className="user-menu-popover" onClick={(e) => e.stopPropagation()}>
+            <NavLink to="/settings/profile" className="user-menu-item" onClick={() => setMenuOpen(false)}>
+              <UserRound size={15} /> Profile
+            </NavLink>
+            <NavLink to="/settings/preferences" className="user-menu-item" onClick={() => setMenuOpen(false)}>
+              <SlidersHorizontal size={15} /> Study Preferences
+            </NavLink>
+            <NavLink to="/settings/security" className="user-menu-item" onClick={() => setMenuOpen(false)}>
+              <Shield size={15} /> Security
+            </NavLink>
+            <button className="user-menu-item logout" onClick={() => { logout(); setMenuOpen(false); }}>
+              <LogOut size={15} /> Log out
+            </button>
+          </div>
+        )}
       </div>
     </aside>
   );
