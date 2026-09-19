@@ -5,10 +5,18 @@ from app.config import settings
 from app.database import engine
 from app.models import *  # ensure all models are loaded
 from app.database import Base
+from sqlalchemy import text
 
 # Create tables
 Base.metadata.create_all(bind=engine)
 
+# Ensure new columns exist
+try:
+    with engine.begin() as conn:
+        conn.execute(text("ALTER TABLE users ADD COLUMN IF NOT EXISTS date_of_birth TIMESTAMP WITHOUT TIME ZONE;"))
+        conn.execute(text("ALTER TABLE users ADD COLUMN IF NOT EXISTS address VARCHAR;"))
+except Exception as e:
+    print(f"Error altering table users: {e}")
 
 app = FastAPI(
     title="LEARNMATE AI",
@@ -48,4 +56,3 @@ def health_check():
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run("main:app", host="0.0.0.0", port=8001, reload=True)
-
