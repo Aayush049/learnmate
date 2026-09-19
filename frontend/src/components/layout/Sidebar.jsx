@@ -69,7 +69,7 @@ export default function Sidebar({ open, setOpen, collapsed, toggleCollapse }) {
   }, []);
 
   return (
-    <aside className={sidebar ${open ? "open" : ""} ${collapsed ? "collapsed" : ""}}>
+    <aside className={`sidebar ${open ? "open" : ""} ${collapsed ? "collapsed" : ""}`}>
       <button className="collapse-toggle" onClick={toggleCollapse}>
         {collapsed ? <ChevronRight size={14} /> : <ChevronLeft size={14} />}
       </button>
@@ -95,7 +95,7 @@ export default function Sidebar({ open, setOpen, collapsed, toggleCollapse }) {
               to={item.to}
               onClick={() => setOpen(false)}
               className={({ isActive }) => 
-av-item ${isActive ? "active" : ""}}
+`nav-item ${isActive ? "active" : ""}`}
               title={collapsed ? item.label : undefined}
             >
               <item.icon size={17} />
