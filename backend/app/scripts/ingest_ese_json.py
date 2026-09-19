@@ -40,25 +40,40 @@ def ingest_ese_jsons(json_folder):
         for file_path in json_files:
             filename = os.path.basename(file_path).replace(".json", "")
 
-            # Infer subject from filename
+            # Intelligent Syllabus Mapping
+            mapping = {
+                "10_Boundary_Layer_Theory": ("Fluid Mechanics", "Boundary Layer Thickness"),
+                "11_Drag_and_Lift": ("Fluid Mechanics", "Fluid Dynamics"),
+                "12_Flow_Through_Pipes": ("Fluid Mechanics", "Flow Through Pipes"),
+                "13_Modal_and_Dimensional_Analysis": ("Fluid Mechanics", "Dimensional Analysis and Model Studies"),
+                "14_Open_Channel_Flow_Part_1_Q1-16": ("Open Channel Flow", "Introduction"),
+                "14_Open_Channel_Flow_Part_2_Q17-40": ("Open Channel Flow", "Uniform - Flow"),
+                "14_Open_Channel_Flow_Part_3_Q41-64": ("Open Channel Flow", "Energy-Depth Relationship"),
+                "14_Open_Channel_Flow_Part_4_Q65-91": ("Open Channel Flow", "Gradually Varied Flow"),
+                "14_Open_Channel_Flow_Part_5_Q92-111": ("Open Channel Flow", "Rapid Varied Flow"),
+                "15_Hydraulic_Machines_Part_1_Q1-25": ("Hydraulic Machine", "Turbines"),
+                "15_Hydraulic_Machines_Part_2_Q26-50": ("Hydraulic Machine", "Turbines"),
+                "15_Hydraulic_Machines_Part_3_Q51-75": ("Hydraulic Machine", "Hydraulic Pumps"),
+                "15_Hydraulic_Machines_Part_4_Q76-107": ("Hydraulic Machine", "Hydraulic Pumps"),
+                "9_Turbulent_Flow": ("Fluid Mechanics", "Turbulent Flow"),
+                "Fluid_Mechanics_Chapter_1": ("Fluid Mechanics", "Properties of Fluid"),
+                "Tunneling_Tunnel_Engineering": ("Tunnel Engineering", "Basics of Tunneling")
+            }
+
             subject_str = "Fluid Mechanics"
-            lower_name = filename.lower()
-            if "tunnel" in lower_name:
-                subject_str = "Tunnel Engineering"
-            elif "open_channel_flow" in lower_name or "open channel flow" in lower_name:
-                subject_str = "Open Channel Flow"
-            elif "hydraulic_machine" in lower_name or "hydraulic machine" in lower_name:
-                subject_str = "Hydraulic Machine"
+            chapter_name = filename.replace("ESE_", "").replace("Chapter_", "").replace("_Digital", "").replace("_", " ")
+
+            for key, (subj_str, chap_str) in mapping.items():
+                if key in filename:
+                    subject_str = subj_str
+                    chapter_name = chap_str
+                    break
 
             subject, _ = get_or_create(db, Subject, branch_id=branch.id, name=subject_str)
-
-            chapter_name = filename
-            if filename.startswith("ESE_"):
-                # Clean up filename nicely
-                chapter_name = filename.replace("ESE_", "").replace("Chapter_", "").replace("_Digital", "").replace("_", " ")
-
             chapter, _ = get_or_create(db, Chapter, subject_id=subject.id, name=chapter_name)
-            topic, _ = get_or_create(db, Topic, chapter_id=chapter.id, name=f"{chapter_name} Questions")
+
+            topic_name = f"{chapter_name} Concepts"
+            topic, _ = get_or_create(db, Topic, chapter_id=chapter.id, name=topic_name)
 
             with open(file_path, "r", encoding="utf-8") as f:
                 try:
