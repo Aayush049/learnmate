@@ -42,11 +42,12 @@ export default function AITutor() {
         }
       ]);
     } catch (err) {
+      const errorMessage = err?.response?.data?.detail || "Sorry, I am having trouble connecting to the AI service right now.";
       setMessages((current) => [
         ...current,
         {
           role: "ai",
-          text: "Sorry, I am having trouble connecting to the AI service right now."
+          text: errorMessage
         }
       ]);
     } finally {

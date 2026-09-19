@@ -19,10 +19,10 @@ def solve_doubt(
 ):
     try:
         api_key = os.getenv("GEMINI_API_KEY")
-        if not api_key:
-            # Fallback mock for development if no key configured
-            return {"answer": f"Simulated AI Tutor Response for: '{request.query}'. (Configure GEMINI_API_KEY in backend .env to enable real AI)."}
-            
+        if not api_key or api_key == "your_api_key_here" or not api_key.startswith("AIza"):
+            # Fallback mock for development if no key configured or if it looks invalid
+            return {"answer": f"Simulated AI Tutor Response for: '{request.query}'. (Please configure a valid GEMINI_API_KEY in Render dashboard to enable real AI)."}
+
         genai.configure(api_key=api_key)
         model = genai.GenerativeModel('gemini-1.5-flash')
         
