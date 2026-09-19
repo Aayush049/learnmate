@@ -1,9 +1,9 @@
 ﻿import { useState, useEffect } from "react";
-import { useLocation } from "react-router-dom";
+import { useLocation, Outlet } from "react-router-dom";
 import Sidebar from "./Sidebar";
 import Topbar from "./Topbar";
 
-export default function Layout({ children }) {
+export default function Layout({ children = null }) {
   const [open, setOpen] = useState(false);
   const [collapsed, setCollapsed] = useState(false);
   const location = useLocation();
@@ -45,9 +45,9 @@ export default function Layout({ children }) {
         toggleCollapse={toggleCollapse} 
       />
 
-      <main className={main }>
+      <main className={`main ${collapsed ? "collapsed" : ""}`}>
         <Topbar title={title} setOpen={setOpen} />
-        {children}
+        {children || <Outlet />}
       </main>
     </div>
   );
