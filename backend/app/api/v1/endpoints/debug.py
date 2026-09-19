@@ -26,3 +26,7 @@ def test_db_insert(db: Session = Depends(get_db)):
 def get_db_schema(db: Session = Depends(get_db)):
     result = db.execute(text("SELECT column_name, data_type FROM information_schema.columns WHERE table_name = 'users';"))
     return {"columns": [{"name": row[0], "type": row[1]} for row in result]}
+@router.get("/db-schema-public")
+def get_db_schema_public(db: Session = Depends(get_db)):
+    result = db.execute(text("SELECT column_name, data_type FROM information_schema.columns WHERE table_name = 'users' AND table_schema = 'public';"))
+    return {"columns": [{"name": row[0], "type": row[1]} for row in result]}
