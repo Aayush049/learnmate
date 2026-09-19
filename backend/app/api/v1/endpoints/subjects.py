@@ -1,5 +1,9 @@
+import os
+import sys
+
 from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session
+from sqlalchemy import func
 from typing import List
 
 from app import schemas, models
@@ -17,43 +21,81 @@ def get_subjects_with_topics(
 ):
     """
     Retrieve all subjects with their chapters and topics.
-    Optionally filter by branch_id.
+    Optionally filter by branch_id. Default to branch_id=2 (SSC JE Civil) if not provided,
+    to avoid returning unassociated mock subjects unless explicitly requested.
     """
-    query = db.query(models.Subject)
-    if branch_id:
-        query = query.filter(models.Subject.branch_id == branch_id)
+    if branch_id is None:
+        # Defaulting to the primary populated Branch (SSC JE -> Civil Engineering)
+        branch_id = 2
 
-    subjects = query.offset(skip).limit(limit).all()
+    query = db.query(models.Subject).filter(models.Subject.branch_id == branch_id)
 
-    result = []
-    for subject in subjects:
-        chapters = db.query(models.Chapter).filter(models.Chapter.subject_id == subject.id).order_by(models.Chapter.display_order).all()
-        chapter_list = []
+    subjects = query.order_by(models.Subject.display_order).offset(skip).limit(limit).all()
+    if not subjects:
+        return []
 
-        for chapter in chapters:
-            topics = db.query(models.Topic).filter(models.Topic.chapter_id == chapter.id).order_by(models.Topic.display_order).all()
-            topic_list = []
+    subject_ids = [sub.id for sub in subjects]
 
-            for topic in topics:
-                question_count = db.query(models.Question).filter(models.Question.topic_id == topic.id).count()
-                topic_list.append(schemas.TopicSimple(
-                    id=topic.id,
-                    chapter_id=topic.chapter_id,
-                    name=topic.name,
-                    description=topic.description,
-                    display_order=topic.display_order,
-                    question_count=question_count
-                ))
+    # Pre-fetch chapters
+    chapters = db.query(models.Chapter).filter(
+        models.Chapter.subject_id.in_(subject_ids)
+    ).order_by(models.Chapter.display_order).all()
 
-            chapter_list.append(schemas.ChapterWithTopics(
+    chapter_ids = [c.id for c in chapters]
+
+    # Pre-fetch topics
+    topics = []
+    if chapter_ids:
+        topics = db.query(models.Topic).filter(
+            models.Topic.chapter_id.in_(chapter_ids)
+        ).order_by(models.Topic.display_order).all()
+
+    topic_ids = [t.id for t in topics]
+
+    # Pre-fetch question counts via group by
+    question_counts = {}
+    if topic_ids:
+        counts = db.query(
+            models.Question.topic_id,
+            func.count(models.Question.id)
+        ).filter(
+            models.Question.topic_id.in_(topic_ids)
+        ).group_by(models.Question.topic_id).all()
+        question_counts = {t_id: count for t_id, count in counts}
+
+    # Group topics by chapter_id
+    from collections import defaultdict
+    topics_by_chapter = defaultdict(list)
+    for topic in topics:
+        q_count = question_counts.get(topic.id, 0)
+        topics_by_chapter[topic.chapter_id].append(
+            schemas.TopicSimple(
+                id=topic.id,
+                chapter_id=topic.chapter_id,
+                name=topic.name,
+                description=topic.description,
+                display_order=topic.display_order,
+                question_count=q_count
+            )
+        )
+
+    # Group chapters by subject_id
+    chapters_by_subject = defaultdict(list)
+    for chapter in chapters:
+        chapter_topics = topics_by_chapter.get(chapter.id, [])
+        chapters_by_subject[chapter.subject_id].append(
+            schemas.ChapterWithTopics(
                 id=chapter.id,
                 subject_id=chapter.subject_id,
                 name=chapter.name,
                 description=chapter.description,
                 display_order=chapter.display_order,
-                topics=topic_list
-            ))
+                topics=chapter_topics
+            )
+        )
 
+    result = []
+    for subject in subjects:
         result.append(schemas.SubjectWithTopics(
             id=subject.id,
             branch_id=subject.branch_id,
@@ -61,7 +103,7 @@ def get_subjects_with_topics(
             description=subject.description,
             icon=subject.icon,
             display_order=subject.display_order,
-            chapters=chapter_list
+            chapters=chapters_by_subject.get(subject.id, [])
         ))
 
     return result

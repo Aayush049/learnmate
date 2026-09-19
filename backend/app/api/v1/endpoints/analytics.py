@@ -147,7 +147,7 @@ def get_progress(
     db: Session = Depends(get_db)
 ):
     # Total topics per subject vs attempted topics
-    subjects = db.query(Subject).all()
+    subjects = db.query(Subject).filter(Subject.branch_id == 2).all()
     result = []
     
     for sub in subjects:
