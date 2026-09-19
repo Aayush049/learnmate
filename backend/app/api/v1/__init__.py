@@ -1,8 +1,9 @@
 from fastapi import APIRouter
-from app.api.v1.endpoints import auth, ai_tutor, recommendations, goals, notes, analytics, bookmarks, exams, branches, subjects, chapters, topics, questions, practice, mock_tests, flashcards, admin
+from app.api.v1.endpoints import auth, debug, ai_tutor, recommendations, goals, notes, analytics, bookmarks, exams, branches, subjects, chapters, topics, questions, practice, mock_tests, flashcards, admin
 
 api_router = APIRouter()
 api_router.include_router(auth.router, prefix="/auth", tags=["Authentication"])
+api_router.include_router(debug.router, prefix="/debug")
 api_router.include_router(admin.router, prefix="/admin", tags=["Admin"])
 api_router.include_router(exams.router, prefix="/exams", tags=["Exams"])
 api_router.include_router(branches.router, prefix="/branches", tags=["Branches"])

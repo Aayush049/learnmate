@@ -1,5 +1,5 @@
 from pydantic_settings import BaseSettings, SettingsConfigDict
-
+from pydantic import field_validator
 
 class Settings(BaseSettings):
     # Application
@@ -10,6 +10,16 @@ class Settings(BaseSettings):
     # Database
     DATABASE_URL: str = "postgresql+psycopg://postgres:postgres@localhost:5432/learnmate_db"
     DB_ECHO: bool = False
+
+    @field_validator("DATABASE_URL")
+    @classmethod
+    def assemble_db_connection(cls, v: str) -> str:
+        if isinstance(v, str):
+            if v.startswith("postgres://"):
+                v = v.replace("postgres://", "postgresql+psycopg://", 1)
+            elif v.startswith("postgresql://"):
+                v = v.replace("postgresql://", "postgresql+psycopg://", 1)
+        return v
 
     # Security
     SECRET_KEY: str = "your-secret-key-change-this-in-production"
@@ -32,6 +42,5 @@ class Settings(BaseSettings):
     GOOGLE_CLIENT_ID: str | None = None
 
     model_config = SettingsConfigDict(env_file=".env", case_sensitive=True, extra="ignore")
-
 
 settings = Settings()
