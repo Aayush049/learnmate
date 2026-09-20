@@ -11,7 +11,7 @@ export default function PracticeQuestions() {
   useEffect(() => {
     const fetchQuestions = async () => {
       try {
-        const data = await questionsAPI.getQuestions();
+        const data = await questionsAPI.getQuestions({ limit: 100 });
         setQuestions(data);
       } catch (error) {
         console.error("Failed to load questions:", error);
