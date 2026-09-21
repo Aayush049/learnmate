@@ -30,18 +30,14 @@ const getNav = (isAdmin) => [
   { section: "LEARN" },
   { label: "Syllabus", icon: BookOpen, to: "/learn/textbook" },
   { label: "Topics", icon: Layers3, to: "/learn/topics" },
-  { label: "Study Material", icon: FileText, to: "/resources/notes" },
   { section: "PRACTICE" },
   { label: "PYQs", icon: Brain, to: "/learn/practice" },
   { label: "Mock Tests", icon: Clock3, to: "/test/mock" },
-  { label: "Flashcards", icon: Layers3, to: "/resources/flashcards" },
   { section: "AI" },
-  { label: "AI Tutor", icon: Bot, to: "/learn/ai-tutor" },
+  { label: "AI Tutor", icon: Bot, to: "/learn/ai-tutor", comingSoon: true },
   { section: "PROGRESS" },
   { label: "Progress", icon: BarChart3, to: "/track/progress" },
   { label: "Performance", icon: Trophy, to: "/track/performance" },
-  { label: "Study Calendar", icon: CalendarDays, to: "/track/calendar" },
-  { label: "Preparation Goals", icon: Target, to: "/track/goals" },
   { section: "RESOURCES" },
   { label: "Saved Resources", icon: Bookmark, to: "/resources/bookmarks" },
   { label: "Settings", icon: Settings, to: "/settings/profile" }
@@ -93,13 +89,21 @@ export default function Sidebar({ open, setOpen, collapsed, toggleCollapse }) {
             <NavLink
               key={item.to}
               to={item.to}
-              onClick={() => setOpen(false)}
-              className={({ isActive }) => 
-`nav-item ${isActive ? "active" : ""}`}
+              onClick={(e) => {
+                if (item.comingSoon) e.preventDefault();
+                setOpen(false)
+              }}
+              className={({ isActive }) =>
+`nav-item ${isActive ? "active" : ""} ${item.comingSoon ? "opacity-70 pointer-events-auto cursor-pointer" : ""}`}
               title={collapsed ? item.label : undefined}
             >
               <item.icon size={17} />
               <span>{item.label}</span>
+              {item.comingSoon && !collapsed && (
+                <span className="ml-auto text-[9px] font-bold uppercase tracking-wider bg-blue-100 text-blue-700 px-1.5 py-0.5 rounded-full whitespace-nowrap">
+                  v2.0
+                </span>
+              )}
             </NavLink>
           )
         )}
