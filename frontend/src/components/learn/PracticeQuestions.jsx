@@ -51,7 +51,7 @@ export default function PracticeQuestions() {
 
   const filteredQuestions = difficultyFilter === "All"
     ? questions
-    : questions.filter(q => q.difficulty.toLowerCase() === difficultyFilter.toLowerCase());
+    : questions.filter(q => (q.difficulty || "medium").toLowerCase() === difficultyFilter.toLowerCase());
 
   // Group by topic
   const groupedQuestions = {};
@@ -119,8 +119,8 @@ export default function PracticeQuestions() {
                         <span className="text-xs text-gray-500 mt-1">{q.is_pyq ? 'PYQ' : 'Practice'} {q.year ? `(${q.year})` : ''}</span>
                       </div>
 
-                      <span className={`difficulty ${q.difficulty.toLowerCase()}`}>
-                        {q.difficulty}
+                      <span className={`difficulty ${(q.difficulty || "medium").toLowerCase()}`}>
+                        {q.difficulty || "Medium"}
                       </span>
 
                       <button className="circle-arrow">
