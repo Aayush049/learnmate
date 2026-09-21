@@ -25,12 +25,7 @@ import AITutor from './collab/components/learn/AITutor';
 import CollabMockTest from './collab/components/test/MockTest';
 import Progress from './collab/pages/Progress';
 import Performance from './collab/pages/Performance';
-import Calendar from './collab/pages/Calendar';
-import Goals from './collab/pages/Goals';
-import Notes from './collab/pages/Notes';
 import Bookmarks from './collab/pages/Bookmarks';
-import Flashcards from './collab/pages/Flashcards';
-import DoubtSolver from './collab/pages/DoubtSolver';
 import SettingsPage from './collab/components/settings/SettingsPage';
 
 function App() {
@@ -75,13 +70,7 @@ function App() {
 
               <Route path="/track/progress" element={<Progress />} />
               <Route path="/track/performance" element={<Performance />} />
-              <Route path="/track/calendar" element={<Calendar />} />
-              <Route path="/track/goals" element={<Goals />} />
-
-              <Route path="/resources/notes" element={<Notes />} />
               <Route path="/resources/bookmarks" element={<Bookmarks />} />
-              <Route path="/resources/flashcards" element={<Flashcards />} />
-              <Route path="/resources/doubt-solver" element={<DoubtSolver />} />
 
               <Route path="/settings/profile" element={<SettingsPage section="profile" />} />
               <Route path="/settings/preferences" element={<SettingsPage section="preferences" />} />

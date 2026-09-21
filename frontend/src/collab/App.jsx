@@ -9,12 +9,7 @@ import AITutor from "./components/learn/AITutor";
 import MockTest from "./components/test/MockTest";
 import Progress from "./pages/Progress";
 import Performance from "./pages/Performance";
-import Calendar from "./pages/Calendar";
-import Goals from "./pages/Goals";
-import Notes from "./pages/Notes";
 import Bookmarks from "./pages/Bookmarks";
-import Flashcards from "./pages/Flashcards";
-import DoubtSolver from "./pages/DoubtSolver";
 import SettingsPage from "./components/settings/SettingsPage";
 
 export default function App() {
@@ -32,13 +27,7 @@ export default function App() {
 
         <Route path="/track/progress" element={<Progress />} />
         <Route path="/track/performance" element={<Performance />} />
-        <Route path="/track/calendar" element={<Calendar />} />
-        <Route path="/track/goals" element={<Goals />} />
-
-        <Route path="/resources/notes" element={<Notes />} />
         <Route path="/resources/bookmarks" element={<Bookmarks />} />
-        <Route path="/resources/flashcards" element={<Flashcards />} />
-        <Route path="/resources/doubt-solver" element={<DoubtSolver />} />
 
         <Route path="/settings/profile" element={<SettingsPage section="profile" />} />
         <Route path="/settings/preferences" element={<SettingsPage section="preferences" />} />
