@@ -1,14 +1,66 @@
 from fastapi import APIRouter, Depends, HTTPException, Query, status
-from sqlalchemy.orm import Session
+from sqlalchemy.orm import Session, joinedload, selectinload
+from sqlalchemy import func
 from typing import List, Optional
 import random
 
 from app import schemas, models
 from app.database import get_db
-from app.auth import get_current_admin_user
+from app.auth import get_current_admin_user, get_current_user_optional
+from app.models.attempt import QuestionAttempt
 
 
 router = APIRouter()
+
+@router.get("/pyq-meta")
+def get_pyq_metadata(
+    subject_id: Optional[int] = None,
+    topic_id: Optional[int] = None,
+    db: Session = Depends(get_db)
+):
+    """
+    Get distinct years, shifts, and paper groupings for all authentic PYQs.
+    Provides metadata for the PYQ filter frontend.
+    """
+    query = db.query(
+        models.Question.year,
+        models.Question.shift,
+        func.count(models.Question.id).label("question_count")
+    ).filter(models.Question.is_pyq == True)
+
+    if topic_id:
+        query = query.filter(models.Question.topic_id == topic_id)
+    elif subject_id:
+        from app.models.chapter import Chapter
+        from app.models.topic import Topic
+
+        chapter_ids = [c.id for c in db.query(Chapter.id).filter(Chapter.subject_id == subject_id).all()]
+        topic_ids = [t.id for t in db.query(Topic.id).filter(Topic.chapter_id.in_(chapter_ids if chapter_ids else [-1])).all()]
+        query = query.filter(models.Question.topic_id.in_(topic_ids if topic_ids else [-1]))
+
+    results = query.group_by(models.Question.year, models.Question.shift).all()
+
+    papers = []
+    years = set()
+    shifts = set()
+
+    for r in results:
+        if r.year:
+            years.add(r.year)
+        if r.shift:
+            shifts.add(r.shift)
+
+        papers.append({
+            "year": r.year,
+            "shift": r.shift,
+            "count": r.question_count
+        })
+
+    return {
+        "years": sorted(list(years), reverse=True),
+        "shifts": sorted(list(shifts)),
+        "papers": sorted(papers, key=lambda x: (x["year"] or 0, x["shift"] or ""), reverse=True)
+    }
 
 @router.get("/", response_model=List[schemas.QuestionWithOptions])
 def get_questions(
@@ -18,15 +70,24 @@ def get_questions(
     branch_id: Optional[int] = None,
     difficulty: Optional[str] = None,
     is_pyq: Optional[bool] = None,
-    limit: int = Query(10, ge=1, le=100),
+    year: Optional[int] = None,
+    shift: Optional[str] = None,
+    limit: int = Query(10, ge=1, le=10000),
     shuffle: bool = False,
     db: Session = Depends(get_db)
 ):
     """
     Get questions with options (without revealing correct answers).
-    Supports filtering by topic, chapter, subject, branch, difficulty, pyq status.
+    Supports filtering by topic, chapter, subject, branch, difficulty, pyq status, year, shift.
     """
-    query = db.query(models.Question)
+    # Eagerly load options, topic → chapter → subject in two SQL statements
+    # (selectinload for options avoids N+1; joinedload for topic chain is one JOIN)
+    query = db.query(models.Question).options(
+        selectinload(models.Question.options),
+        joinedload(models.Question.topic)
+            .joinedload(models.Topic.chapter)
+            .joinedload(models.Chapter.subject)
+    )
 
     if topic_id:
         query = query.filter(models.Question.topic_id == topic_id)
@@ -49,6 +110,12 @@ def get_questions(
     if is_pyq is not None:
         query = query.filter(models.Question.is_pyq == is_pyq)
 
+    if year:
+        query = query.filter(models.Question.year == year)
+
+    if shift:
+        query = query.filter(models.Question.shift == shift)
+
     if shuffle:
         questions = query.all()
         random.shuffle(questions)
@@ -56,12 +123,8 @@ def get_questions(
     else:
         questions = query.limit(limit).all()
 
-    result = []
-    for q in questions:
-        options = db.query(models.QuestionOption).filter(
-            models.QuestionOption.question_id == q.id
-        ).all()
-        result.append(schemas.QuestionWithOptions(
+    return [
+        schemas.QuestionWithOptions(
             id=q.id,
             topic_id=q.topic_id,
             question_text=q.question_text,
@@ -71,14 +134,23 @@ def get_questions(
             year=q.year,
             shift=q.shift,
             source=q.source,
-            options=[schemas.QuestionOptionResponse(
-                id=opt.id,
-                option_text=opt.option_text,
-                option_label=opt.option_label
-            ) for opt in options]
-        ))
-
-    return result
+            topic_name=q.topic.name if q.topic else None,
+            subject_name=(
+                q.topic.chapter.subject.name
+                if q.topic and q.topic.chapter and q.topic.chapter.subject
+                else None
+            ),
+            options=[
+                schemas.QuestionOptionResponse(
+                    id=opt.id,
+                    option_text=opt.option_text,
+                    option_label=opt.option_label,
+                )
+                for opt in q.options
+            ],
+        )
+        for q in questions
+    ]
 
 @router.get("/{question_id}", response_model=schemas.QuestionDetail)
 def get_question_detail(
@@ -108,6 +180,8 @@ def get_question_detail(
         year=question.year,
         shift=question.shift,
         source=question.source,
+        topic_name=question.topic.name if question.topic else None,
+        subject_name=question.topic.chapter.subject.name if question.topic and question.topic.chapter and question.topic.chapter.subject else None,
         options=[schemas.QuestionOptionResponse(
             id=opt.id,
             option_text=opt.option_text,
@@ -120,10 +194,12 @@ def get_question_detail(
 @router.post("/submit", response_model=schemas.AnswerResult)
 def submit_answer(
     answer: schemas.AnswerSubmission,
-    db: Session = Depends(get_db)
+    db: Session = Depends(get_db),
+    current_user: Optional[models.User] = Depends(get_current_user_optional)
 ):
     """
     Submit an answer for a question and get the result.
+    If authenticated, marks the attempt in the database.
     """
     question = db.query(models.Question).filter(models.Question.id == answer.question_id).first()
     if not question:
@@ -138,6 +214,17 @@ def submit_answer(
         raise HTTPException(status_code=500, detail="Question has no correct answer configured")
 
     is_correct = answer.selected_option == correct_option_obj.option_label
+
+    if current_user:
+        attempt = QuestionAttempt(
+            user_id=current_user.id,
+            question_id=question.id,
+            selected_option=answer.selected_option,
+            is_correct=is_correct,
+            time_taken_seconds=answer.time_taken_seconds or 15
+        )
+        db.add(attempt)
+        db.commit()
 
     return schemas.AnswerResult(
         question_id=question.id,
