@@ -1,21 +1,23 @@
 from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
+from sqlalchemy.pool import NullPool
 from app.config import settings
 
 connect_args = {}
 # Enforce SSL for external cloud databases
-if "localhost" not in settings.DATABASE_URL and "127.0.0.1" not in settings.DATABASE_URL:
+is_cloud_db = ("localhost" not in settings.DATABASE_URL and "127.0.0.1" not in settings.DATABASE_URL)
+if is_cloud_db:
     connect_args["sslmode"] = "require"
 
 # Create database engine
+# For cloud databases on free tiers (like Supabase), we use NullPool
+# to aggressively close connections instead of pooling and exhausting the 15-conn limit
 engine = create_engine(
     settings.DATABASE_URL,
     pool_pre_ping=True,
     echo=settings.DB_ECHO,
-    pool_size=3,          # Limit pool size for free tier databases
-    max_overflow=2,       # Max pool size = 5, avoids EMAXCONNSESSION
-    pool_timeout=30,      # Give up after 30 seconds of waiting
+    poolclass=NullPool if is_cloud_db else None,
     connect_args=connect_args
 )
 
