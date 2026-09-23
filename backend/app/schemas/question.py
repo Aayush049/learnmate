@@ -34,6 +34,8 @@ class QuestionBase(BaseModel):
     year: Optional[int] = None
     shift: Optional[str] = None
     source: Optional[str] = None
+    topic_name: Optional[str] = None
+    subject_name: Optional[str] = None
     explanation: Optional[str] = None
 
 class QuestionCreate(QuestionBase):
@@ -55,6 +57,8 @@ class QuestionResponse(BaseModel):
     year: Optional[int] = None
     shift: Optional[str] = None
     source: Optional[str] = None
+    topic_name: Optional[str] = None
+    subject_name: Optional[str] = None
 
     class Config:
         from_attributes = True
@@ -69,6 +73,8 @@ class QuestionWithOptions(BaseModel):
     year: Optional[int] = None
     shift: Optional[str] = None
     source: Optional[str] = None
+    topic_name: Optional[str] = None
+    subject_name: Optional[str] = None
     options: List[QuestionOptionResponse]
 
 class QuestionDetail(QuestionWithOptions):

@@ -21,6 +21,7 @@ import MyTextbook from './collab/components/learn/MyTextbook';
 import Topics from './collab/components/learn/Topics';
 import TopicContent from './collab/components/learn/TopicContent';
 import PracticeQuestions from './collab/components/learn/PracticeQuestions';
+import PYQLanding from './collab/components/pyq/PYQLanding';
 import AITutor from './collab/components/learn/AITutor';
 import CollabMockTest from './collab/components/test/MockTest';
 import Progress from './collab/pages/Progress';
@@ -65,6 +66,7 @@ function App() {
               <Route path="/learn/topics" element={<Topics />} />
               <Route path="/learn/topic/:id" element={<TopicContent />} />
               <Route path="/learn/practice" element={<PracticeQuestions />} />
+              <Route path="/learn/pyqs" element={<PYQLanding />} />
               <Route path="/learn/ai-tutor" element={<AITutor />} />
               <Route path="/test/mock" element={<CollabMockTest />} />
 

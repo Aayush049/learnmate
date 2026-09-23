@@ -90,7 +90,7 @@ export default function TopicContent() {
               </ul>
 
               <div className="mt-8 pt-6 border-t border-gray-100">
-                <button className="primary-button flex items-center gap-2" onClick={() => navigate(`/practice?topic_id=${topic.id}`)}>
+                <button className="primary-button flex items-center gap-2" onClick={() => navigate(`/learn/practice?topic_id=${topic.id}`)}>
                   <PlayCircle size={16} /> Start Topic Practice
                 </button>
               </div>
@@ -113,7 +113,7 @@ export default function TopicContent() {
                         {q.source && <span className="text-xs text-gray-500 bg-gray-50 px-2 py-0.5 rounded">{q.source}</span>}
                       </div>
                       <p className="text-gray-900 font-medium mb-3">{q.question_text}</p>
-                      <button className="text-sm font-semibold text-blue-600 hover:text-blue-800" onClick={() => navigate(`/practice?topic_id=${topic.id}`)}>
+                      <button className="text-sm font-semibold text-blue-600 hover:text-blue-800" onClick={() => navigate(`/learn/practice?topic_id=${topic.id}`)}>
                         Solve in Practice Mode →
                       </button>
                     </div>
@@ -135,7 +135,7 @@ export default function TopicContent() {
 
         <div className="content-actions mt-8 pt-4 border-t border-gray-100 flex justify-between">
           <button className="secondary-button" onClick={() => navigate(-1)}>← Back</button>
-          <button className="primary-button" onClick={() => navigate(`/practice?topic_id=${topic.id}`)}>Start Practice →</button>
+          <button className="primary-button" onClick={() => navigate(`/learn/practice?topic_id=${topic.id}`)}>Start Practice →</button>
         </div>
       </section>
     </div>

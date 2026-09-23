@@ -109,3 +109,18 @@ def get_current_admin_user(
             detail="The user doesn't have enough privileges"
         )
     return current_user
+
+def get_current_user_optional(
+    token: Optional[str] = Depends(OAuth2PasswordBearer(tokenUrl="/api/v1/auth/login", auto_error=False)),
+    db: Session = Depends(get_db),
+) -> Optional[User]:
+    if not token:
+        return None
+    try:
+        payload = jwt.decode(token, settings.SECRET_KEY, algorithms=[settings.ALGORITHM])
+        email: Optional[str] = payload.get("sub")
+        if email is None:
+            return None
+        return db.query(User).filter(User.email == email).first()
+    except JWTError:
+        return None

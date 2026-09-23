@@ -1,0 +1,13 @@
+backend/
+pdfdata/
+extracted_data/
+contents/
+node_modules/
+temp_pdf_images/
+docs/
+notebooks/
+*.db
+*.sqlite3
+venv/
+.env*
+!.env.production

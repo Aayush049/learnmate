@@ -34,10 +34,10 @@ def get_dashboard_stats(
     
     # Calculate streak appropriately (count unique days with attempts)
     from sqlalchemy import func, cast, Date
-    unique_days = db.query(cast(QuestionAttempt.created_at, Date))        .filter(QuestionAttempt.user_id == current_user.id)        .distinct().count()
-        
+    unique_days = db.query(cast(QuestionAttempt.attempted_at, Date))        .filter(QuestionAttempt.user_id == current_user.id)        .distinct().count()
+
     # Also add mock test days
-    mock_days = db.query(cast(MockTestAttempt.created_at, Date))        .filter(MockTestAttempt.user_id == current_user.id)        .distinct().count()
+    mock_days = db.query(cast(MockTestAttempt.started_at, Date))        .filter(MockTestAttempt.user_id == current_user.id)        .distinct().count()
         
     streak = max(unique_days, mock_days)
     
@@ -69,12 +69,12 @@ def get_weekly_activity(
         # or mock test attempts take their time
         mock_time = db.query(func.sum(MockTestAttempt.total_time_seconds)).filter(
             MockTestAttempt.user_id == current_user.id,
-            cast(MockTestAttempt.created_at, Date) == day
+            cast(MockTestAttempt.started_at, Date) == day
         ).scalar() or 0
-        
+
         q_count = db.query(func.count(QuestionAttempt.id)).filter(
             QuestionAttempt.user_id == current_user.id,
-            cast(QuestionAttempt.created_at, Date) == day
+            cast(QuestionAttempt.attempted_at, Date) == day
         ).scalar() or 0
         
         # approximate 2 min per q attempt if not in test

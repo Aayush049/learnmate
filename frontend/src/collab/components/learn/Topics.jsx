@@ -31,7 +31,12 @@ export default function Topics() {
         data.forEach(subject => {
           subject.chapters?.forEach(chapter => {
             chapter.topics?.forEach(topic => {
-              const normalizedName = topic.name.trim().toLowerCase();
+              let normalizedName = topic.name.trim().toLowerCase();
+              if (normalizedName.endsWith(" concepts")) {
+                normalizedName = normalizedName.replace(" concepts", "").trim();
+              }
+              // Also handle ampersands like python normalize function
+              normalizedName = normalizedName.replace(/&/g, "and").replace(/[^a-z0-9]/g, "");
               topicsMap[normalizedName] = topic.id;
             });
           });
@@ -54,7 +59,9 @@ export default function Topics() {
   }, []);
 
   const getTopicProgressData = (topicTitle) => {
-    const normName = topicTitle.trim().toLowerCase();
+    let normName = topicTitle.trim().toLowerCase();
+    normName = normName.replace(/&/g, "and").replace(/[^a-z0-9]/g, "");
+
     const tId = backendTopics[normName];
     if (!tId) return { id: null, state: "Not Started", value: 0 };
 
@@ -246,7 +253,7 @@ export default function Topics() {
                       onClick={() => navigate(`/learn/topic/${topic.backendId}`)}
                       className="flex items-center gap-1 text-sm font-bold text-blue-600 hover:text-blue-800 transition-colors group"
                     >
-                      Open <ChevronRight size={16} className="transform group-hover:translate-x-1 transition-transform" />
+                      Practice Questions <ChevronRight size={16} className="transform group-hover:translate-x-1 transition-transform" />
                     </button>
                   ) : (
                     <span className="text-xs font-semibold text-gray-400 bg-gray-50 px-2 py-1 rounded">Coming Soon</span>

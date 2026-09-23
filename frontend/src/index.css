@@ -1480,6 +1480,18 @@ button {
   border-color: #86efac;
 }
 
+.palette-number.correct {
+  background: #dcfce7;
+  border-color: #4ade80;
+  color: #166534;
+}
+
+.palette-number.wrong {
+  background: #fee2e2;
+  border-color: #f87171;
+  color: #991b1b;
+}
+
 .palette-legend {
   display: grid;
   gap: 8px;
