@@ -102,14 +102,18 @@ export const questionsAPI = {
     shifts: string[];
     papers: { year: number; shift: string; count: number }[];
   }> {
-    const response = await apiClient.get('/questions/pyq-meta', { params });
+    const response = await apiClient.get<{
+      years: number[];
+      shifts: string[];
+      papers: { year: number; shift: string; count: number }[];
+    }>('/questions/pyq-meta', { params });
     return response.data;
   },
 
   // Lightweight navigator index for a single PYQ paper.
   // Does NOT return question_text/options/explanations.
   async getPYQIndex(params: { year: number | null; shift: string | null }): Promise<PyqIndexItem[]> {
-    const response = await apiClient.get('/questions/pyq-index', {
+    const response = await apiClient.get<PyqIndexItem[]>('/questions/pyq-index', {
       params: { is_pyq: true, year: params.year, shift: params.shift },
     });
     return response.data;
