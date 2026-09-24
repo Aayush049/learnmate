@@ -88,7 +88,7 @@ def run():
                     is_pyq=True,
                     year=year_val,
                     shift=str(shift_val),
-                    source=q.get("exam") or q.get("source") or "Civil_AE_2024",
+                    source=str(q.get("exam") or q.get("source") or "Civil_AE_2024")[:199],
                     explanation=q.get('explanation', '')
                 )
                 db.add(new_q)
