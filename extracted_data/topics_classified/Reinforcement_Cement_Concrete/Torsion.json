@@ -1,0 +1,446 @@
+[
+    {
+        "question_id": 0,
+        "question_text": "5 mm measured from bottom of mould from start of adding of water to cement. 388, The constituent of cement that is responsible for all the undesirable property of cement due to its strong reactive nature of the Portland Clinker phases is ;",
+        "options": {
+            "A": "Tri-calciwm silicate",
+            "B": "Di-calcium silicate",
+            "C": "Tetra-calcium alumino ferrite",
+            "D": "_ Tri-calcium aluminate SIVNL ET"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Torsion",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 60,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_0"
+    },
+    {
+        "question_id": 537,
+        "question_text": "Durability of construction material is",
+        "options": {
+            "A": "Resistance to crushing",
+            "B": "Resistance to weathering",
+            "C": "Shear strength",
+            "D": "Compressive strength"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "Maharashtra PSC Paper-I 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Torsion",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 75,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_537"
+    },
+    {
+        "question_id": 658,
+        "question_text": "Which of the following is NOT an effect of Fly Ash on cement conercte?",
+        "options": {
+            "A": "Reduces permeability of concrete",
+            "B": "Increases the heat of hydration of concrete",
+            "C": "Reduces the amount of air entrainment",
+            "D": "Slightly improves resistance to sulphate attack, SJVNL ET"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Torsion",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 89,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_658"
+    },
+    {
+        "question_id": 0,
+        "question_text": "78-0.41 214, Dry unit weight is:",
+        "options": {
+            "A": "The weight of solids to the volume of solids",
+            "B": "The weight of solids per unit total volume",
+            "C": "The total weight per unit total volume",
+            "D": "The saturated weight of solids per unit total volume"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "IRCON AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Torsion",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 140,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_0"
+    },
+    {
+        "question_id": 0,
+        "question_text": "075 mm, sieve = 60%, liquid limit = 65% and plastic limit = 40%,",
+        "options": {
+            "A": "20",
+            "B": "None of the given options",
+            "C": "5",
+            "D": "40"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "DMRC AM 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Torsion",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 160,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_0"
+    },
+    {
+        "question_id": 0,
+        "question_text": "09 3 [ 200 ) 309, A tube of aluminium of 40 mm external diameter and 20 mm internal diameter is snugly fitted on a solid stccl rod of 20 mm diameter. The composite bar is subjected to an axial compressive forec P. If the stress on steel bar is 70 N/mm/, the stress in the aluminium tube and corresponding value of P will be: (E for steel: 2 x 10° N/mm’ and E for aluminium 7 x 10* N/mm’)",
+        "options": {
+            "A": "24.5 N/mm’, 45.08 kN",
+            "B": "36.5 N/mm’, 60,10 kN",
+            "C": "54.5 Nimm”, 73.10 kN",
+            "D": "73.80 N/mm’, 92.60 kN"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ISRO Scientist/Engineer 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Torsion",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 432,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_0"
+    },
+    {
+        "question_id": 0,
+        "question_text": "2111. 356, A cantilever beam is the one which is supported with",
+        "options": {
+            "A": "both ends on rollers",
+            "B": "one end fixed and the other free",
+            "C": "one end hinge and other on rollers",
+            "D": "one end fixed and the other on rollers GWSSB AAE"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Torsion",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 438,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_0"
+    },
+    {
+        "question_id": 447,
+        "question_text": "For the fixed beam shown in figure, the point of contraflexure nearer to end A is at a distance of : wim A fproctionenconns, --- ----§",
+        "options": {
+            "A": "0.112 L from end A",
+            "B": "0.212 L from end A",
+            "C": "0.412 L from end A",
+            "D": "0.500 L from end A"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPSC Stute Eng. AE, 2008, Ans ; (b) x wim Ce ee ees wl iL wl 2 x 2 Al any section al a distance x from the left end A the BM is given by x 2 M, Rx _ Wwe 2 12 wi, * 2 2 12 for points of contraflexure, Mx. =0 wl wx? wl -x----- -0 2 2 12 L Ix-x?-==0 6 => x?-Lx ro =0 6 4 x, = ons 0.212 L from end A 2 W3 My at te, = 0.788 L from cnd A 2 Ww we m4 12 H i 12 + x =0.788L-_# x=? 2b",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Torsion",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 455,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_447"
+    },
+    {
+        "question_id": 537,
+        "question_text": "The Castigliano's 2\" theorem can be used to compute deflections",
+        "options": {
+            "A": "in statically determinate structures only",
+            "B": "for any type of structure only",
+            "C": "at the point under the load only",
+            "D": "for beam and frames only"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Haryana PSC AE 2018 Paper-I BPSC AE 2019 Paper (V) Section-T GPSC AE June 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Torsion",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 747,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_537"
+    },
+    {
+        "question_id": 0,
+        "question_text": "9 DL +1.5 EL 600, Consider the following two statements: Statement I: In a statically determinate structure, influence line diagrams for internal forces are always composed of straight line segments, Statement 1: Mullcr-Breslau's principle is not applicable for statically indcterminate structures, Which of the following is CORRECT?",
+        "options": {
+            "A": "Statement I is true, but Statement II is false",
+            "B": "Both Statement I and Statement II are true",
+            "C": "Both Statement I and Statement II are false",
+            "D": "Statement | is false, but Statement I is true"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPCL AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Torsion",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 758,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_0"
+    },
+    {
+        "question_id": 0,
+        "question_text": "36 x 20x 300 314, A reinforced cement concrete beam section has a size of 300 mm width and 400 mm effective depth, the grade of conercte uscd is M20 and grade of steel is Fe 415. If the ultimate bending moment of 150 kN-m acts at the section, the beam has to be designed as :",
+        "options": {
+            "A": "Singly reinforced beam",
+            "B": "Doubly reinforced beam.",
+            "C": "Beam cannot be designed",
+            "D": "Balanced beam Karnataka"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PSC AE 2017 Paper - II",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Torsion",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 797,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_0"
+    },
+    {
+        "question_id": 447,
+        "question_text": "Torsion resisting capacity of a Reinforced Concrete section",
+        "options": {
+            "A": "Decreases with increase in stirrups spacing",
+            "B": "Decreases with increase in longitudinal bars",
+            "C": "Does not depend upon stirrup and longitudinal steel",
+            "D": "Increases with the increase in stirrup and longitudinal stccl"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019 ESE 1995 Ans ; (d) ; Torsion resisting capacity increases more by shear reinforcement & longitudinal reinforcement.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Torsion",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 814,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_447"
+    },
+    {
+        "question_id": 537,
+        "question_text": "The torsional longitudinal reinforcement in RCC beams should be placed at:",
+        "options": {
+            "A": "Lach corner of the beam",
+            "B": "Middle of cach face",
+            "C": "Middle of the beam",
+            "D": "Core of the beam [UPPSC State Eng. A.E."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2007(D] UPPSC State Eng. A.E, 2003, Ans ; (a) Torsional longitudinal reinforcement shall be placed as close as is practicable to the corners of the cross-scction and in all cases, these shall be at Icast one longitudinal bar in each corner of the ties. When the cross-sectional dimension of the member exceeds 450 mm, additional longitudinal bars shall be provided to satisfy the requirements of minimum reinforcement and spacing.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Torsion",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 825,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_537"
+    },
+    {
+        "question_id": 0,
+        "question_text": "04 bD. 539, ARC beam curved in plan is designed for",
+        "options": {
+            "A": "bending moment and shcar",
+            "B": "bending moment and torsion",
+            "C": "shear and torsion",
+            "D": "bending moment, shear and torsion"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "UPPSC State Eng, A.E, 2003, 2004(1)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Torsion",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 825,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_0"
+    },
+    {
+        "question_id": 658,
+        "question_text": "Torsion resisting capacity of a given reinforced concrete section",
+        "options": {
+            "A": "Effective depth of the beam",
+            "B": "Width of the beam",
+            "C": "Total depth of the beam",
+            "D": "Lever arm of the resisting moment"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "WBPSC AE (MCD) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Torsion",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 840,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_658"
+    },
+    {
+        "question_id": 447,
+        "question_text": "The most efficient steel section for a beam is",
+        "options": {
+            "A": "Channel section",
+            "B": "Rectangular section",
+            "C": "Angle section",
+            "D": "[section"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "TNPSC AE 2019 UPPCL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Torsion",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 985,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_447"
+    },
+    {
+        "question_id": 0,
+        "question_text": "15% to 0.30%. Mild steel is rolled in parts due Lo ils ductile nature. The yield strength of mild steel of normally rolled structural steel is about 240 to 260 Nimm?. 98 480, Intermediate vertical stiffeners are provided in plate girders to",
+        "options": {
+            "A": "climinate the web bucking",
+            "B": "_ eliminate the local bucking",
+            "C": "transfer the vertical loads",
+            "D": "prevent the excessive deflection (IPSC Combined"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "AE Paper V 2013) [UPPSC State Eng, A.E, 2007] /UPPSC State Eng. A.E. 2008] [UPPSC AE 12.04.2016 Paper-I] ESE 1995",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Torsion",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 988,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination"
+        ],
+        "global_id": "Civil_AE_1_complete.json_0"
+    }
+]

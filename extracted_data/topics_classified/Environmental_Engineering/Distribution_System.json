@@ -1,0 +1,929 @@
+[
+    {
+        "question_id": 666,
+        "question_text": "In the tacheometry, if inclined sight @ is taken on a staff held normal to the sight, horizontal distance is",
+        "options": {
+            "A": "(kS 1} C) cosO} rsin 0",
+            "B": "(kS + C) sin 8",
+            "C": "(kS + C) cos 0 sin 6 +r sin? 0",
+            "D": "(kS + C) tan 8"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 108,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_666"
+    },
+    {
+        "question_id": 673,
+        "question_text": "One degree (1°) is equal to ' Tu 7 Tt :",
+        "options": {
+            "A": "Lincar measurement",
+            "B": "Angular measurement",
+            "C": "Linear and angular measurement",
+            "D": "None of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PTCUL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 109,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_673"
+    },
+    {
+        "question_id": 679,
+        "question_text": "Which of the following principles states that if there exists any errors in a certain part, it gets doubled by reversing the position of that part ic. revolving through 180° ?",
+        "options": {
+            "A": "Principle of complementary angle",
+            "B": "Principle of conjugate angle",
+            "C": "Principle of sensitiveness",
+            "D": "Principle of reversal"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "UPPCL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 110,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_679"
+    },
+    {
+        "question_id": 683,
+        "question_text": "The joining of intersection of cross hairs to the optical ecntcr of objective in a thcodolite is called as",
+        "options": {
+            "A": "Parallax",
+            "B": "Line of collimation",
+            "C": "Azimuth",
+            "D": "Line of sight"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 110,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_683"
+    },
+    {
+        "question_id": 702,
+        "question_text": "The sensitiveness of bubble tube in a level would decrease if :",
+        "options": {
+            "A": "the radius of curvature of the internal surface of the tube is increased",
+            "B": "the diameter ofthe tube is increased",
+            "C": "the length of the vapour bubble is increased",
+            "D": "the viscosity of the liquid is increased"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE March 2018 GPSC AE Class (1&2) Paper - 2 2017 Karnataka PSC AE 2015 Paper - II ESE 2001",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 112,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_702"
+    },
+    {
+        "question_id": 717,
+        "question_text": "A-vernicr thcodolite consists of",
+        "options": {
+            "A": "Levelling - head assembly",
+            "B": "Horozontal - circle assembly",
+            "C": "Alidade assembly",
+            "D": "All of these"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "RPSC POLY. TECH. LECT. 2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 114,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_717"
+    },
+    {
+        "question_id": 748,
+        "question_text": "Mean sea level MSL is established after analyzing the tidal fluctuations over a period of:",
+        "options": {
+            "A": "reading right and lef faces",
+            "B": "reading different parts of main scale",
+            "C": "taking both right and left swings reading",
+            "D": "reading both vernier"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "JUVNL AE 2016 ESE 2010",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 118,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_748"
+    },
+    {
+        "question_id": 272,
+        "question_text": "The centre of buoyancy of a submerged body-",
+        "options": {
+            "A": "Coincides with the centre of gravity of the body",
+            "B": "Coincides with the centroid of the displaced volume of the fluid",
+            "C": "Is always below the centre of gravity of the body",
+            "D": "Is always above the centroid of the displaced volume of the liquid"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "MPSC-2017 (ID Mains CGPSC AE Shift - 2 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 199,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_272"
+    },
+    {
+        "question_id": 673,
+        "question_text": "The closure of water valve is considered rapid when",
+        "options": {
+            "A": "proportional to head (H)",
+            "B": "inversely proportional to angle 0",
+            "C": "inversely proportional to tan 6/2",
+            "D": "proportional to H’*"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "RPSC AEn. 2013, Ans ; (d) A notch is a device for measuring the rate of| flow ofa liquid through a small channel or a tank. free surface ee eee Gabe aa, fh H| CZ4ZZ ie VE in O Discharge over triangular notch (V - notch) 8 8 5/2 Discharge, =-Cp tan-,/(2g).H°'* 8 (Q) 15 > 7 g) Where, Cp - coefficient of discharge (= 0.52)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 258,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_673"
+    },
+    {
+        "question_id": 683,
+        "question_text": "The line that gives the sum of pressure head, datum head and kinctic head of a flowing fluid in a pipe with respect to some reference line is called :",
+        "options": {
+            "A": "Total energy line",
+            "B": "Hydraulic gradient line",
+            "C": "Total head line",
+            "D": "Pressure line"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "LMRC AM 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 260,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_683"
+    },
+    {
+        "question_id": 685,
+        "question_text": "The total energy line is always higher than the hydraulic grade line, and the vertical distance between the two represents",
+        "options": {
+            "A": "the datum head",
+            "B": "the pressure head",
+            "C": "the velocity head",
+            "D": "_ the piezometric head"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "APPSC AEE (Civil/Mechanical) 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 260,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_685"
+    },
+    {
+        "question_id": 705,
+        "question_text": "Prandlt’s Pitot tube measures",
+        "options": {
+            "A": "Stagnation head only",
+            "B": "Pressure head only",
+            "C": "Velocity head and Stagnation head",
+            "D": "Pressure head and Stagnation head"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AEE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 263,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_705"
+    },
+    {
+        "question_id": 708,
+        "question_text": "The velocity of the liquid flowing through the divergent portion of a venturimeter",
+        "options": {
+            "A": "remains constant",
+            "B": "increases",
+            "C": "decreases",
+            "D": "depends upon mass of liquid"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "TNPSC AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 263,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_708"
+    },
+    {
+        "question_id": 710,
+        "question_text": "At critical pressure ratio, the velocity at the throat of a nozzle is",
+        "options": {
+            "A": "equal to the sonic speed",
+            "B": "less than the sonic speed",
+            "C": "more than the sonic speed",
+            "D": "cqual to the subsonic speed Arunachal Pradesh Poly. Tech. Lect."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2019 0 YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 263,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_710"
+    },
+    {
+        "question_id": 736,
+        "question_text": "A stagnation point is a point where",
+        "options": {
+            "A": "pressure is zero",
+            "B": "total energy is zero",
+            "C": "total energy is maximum",
+            "D": "velocity of flow reduces to zero"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AEE MAINS 2016 APPSC AEE (Civil/Mcchanical) 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 267,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_736"
+    },
+    {
+        "question_id": 272,
+        "question_text": "The freeboard in a canal is governed hy :",
+        "options": {
+            "A": "size of the canal",
+            "B": "location of the canal",
+            "C": "water surface fluctuations",
+            "D": "all of the above"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "UKPSC AE (Paper-I) 2007",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 447,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_272"
+    },
+    {
+        "question_id": 286,
+        "question_text": "On which of the canal system, R.G, Kennedy, executive engineer in the Punjab irrigation proposing his theory on stable channcls",
+        "options": {
+            "A": "Krishna Western Delta Canals",
+            "B": "Lower Bari Doab Canals",
+            "C": "Lower Chenab Canals",
+            "D": "Upper Bari Doab Canals"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "RPSC POLY. TECH. LECT. 2014 upper Bari Doab canal system, one of the oldest in punjab for carrying out investigations about velocity and depth of channel.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 448,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_286"
+    },
+    {
+        "question_id": 685,
+        "question_text": "The ‘useful storage’ in a dam reservoir is the volume of water stored hetween",
+        "options": {
+            "A": "Normal and maximum reservoir levels",
+            "B": "Minimum and normal reservoir levels",
+            "C": "Minimum and maximum reservoir levels",
+            "D": "Up to normal reservoir level including dead storage [RPSC VPITI -"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2012] Ans ; (b) The useful storage in a dam reservoir is the volume of water storage between minimum and normal reservoir levels.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 501,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_685"
+    },
+    {
+        "question_id": 702,
+        "question_text": "Incase of gravity dam subjected to earthquake, the hydrodynamic pressure variation curve is generally taken to be",
+        "options": {
+            "A": "Elliptical",
+            "B": "Parabolic",
+            "C": "Triangular",
+            "D": "Elliptical cum parabolic [UPPSC State Eng. A.E."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2011] [UPPSC State Eng. A.E. 2007(1)] UPPSC AE 12.04,2016 Paper-II 0 YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 503,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_702"
+    },
+    {
+        "question_id": 703,
+        "question_text": "According to Casagrande's method of determining phreatic line in an Earthern Dam with horizontal filter, the starting point of top parabola is located at",
+        "options": {
+            "A": "0.5L away from cutting edge",
+            "B": "0.3L away from cutting cdge",
+            "C": "0.2L away from cutting edge",
+            "D": "0.1L away from cutting edge where I. is the horizontal projection of upstream slope, lying helow water surface. [UPPSC State Eng. A.E."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2007(D] Ans ; (b) i al 03 oy r | B py ELLA It is clear from the figure that the starting point of top parabola (i.e phreatic line C is located 0.3L away from the cutting edge). Where L is the horizontal projection of upstream slope laying below water surface.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 504,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_703"
+    },
+    {
+        "question_id": 710,
+        "question_text": "For a rigid module the sensitivity will be cqual to",
+        "options": {
+            "A": "Zero (b) one",
+            "B": "oy, see”, -(P +P) )tan?-$,",
+            "C": "Oyy See oy +(P -P, tan? -by",
+            "D": "[oy -(P +P, )tan*-4, | (BPSC"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "AE Paper VI 2001)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 505,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_710"
+    },
+    {
+        "question_id": 286,
+        "question_text": "To know the capacity of Elevated Service Reservoir which of the following method is used?",
+        "options": {
+            "A": "Hardy cross method",
+            "B": "Mass curve method",
+            "C": "Volumetric method",
+            "D": "None of the above"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "GPHC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 570,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_286"
+    },
+    {
+        "question_id": 272,
+        "question_text": "Which of the following factor does not contribute to internal corrosion of a water carrying pipe ?",
+        "options": {
+            "A": "Water with low pH",
+            "B": "Walter containing high quantity of calcium bicarbonate",
+            "C": "Ambicnt temperature (20-35 degree C)",
+            "D": "Presence of free chlorine"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "CGPSC AE Shift - 2 2014 AE Civil Engg. Volume-II 6",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 636,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_272"
+    },
+    {
+        "question_id": 666,
+        "question_text": "The method which is most widely used for analyzing and designing the pipes of all types of complex water distribution network is",
+        "options": {
+            "A": "Equivalent pipe method",
+            "B": "Hardy-cross method",
+            "C": "Circle method",
+            "D": "Electric network analyser method"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE 2001",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 680,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_666"
+    },
+    {
+        "question_id": 669,
+        "question_text": "The type of joint generally used in cast iron pipe",
+        "options": {
+            "A": "Flanged joint",
+            "B": "Socket and spigot joint",
+            "C": "Dresser coupling joint",
+            "D": "all the above"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "WBPSC AE (MCD) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 680,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_669"
+    },
+    {
+        "question_id": 673,
+        "question_text": "The four major water supply distribution systems are",
+        "options": {
+            "A": "dead end, trees, grid iron and reticulation",
+            "B": "dead end, trees, grid iron and circular",
+            "C": "trees, grid iron ring and radial",
+            "D": "tree, reticulation, circular and ring"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE (MCD) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 680,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_673"
+    },
+    {
+        "question_id": 679,
+        "question_text": "Ferrule is one of the important appurtenanecs installed in",
+        "options": {
+            "A": "combined sewerage system",
+            "B": "water distribution system",
+            "C": "house drainage system",
+            "D": "storm sewerage system"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "WBPSC AE (PWD) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 681,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_679"
+    },
+    {
+        "question_id": 683,
+        "question_text": "The purpose of providing a balancing reservoir in a water supply distribution system is to",
+        "options": {
+            "A": "Equalize pressure in the distribution system",
+            "B": "Store adequate quantity of water to mect requirement in case of breakdown of inflow",
+            "C": "Store adequate fire fighting reserve",
+            "D": "Take care of fluctuations in the rate of consumption"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017 UPRVUNL AE 2015 ESE 2001",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 681,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_683"
+    },
+    {
+        "question_id": 702,
+        "question_text": "Which one of the following is the purpose of providing surge tank in pipelines carrying water?",
+        "options": {
+            "A": "To store water",
+            "B": "To increase pressure in the pipeline",
+            "C": "To store overflowing water",
+            "D": "To protect the pipeline against watcr hammer"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "MPSC (Mains) 2017 Paper-II ESE 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 683,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_702"
+    },
+    {
+        "question_id": 703,
+        "question_text": "Which of the following pairs is not correctly matched?",
+        "options": {
+            "A": "Dead end system - Hardy-Cross method",
+            "B": "Residual pressure at ferrule point in rural area -Sm",
+            "C": "Distribution reservoir - Central location",
+            "D": "Grid iron system - More number of valve"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "MPSC (Mains) 2017 Paper-II",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 684,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_703"
+    },
+    {
+        "question_id": 705,
+        "question_text": "The type of valve, which is provided on the suction pipe in the tube-well, is :",
+        "options": {
+            "A": "air relief valve",
+            "B": "reflux valve",
+            "C": "pressure relicf valve",
+            "D": "None of these"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "IPSC AE (Pre) 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 684,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_705"
+    },
+    {
+        "question_id": 708,
+        "question_text": "Which of the following is not a method of distribution of water?",
+        "options": {
+            "A": "Gravity system",
+            "B": "Pumping system",
+            "C": "Combined gravity and pumping system",
+            "D": "Pressure system"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "LMRC AM 2018 distribution of water.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 684,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_708"
+    },
+    {
+        "question_id": 717,
+        "question_text": "A goose neck is",
+        "options": {
+            "A": "a bent flexible pipe provided between ferrule and stop-cock",
+            "B": "a T-shaped brass length between water meter and ferrule",
+            "C": "+ . service pipe Goose neck is small curved pipe made of flexible material length about 75 mm.",
+            "D": "a bent rigid pipe between service pipe and water-meter"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 686,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_717"
+    },
+    {
+        "question_id": 736,
+        "question_text": "Drain valves/scour valves in a_ water distribution system are provided at-",
+        "options": {
+            "A": "high-end points",
+            "B": "low-end points",
+            "C": "regular intervals in a pipeline",
+            "D": "All of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "BPSC AE Pre 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 688,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_736"
+    },
+    {
+        "question_id": 748,
+        "question_text": "Scour valves are provided",
+        "options": {
+            "A": "steel (b) RCC",
+            "B": "at every depression and dead ends to drain out the waste water that may collect there",
+            "C": "copper (d) cast iron (IPSC Combined",
+            "D": "at even summit of rising main"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "AE Paper VI 2013,",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Distribution System",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 689,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_748"
+    }
+]

@@ -1,0 +1,183 @@
+[
+    {
+        "question_id": 220,
+        "question_text": "A meridian through a point in which a plane passing that point and north and south poles intersects with surface of the earth is known as:",
+        "options": {
+            "A": "both arbitrary and magnetic meridian",
+            "B": "true meridian",
+            "C": "arbitrary meridian",
+            "D": "magnetic meridian"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "DMRC AM 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Ballast and Track Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 48,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_220"
+    },
+    {
+        "question_id": 41,
+        "question_text": "An ideal flow of a liquid obeys-",
+        "options": {
+            "A": "Continuity equation",
+            "B": "Newton's law of viscosily",
+            "C": "Newton's second law of motion",
+            "D": "Dynamic viscosity law"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ISRO Scientist/Engineer 2020 OPSC AEE 2015 PAPER-IT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Ballast and Track Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 165,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_41"
+    },
+    {
+        "question_id": 220,
+        "question_text": "Power required to drive a centrifugal pump is directly proportional to ;",
+        "options": {
+            "A": "Diameter of its impeller",
+            "B": "Square of diameter of its impeller",
+            "C": "Cube of diameter of its impeller",
+            "D": "Fourth power of diameter of its impeller Nagaland"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "PSC Paper-II 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Ballast and Track Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 400,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_220"
+    },
+    {
+        "question_id": 216,
+        "question_text": "On standard silica, the turbidity should be limited to:",
+        "options": {
+            "A": "non-carbonate hardness",
+            "B": "total hardness",
+            "C": "total hardness-total alkalinity",
+            "D": "total alkalinity"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "UPPSC Civil Eng, AL, 2013)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Ballast and Track Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 629,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_216"
+    },
+    {
+        "question_id": 220,
+        "question_text": "Hardness is caused by",
+        "options": {
+            "A": "all metallic ions",
+            "B": "divalent metallic ions",
+            "C": "sulphates and chlorides",
+            "D": "carbonates and bicarbonates"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPSC State Eng. A.E. 2007(1), 2011 Ans ;(b) © Hardness is determined by concentration of| multivalent metallic cations in solution. ¢ Multivalent metallic cations most abundant in natural ‘water are calcium and magnesium. ¢ Hardness is expressed as CaCO; cquivalent of Ca” and Mg** present in water in mg/Liter.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Ballast and Track Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 630,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_220"
+    },
+    {
+        "question_id": 41,
+        "question_text": "_ Ballast is used in Railway section to serve as: [UPPSC State Eng, A.E, 2004(1)] [UPPSC Civil Eng. A.E. 2013(1)] OR Ballast used to serve the following purpose in railway tracks as",
+        "options": {
+            "A": "an elastic bed",
+            "B": "foundation of rail track",
+            "C": "both (a) and (b)",
+            "D": "protection from animals {UPPSC State Eng, AE."
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2004]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Ballast and Track Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 890,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_41"
+    },
+    {
+        "question_id": 216,
+        "question_text": "Which of the following is true in case of railway track maintenance?",
+        "options": {
+            "A": "Claw bar is used to correct track alignment while crow bar is used to remove dog spikes",
+            "B": "Crow bar is used to correct track alignment while claw bar is used to remove dog spikes",
+            "C": "Only claw bar can be used to correct track alignment and remove dog spikes",
+            "D": "Only crow bar can be used to correct track alignment and remove dog spikes"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "ESE 1995 [MPPSC AE 2016]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Ballast and Track Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 913,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_216"
+    }
+]

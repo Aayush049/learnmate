@@ -1,0 +1,1029 @@
+[
+    {
+        "question_id": 1226,
+        "question_text": "The down stream slope of an earth dam is critical :",
+        "options": {
+            "A": "when reservoir is full",
+            "B": "when steady seepage occurs",
+            "C": "at the end of construction 2%",
+            "D": "combination of (a), (b) and (c)"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "UPPSC State Eng, A.E, 2011 Ist Paper;",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 286,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1226"
+    },
+    {
+        "question_id": 1231,
+        "question_text": "For a gravity retaining wall, the maximum cecentricity of the base reaction for “no tension\" condition to be satisfied is :",
+        "options": {
+            "A": "one-third of the base width",
+            "B": "two third of the base width",
+            "C": "one sixth of the base width",
+            "D": "none of the above [UPPSC State Eng. A.E,"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2007(D]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 287,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1231"
+    },
+    {
+        "question_id": 1234,
+        "question_text": "Under dynamic loading, the soil most likely to be affected is",
+        "options": {
+            "A": "loose saturated clay",
+            "B": "loose saturated sand",
+            "C": "dense saturated sand",
+            "D": "_ loose saturated silt"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "BPSC AE 2012 Paper-V",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 287,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1234"
+    },
+    {
+        "question_id": 1242,
+        "question_text": "An all-around RCC peripheral retaining wall is other side. The retaining wall has RCC floor slab retaining wall will be analyzed in-",
+        "options": {
+            "A": "Passive condition",
+            "B": "Active condition",
+            "C": "At rest condition",
+            "D": "Partially active and partially passive condition [MPSC"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2015 Paper-II Mains]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 288,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1242"
+    },
+    {
+        "question_id": 1243,
+        "question_text": "Statement (A) : Coffer-dam is a structure to be constructed in standing water condition prior to the construction of bridge foundations, Statement (B) : Cutting edge and steining are the two essential component parts of the cofferdam.",
+        "options": {
+            "A": "Both the statements (A) and (B) are true",
+            "B": "Both the statements (A) and (B) is false",
+            "C": "Statement (A) is truc but (B) is false",
+            "D": "Statement (B) is truc but (A) is false [MPSC"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2015 Paper-IT Mains] 38",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 288,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1243"
+    },
+    {
+        "question_id": 1253,
+        "question_text": "Coefficient of earth pressure at rest is",
+        "options": {
+            "A": "Less than coefficient of active earth pressure but greater than coefficient of passive earth pressure",
+            "B": "Greater than coefficient of active earth pressure but less than coefficient of passive earth pressure",
+            "C": "Less than both coefficient of active earth pressure and coefficient of passive earth pressure",
+            "D": "Greater than both coefficient of active earth pressure and coefficient of passive earth pressure"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019 OPSC Civil Services Pre 2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 290,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1253"
+    },
+    {
+        "question_id": 1261,
+        "question_text": "Along a phreatic line in an earth dam",
+        "options": {
+            "A": "pressure is atmospheric",
+            "B": "pressure is greater than atmospheric",
+            "C": "pressure is less than atmosphcric",
+            "D": "_ pressure head is constant but not zcro"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ASSAM PSC CCE (PRE) 2015 Ans ; (a) Phreatic line is the top flow line which separates saturated from unsaturated zone and below which positive hydrostatic pressure exists in the dam section. Along the phreatic line, the atmospheric pressure exists. 1",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 291,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1261"
+    },
+    {
+        "question_id": 1209,
+        "question_text": "The product of slenderness ratio and least radius of gyration gives $",
+        "options": {
+            "A": "Length of column",
+            "B": "Width of column in X direction",
+            "C": "Area of column",
+            "D": "width of column in Y direction"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "LMRC AM 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 601,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1209"
+    },
+    {
+        "question_id": 1215,
+        "question_text": "The slenderness ratio of column is zero when",
+        "options": {
+            "A": "Tts length is cxactly equal to the radius of gyration",
+            "B": "Its length is half the radius of gyration",
+            "C": "Total load carried is less than half the dead weight",
+            "D": "If the length is supported on all sides throughout its length"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "RPSC POLY. TECH. LECT. 2011 Ans ; (d) Slenderness ratio of column is zero if it is supported on all side through out its length.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 602,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1215"
+    },
+    {
+        "question_id": 1217,
+        "question_text": "The failure of a column depends upon-",
+        "options": {
+            "A": "weight of a column",
+            "B": "length of column",
+            "C": "slenderness ratio",
+            "D": "cross sectional area of column"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "Maharashtra PSC (Mains) 2015 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 602,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1217"
+    },
+    {
+        "question_id": 1222,
+        "question_text": "A column that fails essentially by direct crushing at ultimate load is called",
+        "options": {
+            "A": "Euler's column",
+            "B": "long column",
+            "C": "short column",
+            "D": "None of the given answers"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "APPSC AEE MAINS 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 602,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1222"
+    },
+    {
+        "question_id": 1223,
+        "question_text": "Euler's buckling formula is applicable to columns ;",
+        "options": {
+            "A": "Subjected to eccentric load",
+            "B": "having initial curvature",
+            "C": "initially straight and subjected to only axial loads",
+            "D": "all of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PSPCL AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 603,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1223"
+    },
+    {
+        "question_id": 1225,
+        "question_text": "Column of given length, cross-section and material property has different values of buckling loads for different cnd condition. The strongest column is one whose :",
+        "options": {
+            "A": "One end if fixed and the other end is hinged",
+            "B": "Both the ends are hinged",
+            "C": "One end is fixed and the other end is entirely free",
+            "D": "Both the ends are fixed"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "OPSC Civil Services Pre 2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 603,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1225"
+    },
+    {
+        "question_id": 1226,
+        "question_text": "Slenderness ratio of a member is defined as the ratio of",
+        "options": {
+            "A": "tension member",
+            "B": "pin-jointed rigid frame",
+            "C": "compression member",
+            "D": "bending member Rajasthan AE Nagar Nigam Shift-3,"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 603,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1226"
+    },
+    {
+        "question_id": 1228,
+        "question_text": "The Perry-Robertson's formula considers :",
+        "options": {
+            "A": "crushing mode",
+            "B": "initial curvature",
+            "C": "initial eccentricity and curvature",
+            "D": "buckling mode"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC Poly, Tech, Lect. 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 603,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1228"
+    },
+    {
+        "question_id": 1231,
+        "question_text": "Short column fails primarily by -",
+        "options": {
+            "A": "buckling or excessive lateral bending",
+            "B": "crushing without buckling",
+            "C": "buckling or crushing",
+            "D": "combination of crushing and buckling Rajasthan VP ITI"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 603,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1231"
+    },
+    {
+        "question_id": 1232,
+        "question_text": "The slenderness ratio of a column is zero when its length:",
+        "options": {
+            "A": "Is zero",
+            "B": "Is equal to its radius of gyration",
+            "C": "Is supported on all side throughout its length",
+            "D": "Is between the points zero moments (e) None of the above options"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Haryana PSC AE 2018 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 603,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1232"
+    },
+    {
+        "question_id": 1233,
+        "question_text": "If the depth of the section of an upper column is smaller than the lower column:",
+        "options": {
+            "A": "Filler plates are provided with column splice",
+            "B": "Bearing plates are provided with column splice",
+            "C": "Neither filler plates nor bearing plates are provided with column splice",
+            "D": "Filler plates and bearing plates are provided with column splice (e) None of the above options"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Haryana PSC AE 2018 Paper-I 3",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 603,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1233"
+    },
+    {
+        "question_id": 1234,
+        "question_text": "Slenderness ratio of a long (slender) column is:",
+        "options": {
+            "A": "Arca of cross-section divided by radius of gyration",
+            "B": "Area of cross-section divided by least radius of gyration",
+            "C": "Radius of gyration divided by area of cross- section.",
+            "D": "Length of column divided by area of cross- section (e) Length of column divided by least radius of gyration"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "Haryana PSC AE 2018 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 604,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1234"
+    },
+    {
+        "question_id": 1242,
+        "question_text": "Slenderness ratio of a column may be defined as the ratio of its effective length to the",
+        "options": {
+            "A": "radius of column",
+            "B": "minimum radius of gyration",
+            "C": "maximum radius of gyration",
+            "D": "area of the cross-section"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AEE (Civil/Mechanical) 2012 4",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 604,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1242"
+    },
+    {
+        "question_id": 1243,
+        "question_text": "Crippling load for a long column will be maximum when",
+        "options": {
+            "A": "Both ends are hinged",
+            "B": "One end is hinged and other is fixed",
+            "C": "One end is fixed and other is free",
+            "D": "Both ends are fixed Sikkim"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PSC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 605,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1243"
+    },
+    {
+        "question_id": 1253,
+        "question_text": "The buckling load of a column will be maximum, if its end conditions are as",
+        "options": {
+            "A": "one end is fixed and other end is hinged",
+            "B": "both ends are pin-jointed",
+            "C": "one end is fixed and other end is free",
+            "D": "both ends are fixed"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2012 16",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 606,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1253"
+    },
+    {
+        "question_id": 1259,
+        "question_text": "The effective length of a column is the length between the points of :",
+        "options": {
+            "A": "Supports",
+            "B": "maximum bending moments",
+            "C": "zcro bending moments",
+            "D": "_ zero shear forec"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPSC State Eng. AE, 2008",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 607,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1259"
+    },
+    {
+        "question_id": 1261,
+        "question_text": "Which onc of the following pairs is not correctly matched Boundary Conditions Euler's Buckling of Column Load 2",
+        "options": {
+            "A": "Both pinned () a 4n EI",
+            "B": "Both fixed (2) a t",
+            "C": "One fixed & one free (3) = 2",
+            "D": "One fixed & one pinned (4) ett (UPPSC State Eng. A.E."
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2003) ESE 2002, 1995",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 608,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1261"
+    },
+    {
+        "question_id": 1306,
+        "question_text": "The crippling load of a column with one end fixed and other end hinged is",
+        "options": {
+            "A": "V2 times that ofa both ends hinged colum",
+            "B": "Two times that of a both ends hinged column",
+            "C": "Four times that of a both ends hinged column",
+            "D": "Eight times that of a both ends hinged column"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AEE (Civil/Mechanical) 2012 One end fixed and other | 1 //2 hinged (i) Crippling load of a column with one end fixed and other end hinged. Ss",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 615,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1306"
+    },
+    {
+        "question_id": 207,
+        "question_text": "Struts are the load carrying members of a frame which are subjected to",
+        "options": {
+            "A": "Axial tension loads",
+            "B": "Axial compression loads",
+            "C": "Torsional loads",
+            "D": "Transverse loads"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "ISRO Scientist/Engineer 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 686,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_207"
+    },
+    {
+        "question_id": 1217,
+        "question_text": "In post-tensioned pre-stressed concrete beam, the end block zone in the zone between the end of the beam and the section where :",
+        "options": {
+            "A": "No lateral stresses exist",
+            "B": "Only longitudinal stresses exist",
+            "C": "Only shear stress exist",
+            "D": "Shear stresses are maximum Nagaland PSC CTSE"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2017 Paper-I ESE-2016, 2000",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 910,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1217"
+    },
+    {
+        "question_id": 1223,
+        "question_text": "The purpose of high tensile strength steel wires in pre-stress concrete is-",
+        "options": {
+            "A": "To provide adequate bond stress",
+            "B": "To resist tensile stresses",
+            "C": "To impart initial compressive stress in concrete",
+            "D": "All options are correct"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "UKPSC AE 2013 Paper-T",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 910,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1223"
+    },
+    {
+        "question_id": 1226,
+        "question_text": "Fully pre-stressed concrete beam resists",
+        "options": {
+            "A": "all the vertical loads by pre-stress",
+            "B": "live loads by pre-stress",
+            "C": "part of the loads by pre-stress",
+            "D": "none of the above (UKPSC AE (Paper-I)"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2007)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 911,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1226"
+    },
+    {
+        "question_id": 1228,
+        "question_text": "Which one of the following is categorised as a long term loss of pre-stress in a pre-stressed concrete member?",
+        "options": {
+            "A": "loss duc to clastic shortening",
+            "B": "loss due to friction",
+            "C": "loss due to relaxation of strands",
+            "D": "loss due to anchorage slip"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UKPSC AE 2012 Paper) Ans ; (c) Anchorage slip- Account should be taken of losses due to wedge drawn in of the anchorage devices, during the operation after tensioning and duc to the anchorage itself. This loss occurs in long term in pre- tensioned members.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 911,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1228"
+    },
+    {
+        "question_id": 1232,
+        "question_text": "Primary aim of pre-stressing is to",
+        "options": {
+            "A": "eliminate crushing of concrete due to compressive stresses",
+            "B": "eliminate crushing of concrete due to tensile stresses",
+            "C": "make the beam oversafe",
+            "D": "None of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPSC State Eng. A.E. 2008, Ans ; (b) Pre-stressing is done to: Eliminate cracking of concrete due to tensile stresses, Get smaller concrete sections. ¢ Make large span structures. ¢ Improve shearing resistance. ¢ Saving on column and foundation duc to lighter weight of super structure. 10",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 911,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1232"
+    },
+    {
+        "question_id": 1234,
+        "question_text": "A conerete in which internal stresses are introduced by a planned manner is known as",
+        "options": {
+            "A": "Pre-stressed concrete",
+            "B": "Plain concrete",
+            "C": "Lime concrete",
+            "D": "Reinforced concrete"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "UPPSC State Eng. A.E. 2007)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 912,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1234"
+    },
+    {
+        "question_id": 1242,
+        "question_text": "Which of the following types of losses of pre- stressing occurs only in pre-tensioning and not in post-tensioning case",
+        "options": {
+            "A": "Friction 91",
+            "B": "Creep of concrete",
+            "C": "Relaxation of stress in steel",
+            "D": "Elastic shortening (deformation) of concrete"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "RPSC VPITI - 2012 Ans; (d) When pre-stress is applied simultaneously in all strands there is no loss due to elastic shortening of concrete in post tensioned members.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 913,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1242"
+    },
+    {
+        "question_id": 1243,
+        "question_text": "The loss of pre-stress due to shrinkage of concrete is the product of",
+        "options": {
+            "A": "Modulus ratio and percentage of steel",
+            "B": "Modulus of clasticity of concrete and shrinkage of concrete",
+            "C": "Modulus of elasticity of steel and shrinkage of concrete",
+            "D": "Modular ratio and modulus of elasticity"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "RPSC LECTURE - 2011 Ans ; (c) Loss of pre-stress due to shrinkage of concrete is expressed as Ao = €,,E, €,, = Shrinkage strain E,- modulus of elasticity of steel",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 913,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1243"
+    },
+    {
+        "question_id": 1261,
+        "question_text": "Normally pre-stressing wires are arranged in the",
+        "options": {
+            "A": "upper part of the beam",
+            "B": "lower part of the beam",
+            "C": "centre",
+            "D": "anywhere"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "BPSC AE 2019 Paper (¥) Section-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 916,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1261"
+    },
+    {
+        "question_id": 1306,
+        "question_text": "Vertical limits within which cable is to be provided in a_ post-tensioncd prestressed concrete element is called as",
+        "options": {
+            "A": "End block",
+            "B": "Safe cable zone",
+            "C": "Anchorage zone",
+            "D": "Transmission length zone"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC Poly. Tech, Lect. 2016 Maharashtra PSC AE (Mains) 2012 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 922,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1306"
+    },
+    {
+        "question_id": 207,
+        "question_text": "Spot welding is used when two plates are placed:",
+        "options": {
+            "A": "One below the other",
+            "B": "Once butting against the other",
+            "C": "One next to other",
+            "D": "At right angle to cach other"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Maharashtra PSC (Mains) 2019 Paper--T",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 953,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_207"
+    },
+    {
+        "question_id": 322,
+        "question_text": "Effective length of a column is the length between the points of:",
+        "options": {
+            "A": "Support",
+            "B": "Maximum moment",
+            "C": "Zero moment",
+            "D": "Zero shear"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "UPPSC AE 12.04.2016 Paper-I]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 969,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_322"
+    },
+    {
+        "question_id": 207,
+        "question_text": "Critical Path Method (CPM):",
+        "options": {
+            "A": "PERT is event oriented",
+            "B": "PERT is not event oriented",
+            "C": "CPM is event oriented",
+            "D": "CPM is not event oriented RRB SSE Bilaspur ; 21.12.2014"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": null,
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Columns",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1094,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_207"
+    }
+]

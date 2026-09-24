@@ -1,0 +1,131 @@
+[
+    {
+        "question_id": 399,
+        "question_text": "When a steady two-dimensional jet of water impinges on a stationary inclined plate and if the fluid friction is neglected, the resultant force on the plate is",
+        "options": {
+            "A": "tangential to the surface",
+            "B": "normal to the surface",
+            "C": "in the direction of jet flow",
+            "D": "normal to the direction of jet flow APTRANSCO"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Momentum Equation and Application",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 218,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_399"
+    },
+    {
+        "question_id": 1241,
+        "question_text": "The momentum correction factor B is used to account for",
+        "options": {
+            "A": "change in pressure",
+            "B": "change in mass rate of flow",
+            "C": "change in total energy",
+            "D": "non-uniform distribution of velocities at inlet and outlet sections"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AEE (Civil/Mechanical) 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Momentum Equation and Application",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 341,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1241"
+    },
+    {
+        "question_id": 1242,
+        "question_text": "The change in moment of momentum of fluid due to flow along a curved path results in",
+        "options": {
+            "A": "a dynamic force which passes through the centre of curvature",
+            "B": "a torque",
+            "C": "achange in energy",
+            "D": "achange in pressure"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "APPSC AEE (Civil/Mcchanical) 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Momentum Equation and Application",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 341,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1242"
+    },
+    {
+        "question_id": 1361,
+        "question_text": "While applying the momentum and energy equations in fluid mechanics, a control volume is often referred to",
+        "options": {
+            "A": "Volume of fluid controlling device",
+            "B": "Volume in which control device is situated",
+            "C": "Volume of fluid flowing per unit time",
+            "D": "Volume fixed in space"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Momentum Equation and Application",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 356,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1361"
+    },
+    {
+        "question_id": 262,
+        "question_text": "The momentum correction factor ‘B’ is used in account for",
+        "options": {
+            "A": "Change in direction flaw",
+            "B": "Change in total energy",
+            "C": "Non-uniform distribution of velocities at inlet and outlet section",
+            "D": "Change in mass rate flow"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "Gujarat PSC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Momentum Equation and Application",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 408,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_262"
+    }
+]

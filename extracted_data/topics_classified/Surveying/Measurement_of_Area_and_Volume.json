@@ -1,0 +1,55 @@
+[
+    {
+        "question_id": 516,
+        "question_text": "In the planimeter formula for measuring area, A = MCR - IR + 10 N + ©), the additive constant is considered when",
+        "options": {
+            "A": "the anchor point is inside the area being measured",
+            "B": "the anchor point is outside the area being measured",
+            "C": "the area traced is in clockwise direction",
+            "D": "the area traced is in anti-clockwise direction"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019 Ans ; (a) : Planimeter is used to calculate the area of irregular plane more accurately. 8 YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Measurement of Area and Volume",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 88,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_516"
+    },
+    {
+        "question_id": 948,
+        "question_text": "For the computation of areas of irregular planes which rule is most accurate?",
+        "options": {
+            "A": "Mid-ordinate rule",
+            "B": "Average ordinate rule",
+            "C": "Trapezoidal rule",
+            "D": "Simpson's rule"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "TNPSC AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Measurement of Area and Volume",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 145,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_948"
+    }
+]

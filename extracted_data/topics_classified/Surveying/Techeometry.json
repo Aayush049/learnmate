@@ -1,0 +1,107 @@
+[
+    {
+        "question_id": 689,
+        "question_text": "The method of tachometry commonly used in practice is",
+        "options": {
+            "A": "Movable hair method",
+            "B": "Sub tense bar method",
+            "C": "Fixed hair method",
+            "D": "Tangential method GWSSB AAE"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Techeometry",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 111,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_689"
+    },
+    {
+        "question_id": 726,
+        "question_text": "In the movable hair method of tacheometric surveying :",
+        "options": {
+            "A": "the staff intereept vary",
+            "B": "the stadia interval is constant",
+            "C": "both the staff intercept and stadia interval arc constant",
+            "D": "_ none of the above [UPPSC State Eng. A.E."
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "20070]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Techeometry",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 115,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_726"
+    },
+    {
+        "question_id": 742,
+        "question_text": "Stadia tacheametry is based on the principle that",
+        "options": {
+            "A": "trigonometrical formula can be used to calculate distances from vertical angles",
+            "B": "intercepts on measuring rods are proportional to the distance",
+            "C": "horizontal distances vary linearly as vertical angles",
+            "D": "knowing the side and two angles of a triangle, another side can be calculated"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019 16 YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Techeometry",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 117,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_742"
+    },
+    {
+        "question_id": 825,
+        "question_text": "The vertical distance between the line of sight and the horizontal line (¥V) in an inclined sight using a Tacheometer with staff held vertical (in standard notations) is given by:",
+        "options": {
+            "A": "V=ks cos @.sin 8+ C sin 6",
+            "B": "V=kstan 20+ C sin 0",
+            "C": "V=ks cos 0.sin 9-C sin 8",
+            "D": "V=ks cot 20+ C sin @"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TSPSC AEE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Techeometry",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 128,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_825"
+    }
+]

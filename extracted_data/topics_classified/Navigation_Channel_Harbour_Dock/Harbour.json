@@ -1,0 +1,135 @@
+[
+    {
+        "question_id": 178,
+        "question_text": "As per CGS system, 'Stokes' is the unit of:",
+        "options": {
+            "A": "Dynamic Viscosity",
+            "B": "Kinematic Viscosity",
+            "C": "Surface Tension",
+            "D": "Terminal Velocity"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "JUVNL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Navigation Channel Harbour Dock",
+        "topic": "Harbour",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 184,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_178"
+    },
+    {
+        "question_id": 178,
+        "question_text": "The ratio of the power at the impeller to the power at the shaft is known as :",
+        "options": {
+            "A": "7 hier (b) 7 2047 D » -,D",
+            "B": "mechanical efficiency",
+            "C": "7 459 (d) 7 IDS",
+            "D": "efficiency of pump"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "DMRC AM 2020 APPSC AEE (CIVIL/MECHANICAL) 2019 Nagaland PSC Paper-II 2017 [MPSC 2015 Paper-II Mains] APPSC AEE (Civil/Mcchanical) 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Navigation Channel Harbour Dock",
+        "topic": "Harbour",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 395,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_178"
+    },
+    {
+        "question_id": 178,
+        "question_text": "Which of the following shows the correct sequence of the name of Indian river basins in descending order of average annual runoff potential?",
+        "options": {
+            "A": "Narmada > Godavari > Tapi",
+            "B": "Godavari > Narmada > Tapi",
+            "C": "Tapi> Narmada > Godavari",
+            "D": "Narmada > Tapi > Godavari"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "GPSC AE January 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Navigation Channel Harbour Dock",
+        "topic": "Harbour",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 558,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_178"
+    },
+    {
+        "question_id": 178,
+        "question_text": "Switch angle depends on",
+        "options": {
+            "A": "heel divergence only",
+            "B": "length of tongue rail only",
+            "C": "neither (heel divergence) nor (length of tongue rail)",
+            "D": "_ both (heel divergence) and (length of tongue tail) [MPPSC AE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016] 4 YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Navigation Channel Harbour Dock",
+        "topic": "Harbour",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 907,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_178"
+    },
+    {
+        "question_id": 178,
+        "question_text": "Match the items in List 1 (Purpose) with those in List 2 (structure) used in harbours, and select the answer using codes given below. List-1 List-2",
+        "options": {
+            "A": "A-2, B-1, C-3, D4",
+            "B": "A-3, B4, C-2, D-1",
+            "C": "A-3, B-1, C-2, D4",
+            "D": "| Lays vessels - alongside, | Wharf receives and discharges cargo and passengers 8 YCT"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": null,
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Navigation Channel Harbour Dock",
+        "topic": "Harbour",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 932,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_178"
+    }
+]

@@ -1,0 +1,870 @@
+[
+    {
+        "question_id": 268,
+        "question_text": "Which of the following is not a non-destructive test?",
+        "options": {
+            "A": "Rebound Hammer Test",
+            "B": "Surface Hardness Test",
+            "C": "Ultrasonic Pulse Velocity Test",
+            "D": "Soundness Test"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "Maharashtra PSC 2017 (1) Mains",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 48,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_268"
+    },
+    {
+        "question_id": 419,
+        "question_text": "Early attainment of strength in rapid hardening cement is mainly due to",
+        "options": {
+            "A": "gypsum",
+            "B": "finer grinding",
+            "C": "tricalcium silicate",
+            "D": "tricalcium aluminate"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 63,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_419"
+    },
+    {
+        "question_id": 446,
+        "question_text": "In the context of air entrainment in fresh concrete consider the following statements: Statement-1: Air entrainment is required in cases when concrete is likely to be subjected to alkali aggregate reaction. Statement-2:; Air entrainment has the effect of increasing the workability of concrete at the same unit waler content. Which of the following is CORRECT?",
+        "options": {
+            "A": "Statement-| is TRUE and Statement-2 is FALSE",
+            "B": "Both statements are FALSE",
+            "C": "Both statements are TRUE",
+            "D": "Statement-1 is False and Statement-2 is TRUE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPCL AE 2018 5",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 65,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_446"
+    },
+    {
+        "question_id": 465,
+        "question_text": "Which of the following is a field test for measuring the consistency of plastic concrete?",
+        "options": {
+            "A": "Le Chatelier's Test",
+            "B": "Compaction Factor Test",
+            "C": "Elongation Index Test",
+            "D": "Kelly Ball Test"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Maharashtra PSC 2017 (1) Mains 7",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 67,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_465"
+    },
+    {
+        "question_id": 640,
+        "question_text": "The risk of segregation is more for :",
+        "options": {
+            "A": "wetter mix",
+            "B": "larger proportion of maximum sizc aggregate",
+            "C": "coarser grading",
+            "D": "wetter mix and larger proportion of maximum size aggregate and coarser grading"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "KPTCL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 87,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_640"
+    },
+    {
+        "question_id": 416,
+        "question_text": "Soil water content and specific gravity can be determined by",
+        "options": {
+            "A": "Oven drying method",
+            "B": "Density bottle method",
+            "C": "Pycnometer method",
+            "D": "Alcohol method"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "OPSC AE Paper- IT 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 169,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_416"
+    },
+    {
+        "question_id": 446,
+        "question_text": "The group index for a soil whose liquid limit is 40%, plasticity limit is 10%, and percentage passing 75 p sieve is 35, is:",
+        "options": {
+            "A": "Greater than 0.2 mm",
+            "B": "Between 0.2mm to 0.0002mm",
+            "C": "Both 1 and 3",
+            "D": "Less than 0.0002 mm"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE March 2018 Rajasthan Nagar Nigam AE Shift-2, 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 173,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_446"
+    },
+    {
+        "question_id": 572,
+        "question_text": "According to Darcy's law, for laminar flow in a saturated soil, the rate of flow is proportional to the : (RRB SSE (Shift-IID, 01.09.2015) OR According to Darcy's law for flow through porous media, the velocity is proportional to",
+        "options": {
+            "A": "Cross sectional area",
+            "B": "Hydraulic gradient",
+            "C": "Coefficient of permeability",
+            "D": "Porosity of the soil"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "UIVNL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 189,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_572"
+    },
+    {
+        "question_id": 640,
+        "question_text": "Determine the equivalent hydraulic conductivity of a soil layer haying the average vertical and horizontal hydraulic conductivities are 1 x 10° cm/s and 2 x 10% emis, respectively.",
+        "options": {
+            "A": "Pumping out test",
+            "B": "Constant head permeability test",
+            "C": "Pumping In test",
+            "D": "Falling head permeability test"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "UPPCL AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 199,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_640"
+    },
+    {
+        "question_id": 572,
+        "question_text": "A simply supported beam of length L is subject to two point loads, each of P unit, at A and B equidistant from supports. Select the correct statement",
+        "options": {
+            "A": "There will be no shear force between A and B and no bending moment between A and B.",
+            "B": "There will be no shear force between A and B, but there will be uniform bending moment between A and B.",
+            "C": "There will be uniform shear force between A and B, but bending moment will gradually increase to maximum up to mid point of A and B.",
+            "D": "There will be uniform shear force between A and B, with maximum bending moment at A and B with gradual decrease to zero at mid point of A and B."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "MPPSC AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 482,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_572"
+    },
+    {
+        "question_id": 610,
+        "question_text": "Bending compressive and tensile stresses respectively are calculated based on :",
+        "options": {
+            "A": "Net area and gross area",
+            "B": "Gross area and net area",
+            "C": "Net area in both cases",
+            "D": "Gross area in both cases Nagaland PSC CTSE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 489,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_610"
+    },
+    {
+        "question_id": 410,
+        "question_text": "Absolute maximum bending moment under any given wheel in a heam due to several point loads occurs when;",
+        "options": {
+            "A": "this wheel is at mid-span",
+            "B": "this wheel and centre of gravity of the total load system are equidistant from the ends of the beam",
+            "C": "this wheel and the maximum load wheels are equidistant from the ends of the beam",
+            "D": "None of the above [UPPSC State Eng, A.E."
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2007 (D]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 726,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_410"
+    },
+    {
+        "question_id": 268,
+        "question_text": "Bond strength between reinforcement and concrete is affected by",
+        "options": {
+            "A": "in-situ tensile strength",
+            "B": "in-situ compressive strength",
+            "C": "in-situ flexural strength",
+            "D": "all of the above Chandigarh SDE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 791,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_268"
+    },
+    {
+        "question_id": 292,
+        "question_text": "In RCC work in the adhesion of the concrete to stecl is not perfect within clastic limits, then :",
+        "options": {
+            "A": "Steel will be overstressed",
+            "B": "Steel reinforcement may break",
+            "C": "Concrete will be overstressed",
+            "D": "Steel will bear more stress than concrete Nagaland PSC CTSE"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2017 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 795,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_292"
+    },
+    {
+        "question_id": 410,
+        "question_text": "If a R.C. beam is likely to fail in bond, then its bond = strength can be increased most economically by",
+        "options": {
+            "A": "increasing the depth of beam 8",
+            "B": "using thinner bars but more in numbers",
+            "C": "using thicker bars but less in numbers",
+            "D": "providing vertical stirrups (Uttrakhand AE"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2013/ UKPSC AE 2012 Paper-I) WBPSC AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 809,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_410"
+    },
+    {
+        "question_id": 416,
+        "question_text": "The longitudinal shearing stresses acting on the surface between the steel and concrete are called",
+        "options": {
+            "A": "Bond stresses",
+            "B": "Tensile stresses",
+            "C": "Compression stresses",
+            "D": "None of these"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "RPSC POLY. TECH. LECT. 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 810,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_416"
+    },
+    {
+        "question_id": 419,
+        "question_text": "Lap length including anchorage valuc of hooks for bars in flexural tension shall be",
+        "options": {
+            "A": "Lg or 20, whichever is greater 8",
+            "B": "2L, or 20$, whichever is greater",
+            "C": "Lg or 30d. whichever is greater",
+            "D": "3L¢ or 306, whichever is greater"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "UPPSC State Eng, A.E. 2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 810,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_419"
+    },
+    {
+        "question_id": 421,
+        "question_text": "In reinforced concrete members, the best way to ensure adequate bond is",
+        "options": {
+            "A": "To provide minimum number of large diameter bars",
+            "B": "To provide more number of small diameter bars",
+            "C": "To increase the cover for the reinforcement",
+            "D": "To provide additional stirrups"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019 {UPPSC State Eng, A.E. 2011] ESE 2004 Ans ; (b) : More small diameter results more (tg) Bond strength Vv \"oi * Spd Sum of perimeter of all reinforcement IP; = nx (x) V = Shear force at any section d= cffective depth of section",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 810,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_421"
+    },
+    {
+        "question_id": 422,
+        "question_text": "The bond between steel and concrete is mainly due to",
+        "options": {
+            "A": "adhesive resistance",
+            "B": "frictional resistance",
+            "C": "mechanical resistance",
+            "D": "all of these [UPPSC State Eng. AL."
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2008]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 810,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_422"
+    },
+    {
+        "question_id": 446,
+        "question_text": "When HYSD bars are used in place of mild steel bars in a beam, the bond strength Rajasthan AE Nagar Nigam Shift-3, 2016 OR When HYSD bars are used in place of mild stecl bars in a beam,",
+        "options": {
+            "A": "Both bond strength and ductility increase",
+            "B": "Both bond strength and ductility decrease",
+            "C": "Bond strength increases and ductility decreases",
+            "D": "Bond strength decreases and ductility increases"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019 ESE 2008 12",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 813,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_446"
+    },
+    {
+        "question_id": 450,
+        "question_text": "As per BIS 456-2000, deformed bars may be used without end anchorage provided:",
+        "options": {
+            "A": "Minimum spacing between the adjacent rod is ensured",
+            "B": "Sufficient cover is provided to the reinforcement bars",
+            "C": "Development length required is satisfied",
+            "D": "None of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ISRO Scientist/Engineer 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 814,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_450"
+    },
+    {
+        "question_id": 465,
+        "question_text": "A RCC beam is 300 mm wide and 450 mm deep. It is designated for the load acting on it and 20 mm dia main reinforcement and 10 mm dia stirrups are to be used. However, it is later found that the beam is failing in bond. Which of the following is the most economical solution to save the beam from failing in bond?",
+        "options": {
+            "A": "Use 12 mm dia stirupps instead of 10 mm bars",
+            "B": "Use 12/16 mm bars instead of 25 mm bars",
+            "C": "Use 8 mm dia stirupps instead of 10 mm bars",
+            "D": "Use 25/28 mm bars instcad of 25 mm bars Sikkim"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PSC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 816,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_465"
+    },
+    {
+        "question_id": 500,
+        "question_text": "Development length of a reinforcing bar",
+        "options": {
+            "A": "includes anchorage value of hooks in compression",
+            "B": "is less for compression than for tension",
+            "C": "is less for tension than for compression",
+            "D": "excludes anchorage value of hooks in tension"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE (PHE) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 820,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_500"
+    },
+    {
+        "question_id": 572,
+        "question_text": "If the bond stress developed in a reinforced concrete beam is more than permissible value, it can be brought down by",
+        "options": {
+            "A": "Decreasing the depth of the beam",
+            "B": "Decreasing the number of bars",
+            "C": "Decreasing the diameter of the bars",
+            "D": "Increasing the diameter of the bars"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "ISRO Scientist/Enginecr 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 830,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_572"
+    },
+    {
+        "question_id": 599,
+        "question_text": "The lap length of a direct tension reinforcement bar in a R.C.C. beams should be more than",
+        "options": {
+            "A": "16 times the diameter of the bar",
+            "B": "48 times the diameter of the bar",
+            "C": "thrice the development length or 24 times the diameter of the bar",
+            "D": "twice the development length or 30 times the diameter of the bar"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "GPSC AE March 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 834,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_599"
+    },
+    {
+        "question_id": 610,
+        "question_text": "In which of the following ways is the splicing of bars done in a RCC beam?",
+        "options": {
+            "A": "By the use of mesh reinforcement",
+            "B": "By Lapping of bars",
+            "C": "By the use of bolts",
+            "D": "By the use of riveted joints Rajasthan AE Nagar Nigam Shift-3,"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 835,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_610"
+    },
+    {
+        "question_id": 640,
+        "question_text": "The length of the straight portion of a bar beyond the end of the hook should be at least;",
+        "options": {
+            "A": "Twice the diameter",
+            "B": "Thrice the diameter",
+            "C": "Four times the diameter",
+            "D": "Five times the diameter (e) Seven times the diameter"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Haryana PSC AE 2018 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 838,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_640"
+    },
+    {
+        "question_id": 292,
+        "question_text": "A purely compression member (with negligible eecentricity) having its cffective length cqual to 9 times its radius of gyration would be treated as:",
+        "options": {
+            "A": "Pedestal",
+            "B": "Strut",
+            "C": "Long column cy",
+            "D": "Rotating shaft (e) Member subjected to bending and shear"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "CGPSC AE 2014 Shift-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 965,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_292"
+    },
+    {
+        "question_id": 419,
+        "question_text": "Lacing bars shall be inclined at an angle not less than ........ and not more than ......... to the axis of the built-up member.",
+        "options": {
+            "A": "70°, 40° respectively",
+            "B": "40°, 70° respectively",
+            "C": "45°, 45° respectively",
+            "D": "30°, 40° respectively"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "HPPSC Poly. Lect. 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 981,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_419"
+    },
+    {
+        "question_id": 446,
+        "question_text": "For interior stiffeners, the effective width of web acting together with the stiffener in each side of the centre line of stiffener is taken as",
+        "options": {
+            "A": "10 times the web thickness",
+            "B": "15 times the web thickness",
+            "C": "20 times the web thickness",
+            "D": "25 times the web thickness"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 985,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_446"
+    },
+    {
+        "question_id": 450,
+        "question_text": "Ina plate girder, the web plate is connected to the flange plates by fillet welding. The size of the fillet welds is designed to safely resist :",
+        "options": {
+            "A": "85 (b) 80",
+            "B": "vertical shear force at the section",
+            "C": "90 (d) 75",
+            "D": "forces causing buckling in the web (e) warping in the flange plates"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Maharashtra PSC AE (Mains) 2012 Paper-I UKPSC(Urban engineering)-2011 Ans ; (a) Intermediate vertical stiffeners are required in plate girder when d/t, ratio of the web exceeds 85.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 985,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_450"
+    },
+    {
+        "question_id": 500,
+        "question_text": "Spacing of the vertical stiffener in plate girder shall be",
+        "options": {
+            "A": "Not greater than d nor less than 0.25d",
+            "B": "Not greater than 2d nor less than 0.25d",
+            "C": "Not greater than 1.5d nor less than 0.33d",
+            "D": "Not greater than 1.2d nor less than 0.33d (BPSC"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "AE Paper V 2006)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 991,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_500"
+    },
+    {
+        "question_id": 268,
+        "question_text": "Sensitivity analysis is study of-",
+        "options": {
+            "A": "Comparison of profit and loss",
+            "B": "Comparison of assets and liabilities",
+            "C": "Change in output due to change in input 11",
+            "D": "Economics of cost and benefits of the project"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019 MPPSC AE 2017 ESE 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Bond and Anchorage",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1102,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination"
+        ],
+        "global_id": "Civil_AE_1_complete.json_268"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "question_id": 88,
+        "question_text": "Stoke is the unit of",
+        "options": {
+            "A": "Kinematic viscosity in C.G.S units",
+            "B": "Dynamic viscosity in M.K.S units",
+            "C": "Kinematic viscosity M-K.S units",
+            "D": "Dynamic viscosity in S.I. units"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ISRO Scientist/Engineer 2019 GPSC AE Dec 2018 UK Combined AE Paper Ist 2012, Ans; (a) : Kinematic Viscosity- It is the ratio of dynamic viscosity to mass density. ve Dynamic viscosity _ jt ~ Densityof fluid ~ p Unit of kinematic viscosity = m7/sec or stoke 1Stoke - Lem? /sec 1Stoke - 107 m? /see Dynamic viscosity- It is a measure of how much a fluid resists shear. : = ne | p> Dynamic-viscosity. Unit of dynamic viscosity = Newsee or Poise m2 [1 Poise = 0.1 N s/m?]. AE Civil Engg. Volume-II Vr",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Railway Station and Station Yard",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 172,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_88"
+    },
+    {
+        "question_id": 88,
+        "question_text": "A turn-table on railways is used for",
+        "options": {
+            "A": "Preventing the lateral movement of wheels",
+            "B": "Reversing the direction of the engine",
+            "C": "Reducing the damage to the rails",
+            "D": "None of the above"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "UJVNL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Railway Station and Station Yard",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 896,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_88"
+    }
+]

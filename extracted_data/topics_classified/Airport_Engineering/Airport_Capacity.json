@@ -1,0 +1,77 @@
+[
+    {
+        "question_id": 99,
+        "question_text": "The following factor affect the duty of water",
+        "options": {
+            "A": "Method of Cultivation",
+            "B": "System of irrigation",
+            "C": "Type of Crop",
+            "D": "All the above"
+        },
+        "correct_answer": "D",
+        "solution": "Factors affecting duty are method and system of irrigation, mode of applying water to the crops, method of cultivation, time and frequency of tilling, type of crop, base period of crop, climate conditions of the area, quality of water, and canal conditions.",
+        "exam": "U.K. Combined A.E. Paper II 2012",
+        "branch": null,
+        "year": 2012,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Airport Capacity",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 422,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "reviewed",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_99_1"
+    },
+    {
+        "question_id": 99,
+        "question_text": "On a single track, loaded goods trains run from X to Y and these goods trains run empty in the reverse direction. The amount of creep will be:",
+        "options": {
+            "A": "Zero",
+            "B": "More in direction from Y to X",
+            "C": "More in direction from X to Y",
+            "D": "None of the above"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "OPSC Civil Services Pre 2011; UPPSC State Eng. A.E. 2004, 2003",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Airport Capacity",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 897,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "reviewed",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_99_2"
+    },
+    {
+        "question_id": 99,
+        "question_text": "The capacity of parallel runway system depends primarily on",
+        "options": {
+            "A": "Lateral spacing between two runways",
+            "B": "Distance from terminal",
+            "C": "Slopes of adjacent areas",
+            "D": "Length of runways"
+        },
+        "correct_answer": "A",
+        "solution": "Capacity of a parallel runway system depends primarily on the lateral spacing between the two runways.",
+        "exam": "MPPSC AE 2016",
+        "branch": null,
+        "year": 2016,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Airport Capacity",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 924,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "reviewed",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_99_3"
+    }
+]

@@ -1,0 +1,109 @@
+[
+    {
+        "question_id": 531,
+        "question_text": "Which method would you apply for locating inaccessible points ?",
+        "options": {
+            "A": "Radiation (b) Intersection AE Civil Engg. Volume-II 9",
+            "B": "Method of intersection",
+            "C": "Traversing (d) Resection [UPPSC State Eng. A.E.",
+            "D": "None of these [UPPSC State Eng. AE,"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2007(1), 2011] ESE 1995 Ans ; (b) Intersection : In this method two stations are} selected such that all the other stations to be plotted are} visible from these. A line joining these two stations is called base line the| length of this base line is measured very accurately. Radiation ; In this method the instrument is setup at a] station and rays are drawn to various stations which are| to be plotted. This method is suitable only when the area to be surveyed is small and all the required stations to be| plotted are clearly visible and accessible from the instrument station. ‘Traversing : This method is similar to compass or theodolite| traversing This method is mos! suited when a narrow strip of Lerrain is| to be surveyed, e.g.- survey of road, railways ete. Resection : This method of orientation is employed when the plane| table occupies a position not yet plotted on the drawing sheet. Resection can be defined as the process of locating the| instrument station occupicd by the planc table by drawing rays from the stations whose positions are| already plotted on the drawing sheet.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Plane-Table Surveying",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 90,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_531"
+    },
+    {
+        "question_id": 579,
+        "question_text": "In which of the following methods of Plane Table Survey, it is required to go to the plotted station in resection?",
+        "options": {
+            "A": "Intersection",
+            "B": "Two point problem",
+            "C": "Three point problem",
+            "D": "Back ray method"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "GPSC AE Dec 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Plane-Table Surveying",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 96,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_579"
+    },
+    {
+        "question_id": 582,
+        "question_text": "In plane table surveying the method in which the rays are drawn from station No. 1 towards objects then the plane table is shifted to second station, again from station No. 2 the rays are drawn towards the same objects then the cutting point represents the respective objects on map. This method is known as:-",
+        "options": {
+            "A": "Orientation method",
+            "B": "Intersection method",
+            "C": "Resection method",
+            "D": "Radiation Method"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPCL AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Plane-Table Surveying",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 96,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_582"
+    },
+    {
+        "question_id": 590,
+        "question_text": "Which instrument is used for centcring in plane table surveying?",
+        "options": {
+            "A": "Spirit level",
+            "B": "Alidade",
+            "C": "Plumbing fork",
+            "D": "Trough compass"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "OPSC AE Paper- II 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Plane-Table Surveying",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 97,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_590"
+    }
+]

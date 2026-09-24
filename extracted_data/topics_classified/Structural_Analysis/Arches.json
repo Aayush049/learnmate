@@ -1,0 +1,1023 @@
+[
+    {
+        "question_id": 138,
+        "question_text": "The main function of Alumina in brick earth is to",
+        "options": {
+            "A": "impart plasticity",
+            "B": "increase durability",
+            "C": "prevent shrinkage",
+            "D": "increase impermeability"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "KPSC AE 2020 WBPSC AE 2014 3",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 33,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_138"
+    },
+    {
+        "question_id": 160,
+        "question_text": "A bull nose brick is not used for :",
+        "options": {
+            "A": "Rounding off sharp corners",
+            "B": "pillars",
+            "C": "decoration purpose",
+            "D": "Arches"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "KPTCL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 36,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_160"
+    },
+    {
+        "question_id": 168,
+        "question_text": "The main disadvantage of concrete blocks used for masonry as comparcd to bricks is",
+        "options": {
+            "A": "lower strength",
+            "B": "higher moisture content",
+            "C": "more requirement of mortar",
+            "D": "Shrinkage due to moisture movement"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "GPSC AE January 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 37,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_168"
+    },
+    {
+        "question_id": 183,
+        "question_text": "Hydraulic lime is obtained by:",
+        "options": {
+            "A": "Burning of limestone",
+            "B": "Calcination of pure clay",
+            "C": "Burning of kankar",
+            "D": "Adding water to quick lime (e) None of the above options"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "Haryana PSC AE 2018 Paper-I RPSC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 38,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_183"
+    },
+    {
+        "question_id": 160,
+        "question_text": "Specific gravity is defined as",
+        "options": {
+            "A": "Ratio of mass of solid to the mass of cqual volume of water at 4°C.",
+            "B": "Ratio of weight of solid to the weight of equal volume of water at 0°C.",
+            "C": "Ratio of mass of solid to the mass of equal volume of water at 0°C.",
+            "D": "Ratio of mass of solid to the mass of equal volume of water at 4°C."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "OPSC AE Paper- II 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 132,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_160"
+    },
+    {
+        "question_id": 192,
+        "question_text": "If the water content of a fully saturated soil mass is 100%, then the voids ratio of the sample is",
+        "options": {
+            "A": "Less than specific gravity of soil",
+            "B": "Equal to specific gravity of soil",
+            "C": "Greater than specific gravity of soil",
+            "D": "Independent of specific gravity of soil"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "GPSC AE June 2019 GPSC AE January 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 137,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_192"
+    },
+    {
+        "question_id": 150,
+        "question_text": "According to principle of virtual work, if a body is in equilibrium, then the algebraic sum of the virtual work donc by all the forces and couple moments acting on the body is :",
+        "options": {
+            "A": "zero 33",
+            "B": "doubled",
+            "C": "maximum",
+            "D": "Measured with non-zero displacement"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPCL AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 387,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_150"
+    },
+    {
+        "question_id": 136,
+        "question_text": "Modular ratio of the two materials is the ratio of",
+        "options": {
+            "A": "Linear stress to linear strain",
+            "B": "Shear stress to shear strain",
+            "C": "Their modulus of elasticity's",
+            "D": "Their modulus of rigidities"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ISRO Scientist/Engineer 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 408,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_136"
+    },
+    {
+        "question_id": 152,
+        "question_text": "Strain energy per unit volume that a material can absorb without exceeding its proportional limit is called :",
+        "options": {
+            "A": "Strain hardening",
+            "B": "Shear modulus of material",
+            "C": "Bulk modulus of material",
+            "D": "Modulus of resilience"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "OPSC AE Paper- 12019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 410,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_152"
+    },
+    {
+        "question_id": 130,
+        "question_text": "An arch resists loads by developing :",
+        "options": {
+            "A": "axial thrust only",
+            "B": "axial thrust and shear",
+            "C": "shear and bending moment",
+            "D": "axial thrust, shear and bending moment"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "UPPSC State Eng. AE. 2007 (L",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 672,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_130"
+    },
+    {
+        "question_id": 136,
+        "question_text": "A two hinged parabolic arch is subjected to a temperature rise of t°C, then the horizontal thrust at support will:",
+        "options": {
+            "A": "Increases",
+            "B": "decrease",
+            "C": "remains same",
+            "D": "first increase then decrease [UPPSC State Eng. A.E."
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "2011]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 673,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_136"
+    },
+    {
+        "question_id": 138,
+        "question_text": "A two-hinged arch is:",
+        "options": {
+            "A": "statically determinate",
+            "B": "statically indeterminate by one degree",
+            "C": "statically indeterminate by 2 degrees",
+            "D": "geometrically unstable [UPPSC State Eng, A.E."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2007 ()] Ans ; (b) \\ -_ _ ne For two hinged arch Ds =y7,~3 Ye=4 D, = 4-3 D; =1 «. A two hinged arch is statically indeterminate to one degree. 139, The horizontal thrust at support A in a three hinged arch shown in the given figure is 2kN/m - [es ee re oe }*------ 20m R, RS ‘3",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 673,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_138"
+    },
+    {
+        "question_id": 150,
+        "question_text": "In a_ two-hinged arch, an increase in temperature induces Or A temperature rise in a two hinged symmetric and parabolic arched rib causes",
+        "options": {
+            "A": "no bending moment in the arch rib",
+            "B": "the uniform bending moment in the arch rib",
+            "C": "the maximum bending moment at the crown",
+            "D": "the minimum bending moment at the crown"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "BPSC AE 2019 Paper (¥) Scction-I APPSC AE 2016 (Mains:",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 675,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_150"
+    },
+    {
+        "question_id": 151,
+        "question_text": "A parabolic arched rib, of span 30 m, is hinged at the springing and crown and is having a central rise of 5 m. If the coefficient of thermal expansion for the arch material is 12*10° per \"C, the effect of a temperature rise of 300C is",
+        "options": {
+            "A": "Lo cause thermal stresses",
+            "B": "to cause thermal siresses as well as a central rise of 18 mm",
+            "C": "to cause a central rise of 18 mm",
+            "D": "to cause no effect on the structure"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AE 2016 (Mains:",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 675,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_151"
+    },
+    {
+        "question_id": 152,
+        "question_text": "The reaction locus for a two hinged semicircular arch is",
+        "options": {
+            "A": "a horizontal line parallel to the span",
+            "B": "a parabolic curve",
+            "C": "acycloid",
+            "D": "aelliptical curve"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2018 1S",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 675,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_152"
+    },
+    {
+        "question_id": 160,
+        "question_text": "A suspension bridge with two hinged stiffening girder is:",
+        "options": {
+            "A": "slatically determinate",
+            "B": "slatically indeterminate of 1 degree",
+            "C": "statically indeterminate of 2 degree",
+            "D": "statically indeterminate of 3 degree Arunachal Pradesh Poly. Tech, Lect,"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2019 Nagaland PSC CTSE 2017 Paper-I UPSC JWM 2017 UPPSC State Eng. A.E. 2011 ESE 2012, 2008 7",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 677,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_160"
+    },
+    {
+        "question_id": 166,
+        "question_text": "A linear arch has",
+        "options": {
+            "A": "Normal thrust only",
+            "B": "Shear force only",
+            "C": "Bending moment only",
+            "D": "Normal thrust and shear force Vizag steel MT"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017 APPSC AEE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 679,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_166"
+    },
+    {
+        "question_id": 168,
+        "question_text": "If cable in transmission line tower, move or deflect downward direction due to it's own self weight, the profile (shape) achieved in elevation",
+        "options": {
+            "A": "straight line profile",
+            "B": "cubic parabola profile",
+            "C": "catenary profile",
+            "D": "parabolic profile"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "GPSC R&B AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 679,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_168"
+    },
+    {
+        "question_id": 170,
+        "question_text": "If a threc-hinged parabolie arch carrics a uniformly distributed load over the entire span, then any section of the arch is subjected to",
+        "options": {
+            "A": "normal thrust only",
+            "B": "normal thrust and shear force",
+            "C": "normal thrust and bending moment",
+            "D": "normal thrust, shear force and bending moment"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "OPSC AEE 2019 Paper-I JPSC AE 2009",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 679,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_170"
+    },
+    {
+        "question_id": 171,
+        "question_text": "In case of circular arches, the following equation will be used : . 2 0 2",
+        "options": {
+            "A": "R=x,-R-y.+ yy",
+            "B": "R= x +(R-y.+ yf",
+            "C": "R=x'+(R+y-yy",
+            "D": "R’=x\"+(R-y.- yy TRB Poly, Leet. Tech,"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 679,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_171"
+    },
+    {
+        "question_id": 183,
+        "question_text": "A parabolic three hinged arch ABC is supporting Uniformly Distributed Load of 500 N/m over its entire span of 100 m. The center point 'B’ is vertically 25 m high from supports Aand C, The reactions shall be ............",
+        "options": {
+            "A": "50 KN horizontal and vertical reactions at each support 6%",
+            "B": "25 KN horizontal and 50 KN vertical reactions at each support",
+            "C": "50 KN horizontal and 25 kN vertical reactions at each support",
+            "D": "25 kN horizontal and vertical reactions at each support"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Maharashtra PSC (Mains) 2019 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 681,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_183"
+    },
+    {
+        "question_id": 192,
+        "question_text": "Among the following, identify the correct statement regarding Linear arch:",
+        "options": {
+            "A": "Linear arch is one which represents the centre line of an arch.",
+            "B": "Linear arch is one which represents variation of bending moment.",
+            "C": "Linear arch is one which represents thrust line.",
+            "D": "Linear arch is one which represents the variation of shear force."
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "UPRVUNL AE 2014 ESE 2005",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 683,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_192"
+    },
+    {
+        "question_id": 160,
+        "question_text": "Diameter of a rivet hole for rivet diameter less than 25 mm is usually considered as",
+        "options": {
+            "A": "1.5 mm ~+ nominal diameter of rivet",
+            "B": "2.0 mm ~ nominal diameter of rivet",
+            "C": "2.50 mm + nominal diameter of rivet",
+            "D": "3.0 mm ~ nominal diameter of rivet"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE (PHE) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 948,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_160"
+    },
+    {
+        "question_id": 166,
+        "question_text": "According to IS specifications, maximum pitch of rivets in compression is",
+        "options": {
+            "A": "lesser of 200 mm and 12t",
+            "B": "lesser of 200 mm and 16t",
+            "C": "lesser of 300 mm and 32t",
+            "D": "lesser of 300 mm and 24t Chandigarh AE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 949,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_166"
+    },
+    {
+        "question_id": 171,
+        "question_text": "For a pair of identical stcel channel section, tacked - welded as a tension element. What is the net area of cross-section for design purposes?",
+        "options": {
+            "A": "Net area of the webs only",
+            "B": "Net area of the flanges only",
+            "C": "Net area of the webs and flanges",
+            "D": "Web area plus a portion of the area of the flanges"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Haryana PSC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 949,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_171"
+    },
+    {
+        "question_id": 192,
+        "question_text": "The size of the fillct weld is indicated by",
+        "options": {
+            "A": "side of the triangle of the fillet",
+            "B": "throat of the fillet",
+            "C": "length of the weld",
+            "D": "_ size of the plate"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPSC State Eng. A.E. 2007(1) UKPSC AE Paper 1 2007 Ans ; (a) The size of the fillet weld is indicated by side of the triangle of the fillet Minimum size of weld plate (mm. 10 mm (final size Maximum size of weld :",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 952,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_192"
+    },
+    {
+        "question_id": 136,
+        "question_text": "Ina wooden door, \"stile\" is the",
+        "options": {
+            "A": "Outside vertical member of the shutter",
+            "B": "Top most horizontal member of the shutter",
+            "C": "Middle horizontal member of the shutter",
+            "D": "Horizontal projection of head"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "RPSC A. En, 2013 51",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1052,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_136"
+    },
+    {
+        "question_id": 166,
+        "question_text": "Which one of the following statements are incorrect when lintels are compared with arches:",
+        "options": {
+            "A": "Lintels are simpler in construction",
+            "B": "Arches does not require strong abutments (walls) to withstand the arch thrust",
+            "C": "Arches require more head room to span the openings",
+            "D": "Lintels transfer the loads vertically to the walls"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "RPSC VIPITI 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1056,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_166"
+    },
+    {
+        "question_id": 171,
+        "question_text": "The lintels are preferred to arches because :",
+        "options": {
+            "A": "Arches require more head-room to span the opening like doors and windows.",
+            "B": "Arches require strong abutments to withstand arch thrust.",
+            "C": "Arches are difficult to construct.",
+            "D": "All of these."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "OPSC AEE 2019 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1056,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_171"
+    },
+    {
+        "question_id": 136,
+        "question_text": "In PERT analysis, event means :",
+        "options": {
+            "A": "start or finish of a task",
+            "B": "time taken for a task",
+            "C": "end ofan activity",
+            "D": "work involved in the project Karnataka"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "PSC AE 2015 Paper - II",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1085,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_136"
+    },
+    {
+        "question_id": 151,
+        "question_text": "Dummy activity means",
+        "options": {
+            "A": "neither requires any time nor any resources",
+            "B": "a connecting link for control purposes",
+            "C": "for maintaining uniqueness of activity",
+            "D": "all the these"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "TNPSC AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1087,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_151"
+    },
+    {
+        "question_id": 168,
+        "question_text": "The PERT is.............approach,",
+        "options": {
+            "A": "deterministic",
+            "B": "optimistic",
+            "C": "probabilistic",
+            "D": "pessimistic AP (VSS-1) PART - A"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1089,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_168"
+    },
+    {
+        "question_id": 170,
+        "question_text": "Which one of the following is not valid for CPM?",
+        "options": {
+            "A": "Activities are represented by arrows.",
+            "B": "Emphasis is given to activities.",
+            "C": "The beginning and end of an activity is denoted by nodes.",
+            "D": "Uncertainties are allowed to exist. AP (VSS-1) PART - A"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017 Ans ; (d) Uncertainties are not allowed to exist in CPM. 10",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1089,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_170"
+    },
+    {
+        "question_id": 192,
+        "question_text": "Slack time is PERT analysis:",
+        "options": {
+            "A": "Can never be greater than zero",
+            "B": "Is always zero for critical activity",
+            "C": "Can never be less than zero",
+            "D": "Is minimum for critical event"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "PTCUL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1092,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_192"
+    },
+    {
+        "question_id": 138,
+        "question_text": "For mortgage purpose, the mortgage value of property is taken as-",
+        "options": {
+            "A": "1/2 to 2/3 of the valuation or capitalized value",
+            "B": "2/5 to 2/3 of the valuation or capitalized value",
+            "C": "1/3 to 2/3 of the valuation or capitalized value",
+            "D": "1/4 to 3/4 of the valuation or capitalized value."
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "Gujarat PSC AE (N.W.R.) 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1125,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_138"
+    },
+    {
+        "question_id": 151,
+        "question_text": "Incase of approximate estimation, which onc is correct?",
+        "options": {
+            "A": "It gives a rough idca of the probable expenditure for project financing.",
+            "B": "It is used for administrative approval for the project.",
+            "C": "It is used for valuation and rent fixation.",
+            "D": "All of these"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "OPSC AEE 2019 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1126,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_151"
+    },
+    {
+        "question_id": 152,
+        "question_text": "The earthwork quantities are calculated :",
+        "options": {
+            "A": "By mid-sectional method",
+            "B": "By mean-scetional method",
+            "C": "By Primordial method",
+            "D": "All of these"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "OPSC AEE 2019 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1126,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_152"
+    },
+    {
+        "question_id": 160,
+        "question_text": "Which of the following is the most correct estimate?",
+        "options": {
+            "A": "detailed estimate",
+            "B": "building cost index estimate",
+            "C": "plinth arca estimate",
+            "D": "cube rate estimate GWSSB AAE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1127,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_160"
+    },
+    {
+        "question_id": 192,
+        "question_text": "Drag lines are used to excavate",
+        "options": {
+            "A": "settlement allowances",
+            "B": "additional settlement",
+            "C": "extra height allowances",
+            "D": "embankment allowances"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "TNPSC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Arches",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1130,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_192"
+    }
+]

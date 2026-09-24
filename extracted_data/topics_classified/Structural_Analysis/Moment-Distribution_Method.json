@@ -1,0 +1,159 @@
+[
+    {
+        "question_id": 581,
+        "question_text": "Consider the following statements: The coefficient of permeability k depends upon",
+        "options": {
+            "A": "All four (b) Only B and C",
+            "B": "Duration of flow",
+            "C": "Only A, C and D (d) Only C and D 0",
+            "D": "Shape of the particle"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": null,
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Moment-Distribution Method",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 190,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_581"
+    },
+    {
+        "question_id": 209,
+        "question_text": "The diagram showing the variation of axial load along the span is called",
+        "options": {
+            "A": "shear force diagram",
+            "B": "bending moment diagram",
+            "C": "thrust diagram",
+            "D": "influence line diagram Punjab PSC Sub divisional Engineer"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2014 4]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Moment-Distribution Method",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 419,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_209"
+    },
+    {
+        "question_id": 209,
+        "question_text": "‘The moment distribution method is best suited for",
+        "options": {
+            "A": "Indeterrminate pin jointed truss",
+            "B": "Space frames",
+            "C": "Eccentric columns",
+            "D": "Rigid frames (e) Trussed beams"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "CGPSC AE 2014 Shift-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Moment-Distribution Method",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 686,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_209"
+    },
+    {
+        "question_id": 418,
+        "question_text": "All members of the frame shown below have the same flexural rigidity EI and length L. If a moment M is applied at joint B, the rotation of the joint is : ay a é D ML ML",
+        "options": {
+            "A": "Is true for any structure obeying Hooke's law",
+            "B": "can be applicd to the rotations causcd by flcxure, shear or torsion",
+            "C": "is useful in analyzing indeterminate structures",
+            "D": "All of these"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "RPSC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Moment-Distribution Method",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 727,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_418"
+    },
+    {
+        "question_id": 581,
+        "question_text": "The moment distribution method in structural analysis can be treated as:",
+        "options": {
+            "A": "Force method",
+            "B": "Displacement method",
+            "C": "Flexibility method",
+            "D": "None of the above Arunachal Pradesh Poly, Tech. Lect."
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2019 UPPCL AE 2018 Nagaland PSC CTSE 2017 Paper-t UJVNL AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Moment-Distribution Method",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 755,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_581"
+    },
+    {
+        "question_id": 581,
+        "question_text": "Stiffeners are used in a plate girder",
+        "options": {
+            "A": "To reduce compressive strength",
+            "B": "To reduce the shear stress",
+            "C": "To avoid the buckling of web plate",
+            "D": "To take the bearing stress"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "APPSC AEE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Moment-Distribution Method",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1001,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_581"
+    }
+]

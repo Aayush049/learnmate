@@ -1,0 +1,181 @@
+[
+    {
+        "question_id": 92,
+        "question_text": "For pin connection of joints, allowable shear stress and bearing stress are oss respectively:",
+        "options": {
+            "A": "100 MPa and 300 MPa",
+            "B": "100 MPa and 250 MPa",
+            "C": "150 MPa and 300 MPa",
+            "D": "150 MPa and 350 MPa"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC R&B AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "Network Technique",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 941,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_92"
+    },
+    {
+        "question_id": 146,
+        "question_text": "The value of permissible bending stress 0.66 fy is applicable for IS 800-84 :",
+        "options": {
+            "A": "Laterally restrained beam",
+            "B": "Laterally unrestrained beam",
+            "C": "Both (a) & (b)",
+            "D": "Nonc of the above UP Jal Nigam AE"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "Network Technique",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 947,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_146"
+    },
+    {
+        "question_id": 240,
+        "question_text": "Epoxy injection technique is used for",
+        "options": {
+            "A": "repairing the water retaining structures",
+            "B": "Sealing of large cracks",
+            "C": "Sealing of narrow cracks",
+            "D": "all of the above Chandigarh SDE"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "Network Technique",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1063,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_240"
+    },
+    {
+        "question_id": 92,
+        "question_text": "Which of the following is an activity?",
+        "options": {
+            "A": "Construction of foundation",
+            "B": "Construction of roof",
+            "C": "Construction of superstructure",
+            "D": "All of these Punjab PSC SDE"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "Network Technique",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1079,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_92"
+    },
+    {
+        "question_id": 146,
+        "question_text": "Which of the following networks is activity oriented? Maharashtra PSC Mains 2018 Paper-1 OR The technique which is activity oriented is :",
+        "options": {
+            "A": "PERT",
+            "B": "CPM",
+            "C": "CPM and PERT both",
+            "D": "Neither CPM nor PERT"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "UPPSC State Eng. A.E. 2003, 2008",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "Network Technique",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1086,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_146"
+    },
+    {
+        "question_id": 174,
+        "question_text": "What is dummy activity?",
+        "options": {
+            "A": "Activity having zero duration",
+            "B": "Activity shown by dotted line",
+            "C": "Activity which shows dependency",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "Maharashtra PSC Mains 2018 Paper-1",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "Network Technique",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1090,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_174"
+    },
+    {
+        "question_id": 240,
+        "question_text": "In project management, an important principle in drawing a network is",
+        "options": {
+            "A": "Crash time (b) Normal time",
+            "B": "project duration time",
+            "C": "Slack time (d) Float time",
+            "D": "none of the above Punjab MCP SDO"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "OPSC Civil Services Pre 2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "Network Technique",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1099,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_240"
+    }
+]

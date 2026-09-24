@@ -1,0 +1,158 @@
+[
+    {
+        "question_id": 1320,
+        "question_text": "Rankine's earth pressure theory is least violated in",
+        "options": {
+            "A": "cantilever retaining wall",
+            "B": "gravity retaining wall",
+            "C": "sheet pile coffer dam",
+            "D": "anchored bulk head"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE (PHE) 1998 violated in anchored bulk head.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Combined Stress",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 300,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1320"
+    },
+    {
+        "question_id": 1230,
+        "question_text": "Base of the chimney subject :",
+        "options": {
+            "A": "Direct stress due self weight",
+            "B": "bending stress due wind load",
+            "C": "both (a) and (b)",
+            "D": "bending stress duc sclf-weight direct stress due wind load UP Jal Nigam AE"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Combined Stress",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 603,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1230"
+    },
+    {
+        "question_id": 1250,
+        "question_text": "To avoid tension in a short column the load must be",
+        "options": {
+            "A": "at outside of the cross section",
+            "B": "within the middle-third of the cross-section",
+            "C": "within the onc-third of the cross-section",
+            "D": "outside the middle-third of the cross-section"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "TNPSC AE 2019 t",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Combined Stress",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 606,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1250"
+    },
+    {
+        "question_id": 1280,
+        "question_text": "A masonry pier ABCD as shown in figure, supports a vertical load W at a point P. The nature of stresses at A due to eccentricity of load about x-x axis and y-y axis respectively are: Y A B | i\"). iy",
+        "options": {
+            "A": "compressive and compressive",
+            "B": "tensile and tensile",
+            "C": "compressive and tensile",
+            "D": "tensile and compressive Punjab MCP SDO"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Combined Stress",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 612,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1280"
+    },
+    {
+        "question_id": 1320,
+        "question_text": "An eccentric load W, with eccentricity e is equivalent to :",
+        "options": {
+            "A": "An axial load W",
+            "B": "A moment equivalent equal to W.e",
+            "C": "Both (a) and (b)",
+            "D": "Nonc of the above UP Jal Nigam AE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Combined Stress",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 618,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1320"
+    },
+    {
+        "question_id": 1444,
+        "question_text": "A shaft of diameter d subjected to a bending moment of M and a torque of T experiences:",
+        "options": {
+            "A": "Maximum bending stress = Sele’ ( ad?",
+            "B": "Maximum shear stress = Jef ad",
+            "C": "Maximum bending stress = = TT",
+            "D": "Both (a) and (b) (e) Neither (a) nor (b)"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "Haryana PSC AE 2018 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Combined Stress",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 638,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1444"
+    }
+]

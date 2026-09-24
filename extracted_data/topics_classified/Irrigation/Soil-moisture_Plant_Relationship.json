@@ -1,0 +1,27 @@
+[
+    {
+        "question_id": 223,
+        "question_text": "Consumptive Irrigation Requirement (CIR), if Cu is consumptive use and Rs, the effective and Rs, the effective rainfall is given by",
+        "options": {
+            "A": "CIR=Cu_ Re",
+            "B": "CIR= Cu 1.5 Re",
+            "C": "CIR= Cu- Re",
+            "D": "CIR=Cu_ Re + water lost as percolation"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "WBPSC AE 2001",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Soil-moisture Plant Relationship",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 440,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_223"
+    }
+]

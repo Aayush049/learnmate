@@ -1,0 +1,134 @@
+[
+    {
+        "question_id": 465,
+        "question_text": "When the bubble of the level tube of a level remains central then,",
+        "options": {
+            "A": "Linc of sight is horizontal",
+            "B": "Axis of the telescope is horizontal",
+            "C": "Line of sight is inclined",
+            "D": "Geometrical axis of the telescope is horizontal"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "ISRO Scientist/Engineer 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Dimensional Analysis and Model Studies",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 82,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_465"
+    },
+    {
+        "question_id": 60,
+        "question_text": "If the Mach number for a fluid is less than 1, the flow is:",
+        "options": {
+            "A": "Sonic",
+            "B": "Supersonic",
+            "C": "Sub-sonic",
+            "D": "All of the above options (e) None among the given options Haryana"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PSE AE Paper-2 2018 OPSC AEE 2015 PAPER-II ISRO Scientist/Engineer 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Dimensional Analysis and Model Studies",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 167,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_60"
+    },
+    {
+        "question_id": 217,
+        "question_text": "When the Mach number is more than 6, the flow is called :",
+        "options": {
+            "A": "subsonic flow",
+            "B": "sonic flow",
+            "C": "supersonic flow",
+            "D": "hypersonic flow (UKPSC AE (Paper-l)"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2007/ 7 YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Dimensional Analysis and Model Studies",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 189,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_217"
+    },
+    {
+        "question_id": 465,
+        "question_text": "In pipe flow Froude number is predominant when:",
+        "options": {
+            "A": "the pipe is running full",
+            "B": "the pipe is running half",
+            "C": "there is no flow in the pipe",
+            "D": "diameter of the pipe is varying but it is running full"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "UPPSC State Eng. AE. 2007(L",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Dimensional Analysis and Model Studies",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 229,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_465"
+    },
+    {
+        "question_id": 261,
+        "question_text": "Euler number is related to :",
+        "options": {
+            "A": "Inertia force and pressure force",
+            "B": "Inertia force and elastic force",
+            "C": "Inertia force and viscous force",
+            "D": "Incrtia force and gravity forec"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Dimensional Analysis and Model Studies",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 408,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_261"
+    }
+]

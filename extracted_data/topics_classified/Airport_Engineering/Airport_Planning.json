@@ -1,0 +1,291 @@
+[
+    {
+        "question_id": 125,
+        "question_text": "Systematic errors are those errors :",
+        "options": {
+            "A": "Copper and Steel -_ (b) Brass and Nickel",
+            "B": "which cannot be recognized",
+            "C": "Brass and Steel (d) Nickel and Steel",
+            "D": "whose effect is recognized but character is not understood"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "IPSC AE (Pre) 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Airport Planning",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 35,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_125"
+    },
+    {
+        "question_id": 125,
+        "question_text": "In a supersonic flow, a diffuser is conduit having",
+        "options": {
+            "A": "Mach number",
+            "B": "pressure",
+            "C": "square root of temperature",
+            "D": "square root of pressure Arunachal Pradesh Poly. Tech. Lect,"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2019 IS YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Airport Planning",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 177,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_125"
+    },
+    {
+        "question_id": 125,
+        "question_text": "The underground power houses are found to be more economical than an equivalent surface power station due to",
+        "options": {
+            "A": "low temperature",
+            "B": "low noise pollution",
+            "C": "less the amount of concrete is required compared to a surface power",
+            "D": "better foundation condition"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE January 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Airport Planning",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 388,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_125"
+    },
+    {
+        "question_id": 92,
+        "question_text": "The crops require maximum watering during",
+        "options": {
+            "A": "first watering before sowing the corps",
+            "B": "first watering when the crop has grown a few centimeters",
+            "C": "last watering before harvesting",
+            "D": "all of the above [Uttarakhand Combined State"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "AE Paper I 2007] {UPPSC State Eng. AE 2007] AE Civil Engg. Volume-II 4",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Airport Planning",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 421,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_92"
+    },
+    {
+        "question_id": 125,
+        "question_text": "The frequency of irrigation is so decided that average moisture content in the root zone of the soil is close to",
+        "options": {
+            "A": "saturation level",
+            "B": "field capacity",
+            "C": "wilting point",
+            "D": "average of field capacity and wilting point [UPPSC State Eng. A.E,"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2007(H)] AE Civil Engg. Volume-II 4",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Airport Planning",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 427,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_125"
+    },
+    {
+        "question_id": 92,
+        "question_text": "The rain-gauge must be set as near the ground as possible",
+        "options": {
+            "A": "to reducc clevation cffect",
+            "B": "to reduce wind effect",
+            "C": "to reduce slope effect",
+            "D": "to avoid visibility [Uttarakhand Combined State"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "AE Paper LI 2007]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Airport Planning",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 548,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_92"
+    },
+    {
+        "question_id": 101,
+        "question_text": "If sufficient moisture is always available to completely meet the needs of vegetation fully covering the area, the resulting evapotranspiration is called :",
+        "options": {
+            "A": "Potential evapotranspiration",
+            "B": "Actual evapotranspiration",
+            "C": "Consumptive evapotranspiration",
+            "D": "Direct evapotranspiration"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Airport Planning",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 549,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_101"
+    },
+    {
+        "question_id": 125,
+        "question_text": "For smooth movement of trains, hauling capacity of a locomotive should be more than",
+        "options": {
+            "A": "Tractive effort of a locomotive",
+            "B": "Sum of various train resistances",
+            "C": "Total load on driving wheel",
+            "D": "Total sum of tractive resistances [UPPSC State Eng. A.E,"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2007(L)]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Airport Planning",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 901,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_125"
+    },
+    {
+        "question_id": 92,
+        "question_text": "What does the Wind Rose Diagram (WRD) for orientation of airport runway give?",
+        "options": {
+            "A": "Direction of wind",
+            "B": "Direction and duration for wind",
+            "C": "Direction, duration and intensily of wind",
+            "D": "None of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "JPSC AE 2009 19 YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Airport Planning",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 923,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_92"
+    },
+    {
+        "question_id": 101,
+        "question_text": "Wind rose diagram is used for the purpose of deciding",
+        "options": {
+            "A": "runway orientation",
+            "B": "runway capacity",
+            "C": "runway cross-section",
+            "D": "location of taxiways Nagaland"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "PSC Paper-II 2017 MPPSC AE 2016 / ESE 1997",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Airport Planning",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 924,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_101"
+    },
+    {
+        "question_id": 125,
+        "question_text": "Wind Rose is used for",
+        "options": {
+            "A": "Construction of Taxiway",
+            "B": "Orientation of Runway",
+            "C": "Orientation of Taxiway",
+            "D": "Orientation of Terminal Building"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "TINPSC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Airport Planning",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 927,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_125"
+    }
+]

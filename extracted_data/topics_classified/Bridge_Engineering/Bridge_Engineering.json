@@ -1,0 +1,1328 @@
+[
+    {
+        "question_id": 1,
+        "question_text": "A survey which consists of observations of the heavenly bodies such as Sun or any fixed star, is known as",
+        "options": {
+            "A": "Celestial survey",
+            "B": "Astrological survey",
+            "C": "Heaven survey",
+            "D": "Astronomical survey"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "Maharashtra PSC Mains 2012 Paper -2",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 19,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1"
+    },
+    {
+        "question_id": 12,
+        "question_text": "The diagonal scale is used to road:",
+        "options": {
+            "A": "Once unit",
+            "B": "Two consecutive unit",
+            "C": "Three conseculive unit",
+            "D": "Four consecutive unit"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "JUYNL AE 2016 UJVNL AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 20,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_12"
+    },
+    {
+        "question_id": 3,
+        "question_text": "Engineer's chain-100 ft, 100 links 4, Metric chains :",
+        "options": {
+            "A": "three sides, the angles can be calculated precisely",
+            "B": "three angles, the sides can be calculated precisely",
+            "C": "two sides and one angle, the remaining side and angles can be determined precisely",
+            "D": "one side and three angles, the remaining sides can be calculated precisely"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "Gujarat PSC AE (N.W.R.) 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 38,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_3"
+    },
+    {
+        "question_id": 3,
+        "question_text": "It radiates from north and south magnetic regions and follow irregular paths",
+        "options": {
+            "A": "77° N (b) 23°S",
+            "B": "points of zero declination",
+            "C": "13°E (d) 13° W",
+            "D": "points having zero dip"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC R&B AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 55,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_3"
+    },
+    {
+        "question_id": 3,
+        "question_text": "250 m. Al f \\ RT.= 100m Height of instrument = B.M + B.S = 100 + 3.250 = 103.250 R.L of bottom of girder = HI- FS = 103.250 - (-1.250) = 104.500 m 482, While doing leveling in undulating terrain, it is preferable to set the level on",
+        "options": {
+            "A": "the top of summit",
+            "B": "the bottom ofa valley",
+            "C": "any side of the slope",
+            "D": "anywhere"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "WBPSC AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 84,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_3"
+    },
+    {
+        "question_id": 3,
+        "question_text": "State PWD 4, Asurvey team in the beginning of a project Codes : A B c D",
+        "options": {
+            "A": "3 2 4 1",
+            "B": "3 2 1 4",
+            "C": "2 3 1 4",
+            "D": "2 3 4 1"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "BPSC AE Pre 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 129,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_3"
+    },
+    {
+        "question_id": 6,
+        "question_text": "For psecudoplastic non-Newtonian fluids, the apparent viscosity",
+        "options": {
+            "A": "increases with increasing deformation rate",
+            "B": "decreases with increasing deformation rate",
+            "C": "is independent of the deformation rate",
+            "D": "decreases with time"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AEE (CIVIL/MECHANICAL) 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 160,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_6"
+    },
+    {
+        "question_id": 12,
+        "question_text": "The gases are considered incompressible when Mach number is :",
+        "options": {
+            "A": "equal to 1.0",
+            "B": "equal to 0.5",
+            "C": "more than 0.3",
+            "D": "less than 0.2"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 161,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_12"
+    },
+    {
+        "question_id": 1,
+        "question_text": "11 Tt is usually to tape it is | fora turbulent flow. 115, Contain liquid has a specifie mass 1260 kg/m’ at 4°C, Its specific weight is :",
+        "options": {
+            "A": "v= (b) p= po u ()v=4 @v=2 p Pp WBPSC AE 2012 OPSC Civil Services Pre 2011",
+            "B": "1.236 x 10? N/m?",
+            "C": "1.236 x 10° Nin?",
+            "D": "1.236 x 10* N/m?"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "OPSC Civil Services Pre 2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 176,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1"
+    },
+    {
+        "question_id": 1,
+        "question_text": "2kg im’ water kinematic viscosity = Pas _ 099m? /s = 1m? is 1000kg /im* So, Air einermatie viscosity - is 15 times Water kincmatic viscosity 1 149, Bulk modulus for ideal fluids is",
+        "options": {
+            "A": "Infinity",
+            "B": "Unity",
+            "C": "Zero",
+            "D": "Any value less than one"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE June 2019 Vol stress",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 180,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1"
+    },
+    {
+        "question_id": 3,
+        "question_text": "6 2 243, The meta centric height of a floating body:",
+        "options": {
+            "A": "is the distance between the mcta centre of buoyancy",
+            "B": "is the distance between the meta centre and centre of gravity",
+            "C": "does not control the stability of a floating body",
+            "D": "is the same about longitudinal and transverse axis"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC R&B AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 193,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_3"
+    },
+    {
+        "question_id": 1,
+        "question_text": "im B AE Civil Engg. Volume-II 31 For maximum discharge condition perimeter will be minimum. Area = +(28 + 2my) xy =(B+my).y P=B+2yvVl+m when side slope is constant. P= A -my+2yv1+m? y aI for minimum perimeter oR _ 0 oy P A 2 jee So m+2V14+m* oy B+my) ( mY ay hai Half of top width is equal to sloping side. 1055, The hydraulic radius is defined as the ratio of:",
+        "options": {
+            "A": "Wetted area of depth",
+            "B": "Cross sectional area to wetted perimeter",
+            "C": "Wetted area to top width",
+            "D": "Wetted area to perimeter"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "NPCC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 314,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1"
+    },
+    {
+        "question_id": 1,
+        "question_text": "to subcritical (f; < 1) this result in an abrupt river in ‘water surface accompanied by turbulent rollers this local phenomena is called hydraulic jump. This phenomena occurs :",
+        "options": {
+            "A": "Newton's first law of motion",
+            "B": "Newton's second law of motion",
+            "C": "Newton's third law of motion",
+            "D": "Newton's law of viscosity"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AEE (CIVIL/MECHANICAL) 2019 AE Civil Engg. Volume-II x",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 325,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1"
+    },
+    {
+        "question_id": 6,
+        "question_text": "A hand pump is a type of",
+        "options": {
+            "A": "Centrifugal pump",
+            "B": "Reciprocating pump",
+            "C": "Rotary pump",
+            "D": "Jet pump"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017 WBPSC AE 2001 7 YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 370,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_6"
+    },
+    {
+        "question_id": 12,
+        "question_text": "A uniform rate of pumping is required in",
+        "options": {
+            "A": "gravity system",
+            "B": "balanced system",
+            "C": "pumping and storage system",
+            "D": "all of the above"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "WBPSC AE (MCD) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 371,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_12"
+    },
+    {
+        "question_id": 1,
+        "question_text": "Francis 2. Kaplan 3. Pelton The increasing order of specific speed is",
+        "options": {
+            "A": "the guide vane angle is 90°",
+            "B": "the blade angle of the runners is 90° at the inlet",
+            "C": "the blade angle of the runners is 90° at the outlet",
+            "D": "the angle of the absolute velocity vector at the outlet is 90°"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "GOA PSC Assistant Prof. 2020 AP TRANSCO AEE 2017 APTRANSCO 2017 Vizag steel MT 2017 ESE 2010",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 379,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1"
+    },
+    {
+        "question_id": 3,
+        "question_text": "Change of velocity normal to the direction of the impacting inflow is also relevant to the computations Which of the above are correct?",
+        "options": {
+            "A": "15D (b) 2.0D",
+            "B": "increase velocity of flow in a pipe",
+            "C": "0.9D (d) 3.0D where D is depth of scour.",
+            "D": "provide safety against water hammer Rajasthan AE (Nagar Nigam)"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "BPSC Poly. Tech. Lect. 2016 34 YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 387,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_3"
+    },
+    {
+        "question_id": 3,
+        "question_text": "Active earth pressure The correct sequence of the increasing order of the magnitudes of these pressure is :",
+        "options": {
+            "A": "3 2 1",
+            "B": "1 5 2",
+            "C": "1 2 3",
+            "D": "3 i: 2 [HPPSC"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2016-1]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 392,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_3"
+    },
+    {
+        "question_id": 1,
+        "question_text": "Which of the following soil types is suitable for sprinkler irrigation?",
+        "options": {
+            "A": "When land is steep and soil is easily erodible",
+            "B": "when the crops are deeply rooted",
+            "C": "when soil of low permeability is used",
+            "D": "when water table is very low"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPSC AE March 2018 CIL MT 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 409,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1"
+    },
+    {
+        "question_id": 6,
+        "question_text": "Salinity in soils",
+        "options": {
+            "A": "increases crop yield",
+            "B": "makes soil infertile",
+            "C": "reduces water-logging",
+            "D": "_ none of the above Uttarakhand Combined State"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "AE Paper I 2007 Ans ; (b) If excessive quantity of salts such as calcium, magnesium and potassium salts are present in soil, it may prove to be injurious and makes soil infertile. Sodium carbonate which is also called white alkali is very harmful for crops. When present less the 0.15% in soil they do not effect but if they are present more than",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 410,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_6"
+    },
+    {
+        "question_id": 1,
+        "question_text": "TE Actual slope (1:1) in 2 i excavation. In cutting-1IL1Vtol.sILiv In filling -1.5H, 1 Vto2H,1V The side slope should be such that they are stable, depending upon the type of the soil and it is parallel to the natural drainage of an area. 54, The best alignment of an irrigation channel is one",
+        "options": {
+            "A": "which follows a contour line",
+            "B": "which encounters no drainages",
+            "C": "which is always in heavy filling to ensure speedy irrigation under gravity",
+            "D": "which for most part follows a watershed"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "UPPSC State Eng, A.E. 2004 (H),",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 416,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1"
+    },
+    {
+        "question_id": 3,
+        "question_text": "When both the banks are provided it is known as double bank canal. 372, The sill of the notches in a canal is kept at :",
+        "options": {
+            "A": "Bed level of downstream channel",
+            "B": "FSL of upstream channel",
+            "C": "FSL of down-stream channel",
+            "D": "Bed level of upstream channel"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 459,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_3"
+    },
+    {
+        "question_id": 3,
+        "question_text": "When water passes over it, the longitudinal location of the formation of a hydraulic jump is variable. The weir is of the type",
+        "options": {
+            "A": "Vertical drop weir",
+            "B": "Masonry or concrete sloping weir",
+            "C": "Dry stone slope weir",
+            "D": "Parabolic weir"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ESE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 461,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_3"
+    },
+    {
+        "question_id": 3,
+        "question_text": "There are no defects in either the theories of Lacey or of Kennedy. Which of the above statements are correct?",
+        "options": {
+            "A": "Land 2 only",
+            "B": "Land 3 only",
+            "C": "2 and 3 only",
+            "D": "1,2 and 3"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ESE 2017 8B YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 461,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_3"
+    },
+    {
+        "question_id": 1,
+        "question_text": "Hydraulic failure : about 40% dam failure due to hydraulic failure. Example of hydraulic failure are :",
+        "options": {
+            "A": "foundation slide",
+            "B": "slide of embankment",
+            "C": "sloughing of D/S toe. 3, Structural failure about 25% failure due to structural failure, Example :",
+            "D": "Erosion of D/S toe. 2, Seepage failure about 1/3 dams failed because of these seasons,"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": null,
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 503,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1"
+    },
+    {
+        "question_id": 1,
+        "question_text": "In a particular catchments area, an accurate estimate of average rainfall can be obtained by:",
+        "options": {
+            "A": "Isohyetal method",
+            "B": "Arithmetic mean method",
+            "C": "Thiessen method",
+            "D": "Normal ratio method Rajasthan JEN (Degree) Shift - IL"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2016 ESE 1995",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 538,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1"
+    },
+    {
+        "question_id": 6,
+        "question_text": "Precipitation caused by lifting of air mass due pressure difference is called.",
+        "options": {
+            "A": "cyclonic precipitation",
+            "B": "convective precipitation",
+            "C": "orographic precipitation",
+            "D": "none of these (BPSC"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "AE Paper VI 2001)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 538,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_6"
+    },
+    {
+        "question_id": 12,
+        "question_text": "5.0m al 25 ol \\ | | 20cm 606060, Foundation Diameter = 20 cm Height = 30 cm above ground level 89, The amount of moisture present in the air expressed as mass per unit volume is:",
+        "options": {
+            "A": "Absolute humidity",
+            "B": "Saturation rate",
+            "C": "Vapour preserve",
+            "D": "All the above Kerala"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "PSC AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 548,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_12"
+    },
+    {
+        "question_id": 3,
+        "question_text": "6x0.5x80 3 =--- m/sec 36 Qp = 4.0 m’/sec 144, A watershed is changed from rural to urban category over a period of time due to development proccss. The cffect of urbanization on storm run-off hydrograph of such watershed.",
+        "options": {
+            "A": "decreases the volume of run-off",
+            "B": "increases the time to peak discharge",
+            "C": "decreases the time base",
+            "D": "decreases the peak discharge [HPPSC"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016-11] 0 YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 553,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_3"
+    },
+    {
+        "question_id": 3,
+        "question_text": "Length of record. 294, Which of the following methods is used to estimate flood discharge based on high water marks left over in the past?",
+        "options": {
+            "A": "An extremely large but physically possible flood in the region",
+            "B": "A flood adopted in design of all hydraulic structures",
+            "C": "Standard project flood of large river",
+            "D": "None of above"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "UJVNL AE 2012 ESE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 571,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_3"
+    },
+    {
+        "question_id": 3,
+        "question_text": "Eutrophication of water bodies is caused hy the:",
+        "options": {
+            "A": "discharge of toxic substances",
+            "B": "excessive discharge of nutrients",
+            "C": "excessive discharge of suspended solids",
+            "D": "excessive discharge of solids TRB Poly, Lect. Tech,"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 607,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_3"
+    },
+    {
+        "question_id": 6,
+        "question_text": "Water distribution systems are sized to meet the:",
+        "options": {
+            "A": "maximum hourly demand",
+            "B": "average hourly demand",
+            "C": "maximum daily demand and fire demand",
+            "D": "average daily demand and fire demand"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "KPTCL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 607,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_6"
+    },
+    {
+        "question_id": 1,
+        "question_text": "8. (i) Maximum daily demand = 1.8 x Avg. daily demand Gi) Maximum hourly demand = 1.5 x Avg. demand hourly of maximum day. (ii) Maximum hourly demand or peak demand = 2.7 x Avg. hourly demand. 12, Population foreeast for determining future water demand is best judged by",
+        "options": {
+            "A": "Arithmetic increase",
+            "B": "Geometrical increase",
+            "C": "Graphically by comparison with similar town",
+            "D": "Ultimate density of population"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE (PWD) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 608,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1"
+    },
+    {
+        "question_id": 3,
+        "question_text": "Jar 4, Turbidity Codes : A B Cc D",
+        "options": {
+            "A": "2 1 4 3",
+            "B": "4 1 2 3",
+            "C": "2 4 1 3",
+            "D": "4 2 1 3"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "BPSC AE Pre 2018 AE Civil Engg. Volume-II 6",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 632,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_3"
+    },
+    {
+        "question_id": 1,
+        "question_text": "70 R. AE Civil Engg. Volume-II 6 714, Which one of the following is not a method of layout of distribution pipes for water distribution systems ?",
+        "options": {
+            "A": "g (b) 9/2",
+            "B": "Pumping system",
+            "C": "g/3 (d) 28/3 Rajasthan VP ITI",
+            "D": "Intermittent system Rajasthan VP ITI"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 685,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1"
+    },
+    {
+        "question_id": 1,
+        "question_text": "100 = 50% 2 1294, The working conditions in Imhoff tanks are AE Civil Engg. Volume-II 7",
+        "options": {
+            "A": "Aerobic only",
+            "B": "Anaerobic only",
+            "C": "Aerobic in lower and anaerobic in upper compartment",
+            "D": "Anaerobic in lower and aerobic in upper compartment [RPSC AE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2018] {IPSC Combined A.E. Paper (VI 2013)] {UPPSC State Eng, A.E, 2011] WBPSC AE (PWD) 1998, Ans ;: (d) An Imhoff tank is an improvement over septic tank, in which the incoming sewage is not allowed to get mixed up with the sludge produced, and_ the| outgoing cfflucnt is to allowed to carry with it large} amount of organic load as in the case of a septic tank. An Imhoff tank is, in fact, at two storeyed tank. They are sometimes also known as Two-storey Digestion tanks.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 747,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1"
+    },
+    {
+        "question_id": 3,
+        "question_text": "The Nagpur road plan formula were prepared. assuming a shape of :",
+        "options": {
+            "A": "Star and Square pattern",
+            "B": "Star and Grid pattern",
+            "C": "Star and Circular pattern",
+            "D": "Star and Rectangular pattern TRB Poly, Lect. Tech."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017 Rajasthan Nagar Nigam AE Shift-2, 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 779,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_3"
+    },
+    {
+        "question_id": 6,
+        "question_text": "72 x10\" AE Civil Engg. Volume-II 8 395, Preliminary project report for a road project must contain",
+        "options": {
+            "A": "the detailed estimated cost based on detailed design",
+            "B": "the several alternatives of the project that have been considered",
+            "C": "the soil survey, traffic survey, concept design and approximate cost",
+            "D": "the contract documents for inviting tenders"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "GUJRAT PSC AE - IT 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 828,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_6"
+    },
+    {
+        "question_id": 3,
+        "question_text": "6 N= ass for 30° parking L-2 , 0 aps N “a for 60° parking 457, The increase in traffic constitutes the",
+        "options": {
+            "A": "Normal traffic growth",
+            "B": "Generated traffic",
+            "C": "Development traffic",
+            "D": "All of these Punjab PSC SDE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 835,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_3"
+    },
+    {
+        "question_id": 3,
+        "question_text": "60 kmph 4, 50 kmph AE Civil Engg. Volume-II x A B Cc D",
+        "options": {
+            "A": "2 1 4 3",
+            "B": "3 1 2 4",
+            "C": "4 1 2 3",
+            "D": "2 4 3 1"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Maharashtra PSC Mains 2018 Paper-2",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 836,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_3"
+    },
+    {
+        "question_id": 6,
+        "question_text": "| Road Construction 689, Critical load position in a rigid pavement design is taken as-",
+        "options": {
+            "A": "interior loading",
+            "B": "edge loading",
+            "C": "corner loading",
+            "D": "interior, edge and corner loading"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "BPSC AE 2016 Paper (VJ) Section-I 0 YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 863,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_6"
+    },
+    {
+        "question_id": 3,
+        "question_text": "Mid night Seed vorer + Fwarping ede = Stress under road surface as per Boussincsq's equation. s, =q(1-cos* 6) Where cos @ ----- vate 697, The dowel bars are provided at-",
+        "options": {
+            "A": "Expansion joint",
+            "B": "Contraction joint",
+            "C": "Both (a) and (b)",
+            "D": "Both (a) and (b) and Longitudinal joint [MPSC"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2015 Paper-II Mains,",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 864,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_3"
+    },
+    {
+        "question_id": 1,
+        "question_text": "25 mm/minute?",
+        "options": {
+            "A": "Concrete road",
+            "B": "Bitumen road",
+            "C": "Gravel road",
+            "D": "Water bound macadam road"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "KPSC AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 872,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1"
+    },
+    {
+        "question_id": 3,
+        "question_text": "The railway station at which a track line meets a main line is called",
+        "options": {
+            "A": "Terrain is hilly",
+            "B": "Number of river crossing are more",
+            "C": "Expected revenue earning is low",
+            "D": "Acquisition of land is difficult"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2015 AE Civil Engg. Volume-II 83 } e e ailway Engineering TT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 886,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_3"
+    },
+    {
+        "question_id": 6,
+        "question_text": "Which of the following is not a major cause of creep in rails?",
+        "options": {
+            "A": "Stopping of train",
+            "B": "Traffic intensity",
+            "C": "Acceleration or deceleration of train",
+            "D": "Excessive rains"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPCL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 886,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_6"
+    },
+    {
+        "question_id": 1,
+        "question_text": "For a bridge haying span more than 150m, the recommended type of bridge is",
+        "options": {
+            "A": "Riveted plate Girder Bridge",
+            "B": "Welded plate Girder Bridge",
+            "C": "Suspension Bridge",
+            "D": "Truss Girder Bridge"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "RPSC AE 2013 Ans ; (c) When a bridge is suspended between end supports with the help of catenary cables across a river, valley etc, it is known as suspension bridge. It is preferred when long spans with length greater than 150 m are built.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 915,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1"
+    },
+    {
+        "question_id": 3,
+        "question_text": "In alluvial streams the well foundation for bridge piers shall have a grip length",
+        "options": {
+            "A": "cantilever-suspension bridge",
+            "B": "cable-stayed bridge",
+            "C": "suspension bridge",
+            "D": "continuous bridge"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "WBPSC AE (PHE) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 915,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_3"
+    },
+    {
+        "question_id": 6,
+        "question_text": "Coffer Dams are:",
+        "options": {
+            "A": "Permanent structures meant for storage of water",
+            "B": "Structures built across drains to act as check dams",
+            "C": "Temporary structures build to reserve water in side to cure foundation concrete",
+            "D": "Temporary structures build to reserve water outside to facilitate construction of foundation"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TSPSC Deputy Engineer 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 915,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_6"
+    },
+    {
+        "question_id": 1,
+        "question_text": "Which movements of the bridge deck will be permitted by an elastomeric bearing?",
+        "options": {
+            "A": "No movement is permitted",
+            "B": "Translation only",
+            "C": "Rotation only",
+            "D": "Both translation and rotation"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TSPSC AEE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 915,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1"
+    },
+    {
+        "question_id": 12,
+        "question_text": "Extradosed bridges combine the characteristics of",
+        "options": {
+            "A": "Suspension bridge with cantilever",
+            "B": "Cable-stayed bridges with conventional hox girder bridges",
+            "C": "Suspension bridge with cable stayed bridge",
+            "D": "Girder bridge with tall towers connecting cables"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "GPSC AE January 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Bridge Engineering",
+        "topic": "Bridge Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 916,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_12"
+    }
+]

@@ -1,0 +1,812 @@
+[
+    {
+        "question_id": 8,
+        "question_text": "Match List-I with List-II and select the correct answer using the codes given below the list: List-I List -I",
+        "options": {
+            "A": "Smith test 1. Frost resistance",
+            "B": "Brard’s test 2. Durability",
+            "C": "Hardness test 3. Devil's",
+            "D": "Attrition test 4. Moh's scale 9"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": null,
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 19,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_8"
+    },
+    {
+        "question_id": 1191,
+        "question_text": "According to the maximum shear stress failure criterion, yielding in material occurs when",
+        "options": {
+            "A": "Maximum shear stress = yield stress",
+            "B": "Maximum shear stress = half of yield stress",
+            "C": "Maximum shear stress = 2 yicld stress",
+            "D": "Maximum shear stress just exceeds the yield stress"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019 ESE 1995",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 598,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1191"
+    },
+    {
+        "question_id": 8,
+        "question_text": "Flexibility method 485, Ima linear elastic structural element",
+        "options": {
+            "A": "Stiffness is directly proportional to flexibility",
+            "B": "Stiffness is inversely proportional to flexibility",
+            "C": "Stiffness is equal Lo flexibility",
+            "D": "Stiffness and flexibility are not related"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "RPSC POLY. TECH. LECT. 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 737,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_8"
+    },
+    {
+        "question_id": 162,
+        "question_text": "In case of pre-stressed concrete tensile strength of concrete in flexure is fo = scores",
+        "options": {
+            "A": "one eight of total thickness of slab",
+            "B": "%4 x depth of slab",
+            "C": "4 x depth of slab",
+            "D": "None of the above"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPSC Poly. Tech. Lect, 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 781,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_162"
+    },
+    {
+        "question_id": 8,
+        "question_text": "524. If a beam fails in bond, it would be best to",
+        "options": {
+            "A": "Increase the depth of beam",
+            "B": "Use thinner but more number of bars",
+            "C": "Use thicker but less number of bars",
+            "D": "Providing vertical slirrups Nagaland PSC CTSE"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2017 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 823,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_8"
+    },
+    {
+        "question_id": 8,
+        "question_text": "532. Ina reinforced concrete beam, if the amount of reinforcement increases, then the",
+        "options": {
+            "A": "depth of neutral axis decreases",
+            "B": "depth of neutral axis increases",
+            "C": "depth of ncutral axis remains constant",
+            "D": "none of the above (UKPSC AE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2012 Paper-I) Ans ; (b) Depth of neutral axis",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 824,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_8"
+    },
+    {
+        "question_id": 8,
+        "question_text": "573. A T-beam behaves like a rectangular beam of width equal to its flange, if neutral axis",
+        "options": {
+            "A": "Remains outside the flange",
+            "B": "Remains within the flange",
+            "C": "Remains below the slab",
+            "D": "Remains anywhere in the web"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "ISRO Scicntist/Enginecr 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 830,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_8"
+    },
+    {
+        "question_id": 8,
+        "question_text": "The above figure shows the load balancing beam for complete load balancing Wp, = W P cos 0=P *. @ is very small ra ( 20) e=0.6m e=600 mm 647, Where is main reinforcement provided in a cantilever beam carrying gravity load?",
+        "options": {
+            "A": "Above the neutral axis",
+            "B": "As vertical stirrups",
+            "C": "Asa helical reinforcement",
+            "D": "Below the neutral axis"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2014 ESE 2004",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 839,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_8"
+    },
+    {
+        "question_id": 1116,
+        "question_text": "The limit state of collapse for prestressed concrete is-",
+        "options": {
+            "A": "Limit state of collapse : Deflection",
+            "B": "Limit state of collapse : Cracking",
+            "C": "Limit state of collapse : Maximum compression",
+            "D": "None of the above"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "Maharashtra PSC (Mains) 2017 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 897,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1116"
+    },
+    {
+        "question_id": 1191,
+        "question_text": "The function of reinforcements in pre-stressed concrete is to",
+        "options": {
+            "A": "Provide sufficient bond",
+            "B": "Resist tensile stresses",
+            "C": "Provide sufficient torsion resistance",
+            "D": "Produce initial compressive stress in concrete in the tension zone"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "TNPSC AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 906,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1191"
+    },
+    {
+        "question_id": 1196,
+        "question_text": "Which of the following pre-stressing system is employed in manufacturing prestressed concrete sleepers for railways?",
+        "options": {
+            "A": "Post-tensioning",
+            "B": "Partial pre-stressing",
+            "C": "Pre-tensioning o",
+            "D": "Pre-tensioning followed by post-tensioning (e) Post-tensioning with accelerated curing"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "CGPSC AE 2014 Shift-I ESE-2005",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 907,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1196"
+    },
+    {
+        "question_id": 1227,
+        "question_text": "Pre-stressed concrete is more desirable in case of cylindrical pipe subjected to :",
+        "options": {
+            "A": "internal fluid pressure",
+            "B": "external fluid pressure",
+            "C": "equal internal and external fluid pressure",
+            "D": "none of the above"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "UKPSC AE (Paper-I) 2007 ESE 1995",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 911,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1227"
+    },
+    {
+        "question_id": 1229,
+        "question_text": "In pre-stressed concrete member, it is advised to use",
+        "options": {
+            "A": "low strength concrete only. 91",
+            "B": "high strength concrete only.",
+            "C": "low strength concrete but high strength steel.",
+            "D": "high strength concrete and high strength steel. (UKPSC AE"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2012 Paper-D)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 911,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1229"
+    },
+    {
+        "question_id": 1245,
+        "question_text": "For the production of pre-tensioned members on large scale, a system usually adoptcd is",
+        "options": {
+            "A": "Gifford Udall System",
+            "B": "Magnel Blaton System",
+            "C": "Hoyer System",
+            "D": "P.S.C Monowire System"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Maharashtra PSC (Mains) 2015 Paper-I OPSC AEE 2015 PAPER-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 913,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1245"
+    },
+    {
+        "question_id": 1246,
+        "question_text": "Pre-stressed concrete members which are designed to allow significant tensile stresses to occur at service loads and such tensile regions are usually additionally reinforced with non-pre- stressed reinforcement are known as a",
+        "options": {
+            "A": "Pre-stressing tension members",
+            "B": "Fully pre-stressing members",
+            "C": "Non-pre-stressing members",
+            "D": "Partial pre-stressing members"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Maharashtra PSC (Mains) 2015 Paper-I 12",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 913,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1246"
+    },
+    {
+        "question_id": 1264,
+        "question_text": "In a pre-stressed concrete member",
+        "options": {
+            "A": "High strength concrete should be used",
+            "B": "Normal strength concrete should be used",
+            "C": "High strength concrete and low tensile steel should be used",
+            "D": "High strength concrete and high tensile steel should be used"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AEE (Mains) 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 916,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1264"
+    },
+    {
+        "question_id": 1267,
+        "question_text": "In the pre-tensioning system, the pre-stress is imparted to concrete by",
+        "options": {
+            "A": "compression",
+            "B": "the bond between steel and concrete",
+            "C": "tension",
+            "D": "bearing"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 916,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1267"
+    },
+    {
+        "question_id": 1283,
+        "question_text": "In pre-stressed concrete",
+        "options": {
+            "A": "forces of tension and compression change but lever arm remains unchanged",
+            "B": "forces of tension and compression remains unchanged but lever arm changes with moment",
+            "C": "both forces of tension and compression as well as lever arm changes",
+            "D": "both forces of tension and compression as well as lever arm remains unchanged"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "ISRO Scientist/Engineer 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 919,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1283"
+    },
+    {
+        "question_id": 1292,
+        "question_text": "Most common method of pre-stressing used for factory production is ;",
+        "options": {
+            "A": "Long line method",
+            "B": "Freyssinet system",
+            "C": "Magnel-Blaton system",
+            "D": "Lee-Macall system"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "OPSC AEE 2019 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 920,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1292"
+    },
+    {
+        "question_id": 1310,
+        "question_text": "The stage at which the tendon force is released on concrete permanently is called",
+        "options": {
+            "A": "Pre-tensioning",
+            "B": "Post-tensioning",
+            "C": "Anchoring",
+            "D": "Transfer UPSC JWM"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 923,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1310"
+    },
+    {
+        "question_id": 1322,
+        "question_text": "In pre-tensioning process of pre-stressing, the tendons are:",
+        "options": {
+            "A": "not bonded to the concrete",
+            "B": "partially bonded to the concrete",
+            "C": "bonded to the concrete",
+            "D": "generally bonded but sometimes can remain unbonded"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPCL AE 2015 ESE-2003 9",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 924,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1322"
+    },
+    {
+        "question_id": 1330,
+        "question_text": "A system usually adopted in the production of pre-tensioned members like railway sleepers, poles, etc. on large scale is ............0",
+        "options": {
+            "A": "Magnel-Blaton system",
+            "B": "P.S.C. Monowire system",
+            "C": "Hoyer system",
+            "D": "Gifford-Udall system"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Maharashtra PSC (Mains) 2019 Paper-I 9",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 925,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1330"
+    },
+    {
+        "question_id": 1333,
+        "question_text": "High tensile bars threaded at the ends are used in:",
+        "options": {
+            "A": "Freyssinet system",
+            "B": "Gifford-Udall system",
+            "C": "Lee-McCall system",
+            "D": "Magnel - Blaton system"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Maharashtra PSC (Mains) 2019 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 925,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1333"
+    },
+    {
+        "question_id": 1342,
+        "question_text": "Pre-stressed concrete is more desirable in case of",
+        "options": {
+            "A": "Cylindrical pipes subjected to internal Muid pressure",
+            "B": "Cylindrical pipes subjected to external fluid pressure",
+            "C": "Cylindrical pipes subjected to equal internal and external fluid pressures",
+            "D": "Cylindrical pipes subjected to end pressures"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "MPPSC AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 926,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1342"
+    },
+    {
+        "question_id": 1355,
+        "question_text": "In pre-stressed concrete why do we prefer M 40 concrete over M 20 concrete?",
+        "options": {
+            "A": "To overcome bursting stresses at the ends",
+            "B": "To avoid brittle failure of concrete",
+            "C": "To eliminate the effect of shrinkage",
+            "D": "To economize the use of cement"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "UPRVUNL AE 2014 ESE-2004",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 928,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1355"
+    },
+    {
+        "question_id": 1360,
+        "question_text": "The primary reason for the use of high strength concrete in prestressed structural clements is that UPRVUNL AE 2014 ESE 1995 or For pre-stressed structural elements, high strength concrete is used primarily because",
+        "options": {
+            "A": "Both shrinkage and creep are more",
+            "B": "Shrinkage is less but creep is more",
+            "C": "Modulus of elasticity and creep values are higher",
+            "D": "Ofhigh modulus of elasticity and low creep"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "UPRVUNL AE 2015 GPSC AE (CLASS 1 & 2) 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 929,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1360"
+    },
+    {
+        "question_id": 1363,
+        "question_text": "In case of pretensioning, tensioning force should be applied",
+        "options": {
+            "A": "gradually and uniformly",
+            "B": "quickly",
+            "C": "in steps",
+            "D": "none of the above"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "WBPSC AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 929,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1363"
+    },
+    {
+        "question_id": 8,
+        "question_text": "Which of the following best defines \"Negative Slack\"?",
+        "options": {
+            "A": "Project ahead of schedule",
+            "B": "Project on schedule",
+            "C": "Project behind schedule",
+            "D": "None of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Maharashtra PSC (Mains) 2017 Paper-I 67",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1068,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_8"
+    },
+    {
+        "question_id": 162,
+        "question_text": "Critical path",
+        "options": {
+            "A": "Is the shortest path",
+            "B": "Had 'null' slack",
+            "C": "Had the maximum slack",
+            "D": "Had the minimum slack Nagaland PSC CTSE"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2017 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1088,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_162"
+    },
+    {
+        "question_id": 8,
+        "question_text": "The system of organization introduced by F.W. Taylor is known as-",
+        "options": {
+            "A": "Effective organization",
+            "B": "Functional organization",
+            "C": "Linc and staff organization",
+            "D": "Line organization"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "MPPSC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1110,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_8"
+    },
+    {
+        "question_id": 162,
+        "question_text": "The most reliable estimate is",
+        "options": {
+            "A": "Detailed estimate",
+            "B": "Preliminary estimate",
+            "C": "Plinth area estimate",
+            "D": "None of these"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "Maharashtra PSC Mains 2012 Paper -2",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Pre-Stressed Concrete Basic",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1127,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_162"
+    }
+]

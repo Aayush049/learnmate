@@ -1,0 +1,577 @@
+[
+    {
+        "question_id": 1348,
+        "question_text": "An idcal flow of a liquid obcys:",
+        "options": {
+            "A": "Continuity equation",
+            "B": "Newton's law of viscosity",
+            "C": "Newton's second law of motion",
+            "D": "Dynamic viscosity law"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "OPSC AEE 2015 PAPER-II",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Noise Pollution",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 354,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1348"
+    },
+    {
+        "question_id": 1377,
+        "question_text": "In an unsteady flow :",
+        "options": {
+            "A": "the velocity changes in magnitude",
+            "B": "_ the velocity changes in direction",
+            "C": "the velocity changes in both magnitude and direction",
+            "D": "the velocity changes in magnitude or direction or both with time"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "UPPSC State Eng. A.E. 2011 Ist Paper;",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Noise Pollution",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 358,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1377"
+    },
+    {
+        "question_id": 1390,
+        "question_text": "With the same cross-sectional area and immersed in same turbulent flow, the largest total drag will be on",
+        "options": {
+            "A": "Acircular disc of plate held normal to flow",
+            "B": "A sphere",
+            "C": "Acylinder",
+            "D": "A streamlined body"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "RPSC A.En-2013 AE Civil Engg. Volume-II 3",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Noise Pollution",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 359,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1390"
+    },
+    {
+        "question_id": 1348,
+        "question_text": "The mixer-grinders, desert coolers exhaust fans, sewing and washing machines are all sources of noise pollution. This pollution is termed as:-",
+        "options": {
+            "A": "Transport pollution",
+            "B": "Industrial pollution",
+            "C": "Pollution from public address system",
+            "D": "Pollution from Household"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "UPPCL AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Noise Pollution",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 753,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1348"
+    },
+    {
+        "question_id": 1353,
+        "question_text": "The noise pollution which produces pain in the heart and narrowing of arteries comes under following effect:-",
+        "options": {
+            "A": "HNO; (b) H2SO4",
+            "B": "Psychological effect",
+            "C": "H,CO3; (d) CH;COOH",
+            "D": "Mental stress effect"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "BPSC AE Aug 2019 Paper-VI",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Noise Pollution",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 753,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1353"
+    },
+    {
+        "question_id": 1377,
+        "question_text": "Increase in pressure cause the sound to :",
+        "options": {
+            "A": "remain unchanged",
+            "B": "remain unchanged up to a certain range",
+            "C": "become weaker",
+            "D": "become louder"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPCL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Noise Pollution",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 755,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1377"
+    },
+    {
+        "question_id": 1390,
+        "question_text": "In a residential house along a highway an effective strategy to control noise level is to :",
+        "options": {
+            "A": "Construct boundary wall around the house",
+            "B": "Placing metal sheets all around the house",
+            "C": "Planting thick bushes all around the house",
+            "D": "Planting trees around the house UPSC JWM"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017 3 YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Noise Pollution",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 756,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1390"
+    },
+    {
+        "question_id": 1516,
+        "question_text": "The noise pollution produced by tractors, thrashers harvesters etc. can be categorized under:-",
+        "options": {
+            "A": "Agricultural machines pollution",
+            "B": "Household pollution",
+            "C": "Transport pollution",
+            "D": "Defense equipment pollution"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPCL AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Noise Pollution",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 771,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1516"
+    },
+    {
+        "question_id": 1526,
+        "question_text": "Which one of the following is the correct sound intensity expression with usual notations?",
+        "options": {
+            "A": "dB = 10 logio(U/)”",
+            "B": "dB = 10 logio(I/Iy)",
+            "C": "dB = 10 logio(I-Iny”",
+            "D": "dB = 10 logio(I-Ip)"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Noise Pollution",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 772,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1526"
+    },
+    {
+        "question_id": 1527,
+        "question_text": "What type of noise can be abated by providing lining in walls and cciling with sound absorbing materials?",
+        "options": {
+            "A": "Source noise",
+            "B": "Reflection noise",
+            "C": "Structural noise",
+            "D": "Direct air borne noise"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Noise Pollution",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 772,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1527"
+    },
+    {
+        "question_id": 1528,
+        "question_text": "Noise pollution in a road side building can be reduced by",
+        "options": {
+            "A": "Providing a ditch around the building and filling it with water",
+            "B": "Providing a steel mesh around the building",
+            "C": "Providing a thick bush around the building",
+            "D": "Planting tall trees around the building and fencing them with barbed wires"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Noise Pollution",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 773,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1528"
+    },
+    {
+        "question_id": 1531,
+        "question_text": "What will be the resultant decibel level when there are 4 sources making noise of equal levels?",
+        "options": {
+            "A": "Decibel level will increase by 4 decibels.",
+            "B": "Decibel levels will remain the same",
+            "C": "Decibel level will increase by 8 decibels",
+            "D": "Decibel level will increase by 6 decibels. BHEL ET"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2019 a Li",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Noise Pollution",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 773,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1531"
+    },
+    {
+        "question_id": 1540,
+        "question_text": "Human beings are most sensitive to sound oscillations with frequencies between",
+        "options": {
+            "A": "100-1000 cycles/sec",
+            "B": "200-2000 cycles/sec",
+            "C": "300-3000 cycles/sec",
+            "D": "400-4000 cycles/sec"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "TNPSC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Noise Pollution",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 774,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1540"
+    },
+    {
+        "question_id": 1543,
+        "question_text": "The following statement is true between Period (P) and frequency (F) of a sound wave :",
+        "options": {
+            "A": "P is inversely proportional to f",
+            "B": "P is Linearly proportional to £",
+            "C": "P is directly proportional to the square of f",
+            "D": "P is directly proportional to f"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Noise Pollution",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 774,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1543"
+    },
+    {
+        "question_id": 1545,
+        "question_text": "The equivalent noise level is significant for the following:",
+        "options": {
+            "A": "Fluctuating noise over different time periods",
+            "B": "Fluctuating noise over constant time periods",
+            "C": "Constant noise over different time period",
+            "D": "Constant noise over same time periods"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Noise Pollution",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 774,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1545"
+    },
+    {
+        "question_id": 1546,
+        "question_text": "Choose the odd-one out from the following noise pollution control means",
+        "options": {
+            "A": "Providing sound proof chambers/coatings for noisy sources",
+            "B": "Use of ear plugs",
+            "C": "Lubrication and maintenance of machinery",
+            "D": "Providing rubber/ncoprene pads at the machine foundations"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Noise Pollution",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 774,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1546"
+    },
+    {
+        "question_id": 1559,
+        "question_text": "Which of the following expression is correct with respect to sound pressure?",
+        "options": {
+            "A": "Sound pressure = Total atmospheric pressure Barometric pressure",
+            "B": "Sound pressure = Total atmospheric pressure + Barometric pressure",
+            "C": "Sound pressure = Total atmospheric pressure x Barometric pressure",
+            "D": "Sound pressure = Total atmospheric pressure / Barometric pressure"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPCL AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Noise Pollution",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 776,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1559"
+    },
+    {
+        "question_id": 1560,
+        "question_text": "Abating of noise effects on mankind cannot be achieved by :",
+        "options": {
+            "A": "Using centrifugal collectors and dynamic precipitators",
+            "B": "Raising obstructions and barriers in between the noise sources and residences",
+            "C": "Raising a thick and high vegetation and tree growing along the sides of roads and railway lines",
+            "D": "Proper town planning techniques"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "UPPCL AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Noise Pollution",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 776,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1560"
+    },
+    {
+        "question_id": 1561,
+        "question_text": "Which of the following receptor organ for hearing is destructed due to noise pollution ?",
+        "options": {
+            "A": "Medulla",
+            "B": "Vena cava",
+            "C": "Cortex",
+            "D": "The organ of corti"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "UPPCL AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Noise Pollution",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 776,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1561"
+    },
+    {
+        "question_id": 1575,
+        "question_text": "What are the time-constants used for sound level meter standards?",
+        "options": {
+            "A": "S$ (Slow) = 1 second F (Fast) = 125 mille seconds",
+            "B": "S (Slow) = 1 second F (Fast) = 225 mille seconds",
+            "C": "8$ (Slow) =2 second F (Fast) = 125 mille seconds",
+            "D": "§ (Slow) =2 second F (Fast) = 225 mille seconds"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Noise Pollution",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 777,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1575"
+    },
+    {
+        "question_id": 1576,
+        "question_text": "Sound absorption means",
+        "options": {
+            "A": "loss of sound energy",
+            "B": "prevention of transmission of sound waves",
+            "C": "prevention of reflection of sound waves",
+            "D": "reduction of sound"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "TNPSC AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Noise Pollution",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 777,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1576"
+    },
+    {
+        "question_id": 1581,
+        "question_text": "The degree of hearing loss depends on the (i) intensity of the noise (ii) Duration of the noise",
+        "options": {
+            "A": "Statement (ii) alone is true",
+            "B": "Statement (i) alone is true",
+            "C": "Both the statements are false",
+            "D": "Statement (i) or (ii) are true"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "DSSSB AE 2019 Intensity of the noise and duration of the noise.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Environmental Engineering",
+        "topic": "Noise Pollution",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 778,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1581"
+    }
+]

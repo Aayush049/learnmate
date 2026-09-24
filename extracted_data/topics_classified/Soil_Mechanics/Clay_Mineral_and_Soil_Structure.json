@@ -1,0 +1,211 @@
+[
+    {
+        "question_id": 525,
+        "question_text": "Mortar is a paste made by mixing",
+        "options": {
+            "A": "lime, surki and water",
+            "B": "lime, sand and water",
+            "C": "cement, sand and water",
+            "D": "all of these"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Clay Mineral & Soil Structure",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 74,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_525"
+    },
+    {
+        "question_id": 24,
+        "question_text": "Which of the following soil structure is possible for cohesionless soils?",
+        "options": {
+            "A": "Single grained structure",
+            "B": "Honey-Comb structure",
+            "C": "Flocculated structure",
+            "D": "Dispersed structure"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "Gujarat PSC AE (N.W.R.) 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Clay Mineral & Soil Structure",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 113,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_24"
+    },
+    {
+        "question_id": 511,
+        "question_text": "The adsorbed film of water",
+        "options": {
+            "A": "affects the physical properties of fine-grained soils",
+            "B": "allows the clay particles to deform plasticity",
+            "C": "has little cffect on the propertics of coarsc- grained soils",
+            "D": "all of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC Assistant Prof. 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Clay Mineral & Soil Structure",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 181,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_511"
+    },
+    {
+        "question_id": 525,
+        "question_text": "A structure which is formed by the disintegration of flocculent structure under super imposed load is called-",
+        "options": {
+            "A": "a single grained structure",
+            "B": "a flocculent structure",
+            "C": "a honeycomb structure",
+            "D": "None of the above"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "IPSC AE 2009",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Clay Mineral & Soil Structure",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 183,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_525"
+    },
+    {
+        "question_id": 24,
+        "question_text": "In an eccentric connection, when the axis of load is lying in the plane of bolted joint, the bolts are subjected to -",
+        "options": {
+            "A": "only shear stresses",
+            "B": "only tensile stresses",
+            "C": "both tensile and shear stresses",
+            "D": "tensile, shear and bending stresses"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Gujarat PSC AE (N.W.R.) 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Clay Mineral & Soil Structure",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 933,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_24"
+    },
+    {
+        "question_id": 525,
+        "question_text": "In case of laterally supported beam, the design bending stress is governed by",
+        "options": {
+            "A": "Lateral torsional buckling",
+            "B": "Shear lag",
+            "C": "Yield stress",
+            "D": "None of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Clay Mineral & Soil Structure",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 994,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_525"
+    },
+    {
+        "question_id": 24,
+        "question_text": "Consider following requirement of documents for agreement to be signed for a construction project : (i) Letter of acceptance (ii) General conditions of contract (iii) Conditions of particular application (iv) Technical specification (v) Drawings (vi) Priced bill of quantities Which one of the following is correct answer ?",
+        "options": {
+            "A": "(i), (ii), (iv) and (v) only",
+            "B": "(i), (iii), (iv) and (v) only",
+            "C": "(Gi), ii), (iv) and (v) only",
+            "D": "All"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "Rajasthan JEn (Degree) 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Clay Mineral & Soil Structure",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1071,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_24"
+    },
+    {
+        "question_id": 24,
+        "question_text": "The total cost of the project depends much on",
+        "options": {
+            "A": "Area of the building",
+            "B": "Specification of material",
+            "C": "Specification of labour",
+            "D": "Specification of both material and labour"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "TNPSC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Clay Mineral & Soil Structure",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1112,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_24"
+    }
+]

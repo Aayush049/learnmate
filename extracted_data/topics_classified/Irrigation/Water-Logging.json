@@ -1,0 +1,608 @@
+[
+    {
+        "question_id": 897,
+        "question_text": "The angle of intersection of a curve is the angle between the",
+        "options": {
+            "A": "back tangent and forward tangent",
+            "B": "prolongation of back tangent and long chord",
+            "C": "forward tangent and long chord",
+            "D": "back tangent and long chord"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GUJRAT PSC AE - 11.2017 Ans ; (a) WRIA Back tangent ‘i Forward tangent 6 Where, A= Angle of deflection a= Angle of intersection AE Civil Engg. Volume-II L",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water-Logging",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 137,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_897"
+    },
+    {
+        "question_id": 873,
+        "question_text": "The Strouhal number is defined as : fd dv MF ies y ‘a © ® @ ¥ g c where, f = vortex shedding frequency; d = cylinder diameter, V= free steam velocity and c = lecal velocity of sound. [HPPSC 2016-H] Ans, (a) : Strouhal number is defined as =. It is dimensionless number describing oscillating flow mechanism. 874, Consider the following for a hydraulic jump a prismatic channel, (i) The specific energy decreases due to jump formation (ii) The specific energy increases after the jump (iii) The specific energy increases due to jump formation (iv) The specific force remains constant Of these statement :",
+        "options": {
+            "A": "Only (i) is correct",
+            "B": "Only (it) is correct",
+            "C": "Both (i), (iv) are correct",
+            "D": "Both (ii) and (iii) are correct [HPPSC"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016-1,",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water-Logging",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 289,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_873"
+    },
+    {
+        "question_id": 878,
+        "question_text": "Hydraulic jump oceurs when flow changes from:",
+        "options": {
+            "A": "Super-critical to sub-critical",
+            "B": "Sub-critical to super-critical",
+            "C": "Critical to turbulent",
+            "D": "Laminar to turbulent"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water-Logging",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 290,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_878"
+    },
+    {
+        "question_id": 884,
+        "question_text": "In the case of open channel flow if the flow is laminar, which of the following is correct?",
+        "options": {
+            "A": "Reynolds number < 500",
+            "B": "Reynolds number > 500",
+            "C": "Reynolds number <",
+            "D": "Reynolds number > 4000 Kerala"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "2000",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water-Logging",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 291,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_884"
+    },
+    {
+        "question_id": 886,
+        "question_text": "Manning's formula is used for the analysis of the problems of",
+        "options": {
+            "A": "flow through channels",
+            "B": "flow through pipes",
+            "C": "head loss due to friction in channel",
+            "D": "head loss due to friction in pipe"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "TNPSC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water-Logging",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 291,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_886"
+    },
+    {
+        "question_id": 896,
+        "question_text": "The formula for the head loss in conduits is generally known as (where notations carry their usual meanings):",
+        "options": {
+            "A": "Hazen - William's formula",
+            "B": "Manning's formula",
+            "C": "All of the above options Haryana",
+            "D": "Nikuradse formula"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PSE AE Papcr-2 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water-Logging",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 293,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_896"
+    },
+    {
+        "question_id": 920,
+        "question_text": "Ina circular pipe, the co-efficient of friction for a laminar flow is given by : - 64 . 46 @ fe () fe = 8 . 16",
+        "options": {
+            "A": "0.75222 R (b) 0.57222R",
+            "B": "Hydraulic gradient line is below free surface",
+            "C": "0.27555R (d) 0.22275R",
+            "D": "Hydraulic gradient line coincides with free surface Rajasthan AE (Nagar Nigam)"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "LMRC AM 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water-Logging",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 296,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_920"
+    },
+    {
+        "question_id": 873,
+        "question_text": "The process of making unfertile barren land as fertile land is called :",
+        "options": {
+            "A": "Soil conservation",
+            "B": "Land reclamation",
+            "C": "Gully erosion",
+            "D": "Afforestation"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "TNPSC AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water-Logging",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 527,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_873"
+    },
+    {
+        "question_id": 874,
+        "question_text": "The crop yicld is considerably reduced in a waterlogged areca duc to the adverse effects of water logging. Which of the following CANNOT be an adverse effect of water logging in the context of crop yield?",
+        "options": {
+            "A": "Accumulation of salts",
+            "B": "Weed growth",
+            "C": "Difficully in cultivation operations",
+            "D": "Presence of soil aeration"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "DMRC AM 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water-Logging",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 527,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_874"
+    },
+    {
+        "question_id": 877,
+        "question_text": "Which of the following is NOT measure for prevention of water-logging?",
+        "options": {
+            "A": "Encouraging economical use of water",
+            "B": "Cloud seeding for improving rainfall",
+            "C": "Reducing percolation from irrigation channels",
+            "D": "Increasing out flow from the ground water reservoir"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "IRCON AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water-Logging",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 528,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_877"
+    },
+    {
+        "question_id": 878,
+        "question_text": "Which of the following may lead to water logging of the fields",
+        "options": {
+            "A": "Poor drainage",
+            "B": "Excessive seepage form nearby reservoirs",
+            "C": "Over irrigation",
+            "D": "All the above"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "WBPSC AE 2003",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water-Logging",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 528,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_878"
+    },
+    {
+        "question_id": 880,
+        "question_text": "Water logging is the state of the soil where",
+        "options": {
+            "A": "The water table is brought very near of the ground surface",
+            "B": "The water table is at decp depth",
+            "C": "The moisture in the soil is beyond the reach of plant roots",
+            "D": "None of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE 2003",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water-Logging",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 528,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_880"
+    },
+    {
+        "question_id": 884,
+        "question_text": "Weeds in surface drains leads to",
+        "options": {
+            "A": "increase in the valuc of cocfficicnt of rugosity",
+            "B": "reduced resistance of low",
+            "C": "increase in command area",
+            "D": "improved waterway"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "WBPSC AE (Irrigation) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water-Logging",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 529,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_884"
+    },
+    {
+        "question_id": 885,
+        "question_text": "Water logging",
+        "options": {
+            "A": "improve soil operation",
+            "B": "is good for tillage operation",
+            "C": "minimum soil aeration",
+            "D": "removes water weeds"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "WBPSC AE (Irrigation) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water-Logging",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 529,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_885"
+    },
+    {
+        "question_id": 886,
+        "question_text": "Herring bone layout of drainage system is effective",
+        "options": {
+            "A": "In rolling topography",
+            "B": "When the land slopes in one side",
+            "C": "When the land to be drained is a hilly terrain",
+            "D": "When the drain is laid in a digression"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE (Irrigation) 1998 main central pipe. The pipe runs down a slope and at acute angles with numcrous latcral pipes connecting to it. This type of design is popular with large general amenity playing ficlds and big rectangular lawns.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water-Logging",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 529,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_886"
+    },
+    {
+        "question_id": 887,
+        "question_text": "Surface drains are designed for",
+        "options": {
+            "A": "secpage flow and storm run-off",
+            "B": "storm run-off only",
+            "C": "storm run-off and surface flow resulting from excess irrigation",
+            "D": "excess irrigation flow only"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE (Irrigation) 1998 Surface drainage involves the removal of excess water from the surface of the soil. This is done by removing low spots where water accumulates by land forming or by excavating ditches or a combination of the two.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water-Logging",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 529,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_887"
+    },
+    {
+        "question_id": 893,
+        "question_text": "The preventive measure adopted to reclaim a water logged area is?",
+        "options": {
+            "A": "Electrical conductivity method",
+            "B": "Evaporation method",
+            "C": "pH-value",
+            "D": "SAR value"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water-Logging",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 530,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_893"
+    },
+    {
+        "question_id": 896,
+        "question_text": "An area is known as waterlogged, when",
+        "options": {
+            "A": "area is full of salinity",
+            "B": "drainage by gravity stops",
+            "C": "water evaporation stops",
+            "D": "_ none of the above [UK"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PSC AE paper IT 2013/ U.K. Combined A E Paper II 2012] Ans ; (b) An agricultural land is said to be water logged| when its productivity or fertility is affected by high water table. The land fill will by waterlogged when the| water table is within 1.5m to 2.1 m below the ground]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water-Logging",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 530,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_896"
+    },
+    {
+        "question_id": 905,
+        "question_text": "Which one of the following is not a remedial measure for watcr logging?",
+        "options": {
+            "A": "Good drainage for irrigated land",
+            "B": "Conjunctive use of water in the basin",
+            "C": "Lining of canals and watercourses",
+            "D": "Contour bonding (JPSC Combined"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "AE Paper VI 2013) Ans ; (d) Contour bonding is the farming practice of| planting across a slope following its elevation contour",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water-Logging",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 531,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_905"
+    },
+    {
+        "question_id": 908,
+        "question_text": "Defective air circulation in plant's root zone is an effect of",
+        "options": {
+            "A": "Mixed cropping",
+            "B": "Fall in soil moisture content",
+            "C": "Water logging",
+            "D": "High temperature"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "APPSC AE 2016 (Mains)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water-Logging",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 532,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_908"
+    },
+    {
+        "question_id": 920,
+        "question_text": "Which of the following statement is wrong ?",
+        "options": {
+            "A": "Seepage drains reduces the chance of water logging",
+            "B": "The water table generally follows the ground surface above it with a few exceptions",
+            "C": "At the water table the hydrostatic pressure is zero",
+            "D": "Water logging makes the land more productive Nagaland PSC CTSE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017 Paper-II",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water-Logging",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 533,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_920"
+    },
+    {
+        "question_id": 922,
+        "question_text": "A land is said to be water logged when",
+        "options": {
+            "A": "The air circulation is stopped in the root zone duc to rise in water table",
+            "B": "It is submerged in flood.",
+            "C": "The soil pores with in a depth of 40 cm are saturated",
+            "D": "All of the above Nagaland PSC CTSE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017 Paper-II air circulation is stopped in the root zone due to rise in water table.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water-Logging",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 533,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_922"
+    },
+    {
+        "question_id": 923,
+        "question_text": "The infertility of the soil in water logged areas is due to:",
+        "options": {
+            "A": "Inhibiting activity of the soil bacteria",
+            "B": "Growth of weeds",
+            "C": "Increasing of harmful salts",
+            "D": "All of these Nagaland PSC CTSE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017 Paper-II",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water-Logging",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 533,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_923"
+    }
+]

@@ -1,0 +1,129 @@
+[
+    {
+        "question_id": 251,
+        "question_text": "The magnitude of the buoyant force can be determined by",
+        "options": {
+            "A": "Newton's Law of viscosity",
+            "B": "Principle of moments",
+            "C": "Archimedes principle",
+            "D": "Bernoulli's principle"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "UPPSC State Eng. AE. 2008,",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Buoyancy and Floatation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 195,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_251"
+    },
+    {
+        "question_id": 268,
+        "question_text": "The body will float if the force of buoyancy is seeeeeee the weight of the liquid displaced.",
+        "options": {
+            "A": "Equal to",
+            "B": "Less than",
+            "C": "More than",
+            "D": "Equal and less than to (e) None of these options Haryana"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "PSE AE Paper-2 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Buoyancy and Floatation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 198,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_268"
+    },
+    {
+        "question_id": 279,
+        "question_text": "The line of action of the buoyant foree acts through the-",
+        "options": {
+            "A": "centroid of the volume of any floating body",
+            "B": "centroid of the displaced volume of fluid",
+            "C": "centroid of the horizontal projection of the body",
+            "D": "centre of gravity of any submerged body"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Gujarat PSC AE (N.W.R.) 2020 ISRO Scientist/Engineer 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Buoyancy and Floatation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 200,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_279"
+    },
+    {
+        "question_id": 303,
+        "question_text": "Centre of buoyancy is",
+        "options": {
+            "A": "the point through which the submerged weight of the body acts",
+            "B": "the point thoroughly which the buoyant force acts",
+            "C": "the point through which the resultant hydrostatic force acts",
+            "D": "the centre of gravity of the liquid displaced by the body Arunachal Pradesh Poly, Tech. Lect."
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Buoyancy and Floatation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 204,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_303"
+    },
+    {
+        "question_id": 258,
+        "question_text": "The meta centric height of a floating body:",
+        "options": {
+            "A": "is the distance between the meta centre of buoyancy",
+            "B": "is the distance between the meta centre and centre of gravity",
+            "C": "does not control the stability of a floating body",
+            "D": "is the same about longitudinal and transverse axis"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "GPSC R&B AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Buoyancy and Floatation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 407,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_258"
+    }
+]

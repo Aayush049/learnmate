@@ -1,0 +1,896 @@
+[
+    {
+        "question_id": 626,
+        "question_text": "The vertical distance between any two consecutive contours is known as: KPSC AE 2016",
+        "options": {
+            "A": "Contour line",
+            "B": "Contour gradient",
+            "C": "Horizontal equivalent",
+            "D": "Contour interval"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": null,
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 103,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_626"
+    },
+    {
+        "question_id": 732,
+        "question_text": "By the method of repetition, the observational crrors, climinatcd are :",
+        "options": {
+            "A": "Line of Collimation error",
+            "B": "Trunnion axis error",
+            "C": "Graduational crror",
+            "D": "Parallax error [UPPSC State Eng. A.E."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2007(D] error, climinated arc line of collimation crror. AE Civil Engg. Volume-II Ls",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 116,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_732"
+    },
+    {
+        "question_id": 750,
+        "question_text": "Tacheometric surveying",
+        "options": {
+            "A": "Eliminates error",
+            "B": "Eliminates curvature effect",
+            "C": "Eliminates chaining",
+            "D": "Eliminates refraction effect"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "TNPSC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 119,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_750"
+    },
+    {
+        "question_id": 762,
+        "question_text": "Total station is used for-",
+        "options": {
+            "A": "Remote object height determination",
+            "B": "Establishing horizontal control",
+            "C": "Establishing vertical control",
+            "D": "All of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "MPSC (Mains) 2017 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 120,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_762"
+    },
+    {
+        "question_id": 785,
+        "question_text": "Permanent adjustments of a theodolite deals with",
+        "options": {
+            "A": "maintenance of theodolite from dust",
+            "B": "maintaining the telescope from moisture",
+            "C": "Maintaining the relationships between fundamental lines",
+            "D": "Maintenance and preservation of theodolite"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2019 lines as per no error occurs. To make the axis of the} plate level perpendicular to the vertical axis, the following procedure is adopted prior to the first adjustment.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 123,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_785"
+    },
+    {
+        "question_id": 711,
+        "question_text": "A convergent divergent nozzle is used when the discharge pressure is",
+        "options": {
+            "A": "less than the critical pressure",
+            "B": "equal to the critical pressure",
+            "C": "more than the critical pressure",
+            "D": "at normal pressure Arunachal Pradesh Poly. Tech. Lect."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 264,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_711"
+    },
+    {
+        "question_id": 737,
+        "question_text": "Statement (1) : When flow through a pipeline is measured through fixing a venturimeter, the computed flow will not be sensitive to the alignment of the centre line of the sct-up- horizontal or sloping, up or down, along the flow direction. Statement (II) : The difference in the readings on the manometer limhs is by itself always adjusted for the ratio of the densities of the two liquids- the manometer liquid and the liquid whose flow rate is being measured-in the development of the formula for computing the discharge.",
+        "options": {
+            "A": "Both Statement-I and Statement-If are individually true and Statement-Il is the correct explanation of Statement-I",
+            "B": "Both Statement-I and Statement-II are individually true and Statement-I] is NOT the correct explanation of Statement-I",
+            "C": "Statement-I is true but Statement-II is false.",
+            "D": "Statement-I is false but Statement-II is true."
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "ESE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 268,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_737"
+    },
+    {
+        "question_id": 750,
+        "question_text": "Barrage differs from Weir when",
+        "options": {
+            "A": "major part by gates and minimum or nil part by shutters",
+            "B": "equal part of pounding by both crest and gates",
+            "C": "minimum or nil part of pounding by gates and major part by crest",
+            "D": "major part of pounding by gates and minimum or nil part of crest"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 270,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_750"
+    },
+    {
+        "question_id": 779,
+        "question_text": "The maximum velocity through a circular canal takes place when the depth of flow is equal to",
+        "options": {
+            "A": "0.95 times the diameter",
+            "B": "0.50 times the diameter",
+            "C": "0.81 limes the diameter",
+            "D": "0.30 times the diameter"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "JPSC COMBINED AE PAPER VI 2013 WBPSC AE (MCD) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 274,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_779"
+    },
+    {
+        "question_id": 785,
+        "question_text": "A reetangular channcl scction will be most efficient when",
+        "options": {
+            "A": "Hydraulic radius is cqual to half the depth of flow",
+            "B": "Hydraulic radius is equal to the depth of flow",
+            "C": "Depth of flow is equal to the bottom width",
+            "D": "Depth of flow is equal to half the hydraulic radius"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "RPSC VPITI-2012 1 YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 274,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_785"
+    },
+    {
+        "question_id": 626,
+        "question_text": "From practical construction point of view, earthen dams are :",
+        "options": {
+            "A": "below the crest level",
+            "B": "just at the crest level",
+            "C": "above crest level",
+            "D": "_ at same elevation as water surfaces on upstream [UPPSC State Eng. A.E."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2008] Ans ; (c) When the water level on the downstream side of a weir is above the top surface of weir, it is known as submerged or drowned weir. Ju -h) H h crest",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 493,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_626"
+    },
+    {
+        "question_id": 721,
+        "question_text": "The main function of a sand column to :",
+        "options": {
+            "A": "prevent the escape of fine soils by seepage water",
+            "B": "reduce damage due to liquefaction on of saturated granular soils during earthquakes",
+            "C": "reduce seepage of water through the body of the earth dams",
+            "D": "facilitate the drainage of watcr through the body of the earth dams"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 507,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_721"
+    },
+    {
+        "question_id": 725,
+        "question_text": "In a hydro electric scheme which of the following is used to carry water from storage reservoir to the power house?",
+        "options": {
+            "A": "forebay",
+            "B": "intake structure",
+            "C": "draft tube",
+            "D": "penstocks Kerala"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PSC AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 507,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_725"
+    },
+    {
+        "question_id": 732,
+        "question_text": "In the overflowing water is guided smoothly over the crest and profile of the spillway-",
+        "options": {
+            "A": "Straight drop Spillway",
+            "B": "Ogee Spillway",
+            "C": "Tunnel Spillway",
+            "D": "Siphon Spillway [MPSC"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2015 Paper-II Mains]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 509,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_732"
+    },
+    {
+        "question_id": 762,
+        "question_text": "Leakage through the transverse joints in a gravity dam is prevented by :",
+        "options": {
+            "A": "Shear keys",
+            "B": "Key ways",
+            "C": "Water stops",
+            "D": "Proper instrumentation (e) Joint sealants"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "CGPSC AE Shift - 2 2014 AE Civil Engg. Volume-II 5",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 513,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_762"
+    },
+    {
+        "question_id": 721,
+        "question_text": "The water supply system means",
+        "options": {
+            "A": "The entire scheme of collection and disposal of liquid waste",
+            "B": "Construction of reservoirs",
+            "C": "Construction of canals",
+            "D": "The complete layout from the source of supply to the distribution system Nagaland"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "PSC Paper-II 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 686,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_721"
+    },
+    {
+        "question_id": 725,
+        "question_text": "In a water supply line scour valve is provided at:",
+        "options": {
+            "A": "End point of pipeline",
+            "B": "Highest point of pipeline",
+            "C": "Lowest point of pipeline",
+            "D": "None of these"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "GPHC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 687,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_725"
+    },
+    {
+        "question_id": 737,
+        "question_text": "In connection line from water main to building, goose-neck is provided to",
+        "options": {
+            "A": "quickly open or stop the flow to building",
+            "B": "avoid stresses and strains on the joint due to temperature variations and vibrations",
+            "C": "detect Icakages in pipe linc",
+            "D": "to provided additional connections in future"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AE 2016 (Mains)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 688,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_737"
+    },
+    {
+        "question_id": 779,
+        "question_text": "In regard to waste water treatment, the characterization of non-biodegradable organic is usually done in terms of :",
+        "options": {
+            "A": "total oxygen demand",
+            "B": "biological oxygen demand",
+            "C": "chemical oxygen demand",
+            "D": "dissolved oxygen"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "CIL MT 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 692,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_779"
+    },
+    {
+        "question_id": 785,
+        "question_text": "Statement (I): Proximate analysis of MSW is carried out to determine moisture content, volatile matter, and fixed carbon. Statement (II): Ultimate analysis of MSW is carried out to determine the full range of chemical composition and the energy value. Which of the following is CORRECT?",
+        "options": {
+            "A": "Both statements - [I and statements-II are individually truc and statement-IT is the correct explanation of statement- I",
+            "B": "Both statements - [ and statements-II are individually true and statement-II is the NOT correct explanation of statement- I",
+            "C": "Statement- | is true but Statement-I] is false.",
+            "D": "Statement- 1 is false but Statement-II is true."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ESE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 693,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_785"
+    },
+    {
+        "question_id": 626,
+        "question_text": "Which of the following pavement can he used, for construction on black cotton soils?",
+        "options": {
+            "A": "Flexible pavement",
+            "B": "Scmi-flexible pavement",
+            "C": "Rigid pavement",
+            "D": "Semi-Rigid pavement"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE March 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 856,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_626"
+    },
+    {
+        "question_id": 695,
+        "question_text": "The road surface should be",
+        "options": {
+            "A": "stable",
+            "B": "All of three mentioned here",
+            "C": "impervious",
+            "D": "durable GWSSB AAE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 864,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_695"
+    },
+    {
+        "question_id": 711,
+        "question_text": "Prime coat is provided to promote adhesion between",
+        "options": {
+            "A": "subgrade and base",
+            "B": "granular course and bituminous course",
+            "C": "binder course and wearing course",
+            "D": "cxisting and new wearing coursc"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "WBPSC AE 2007",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 866,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_711"
+    },
+    {
+        "question_id": 715,
+        "question_text": "Tack coat is provided",
+        "options": {
+            "A": "Benkelman Beam equipment",
+            "B": "Plate-bearing equipment",
+            "C": "Compression machine and \"Marshall\" test- head equipment",
+            "D": "CBR machine"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE (PHE) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 866,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_715"
+    },
+    {
+        "question_id": 718,
+        "question_text": "Rolling on a pavement in straight and plain area Shall start from",
+        "options": {
+            "A": "5H point of the carriageway and proceed towards center and edge",
+            "B": "middle of the carriageway and proceed towards edge",
+            "C": "edge of the carriageway and proceed towards center",
+            "D": "ord point of the carriageway and proceed towards center and edge"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE (PHE) 1998 a3 YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 866,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_718"
+    },
+    {
+        "question_id": 725,
+        "question_text": "Which one of the following is the correct statement? On a national highway, GSB may be used as",
+        "options": {
+            "A": "sub-base and drainage layer",
+            "B": "drainage layer and prime coat",
+            "C": "wearing course and drainage layer",
+            "D": "sub-base and tack coat"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "BPSC AE Aug 2019 Paper-VI",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 867,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_725"
+    },
+    {
+        "question_id": 732,
+        "question_text": "For the construction of water bound macadam roads, the correct sequence of operations after spreading the coarse aggregate is",
+        "options": {
+            "A": "dry rolling, wet rolling, application of sercening and application of filler",
+            "B": "dry rolling, application of filler, wet rolling and application of serccning",
+            "C": "dry rolling, application of screening, wet rolling and application of filler",
+            "D": "dry rolling, application of screening, application of filler and wet rolling"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "APPSC AEE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 868,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_732"
+    },
+    {
+        "question_id": 735,
+        "question_text": "The sub-base course is placed immediately ahove the",
+        "options": {
+            "A": "wearing course",
+            "B": "none of three mentioned here",
+            "C": "sub-grade",
+            "D": "base GWSSB AAE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 868,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_735"
+    },
+    {
+        "question_id": 737,
+        "question_text": "‘Thickness of a pavement may be reduced considerably by :",
+        "options": {
+            "A": "compaction of soil",
+            "B": "stabilization of soil",
+            "C": "drainage of soil",
+            "D": "combination of all the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "KPTCL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 868,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_737"
+    },
+    {
+        "question_id": 749,
+        "question_text": "The position of base course in a flexible pavement is",
+        "options": {
+            "A": "Below the sub-base",
+            "B": "Over the sub-base",
+            "C": "Over the sub-grade but below sub-base",
+            "D": "Over the wearing course when renewal of surface is needed [RPSC VPITI-2012] (BPSC"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "AE Paper VI 05.12.2012)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 870,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_749"
+    },
+    {
+        "question_id": 750,
+        "question_text": "A water bound macadam road is an example of",
+        "options": {
+            "A": "Rigid pavement",
+            "B": "Semi rigid pavement",
+            "C": "Flexible pavement",
+            "D": "None of these [RPSC ACF -"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2011]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 870,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_750"
+    },
+    {
+        "question_id": 762,
+        "question_text": "The essential difference between rigid and flexible pavements is :",
+        "options": {
+            "A": "Distribution of load over sub-grade",
+            "B": "Distribution of load over sub-base",
+            "C": "Materials used",
+            "D": "Thickness of layers"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 872,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_762"
+    },
+    {
+        "question_id": 779,
+        "question_text": "Which of the following is an INCORRECT statement with respect to the characteristics and design factors of rigid and _ flexible pavements?",
+        "options": {
+            "A": "The lower layers of the flexible pavements face lesser magnitudes of stresses when compared to the pavement surface directly under the wheel load.",
+            "B": "The flexible pavement layers may reflect the non-recoverable as well as recoverable deformations of the lower layers including the subgrade on to the upper layers and also pavement surface AE Civil Engg. Volume-II x",
+            "C": "Rigid pavements does not get deformed to the shape of supporting layer below it",
+            "D": "The stresses in rigid pavements are analyzed using plastic theory, assuming the pavement is resting over a rigid surface"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPCL AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 874,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_779"
+    },
+    {
+        "question_id": 785,
+        "question_text": "Select the incorrect statement :",
+        "options": {
+            "A": "Contraction Joints are spaced closer than expansion joints",
+            "B": "longitudinal joints are provided in cement concrete roads to prevent longitudinal cracking",
+            "C": "Dowel bars are provided in longitudinal joints",
+            "D": "Warping joints arc provided to relieve stresses induced due to warping UP Jal Nigam AE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Pavement Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 875,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_785"
+    }
+]

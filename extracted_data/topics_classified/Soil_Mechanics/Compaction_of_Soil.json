@@ -1,0 +1,825 @@
+[
+    {
+        "question_id": 696,
+        "question_text": "Test carried out to determine tensile strength of concrete is called",
+        "options": {
+            "A": "split test or Brazilian test",
+            "B": "Vee-Bee test",
+            "C": "triaxial loading test",
+            "D": "compression test"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPSC AE January 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 93,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_696"
+    },
+    {
+        "question_id": 698,
+        "question_text": "The most undesirable properties of water used for making concrete of mortar are:",
+        "options": {
+            "A": "by the number of cement bags used in a batch",
+            "B": "by the nominal volume of conercte that can be mixed in a batch",
+            "C": "by the volume of water used",
+            "D": "by the volume of aggregate used"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 93,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_698"
+    },
+    {
+        "question_id": 700,
+        "question_text": "Which of these statements are correct for bleeding of concrete leads?",
+        "options": {
+            "A": "Only A (b) Only A and B",
+            "B": "Formation of pores inside",
+            "C": "Only Aand C (d) Only B and D",
+            "D": "Decrease in strength"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 93,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_700"
+    },
+    {
+        "question_id": 751,
+        "question_text": "Timber can be made reasonably fire-resistant by-",
+        "options": {
+            "A": "Soaking it in ammonium Sulphate",
+            "B": "Coating it with Tar paint",
+            "C": "Pumping creosote oil into timber high pressure",
+            "D": "Seasoning process"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Maharashtra PSC 2017 (I) Mains ESE 2002",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 99,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_751"
+    },
+    {
+        "question_id": 766,
+        "question_text": "Which of the following are the examples of Industrial Timber? G@) Veneers (ii) Plywood (iii) Block Board (iv) Impreg Timber",
+        "options": {
+            "A": "the outer bark and inner bark",
+            "B": "the inner bark and sap wood",
+            "C": "the sap wood and heart wood",
+            "D": "the pith and heart wood Karnataka"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PSC AE 2017 Paper - I UIVNL AE 2016 ESE 2005, 2016 Kerala PSC AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 101,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_766"
+    },
+    {
+        "question_id": 835,
+        "question_text": "Match list I with list [1 in question and select the correct answer by using code given below: List T List IT",
+        "options": {
+            "A": "1 2 3 4",
+            "B": "3 2 4 1",
+            "C": "4 L 2 3",
+            "D": "1 3 2 4"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "PTCUL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 108,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_835"
+    },
+    {
+        "question_id": 64,
+        "question_text": "The degree of compaction for sand is usually defined in terms of ;",
+        "options": {
+            "A": "Relative density",
+            "B": "Standard Proctor test",
+            "C": "Modified Proctor test",
+            "D": "Nuclear density meter (RRB SSE Secundrabad (Shift-I), 01.09.2015)"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": null,
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 117,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_64"
+    },
+    {
+        "question_id": 692,
+        "question_text": "Match the pairs-",
+        "options": {
+            "A": "Gi) i) (ii) (iv)",
+            "B": "ii) (ii) (iv) (i)",
+            "C": "(iv) (vy) (ii) (iii)",
+            "D": "Gv) Gi) (ii) (iii) [MPSC"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2015 Paper-II Mains,",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 207,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_692"
+    },
+    {
+        "question_id": 693,
+        "question_text": "In a typical compaction curve as indicated in the diagram, points 'A' and 'B' have dry densities. Choose the most appropriate statement from the following- Ya a MDD ‘A B OMC % moisture content 2",
+        "options": {
+            "A": "Soil at 'A’ will have more swelling potential and less shrinking upon moisture-variation, compared to 'B'",
+            "B": "Soil at ‘A’ will have same swelling and shrinking potential as soil at 'B'",
+            "C": "Soil at 'A' will have less swelling potential and higher shrinking potential compared with soil at \"BI",
+            "D": "The swelling-shrinking potential for soil at'A' and 'B' cannot be predicted with the given data"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "MPSC (Mains) 2017 Paper-IT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 207,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_693"
+    },
+    {
+        "question_id": 695,
+        "question_text": "Match the ficld cquipment Drum roller (Kk), Rubber tyre roller (L), Sheep foot roller (M), Vibratory roller (N) with corresponding laboratory equipment Vibratory compaction (P), Impact compaction (Q), Kneading compaction (R). Static compaction (S) :",
+        "options": {
+            "A": "K-S; L-R; M-Q; N -P",
+            "B": "K-S; L-Q; M-R; N-P",
+            "C": "K-R; L-S; M-Q; N-P",
+            "D": "K-R; L-Q; M-S; N-P /HPPSC AE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016] 7",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 207,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_695"
+    },
+    {
+        "question_id": 696,
+        "question_text": "If the unit weight (y) of sand and clay samples are increased hy 10% which of the following is true ?",
+        "options": {
+            "A": "More volume reduction occurs in sand",
+            "B": "More volume reduction occurs in clay",
+            "C": "Equal volume reduction in sand and clay",
+            "D": "Volume reduction is independent of y [HPPSC AE"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2016;",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 208,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_696"
+    },
+    {
+        "question_id": 698,
+        "question_text": "The following soils are compacted at the same compactive effort in the field. Which one of the following is the correct sequence in the increasing order of their maximum dry density?",
+        "options": {
+            "A": "Clay < Silty clay < Sand < Gravel sand clay mixture",
+            "B": "Silty clay < Sand < Gravel Sand clay mixture < Clay",
+            "C": "Sand < Gravel sand < clay mixture < Clay < Silty Clay",
+            "D": "Sand < Clay < Silty Clay < Gravel sand clay mixture"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 208,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_698"
+    },
+    {
+        "question_id": 700,
+        "question_text": "When there is a reduction in amplitude over every cycle of vibration, then the body is said to have",
+        "options": {
+            "A": "all fine - grained material",
+            "B": "all types of soils except sand",
+            "C": "sand and gravels only",
+            "D": "semi cohesive soils"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "TNPSC AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 208,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_700"
+    },
+    {
+        "question_id": 710,
+        "question_text": "Compaction is a process of",
+        "options": {
+            "A": "rearrangement of soil particles by dynamic pressure",
+            "B": "rearrangement of soil particles by static pressure",
+            "C": "decrease in pore watcr without replacement by air",
+            "D": "changes in water content without change in volume"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "ASSAM PSC CCE (PRE) 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 209,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_710"
+    },
+    {
+        "question_id": 751,
+        "question_text": "The maximum dry density upon which any soil can be compacted depends upon :",
+        "options": {
+            "A": "moisture content only",
+            "B": "amount of compaction energy only",
+            "C": "both moisture content and amount of compaction cnergy",
+            "D": "none of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PSPCL AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 215,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_751"
+    },
+    {
+        "question_id": 766,
+        "question_text": "‘The degree of compaction obtained in the field is measured by",
+        "options": {
+            "A": "relative compaction",
+            "B": "maximum density 21",
+            "C": "80 (d) None of the above",
+            "D": "bulk density TRB Poly, Tech, Lect."
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "UKPSC (Urban engineering)-2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 217,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_766"
+    },
+    {
+        "question_id": 786,
+        "question_text": "Optimum moisture content is defined as the water content corresponding to:",
+        "options": {
+            "A": "Minimum void ratio",
+            "B": "Maximum dry density",
+            "C": "Minimum scttlement",
+            "D": "Maximum shear strength"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PTCUL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 220,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_786"
+    },
+    {
+        "question_id": 790,
+        "question_text": "Following statements are made on compacted soils, where in DS stands for the soils compacted on dry side of optimum moisture content and WS stands for the soils compacted on wet side of optimum moisture content. Identify the incorrect statement.",
+        "options": {
+            "A": "Soil structure is flocculated on DS and dispersed on WS",
+            "B": "Construction pore water pressure is low on DS and high on WS",
+            "C": "On drying, shrinkage is high on DS and low on WS",
+            "D": "On access to water, swelling is high on DS and low on WS"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE January 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 220,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_790"
+    },
+    {
+        "question_id": 804,
+        "question_text": "Shecpfoot rollers used for soils compaction are most suitable for :",
+        "options": {
+            "A": "Clean coarse grained soil with 4-8% passing 75 micron sieve",
+            "B": "Coarse grained soil with less than 12% passing 75 micron sieve",
+            "C": "Coarse grained soils with less than 4-8% passing 75 micron passing",
+            "D": "Pavement subgrades (e) Fine-grained soils with more tan 20% passing 200 micron sieve"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "CGPSC AE Shift - 2 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 222,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_804"
+    },
+    {
+        "question_id": 808,
+        "question_text": "With the increase in the moisture content, the strength of compacted clayey soils generally",
+        "options": {
+            "A": "Decreases",
+            "B": "Remains constant",
+            "C": "Increases",
+            "D": "Does not depend on the moisture content"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 223,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_808"
+    },
+    {
+        "question_id": 833,
+        "question_text": "The water content corresponding to the maximum dry density is called the",
+        "options": {
+            "A": "KiA (b) iZyor : o¢ og @ Oxdz @ 62? WBPSC AE 2012",
+            "B": "Degree of saturation",
+            "C": "Optimum moisture content",
+            "D": "Consistency index"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 226,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_833"
+    },
+    {
+        "question_id": 835,
+        "question_text": "Compaction refers to a process by which compression is effected due to",
+        "options": {
+            "A": "Expulsion of water from voids",
+            "B": "Shear failure",
+            "C": "Dilatancy",
+            "D": "Reduction of air voids"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 226,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_835"
+    },
+    {
+        "question_id": 51,
+        "question_text": "Liquefaction of sand is-",
+        "options": {
+            "A": "Sand enhance ils shear strength due to oscillatory motion",
+            "B": "Sand looses its shear strength due to oscillatory motion",
+            "C": "Sand enhances its bearing capacity due to oscillatory motion",
+            "D": "None of above"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "UKPSC AE 2013 Paper-T",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 768,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_51"
+    },
+    {
+        "question_id": 693,
+        "question_text": "Bearing stiffeners are provided",
+        "options": {
+            "A": "0.7L (b) 0.85 L",
+            "B": "At the ends of plate girder and on both faces of the web",
+            "C": "L (d) 1.3L",
+            "D": "At the points of concentrated loads, to protect the web from the direct compressive loads"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "ISRO Scientist/Engineer 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1013,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_693"
+    },
+    {
+        "question_id": 696,
+        "question_text": "The thickness of the column basc plate is determined from",
+        "options": {
+            "A": "Shear strength of the plate",
+            "B": "Flexural strength of the plate",
+            "C": "Punching shear strength",
+            "D": "Bearing strength of the plate"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "APTRANSCO AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1014,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_696"
+    },
+    {
+        "question_id": 698,
+        "question_text": "The best arrangement to provide unified behaviour in built up column is by:",
+        "options": {
+            "A": "lacing",
+            "B": "battening",
+            "C": "tie plate",
+            "D": "perforated cover plate"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "WBPSC Poly Lect. 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1014,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_698"
+    },
+    {
+        "question_id": 700,
+        "question_text": "The splicing of a column becomes neecssary, where :",
+        "options": {
+            "A": "The available length of structural steel section is less than the required length of the column.",
+            "B": "Section remains same throughout at all floors",
+            "C": "Only riveted columns are to be designed",
+            "D": "Spliccs should be designed to carry axial loads only"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "ESE 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1014,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_700"
+    },
+    {
+        "question_id": 751,
+        "question_text": "The design wind speed depends upon- (1) risk coefficient (2) topography of the area (3) size of the structure of the above",
+        "options": {
+            "A": "(1), (2) are correct",
+            "B": "(2), (3) are correct",
+            "C": "(3), () are correct",
+            "D": "(1), (2) and (3) are correct"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "RPSC VPITI 2012 Ans ; (d) The pressure exerted due to wind load depends upon size, shape and location of structure. It also depends upon risk coefficient which varies with type of building.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1020,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_751"
+    },
+    {
+        "question_id": 766,
+        "question_text": "Ina stecl roof truss, if angle iron purlin is used its depth should not be Iess than",
+        "options": {
+            "A": "1/60 * span of purlin",
+            "B": "1/45 = span of purlin",
+            "C": "1/60 x spacing of purlin",
+            "D": "1/45 x spacing of purlin (BPSC AE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2012 Paper-V) 20",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1021,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_766"
+    },
+    {
+        "question_id": 51,
+        "question_text": "Which is a right sequencing of processes in overall management system?",
+        "options": {
+            "A": "Conception, Time resource analysis, Feasibility study, Monitoring Updating and Scheduling",
+            "B": "Conception, Feasibility study, Scheduling, Time resource analysis, Monitoring and Updating",
+            "C": "Conception, Monitoring, updating, Feasibility stud, Time resource analysis and Scheduling",
+            "D": "Feasibility study, Conception, Scheduling, Time resource analysis, Monitoring and Updating"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1074,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_51"
+    },
+    {
+        "question_id": 51,
+        "question_text": "Assertion (A) : Earnest money deposit is usually 1% to 2% of the total estimated cost of the work. Reasoning (R) : Earnest money deposit prevents unnecessary and unhealthy competition.",
+        "options": {
+            "A": "Both (A) and (R) are true",
+            "B": "Both (A) and (R) are false",
+            "C": "(A) is true and (R) is false",
+            "D": "(A) is false and (R) is true"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Maharashtra PSC Mains 2018 Paper-2",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Compaction of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1115,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_51"
+    }
+]

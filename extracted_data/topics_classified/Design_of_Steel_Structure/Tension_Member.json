@@ -1,0 +1,27 @@
+[
+    {
+        "question_id": 250,
+        "question_text": "A lug angle",
+        "options": {
+            "A": "increases the joint length and shear lag",
+            "B": "increases the shear lag",
+            "C": "reduces the joint length and shear lag",
+            "D": "reduces only the shear lag"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "TNPSC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Tension Member",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 959,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_250"
+    }
+]

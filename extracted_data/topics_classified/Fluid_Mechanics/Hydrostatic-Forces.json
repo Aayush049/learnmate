@@ -1,0 +1,83 @@
+[
+    {
+        "question_id": 290,
+        "question_text": "‘The observed bearings of a traverse are given below : [ie [ae [B. | Bc | 100°15\" 28115\" fp. | pe | 322%45' 142945? The station(s) most likely to be affected by local attraction is/are",
+        "options": {
+            "A": "In line AB FB -- BB - 40°27'- 220°27 - 180° so stations A and B are free from local attraction.",
+            "B": "In linc BC FB -BB = 100°15'- 281°15'= 181° # 180° Line BC is affected by local attraction but station B is free from local attraction by AB line so only station 'C' is affected.",
+            "C": "In line CD FB - BB = 210°17'- 30°27’ = 179°50' # 180° Line CD is affected by local attraction.",
+            "D": "In linc DE FB - BB = 322°45' - 142°45'= 180° So stations D and E are free from local attraction. So in affected CD line D station is free from local attraction, therefore only 'C' station is affected by local attraction. 8 YCT"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": null,
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Hydrostatic-Forces",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 58,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_290"
+    },
+    {
+        "question_id": 290,
+        "question_text": "With reference to the containers of different shapes having the same base area and filled with the same liquid for equal depths, the apparent contradiction in the hydrostatic force on the base of a liquid container and the weight of liquid in the container is known as",
+        "options": {
+            "A": "D! Alembert's paradox",
+            "B": "Hydrodynamic paradox",
+            "C": "Elevator paradox",
+            "D": "Hydrostatic paradox"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "APPSC AEE MAINS 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Hydrostatic-Forces",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 202,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_290"
+    },
+    {
+        "question_id": 296,
+        "question_text": "As the depth of immersion of vertical plane surface increases the location of center of pressure-",
+        "options": {
+            "A": "comes closer to the center of gravity of area",
+            "B": "moves apart from the center of gravity of area",
+            "C": "Vv (d) Vv",
+            "D": "remains unaffected"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "KPTCL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Hydrostatic-Forces",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 203,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_296"
+    }
+]

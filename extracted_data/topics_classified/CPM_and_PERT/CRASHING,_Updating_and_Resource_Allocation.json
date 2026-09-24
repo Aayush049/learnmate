@@ -1,0 +1,56 @@
+[
+    {
+        "question_id": 75,
+        "question_text": "Dampness in a building is caused by:",
+        "options": {
+            "A": "Rain water",
+            "B": "Ground moisture",
+            "C": "Defective construction",
+            "D": "Any of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UIVNL AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "CRASHING, Updating & Resource Allocation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1046,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_75"
+    },
+    {
+        "question_id": 75,
+        "question_text": "Resource smoothing is :",
+        "options": {
+            "A": "An optimization and economical utilization of resources",
+            "B": "An adjustment of resources with-out affecting project duration",
+            "C": "A gradual increase in resources",
+            "D": "A gradual decrease in resources"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ESE 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "CRASHING, Updating & Resource Allocation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1077,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_75"
+    }
+]

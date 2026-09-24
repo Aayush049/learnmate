@@ -1,0 +1,499 @@
+[
+    {
+        "question_id": 1117,
+        "question_text": "The strength of a soil is usually identified by",
+        "options": {
+            "A": "direct tensile stress",
+            "B": "direct compressive stress",
+            "C": "ultimate shear stress",
+            "D": "_ effective stress"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "GUJRAT PSC AE - II 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Analysis of Pre-Stress And Bending Stresses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 269,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1117"
+    },
+    {
+        "question_id": 1192,
+        "question_text": "Which of the following statements is/are correct?",
+        "options": {
+            "A": "Quick condition and liquefaction of saturated sands are based on similar phenomenon",
+            "B": "Quick condition is with only earth dams",
+            "C": "Liquefaction is possible in dry sand also",
+            "D": "All of the above Chandigarh AE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Analysis of Pre-Stress And Bending Stresses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 280,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1192"
+    },
+    {
+        "question_id": 1188,
+        "question_text": "The principal plane of a stressed body is the plane where",
+        "options": {
+            "A": "normal stress and tangential stress the maximum",
+            "B": "there is no normal stress",
+            "C": "there is no tangential stress",
+            "D": "magnitude of normal stress is equal to that of tangential stress"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE (Common) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Analysis of Pre-Stress And Bending Stresses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 598,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1188"
+    },
+    {
+        "question_id": 1189,
+        "question_text": "At a point in clastic medium normal stresses in two mutually perpendicular directions arc 120 MPa, 40 MPa (both tensile) associated with a tangential stress of 30 MPa. The principal stresses at the locations are . 5!",
+        "options": {
+            "A": "120 MPa, 40 MPa (both tensile)",
+            "B": "130 MPa, 30 MPa (both tensile)",
+            "C": "130 MPa, 30 MPa (both compressive)",
+            "D": "130 MPa (tensile), 30 MPa (compressive)"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "TSPSC Deputy Engineer 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Analysis of Pre-Stress And Bending Stresses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 598,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1189"
+    },
+    {
+        "question_id": 1117,
+        "question_text": "The designed prestressed concrete element should satisfy the limits specificd for permissible stresses at transfer stage as well as service condition. The prestressing force 'P' and eccentricity 'e' evaluated from those limits are-",
+        "options": {
+            "A": "Maximum value of '' and maximum value of e",
+            "B": "Maximum value of 'P and minimum value of ¢",
+            "C": "Minimum value of 'P' and maximum value of e",
+            "D": "Minimum value of 'P' and minimum value of ¢"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "Maharashtra PSC (Mains) 2017 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Analysis of Pre-Stress And Bending Stresses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 897,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1117"
+    },
+    {
+        "question_id": 1188,
+        "question_text": "If the loading on a pre-stressed rectangular beam is uniformly distributed, and supported at either ends, the tendon to be provided should he",
+        "options": {
+            "A": "straight below centroidal axis",
+            "B": "parabolic with convexity downward",
+            "C": "parabolic with convexity upward",
+            "D": "straight above centroidal axis"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Analysis of Pre-Stress And Bending Stresses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 906,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1188"
+    },
+    {
+        "question_id": 1189,
+        "question_text": "If the tendon is placed at an eccentricity 'e' below the centroidal axis along the longitudinal axis of a rectangular beam (sectional modulus 7 and stressed load P in tendon) the stress at the extreme top edge",
+        "options": {
+            "A": "is increased by Py e",
+            "B": "is increase by Be Zz",
+            "C": "is decrease by Fe Z",
+            "D": "remains unchanged"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Analysis of Pre-Stress And Bending Stresses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 906,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1189"
+    },
+    {
+        "question_id": 1190,
+        "question_text": "The locus of the point of application of the resultant force at any given section of a pre- stressed concrete beam is the",
+        "options": {
+            "A": "Elastic line",
+            "B": "Pressure linc or thrust linc",
+            "C": "Cline",
+            "D": "P line"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Analysis of Pre-Stress And Bending Stresses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 906,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1190"
+    },
+    {
+        "question_id": 1192,
+        "question_text": "A simply supported pre-stressed concrete beam is expected to carry uniformly distributed load, The tendons should preferably be TNPSC AE 2018 ESE-2011, 2001 OR If the loading on a simply supported pre- stressed concrete beam is uniformly distributed, the centroid of tendons should be preferably",
+        "options": {
+            "A": "a circular profile with convexity upward",
+            "B": "a straight profile below the centroidal axis",
+            "C": "a parabolic profile with convexity downward",
+            "D": "a straight profile along the centroidal axis"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Gujarat PSC AE 2017 ESE-2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Analysis of Pre-Stress And Bending Stresses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 906,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1192"
+    },
+    {
+        "question_id": 1202,
+        "question_text": "What is the correct order of increase in ultimate moment of resistance of I. Pre-tension section II. Post-tension bonded section IIL. Post-tension unbounded section, keeping all other parameters same.",
+        "options": {
+            "A": "I, ILand III",
+            "B": "UL Mandl",
+            "C": "IL Wand1",
+            "D": "All sections will have same UMR"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "Maharashtra PSC AE (Mains) 2012 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Analysis of Pre-Stress And Bending Stresses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 908,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1202"
+    },
+    {
+        "question_id": 1205,
+        "question_text": "Principal tensile stresses at any section and at any fiber in a pre-stressed concrete beam are influenced by",
+        "options": {
+            "A": "Horizontal pre-stress in concrete",
+            "B": "Vertical pre-stress in concrete",
+            "C": "Shear stress in concrete",
+            "D": "All of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Maharashtra PSC AE (Mains) 2012 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Analysis of Pre-Stress And Bending Stresses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 908,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1205"
+    },
+    {
+        "question_id": 1256,
+        "question_text": "In a pre-tensioned pre-stressed concrete cross- section, Statement 1 : The stress in wires is assumed to be zero at the end supports and increases to its final maximum yalue over its transmission length, Statement 2 : The bond stress between concrete and pre-stressed wires is maximum near the end supports and decreases to nearly zero over its transmission length,",
+        "options": {
+            "A": "Statements 1 and 2 are true",
+            "B": "Statement | is truc and statement 2 is false",
+            "C": "Statement | is false and statement 2 is truc",
+            "D": "Statement | and 2 are false"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "Maharashtra PSC (Mains) 2017 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Analysis of Pre-Stress And Bending Stresses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 915,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1256"
+    },
+    {
+        "question_id": 1286,
+        "question_text": "A concrete beam pre-stressed with a parabolic tendon is shown in the sketch. The eccentricity of the tendon is measured from the centroid of the cross scction. The applicd pre-stressing force at service is 1620KN, The uniformly distributed load of 45 KN/m includes self weight. The stress (in N/mm’) in the bottom fiber at Mid Span is",
+        "options": {
+            "A": "Tension 2.94",
+            "B": "Compression 2.94",
+            "C": "Tensile 4.32",
+            "D": "Compression 4.32"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ISRO Scientist/Engineer 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Analysis of Pre-Stress And Bending Stresses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 920,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1286"
+    },
+    {
+        "question_id": 1287,
+        "question_text": "The propagation of Shear Crack in pre- stressed concrete member depends on",
+        "options": {
+            "A": "Tensile Reinforcement",
+            "B": "Compression Reinforcement",
+            "C": "Shear reinforcement",
+            "D": "Shape of the Cross-section of beam"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "ISRO Scientist/Engineer 2013",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Analysis of Pre-Stress And Bending Stresses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 920,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1287"
+    },
+    {
+        "question_id": 1288,
+        "question_text": "The ultimate moment capacity of a simply supported PSC beam is determined using",
+        "options": {
+            "A": "Forec and moment equilibrium conditions",
+            "B": "Stress and strain relationship of concrete and steel",
+            "C": "Moment equilibrium and compatibility condition",
+            "D": "Force equilibrium equation alone"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APTRASCO 2017 ESE 1999",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Analysis of Pre-Stress And Bending Stresses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 920,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1288"
+    },
+    {
+        "question_id": 1300,
+        "question_text": "Prestressing force transmitted to concrete as initial stress to counteract the internal stress developed duc to external loads is called OR The pre-stressed concrete is considered as a combination of steel and concrete, with steel taking tensile force passing through the tendon and concrete taking compressive force passing through the C.G. of stress distribution so that the two material form a resisting couple to resist external moment. This concept is called as",
+        "options": {
+            "A": "Stress concept",
+            "B": "Strength conecpt",
+            "C": "Force concept",
+            "D": "Load balancing concept"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "Maharashtra PSC Mains 2018 Paper-1 Maharashtra PSC AE (Mains) 2012 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Analysis of Pre-Stress And Bending Stresses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 921,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1300"
+    },
+    {
+        "question_id": 1334,
+        "question_text": "In a prestressed concrete beam, the ratio of applied prestressing force (P) to the concrete capacity of the section in compression is known as",
+        "options": {
+            "A": "Moment ratio (R)",
+            "B": "Eccentricity ratio (€)",
+            "C": "Reinforcement ratio (m)",
+            "D": "Efficiency factor (p)"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Maharashtra PSC (Mains) 2019 Paper-I 4",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Analysis of Pre-Stress And Bending Stresses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 925,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1334"
+    },
+    {
+        "question_id": 1343,
+        "question_text": "Consider the following two statements, in the context of a post-tensioned beam of fixed cross- section: Statement I: Bursting tensile forces will affect the end zone reinforecment Statement IT: Bursting tensile forces increase with increase in the size of the bearing plate Which of the following is CORRECT?",
+        "options": {
+            "A": "Both Statement I and Statement II are truc",
+            "B": "Statement | is false, but Statement IT is truc",
+            "C": "Both Statement I and Statement II and false",
+            "D": "Statement | is true, but Statement II is false"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "UPPCL AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Analysis of Pre-Stress And Bending Stresses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 927,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1343"
+    },
+    {
+        "question_id": 1358,
+        "question_text": "For estimating ultimate strength in flexure of a prestressed beam, the stress block in concrete",
+        "options": {
+            "A": "should be parabolic",
+            "B": "should be parabolic-rectangular",
+            "C": "should be rectangular",
+            "D": "may be of any shape which provides agreement with the test data"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2014 ESE 2001",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Analysis of Pre-Stress And Bending Stresses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 928,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1358"
+    }
+]

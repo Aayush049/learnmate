@@ -1,0 +1,54 @@
+[
+    {
+        "question_id": 124,
+        "question_text": "Reverse curves are provided on the routes when the two straight lines are :-",
+        "options": {
+            "A": "Perpendicular to each other",
+            "B": "Meeting at an obtuse angle",
+            "C": "Parallel or meeting at a very small acute angle",
+            "D": "None of the above [UKPSC A E Paper I"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2013]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Traction and Tractive Resistance",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 794,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_124"
+    },
+    {
+        "question_id": 124,
+        "question_text": "Which one of the following statement is correct regarding Journal friction?",
+        "options": {
+            "A": "Caused due to the wave action of rails",
+            "B": "The amount does not depend upon the type of bearing",
+            "C": "For roller bearings, it varies from 0.5 to 1.0 kg per tonne",
+            "D": "For coupled boxes, it lubricates by hard grease from 0.5 kg to 1.0 kg per tonne"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ESE 2020 2 YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Traction and Tractive Resistance",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 926,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_124"
+    }
+]

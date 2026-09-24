@@ -1,0 +1,159 @@
+[
+    {
+        "question_id": 828,
+        "question_text": "In geodetical observations, the correction for refraction is",
+        "options": {
+            "A": "subtractive to both the angle of clevation and the angle of depression",
+            "B": "additive to both the angle of elevation and the angle of depression",
+            "C": "subtractive to the angle of elevation and additive to the angle of depression",
+            "D": "additive to the angle of elevation and subtractive to the angle of depression"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Maharashtra PSC Mains 2012 Paper -2",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Tunnel Engineering",
+        "topic": "Tunnel Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 128,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_828"
+    },
+    {
+        "question_id": 1000,
+        "question_text": "Asthenosphere is the",
+        "options": {
+            "A": "plastic layer of the mantle",
+            "B": "layer beneath the mesosphere",
+            "C": "topmost layer of hydrosphere",
+            "D": "bottommost layer of the mantle"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPSC AE June 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Tunnel Engineering",
+        "topic": "Tunnel Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 152,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1000"
+    },
+    {
+        "question_id": 1000,
+        "question_text": "When compared to a horizontal surface, the hydraulic jump on a sloping glacis is always:",
+        "options": {
+            "A": "Less definite but more efficient",
+            "B": "Less definite and less efficient",
+            "C": "More definite and more efficient",
+            "D": "More definite and less efficient"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Tunnel Engineering",
+        "topic": "Tunnel Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 308,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1000"
+    },
+    {
+        "question_id": 828,
+        "question_text": "In a meandering river reach, the deepest river portions will be available at :",
+        "options": {
+            "A": "the outer edges of meander loop",
+            "B": "at the mid of the river cross section",
+            "C": "the crossings",
+            "D": "the inner cdgcs of meander loop"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "UPPCL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Tunnel Engineering",
+        "topic": "Tunnel Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 521,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_828"
+    },
+    {
+        "question_id": 828,
+        "question_text": "Match the List I (Shape of Tunncl) with List II Characteristics): List 1",
+        "options": {
+            "A": "house sewer (b) intercepting sewer",
+            "B": "L 2 3 4",
+            "C": "lateral sewer (d) none of the above",
+            "D": "4 ] 2 1"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC Poly, Tech. Lect. 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Tunnel Engineering",
+        "topic": "Tunnel Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 697,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_828"
+    },
+    {
+        "question_id": 1000,
+        "question_text": "In station yard, maximum limit of gradicnt is fixed as | in 400 and minimum gradient recommended is 1 in 1000 for easy drawing of rain waters. 219, In a railway line project, a tunnel has to be constructed when",
+        "options": {
+            "A": "Specified gradicnt is impossible to maintain on mountains",
+            "B": "The route along mountains is too long",
+            "C": "There is congested city on ground",
+            "D": "All of the above [UPPSC State Eng. A.E."
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2007(1)]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Tunnel Engineering",
+        "topic": "Tunnel Engineering",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 914,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1000"
+    }
+]

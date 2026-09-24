@@ -1,0 +1,291 @@
+[
+    {
+        "question_id": 723,
+        "question_text": "Membrane curing of conerete is adopted",
+        "options": {
+            "A": "Indian climate",
+            "B": "when time for curing is limited",
+            "C": "when structure is heavily reinforced",
+            "D": "when mass production is done is factories"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "WBPSC AE (Common) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Vertical Stressess",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 96,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_723"
+    },
+    {
+        "question_id": 723,
+        "question_text": "An elastic medium carries at its surface a uniform load of 10 t/m? (~ 100 Kpa) covering a rectangular area of 4m x 3m. Find the vertical pressure at a depth of 5m below the center and corner of the loaded area. Assume influence factor of equal Quadrant is 0.0474 and influence factor for the point located at the corner of loaded area is 0.1247",
+        "options": {
+            "A": "moist silty sand",
+            "B": "well graded dry sand",
+            "C": "clay of medium compressibility",
+            "D": "_ silt of high compressibility"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "APTRASCO 2017 GPSC Poly. Tech. Lect. 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Vertical Stressess",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 211,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_723"
+    },
+    {
+        "question_id": 881,
+        "question_text": "From the following statements, sclect the most appropriate statement- Westergaard's analysis for stress computation within soil mass assumes.",
+        "options": {
+            "A": "Point load at the surface and soil being homogeneous and isotropic",
+            "B": "Line load at the surface and soil being homogeneous and non-isotropic",
+            "C": "Point load at the surface and soil being homogeneous and non-isotropic",
+            "D": "Line load at the surface an soil being non- homogeneous and isotropic I[MPSC"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2015 Paper-II Mains] = Medium is assumed to be homogeneous, semi infinite, elastic and non isotropic. => Medium is consider rigid horizontally and elastic vertically.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Vertical Stressess",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 232,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_881"
+    },
+    {
+        "question_id": 886,
+        "question_text": "An isobar is a line which connects all points below the ground surface at which",
+        "options": {
+            "A": "The local ground elevation is same",
+            "B": "The settlement is same",
+            "C": "The vertical stress is the same",
+            "D": "The ground clevation is varying Nagaland"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PSC Paper-II 2017 ESE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Vertical Stressess",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 233,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_886"
+    },
+    {
+        "question_id": 978,
+        "question_text": "The maximum vertical stress oceurs when the angle made by the polar ray attains a value corresponding to value of 5 equal to",
+        "options": {
+            "A": "39° 13'53.5\" and 0.817",
+            "B": "39° 13'53.5\" and 0.488",
+            "C": "33° 33' 33\" and 0.817",
+            "D": "33° 33'33\" and 1.000"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Maharashtra PSC Mains 2012 Paper -2 18",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Vertical Stressess",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 248,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_978"
+    },
+    {
+        "question_id": 985,
+        "question_text": "As the depth of the stress isobar increases, the intensity of stress",
+        "options": {
+            "A": "Increases",
+            "B": "Decreases",
+            "C": "Remains constant",
+            "D": "Initially decreases and then increases"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "TANGEDCO AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Vertical Stressess",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 250,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_985"
+    },
+    {
+        "question_id": 1017,
+        "question_text": "The general Boussinesq equations for determining stress below soil considers :",
+        "options": {
+            "A": "Concentrated load",
+            "B": "Cyclic load",
+            "C": "Uniformly varying load",
+            "D": "Uniformly distributed load"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "UPPCL AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Vertical Stressess",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 254,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1017"
+    },
+    {
+        "question_id": 1040,
+        "question_text": "In Boussinesq's solution to the problem of stress distribution, all the following assumptions are made, except:",
+        "options": {
+            "A": "Soil is anisotropic",
+            "B": "Soil mass is semi-infinite",
+            "C": "Soil is homogeneous",
+            "D": "The elastic modulus of soil is constant"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "NPCC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Vertical Stressess",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 258,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1040"
+    },
+    {
+        "question_id": 1127,
+        "question_text": "Statement (I): The stresses and strains in a soil mass depend on the _ stress-deformation characteristics, anisotropy and non- homogeneity of the soil and also on the boundary conditions. Statement (I): Boussinesq’s theory of stress distribution in soils deals with layered soils only.",
+        "options": {
+            "A": "Both Statements-I and Statement-II are individually true and Statement-II is the correct explanation of Statement-L",
+            "B": "Both Statements-l and Statement-I] are individually true but Statement-Il is NOT the correct explanation of Statement-I",
+            "C": "Statement-I is true but Statement-II is false.",
+            "D": "Statement-I is false but Statement-II is true."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ESE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Vertical Stressess",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 271,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1127"
+    },
+    {
+        "question_id": 1411,
+        "question_text": "In using a Newmark’s chart, the loaded area is drawn to scales equal to",
+        "options": {
+            "A": "The depth scale shown in the chart",
+            "B": "the width scale shown in the chart",
+            "C": "the area scale shown in the chart",
+            "D": "any convenient scale depending on intensity of load"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "JPSC Combined AE Paper V 2013",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Vertical Stressess",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 312,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1411"
+    },
+    {
+        "question_id": 723,
+        "question_text": "Inthe equation V, = V,k,k,k,k, which is used for calculating the design wind speed V, at any height z, which factor(s) is/are denoted by ky 10",
+        "options": {
+            "A": "Topography factor",
+            "B": "Terrain, height and structure size factor",
+            "C": "Probability factor",
+            "D": "Stability factor"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "GPSC AE Dee 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Vertical Stressess",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1017,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_723"
+    }
+]

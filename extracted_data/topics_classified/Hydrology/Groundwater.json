@@ -1,0 +1,158 @@
+[
+    {
+        "question_id": 496,
+        "question_text": "The force exerted by the fluid on a pipe bend for x direction, R, is given a",
+        "options": {
+            "A": "Cylindrical Shape",
+            "B": "Convergent Shape",
+            "C": "Divergent Shape",
+            "D": "Convergent - Divergent Shape Rajasthan JEN (Degree) Shift - IT"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Groundwater",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 234,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_496"
+    },
+    {
+        "question_id": 508,
+        "question_text": "To avoid an interruption in flow of a syphon, an air vessel is provided-",
+        "options": {
+            "A": "At the summit",
+            "B": "At the inlet",
+            "C": "At the outlet",
+            "D": "At any point between inlet and outlet"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UKPSC AE 2013 Paper-I Ans ; (a) To avoid interruption in flow of a syphon, an air vessel is provided at the summit. Energ less (.5V'28) 6 pon $ (Summit point) VY Vite HG. D\\WEEEE Siphon,",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Groundwater",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 478,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_508"
+    },
+    {
+        "question_id": 496,
+        "question_text": "The storage coefficient of a well is defined as the:",
+        "options": {
+            "A": "discharge per unit draw down ofa well",
+            "B": "measure of water that can be removed by pumping",
+            "C": "limit of withdrawal from well without depletion of the aquifer",
+            "D": "draw down per unit discharge of the well"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "APPSC Poly. Tech. Lect. 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Groundwater",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 599,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_496"
+    },
+    {
+        "question_id": 497,
+        "question_text": "An aquicludc is",
+        "options": {
+            "A": "A non artesian aquifer",
+            "B": "An artesian aquifer",
+            "C": "A solid impermeable layer underlying or overlying an aquifer",
+            "D": "A large underground water body"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ISRO Scientist/Engineer 2015 Ans ; (c) : Aquiclude- An aquiclude is a geological formation which is impermeable to the flow of water or a solid impermeable laycr underlying or overlying an aquifer. ex.- Clay Aquifuse ex.- Gravel, sand or silt. Aquitard ex- Clay, shale silty clays.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Groundwater",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 599,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_497"
+    },
+    {
+        "question_id": 498,
+        "question_text": "Specific capacity of a well",
+        "options": {
+            "A": "Decreases with the diameter",
+            "B": "Increases with the discharge rate",
+            "C": "Varies linearly with the drawdown",
+            "D": "Decreases with time from the start of pumping (e) Is the same for all wells irrespective of their design"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "CGPSC AE Shift - 2 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Groundwater",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 599,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_498"
+    },
+    {
+        "question_id": 508,
+        "question_text": "In a confined aquifer, One of the following condition occurs-",
+        "options": {
+            "A": "Water surface under the ground is at atmospheric pressure",
+            "B": "Water is under pressure between two impervious strala",
+            "C": "Water table scrvcs as upper surface of zonc of saturation.",
+            "D": "None of the above (UTTRAKHAND AE"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2013,",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Groundwater",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 600,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_508"
+    }
+]

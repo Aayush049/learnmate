@@ -1,0 +1,451 @@
+[
+    {
+        "question_id": 73,
+        "question_text": "One of the basic principles of survey is fixing a point in relation to the points already located. The two measurements from the located points can consist which of the following:",
+        "options": {
+            "A": "AandE (b) A, Band C",
+            "B": "A line and an angle",
+            "C": "B,C and D (d) AandD",
+            "D": "An elevation and an angle E, Two elevations"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "LMRC AM 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Track Stress and Creep",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 29,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_73"
+    },
+    {
+        "question_id": 130,
+        "question_text": "In triangulation, the best shape of a triangle from the following is",
+        "options": {
+            "A": "isosceles with base angle 56°14\"",
+            "B": "isosecles with base angle 65°14\"",
+            "C": "isosceles with base angle 36°14'",
+            "D": "isosceles with base angle 76°14'"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "APPSC AE 2016 (Mains)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Track Stress and Creep",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 36,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_130"
+    },
+    {
+        "question_id": 49,
+        "question_text": "Pascal-second is the unit of",
+        "options": {
+            "A": "Pressure",
+            "B": "Kinematic viscosity",
+            "C": "Dynamic viscosity",
+            "D": "Surface tension"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Track Stress and Creep",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 166,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination"
+        ],
+        "global_id": "Civil_AE_2_complete.json_49"
+    },
+    {
+        "question_id": 208,
+        "question_text": "Which of the following non-dimensional numbers is not correctly defined?",
+        "options": {
+            "A": "Incompressible (b) Subsonic",
+            "B": "Froude number = (inertia force / gravity force)!”",
+            "C": "Supersonic (d) Hypersonic [UPPSC Civil Eng. A.E.",
+            "D": "Euler number = pressure force / inertia force"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2013(D] Ans; (b) Mach Number = Ratio of inertia force to the elastic force. Fejastic = Bulk modulus x Area piv ov M=,/---_- = -= Vic fe VP fk Vv ar (o Vp _M are C= speed of sound in fluid Pp M <1 (sub sonic) M > 1 (super sonic) M = 1 (sonic) M >> | (Hyper sonic) M <(0.2) (incompressible) flow is considered It used to determined nature of flow related the speed. All the fluid flow are considered as incompressible when the Mach Number is less than 0.2. 6 YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Track Stress and Creep",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 188,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_208"
+    },
+    {
+        "question_id": 130,
+        "question_text": "To produce a high head multi-stage centrifugal pumps, the impellers are connected-",
+        "options": {
+            "A": "in parallel",
+            "B": "in scrics",
+            "C": "in parallel and in scrics both",
+            "D": "Nonc of the above [MPSC"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2015 Paper-IT Mains]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Track Stress and Creep",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 388,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_130"
+    },
+    {
+        "question_id": 73,
+        "question_text": "For irregular topography the most suitable method of irrigation will be",
+        "options": {
+            "A": "wild flooding",
+            "B": "Sprinkler irrigation",
+            "C": "Drip irrigation",
+            "D": "readily-available moisture"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE (Irrigation) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Track Stress and Creep",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 418,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_73"
+    },
+    {
+        "question_id": 130,
+        "question_text": "‘The delta for a crop having base period 120 days is 70 em, What is the duty?",
+        "options": {
+            "A": "2480 hectare/cumec",
+            "B": "1481 hectare/cumec",
+            "C": "14.81 hectare/cumec",
+            "D": "1.481 hectare/cumec"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017 ESE 2004",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Track Stress and Creep",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 428,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_130"
+    },
+    {
+        "question_id": 208,
+        "question_text": "‘The variation in duty of water from the head of a main canal (M) to that in the field (F) is :",
+        "options": {
+            "A": "Duty (b) Crop period",
+            "B": "duty of water at M is always equal to duty of water at F",
+            "C": "Base period (d) Delta",
+            "D": "duty of water at M is always greater than duty of water at F BHEL ET"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "UPPCL AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Track Stress and Creep",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 439,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_208"
+    },
+    {
+        "question_id": 73,
+        "question_text": "Hydrology deals with",
+        "options": {
+            "A": "process of depletion of water resources of land",
+            "B": "process of natural science of water",
+            "C": "process of various water phase",
+            "D": "all of the above"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "UPPSC State Eng. A.E. 2007(I)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Track Stress and Creep",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 546,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_73"
+    },
+    {
+        "question_id": 208,
+        "question_text": "If one wants to be 90% sure that the design flood in a dam project will not occur during the design life period of 100 years, the recurrence interval for such a flood would be",
+        "options": {
+            "A": "about 90 years",
+            "B": "equal to 100 years",
+            "C": "about 11 years",
+            "D": "roughly 1000 years AE Civil Engg. Volume-II 5"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE 2003",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Track Stress and Creep",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 561,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_208"
+    },
+    {
+        "question_id": 73,
+        "question_text": "The source of surface water for supply to a community may be",
+        "options": {
+            "A": "Capacity-the reservoir",
+            "B": "Inflow of the reservoir",
+            "C": "Capacity-inflow ratio",
+            "D": "Capacity-outflow ratio"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "WBPSC AE 2001",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Track Stress and Creep",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 615,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_73"
+    },
+    {
+        "question_id": 208,
+        "question_text": "Zero hardness of water is achieved by:",
+        "options": {
+            "A": "Using lime soda process",
+            "B": "Excess lime treatment",
+            "C": "Ion exchange method",
+            "D": "Using excess alum dosage"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "ESE 2018, 1997 UJVNL AE 2016 RPSC GWD A.En. - 2014 RPSC LECTURE - 2014 UPPSC Civil Eng. A.E. 2013(11) UPPSC State Eng. A.E. 2007(I1)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Track Stress and Creep",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 628,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_208"
+    },
+    {
+        "question_id": 49,
+        "question_text": "Wear of rails may be reduced by :",
+        "options": {
+            "A": "increasing the number of rail joints",
+            "B": "decreasing the number of rail joints",
+            "C": "using high carbon steel rail",
+            "D": "increasing the spacing of sleepers Karnataka"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PSC AE 2015 Paper - II",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Track Stress and Creep",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 891,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_49"
+    },
+    {
+        "question_id": 73,
+        "question_text": "Racking force on a steel railway bridge is due to",
+        "options": {
+            "A": "Tractive cffect of the driving whccl",
+            "B": "Braking effect",
+            "C": "Resistance offered by the bearing to the movement at the roller",
+            "D": "Lateral movement of the train when moving on a straight track"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "RPSC POLY. TECH. LECT. 2011 ESE 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Track Stress and Creep",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 894,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_73"
+    },
+    {
+        "question_id": 74,
+        "question_text": "As per Indian Railway Board, the impact factor i (also known as coefficient of dynamic augment, CDA) in stecl girders for single track span is :",
+        "options": {
+            "A": "[° 15 Fo] $1.0 6+L [esr]",
+            "B": "| 0.75+-- ]#1.0 8+L",
+            "C": "[o.ise cS [p10 : 8+L",
+            "D": "[9.75% 8 | 0 ( ~~ 64+L , where : L is span"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "ESE 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Track Stress and Creep",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 894,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_74"
+    },
+    {
+        "question_id": 130,
+        "question_text": "Creep of rail is the :",
+        "options": {
+            "A": "longitudinal movement of rail",
+            "B": "lateral movement of rail",
+            "C": "vertical movement of rail",
+            "D": "difference in level of two rails"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPSC State Eng. A.E. 2003, Anis ; (a) Creep is defined as the longitudinal movement of rails with respect to sleepers in a track. If double lines are provided separately for up and down traftic then longitudinal movement of rail will be accumulating in nature. Where as for single line both up and down traffic, longitudinal movement of rail will be compensating in nature. Hence creep of rails will be more if double track are| provided separately for up and down traffic.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Track Stress and Creep",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 901,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_130"
+    },
+    {
+        "question_id": 208,
+        "question_text": "Which of the following is NOT a primary cause of creep in metallic railway track?",
+        "options": {
+            "A": "Heavy rainfall",
+            "B": "Braking action of engines",
+            "C": "Ironing out effect",
+            "D": "Wheel impact during track expansion or contraction"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "NPCC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Track Stress and Creep",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 912,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_208"
+    }
+]

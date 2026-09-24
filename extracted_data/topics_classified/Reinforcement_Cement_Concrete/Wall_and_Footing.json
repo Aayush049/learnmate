@@ -1,0 +1,764 @@
+[
+    {
+        "question_id": 843,
+        "question_text": "If water is pumped out, the effective stress within a soil mass is",
+        "options": {
+            "A": "increased",
+            "B": "decreased",
+            "C": "remains the same",
+            "D": "dependent on rate of pumping"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE (Common) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 227,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_843"
+    },
+    {
+        "question_id": 873,
+        "question_text": "Boussinesq's solution for the stresses in soil caused by a point load at the surface is based on some assumptions. One of which is",
+        "options": {
+            "A": "Soil medium is finite medium",
+            "B": "Soil medium is plastic",
+            "C": "Soil medium obeys Hook's law",
+            "D": "Soil medium is not homogencous"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AEE (Mains) 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 231,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_873"
+    },
+    {
+        "question_id": 915,
+        "question_text": "Which of the following is not a cause of differential settlement in soil foundations?",
+        "options": {
+            "A": "Varying water regime on a construction site",
+            "B": "Overlap of stress distribution in soil from adjoining structures",
+            "C": "Consolidation including secondary compression.",
+            "D": "Unequal expansion of the soil duc to excavation for footings (UP"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "RVNL AE 2016)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 238,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_915"
+    },
+    {
+        "question_id": 928,
+        "question_text": "Consolidation in soils :",
+        "options": {
+            "A": "isa function of effective stress",
+            "B": "does not depend on present stress",
+            "C": "isa function of pore water pressure",
+            "D": "isa function of total pressure Karnataka"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "PSC AE 2015 Paper - II",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 240,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_928"
+    },
+    {
+        "question_id": 1029,
+        "question_text": "Terzaghi's one dimensional consolidation theory assumes that -",
+        "options": {
+            "A": "Unique relationship between the void ratio and effective stress is independent of time",
+            "B": "Unique relationship between the void ratio and cffcctive stress is dependent on time",
+            "C": "Threre is no assumption regarding relationship between the void ratio and effective stress is independent of time",
+            "D": "None of the above Rajasthan VP ITI"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 256,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1029"
+    },
+    {
+        "question_id": 1039,
+        "question_text": "The Spring-Cylinder analogy is used in soil mechanics to explain .",
+        "options": {
+            "A": "Time-dependent deformation of saturated clayey soils 2",
+            "B": "Compaction of clays",
+            "C": "Air removal from clayey soils",
+            "D": "Relative density of cohesion less soils"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "NPCC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 258,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1039"
+    },
+    {
+        "question_id": 843,
+        "question_text": "In a simply supported beam carrying a uniformly distributed load over its entire span, slope is maximum at",
+        "options": {
+            "A": "1/4 from either end",
+            "B": "1/3 from either end",
+            "C": "mid-span supported ends",
+            "D": "supported ends Chandigarh AE"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 532,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_843"
+    },
+    {
+        "question_id": 928,
+        "question_text": "The principle of virtual work can be applied to elastic system by considering the virtual work of :",
+        "options": {
+            "A": "Internal forec only",
+            "B": "External force only",
+            "C": "Internal as well as external forces",
+            "D": "None of these"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "OPSC AEE 2019 Paper-T",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 551,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_928"
+    },
+    {
+        "question_id": 942,
+        "question_text": "The deflection of beams may be decreased by",
+        "options": {
+            "A": "Increasing the depth of beam",
+            "B": "Increase the span",
+            "C": "Decreasing the depth of beam",
+            "D": "Increasing the width of beam"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "Maharashtra PSC Mains 2018 Paper-1 ‘",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 555,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_942"
+    },
+    {
+        "question_id": 1000,
+        "question_text": "Which of the following statements is not applicable to Unit Load Method?",
+        "options": {
+            "A": "External and internal forces are in equilibrium",
+            "B": "The structure is determinate",
+            "C": "The material is strained well within elastic limit",
+            "D": "The structure is redundant"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "GPSC AE January 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 566,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1000"
+    },
+    {
+        "question_id": 1029,
+        "question_text": "The radius of Mohr's circle in figure is equal to: LA n e te /\\\\ A AT i) OR What is the radius of Mohr's cirele in case of biaxial state of stress?",
+        "options": {
+            "A": "Sum of two principal stresses",
+            "B": "Difference of two principal stresses",
+            "C": "Half the sum of two principal stresses",
+            "D": "Half the difference of two principal stresses Nagaland PSC CTSE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017 Paper-I ESE 2009",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 572,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1029"
+    },
+    {
+        "question_id": 821,
+        "question_text": "In T-shaped RCC retaining walls, the main reinforcement in the stem is provided on-",
+        "options": {
+            "A": "The front face in one direction",
+            "B": "The front face in both direction",
+            "C": "The inner face in one direction",
+            "D": "The inner face in both direction"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "OPSC AEE 2015 PAPER-I 8",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 859,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_821"
+    },
+    {
+        "question_id": 843,
+        "question_text": "Subject to a maximum of 450 mm, the maximum vertical reinforcement used in reinforced walls shall not exceed X time the wall thickness, where in X is",
+        "options": {
+            "A": "equal to overall length",
+            "B": "less than overall length",
+            "C": "greater than overall length",
+            "D": "less than or equal to overall length"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 862,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_843"
+    },
+    {
+        "question_id": 873,
+        "question_text": "The critical section for computing maximum bending moment for the design of isolated footing supporting a concrete column is (considering d as distance between the column face and the footing edge)",
+        "options": {
+            "A": "at the face of the column",
+            "B": "ata distance d from the column face",
+            "C": "at the center of the column",
+            "D": "ata distance d/2 from the column face"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "MPPSC AE 2016 [UK Combined A.E. (1) 2012] 8",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 866,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_873"
+    },
+    {
+        "question_id": 915,
+        "question_text": "In a combined footing for two columns carrying unequal load, the maximum hogging moment occurs at",
+        "options": {
+            "A": "The inside face of the heavier column.",
+            "B": "A section equidistant from both the columns",
+            "C": "A section subjected to maximum shear force",
+            "D": "A section subjected to zero shear force"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ESE 2017, 2004",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 872,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_915"
+    },
+    {
+        "question_id": 917,
+        "question_text": "In an isolated reinforced concrete footing of effective depth d, the stress in punching shear is checked:",
+        "options": {
+            "A": "at the centre of the column",
+            "B": "at the face of the column",
+            "C": "at a distance d/2 away from the face of the column",
+            "D": "at a distance d/2 away from the centre of the column"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ISRO Scientist/Engineer 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 872,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_917"
+    },
+    {
+        "question_id": 921,
+        "question_text": "In case of reinforced concrete isolated footing the critical for bending moment is at",
+        "options": {
+            "A": "Zero distance from the face of the column",
+            "B": "d/2 from the face of the column",
+            "C": "d from the face of the column",
+            "D": "2d from the face of the column"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "APTRASCO 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 873,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_921"
+    },
+    {
+        "question_id": 928,
+        "question_text": "‘Iwo way shear in a R.C.C. footing is checked at a distance equal to of the footing from the face of the column.",
+        "options": {
+            "A": "one-fourth of the effective depth",
+            "B": "one-half of the effective depth",
+            "C": "three-fourth of the effective depth",
+            "D": "the effective depth"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "GPSC AE March 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 874,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_928"
+    },
+    {
+        "question_id": 942,
+        "question_text": "The critical section for the shear in isolated square footing is taken at a distance equal to",
+        "options": {
+            "A": "effective depth of footing from the periphery of the column",
+            "B": "half the effective depth of fooling from the periphery of the column",
+            "C": "at the periphery of the column",
+            "D": "at the centre of the footing"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "UKPSC(Urban engineering)-2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 876,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_942"
+    },
+    {
+        "question_id": 1000,
+        "question_text": "The critical section for bending in a footing should be considered at",
+        "options": {
+            "A": "effective span/3 (b) effective span/6",
+            "B": "a distance of d from the face of column",
+            "C": "effective span/5 (d) effective span/8",
+            "D": "distance of d/6 from the face of column where d= effective depth"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE (Common) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 882,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1000"
+    },
+    {
+        "question_id": 1027,
+        "question_text": "In a cantilever retaining wall, the main steel reinforcement is provided",
+        "options": {
+            "A": "On the backfill side, in the vertical direction",
+            "B": "On both, inner and outer, faces",
+            "C": "In horizontal as well as in vertical directions",
+            "D": "To counteract shear stresses"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ESE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 886,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1027"
+    },
+    {
+        "question_id": 1028,
+        "question_text": "The critical section for maximum bending moment in the footing under masonary wall is located at",
+        "options": {
+            "A": "The middle of wall",
+            "B": "The face of the wall",
+            "C": "Mid-way between the face and the middle of the wall",
+            "D": "A distance equal to the effective depth of footing APTRANSCO"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 886,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1028"
+    },
+    {
+        "question_id": 1029,
+        "question_text": "In counterfort retaining walls, the upright and heel slab act as;",
+        "options": {
+            "A": "Cantilever",
+            "B": "Continuous slab",
+            "C": "Simply supported slab",
+            "D": "Slab supported or four sides"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "WBPSC Poly Lect. 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 886,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1029"
+    },
+    {
+        "question_id": 1039,
+        "question_text": "In a cantilever retaining wall, the heel slab acts as:",
+        "options": {
+            "A": "horizontal cantilever under the action of the resulting soil pressure acting upward",
+            "B": "horizontal cantilever under the action of the resulting soil pressure acting upward",
+            "C": "vertical cantilever under the action of the weight of retained earth 83",
+            "D": "vertical cantilever under the lateral earth pressure"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "DMRC AM 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 887,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1039"
+    },
+    {
+        "question_id": 1043,
+        "question_text": "In counter fort retaining walls, the main reinforcement in the stem at support is",
+        "options": {
+            "A": "not provided",
+            "B": "provided only on inner face",
+            "C": "provided only on front face",
+            "D": "provided both on inner and front face Chandigarh SDE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 887,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1043"
+    },
+    {
+        "question_id": 1081,
+        "question_text": "In case of footing, the critical section for punching shear is considercd at:",
+        "options": {
+            "A": "The face of the column",
+            "B": "'d' distance from the face of the column",
+            "C": "d/2 distance from the face of the column",
+            "D": "'2d' distance from the face of the column"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "APPSC Poly. Tech. Lect. 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 892,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1081"
+    },
+    {
+        "question_id": 686,
+        "question_text": "In a footing, it is usual to assume that the maximum value of transverse bending will occur at a distance, equal to (measured from the of the column)",
+        "options": {
+            "A": "Half the effective depth",
+            "B": "Effective depth",
+            "C": "Twice the effective depth",
+            "D": "None of the given answers"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AE 2016 (Mains)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1012,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_686"
+    },
+    {
+        "question_id": 717,
+        "question_text": "According to IS: 456-2000, in the design of isolated RCC column footing using RCC with an effective depth d, the critical sections to be checked are F",
+        "options": {
+            "A": "Bending moment at the face of the column, one-way shear at d/2 away from the face of column and two-way shear at d around the column.",
+            "B": "Bending moment at the face of the column, one-way al d away from the face of column and two-way shear at d around the column.",
+            "C": "Bending moment at d/2 away from the column, one-way shear at d away from the face of column and two-way shear at d/2 around the column.",
+            "D": "Bending moment at the face of the column, one-way shear at d away from the face of column and two-way shear at d/2 around the column."
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "TSPSC Deputy Engineer 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1016,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_717"
+    },
+    {
+        "question_id": 873,
+        "question_text": "A simply supported uniform beam ABC overhangs beyonds B to C, such that AB = L and BC = L/3. If it is to carry factored vertical loads of 2W at mid-span of AB and W at the free and C, what is the value of M, that should be provided? 3 6...",
+        "options": {
+            "A": "The maximum fiber stress reaches yield point",
+            "B": "The maximum tensile stress is cqual to ultimate stress",
+            "C": "There is free rotation with aero B.M.",
+            "D": "The B.M. is equal to the fully plastic moment of the section"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "WBPSC AE (PHE) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Wall & Footing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1037,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_873"
+    }
+]

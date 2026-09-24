@@ -1,0 +1,56 @@
+[
+    {
+        "question_id": 190,
+        "question_text": "Principles of planning for buildings include-",
+        "options": {
+            "A": "A and B only (b) Band D only",
+            "B": "Roominess",
+            "C": "Aand C only (d) A, B, C and D",
+            "D": "Flexibility and Privacy"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "Maharashtra PSC (Mains) 2017 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Building Laws",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1130,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_190"
+    },
+    {
+        "question_id": 1434,
+        "question_text": "The best system of plumbing of drainage work in building is:",
+        "options": {
+            "A": "One pipe system",
+            "B": "Two pipe system",
+            "C": "Single stack system",
+            "D": "Partially ventilated single stack system Kerala"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PSC AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Building Laws",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 762,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1434"
+    }
+]

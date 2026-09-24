@@ -1,0 +1,1146 @@
+[
+    {
+        "question_id": 11,
+        "question_text": "Match List I with List II and select correct answer using the given lists. List I List I Type of survey Recommended scale",
+        "options": {
+            "A": "A-a, B-b, C-c, D-a",
+            "B": "A-b, B-a, C-c, D-d",
+            "C": "A-a, B-b, C-d, D-c",
+            "D": "A-b, B-a, C-d, D-c"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 20,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_11"
+    },
+    {
+        "question_id": 33,
+        "question_text": "10 divisions of the Vernier scale will have the same length in GPSC AE June 2019 (OR) A vernier is made using a main scale of one meter to read mm. If the vernier seale is divided into cm divisions, the vernier will have",
+        "options": {
+            "A": "10 divisions for 9 main scale divisions",
+            "B": "11 divisions for 10 main scale divisions",
+            "C": "20 divisions for 19 main scale divisions",
+            "D": "21 divisions for 20 main scale divisions"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 23,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination"
+        ],
+        "global_id": "Civil_AE_2_complete.json_33"
+    },
+    {
+        "question_id": 53,
+        "question_text": "Reconnaissance survey for determining feasibility and estimation of scheme falls under the classification based on the",
+        "options": {
+            "A": "Nature of the field of survey",
+            "B": "Object of surveying",
+            "C": "Instruments used",
+            "D": "Method employed"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "ESE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 26,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_53"
+    },
+    {
+        "question_id": 58,
+        "question_text": "A map mentions the scale 1 cm = 1 km The scale is in the ratio:",
+        "options": {
+            "A": "varies inversely with the square root of the confidence interval",
+            "B": "varies inversely with the square of the confidence interval",
+            "C": "varies inversely with the square of the residual error",
+            "D": "varies directly with the square of the confidence interval BHEL Et"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 27,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_58"
+    },
+    {
+        "question_id": 206,
+        "question_text": "Magnetic declination is",
+        "options": {
+            "A": "the deflection of magnetic needle due to external magnetic sources",
+            "B": "the error in the bearings due to external magnetic influences",
+            "C": "the angle between the true meridian and the magnetic meridian at a place",
+            "D": "the dip of the needle to the earth's magnetic field"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019 Ans ; (c) Magnetic declination is the horizontal angle between Magnetic meridian (M.M) & the true meridian (T.M). e When (M.M) & (T.M) coincide then zero declination called agonic lines. e When same declination takes place-Isogonic lines",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 46,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_206"
+    },
+    {
+        "question_id": 332,
+        "question_text": "The latitude of a line is-",
+        "options": {
+            "A": "the average latitude in which the lines lic",
+            "B": "the projection of the line on the east-west meridian",
+            "C": "the projection of the line on the north-south meridian",
+            "D": "the projection of the line with respect to the great circle"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "Gujarat PSC AE (N.W.R.) 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 64,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_332"
+    },
+    {
+        "question_id": 368,
+        "question_text": "In leveling, the error due to refraction is:",
+        "options": {
+            "A": "Fore sight",
+            "B": "Back sight",
+            "C": "Both fore sight and back sight",
+            "D": "None of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "RPSC AE 2018 UIVNL AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 68,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_368"
+    },
+    {
+        "question_id": 382,
+        "question_text": "The latitude of a line of closed traverse is its length multiplied by",
+        "options": {
+            "A": "tangent of reduced bearing",
+            "B": "sine of reduced bearing",
+            "C": "cosine of reduced bearing",
+            "D": "secant of reduced bearing"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Maharashtra PSC Mains 2012 Paper -2",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 70,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_382"
+    },
+    {
+        "question_id": 445,
+        "question_text": "Which of the following errors is not eliminated by the method of repetition for horizontal angle measurement ?",
+        "options": {
+            "A": "The errors due to eccentricity of verniers and centers get eliminated as readings from both verniers are taken.",
+            "B": "The errors due to in accurate graduations get eliminated as the readings are observed at different parts of the circle.",
+            "C": "The errors due to lack in adjustment of line of collimation and the horizontal axis of the instrument get eliminated for considering both face readings.",
+            "D": "Errors due to in accurate bisection of the object, eccentric centering ete are eliminated partially as these get counter balanced in different observations."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": null,
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 79,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_445"
+    },
+    {
+        "question_id": 456,
+        "question_text": "In plane surveying where a graduated staff is observed either with horizontal line of sight or inclined line of sight, the effect of refraction is to",
+        "options": {
+            "A": "95.42 mO0.D (b) 99.39 m O.D",
+            "B": "Decrease the staffreading",
+            "C": "102.42 m0.D (d) 105.99m0.D",
+            "D": "Duplicate the staff reading"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ESE 2018 0 YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 80,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_456"
+    },
+    {
+        "question_id": 18,
+        "question_text": "‘Lf, for a fluid in motion, pressure at a point is same in all directions, then the fluid is",
+        "options": {
+            "A": "Arcal fluid",
+            "B": "A Newtonian fluid",
+            "C": "An ideal fluid",
+            "D": "A non-Newtonian fluid Arunachal Pradesh Poly. Tech. Lect."
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2019 RPSC POLY. TECH. LECT. 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 162,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_18"
+    },
+    {
+        "question_id": 33,
+        "question_text": "The shear stress for fluids, as per Newton’s law of viscosity is :",
+        "options": {
+            "A": "Inversely proportional to the rate of angular deformation",
+            "B": "Directly proportional to the rate of angular deformation",
+            "C": "Inversely proportional to angular deformation",
+            "D": "Directly proportional to angular deformation"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AEE (CIVIL/MECHANICAL) 2019 TSPSC AEE 2017 UPRVUNL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 164,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_33"
+    },
+    {
+        "question_id": 320,
+        "question_text": "In an inclined plane submerged in water, the centre of pressure is located",
+        "options": {
+            "A": "at the centroid",
+            "B": "below the centroid",
+            "C": "above the cetnroid",
+            "D": "anywhere in the plane"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AEE (Civil/Mechanical) 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 207,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_320"
+    },
+    {
+        "question_id": 447,
+        "question_text": "In laminar flow, the shear stress distribution for a fluid flowing in hetween the parallel plates, both at rest, is",
+        "options": {
+            "A": "Constant over the cross section",
+            "B": "Parabolic distribution across the section",
+            "C": "Zero at the mid plane and varies linearly with distance from mid plane",
+            "D": "Zero at plates and increases linearly to midpoint [UPPSC Civil Eng. A.E."
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2013(D)] RPSC AE 2013",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 226,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_447"
+    },
+    {
+        "question_id": 33,
+        "question_text": "Net positive suction head is",
+        "options": {
+            "A": "Centrifugal pump",
+            "B": "Mixed flow pump",
+            "C": "Axial flow pump",
+            "D": "Reciprocating pump"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AEE (Civil/Mechanical) 2012 ‘",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 374,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_33"
+    },
+    {
+        "question_id": 85,
+        "question_text": "Basic method to measure the flow rates in hydro power plants is",
+        "options": {
+            "A": "velocity integration method",
+            "B": "Pitot-tube method",
+            "C": "Pressure-time method",
+            "D": "Notch method"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AEE (CIVIL/MECHANICAL) 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 381,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_85"
+    },
+    {
+        "question_id": 18,
+        "question_text": "The first watering given to a crop, when the crop is a few centimeters high, is called",
+        "options": {
+            "A": "Paleo irrigation",
+            "B": "Kor watering",
+            "C": "Leaching",
+            "D": "None of the given answers"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AE 2016 (Mains)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 412,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_18"
+    },
+    {
+        "question_id": 33,
+        "question_text": "Condition favoring the adaptation of sprinkler irrigation method is/are",
+        "options": {
+            "A": "When the water is available with difficulty and scarce",
+            "B": "When the water table is low",
+            "C": "When the land soil is excessively permeable or when the soil is highly impermeable",
+            "D": "When the water is available with difficulty and when the land soil is excessively permeable or when the soil is highly impermeable [IRPSC VPITI -"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2012]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 413,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_33"
+    },
+    {
+        "question_id": 85,
+        "question_text": "Delta (A) of a crop means:",
+        "options": {
+            "A": "Area under the crop",
+            "B": "Crop period",
+            "C": "Depth of water required by the crop",
+            "D": "Crop production [U.K. Combined A E Paper IT"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "2012] by a crop during the entire period the crop in field.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 420,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_85"
+    },
+    {
+        "question_id": 18,
+        "question_text": "26 - High Sodium water >26 - Very High Sodium water 352, The earthen embankments constructed parallel to the river at some suitable distances for flood protection are called",
+        "options": {
+            "A": "Guide banks",
+            "B": "Levees",
+            "C": "Terraces",
+            "D": "Groynes"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019 rr er",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 456,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_18"
+    },
+    {
+        "question_id": 382,
+        "question_text": "Lacey's theory is applicable to flow :",
+        "options": {
+            "A": "Over spillways",
+            "B": "In concrete lined canals",
+            "C": "Through pipe",
+            "D": "In alluvial rivers and canals Rajasthan AE (Nagar Nigam)"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016 7 YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 460,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_382"
+    },
+    {
+        "question_id": 415,
+        "question_text": "In a canal network system for irrigation, the main canal",
+        "options": {
+            "A": "supplies water to most of the field directly",
+            "B": "supplies water to the fields for major crops",
+            "C": "supplies water to the most important areas",
+            "D": "usually docs not supply irrigation water direetly"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "WBPSC AE (Irrigation) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 465,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_415"
+    },
+    {
+        "question_id": 456,
+        "question_text": "The Inglis formula for calculating flood discharge is normally suited for :",
+        "options": {
+            "A": "5 cumec (b) 1.8 cumec",
+            "B": "old Hyderabad catchments",
+            "C": "LO cumec (d) 25 cumec (e) 34 cumec",
+            "D": "American catchments (e) Arctic catchments"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "CGPSC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 471,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "option-contamination"
+        ],
+        "global_id": "Civil_AE_2_complete.json_456"
+    },
+    {
+        "question_id": 11,
+        "question_text": "In India, which of the following is adopted as standard recording raingauge?",
+        "options": {
+            "A": "Symon’s raingauge",
+            "B": "Tipping bucket type",
+            "C": "Syphon type",
+            "D": "Weighing bucket type {MPPSC AE"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2016]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 539,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_11"
+    },
+    {
+        "question_id": 18,
+        "question_text": "Depth-Area-Duration (DAD) curves of precipitation are drawn as",
+        "options": {
+            "A": "Minimizing envelopes through _ the appropriate dala points",
+            "B": "Maximizing envelopes -_ through the appropriate data points",
+            "C": "Best fil curves through the appropriate data points",
+            "D": "Best fit mean straight lines through the appropriate dala points"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019 ESE 1996",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 540,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination"
+        ],
+        "global_id": "Civil_AE_2_complete.json_18"
+    },
+    {
+        "question_id": 24,
+        "question_text": "The commonly used rain gauge is",
+        "options": {
+            "A": "Weighing bucket type",
+            "B": "Float type",
+            "C": "Tipping bucket type",
+            "D": "None of these Nagaland"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PSC Paper-IT 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 540,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_24"
+    },
+    {
+        "question_id": 33,
+        "question_text": "Which of the following is a non-recording rain gauge?",
+        "options": {
+            "A": "Tipping bucket type rain gauge",
+            "B": "Symon's rain gauge",
+            "C": "Floating type rain gauge",
+            "D": "Weighing type rain gauge"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019 GPSC AE Class (1&2) Paper - 2 2017 Rajasthan JEN (Degree) Shift - IT 2016 Ans ; (b) ; Simon's rain gauge- Most commonly type ofnon-recording gauge. Consist of cylindrical vessel 127 mm 6 with base enlarged to 210 mm The rain gauge is placed in concrete block (60 x 60 x",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 541,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_33"
+    },
+    {
+        "question_id": 43,
+        "question_text": "The most accurate method of finding the average depth of rainfall over an area is-",
+        "options": {
+            "A": "flow through time (b) batch time",
+            "B": "Arithmetic mean method",
+            "C": "detention period (d) mean residence time",
+            "D": "All of these"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "WBPSC AE 2007",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 542,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_43"
+    },
+    {
+        "question_id": 53,
+        "question_text": "The recording type rain-gauge gives",
+        "options": {
+            "A": "Mass curve of rainfall",
+            "B": "Hydrograph",
+            "C": "Total rainfall of 24 hours period",
+            "D": "Monthly rainfall"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AEE 2016 0 YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 543,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_53"
+    },
+    {
+        "question_id": 58,
+        "question_text": "To conyert the point values of precipitation at various stations into mean precipitation over an area can be obtained using",
+        "options": {
+            "A": "Rational method",
+            "B": "Geometrical progression method",
+            "C": "Isohyetal method",
+            "D": "Isometric mean method"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE January 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 544,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_58"
+    },
+    {
+        "question_id": 85,
+        "question_text": "The maximum depth of precipitation for a given duration that may possible occur on given catchment at any time of the year is called .......4.",
+        "options": {
+            "A": "Maximum precipitation (MP)",
+            "B": "Average precipitation",
+            "C": "Probable maximum precipitation (PMP)",
+            "D": "None of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC Poly. Tech, Lect, 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 547,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_85"
+    },
+    {
+        "question_id": 206,
+        "question_text": "Rainfall mass curve shows the variation of",
+        "options": {
+            "A": "Rainfall intensity with time",
+            "B": "Rainfall intensity with cumulative rainfall",
+            "C": "Rainfall excess with time",
+            "D": "Cumulative rainfall with time"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "WBPSC AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 561,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_206"
+    },
+    {
+        "question_id": 307,
+        "question_text": "A60% index of wetness means",
+        "options": {
+            "A": "rain excess of 40%",
+            "B": "rain deficiency of 40%",
+            "C": "rain deficiency of 60%",
+            "D": "none of the above [U.K. Combined A E Paper II"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "2012]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 573,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_307"
+    },
+    {
+        "question_id": 320,
+        "question_text": "The maximum average depth due to one day storm over an area of 100 km? is 100 mm. Depth-Area-Duration (DAD) curves indicate that for the same area of 100 km’ the maximum average depth for a 3 hour storm will be",
+        "options": {
+            "A": "CA? (b) CA3",
+            "B": "more than 100 mm",
+            "C": "ACE (d) AC [MPPSC AE",
+            "D": "none of these are correct I[MPPSC AE"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2016]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 574,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_320"
+    },
+    {
+        "question_id": 332,
+        "question_text": "Isoplastic lines are the contours-",
+        "options": {
+            "A": "drawn to represent water table",
+            "B": "drawn to represent piezometric heads",
+            "C": "drawn to piezometric surface",
+            "D": "drawn to represent points of equal rainfall (BPSC"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "AE Paper VI.05.12.2012,",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 576,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_332"
+    },
+    {
+        "question_id": 360,
+        "question_text": "For determination of average annual precipitation in a catchment basin, the best method is-",
+        "options": {
+            "A": "Arithmetical Method",
+            "B": "Thiessen's mean Method",
+            "C": "Isohyetal Method",
+            "D": "None of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "OPSC AE -2016 (IL",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 579,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_360"
+    },
+    {
+        "question_id": 368,
+        "question_text": "Ina DAD analysis the maximum average depth of rainfall for an 18 hr storm was 28 cm in an area of size 10 km’. For the same duration the maximum average depth in an arca of 1000 km’ can be expected to be-",
+        "options": {
+            "A": "overland flow and infiltration",
+            "B": "surface runoff, prompt interflow and channel precipitation",
+            "C": "surface runoff, infiltration and evapotranspiration",
+            "D": "rainfall and cvaporation [MPSC"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2015 Paper-I Mains,",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 580,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_368"
+    },
+    {
+        "question_id": 382,
+        "question_text": "Identify, from the options, the non-automatic rain gauge used for measurement of rainfall.",
+        "options": {
+            "A": "Weighing bucket rain gauge",
+            "B": "Tipping bucket rain gauge",
+            "C": "Symons rain gauge",
+            "D": "Float type rain gauge"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "LMRC AM 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 582,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_382"
+    },
+    {
+        "question_id": 415,
+        "question_text": "How many additional rain gauges are required in a catchment, if the error allewed in estimation of mean rainfall is to be reduced by half than the present one?",
+        "options": {
+            "A": "Equal to the present number",
+            "B": "Twice the present number",
+            "C": "Thrice the present number",
+            "D": "Four times the present number"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "GUJRAT PSC AE - IT 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 586,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_415"
+    },
+    {
+        "question_id": 445,
+        "question_text": "Which one of the following points should be kept in mind while selecting the site for a rain gauge station?",
+        "options": {
+            "A": "The site where a rain gauge is sct up should be close to a meteorological observatory.",
+            "B": "The rain gauge should be on the top of a hill.",
+            "C": "A fence, if erected to protect the rain gauge from cattle etc. should be located within twice the height of the fence.",
+            "D": "The distance between the rain gauge and the nearest object should be at least twice the height of the object."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ESE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 590,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_445"
+    },
+    {
+        "question_id": 447,
+        "question_text": "Annual rainfall values at station A in mm for the year 2001 to 2010 are given in the table below. If simple central 3-year moving mean of this rainfall record is calculated, the maximum and minimum values in the moving mean list would be station A (mm) | 2005 TD",
+        "options": {
+            "A": "689 mm and 602 mm",
+            "B": "649 mm and 602 mm",
+            "C": "689 mm and 586 mm",
+            "D": "649 mm and 586 mm"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ESE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 591,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_447"
+    },
+    {
+        "question_id": 456,
+        "question_text": "A rain gauge which is non - automatic type which is used by Meteorological department of government of India.",
+        "options": {
+            "A": "Simon's Rain gauge",
+            "B": "tipping bucket type rain gauge.",
+            "C": "Float type rain gauge.",
+            "D": "Weighing bucket rain gauge"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "DSSSB AE 2019 CGPSC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 593,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_456"
+    },
+    {
+        "question_id": 461,
+        "question_text": "Relative humidity is the ratio of actual vapour pressure to the saturation vapour pressure",
+        "options": {
+            "A": "At the same temperature",
+            "B": "At the same pressure",
+            "C": "In the same volume",
+            "D": "In the same atmosphere"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "ISRO Scientist/Engineer 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Precipitation and Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 594,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_461"
+    }
+]

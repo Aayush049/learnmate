@@ -1,0 +1,343 @@
+[
+    {
+        "question_id": 188,
+        "question_text": "When fat lime is slaked, its volume-",
+        "options": {
+            "A": "decreases to 50%",
+            "B": "remains same",
+            "C": "increases by 2 to 2.5 times",
+            "D": "increases by 4 times after slaking"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "BPSC AE Pre 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Estimation-Costing",
+        "topic": "Estimation and Area Types",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 38,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_188"
+    },
+    {
+        "question_id": 188,
+        "question_text": "Which of the following is NOT considered as dead load",
+        "options": {
+            "A": "1:4:8 (b) 1:3:6 (©) 1:2:4 (d) 1:1.5:3 BPSC Poly. Tech. Lect. 2016",
+            "B": "Self-weight of the floor slab",
+            "C": "Self-weight of a beam",
+            "D": "Self-weight of a column SJVNL ET"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Estimation-Costing",
+        "topic": "Estimation and Area Types",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 784,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_188"
+    },
+    {
+        "question_id": 122,
+        "question_text": "Load on conneetion is not eccentric for",
+        "options": {
+            "A": "Lap joint",
+            "B": "Single cover butt joint",
+            "C": "Double cover butt joint",
+            "D": "All the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AEE 2016 ESE 2001",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Estimation-Costing",
+        "topic": "Estimation and Area Types",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 944,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_122"
+    },
+    {
+        "question_id": 155,
+        "question_text": "Rivet shape shown above is known as :",
+        "options": {
+            "A": "Pen shape",
+            "B": "Snap shape",
+            "C": "Flat counter sunk",
+            "D": "Round counter sunk"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "GPHC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Estimation-Costing",
+        "topic": "Estimation and Area Types",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 948,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_155"
+    },
+    {
+        "question_id": 188,
+        "question_text": "The effective length of fillet weld should not be less than-",
+        "options": {
+            "A": "smaller side of the fillet",
+            "B": "throat of the fillet",
+            "C": "side perpendicular to force",
+            "D": "side parallel to force Rajasthan Nagar Nigam AE Shift-2,"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2016 APPSC AEE 2016 /GPSC Assistant Prof. 2016 UJVNL AE 2016 / RPSC ACF 2011 UPPSC CIVIL ENGG. A.E, 2013 UPPSC STATE ENGG. A.E. 2008 / ESE 1996",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Estimation-Costing",
+        "topic": "Estimation and Area Types",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 951,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_188"
+    },
+    {
+        "question_id": 19,
+        "question_text": "A Dummy activity",
+        "options": {
+            "A": "has no bearing on the network and can appear anywhere",
+            "B": "has only head event but no tail event",
+            "C": "has tail event but no head event",
+            "D": "neither requires any time nor any resources"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "TNPSC AE 2018 CGPSC AE 2014 Shift-1 WBPSC AE 2007",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Estimation-Costing",
+        "topic": "Estimation and Area Types",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1070,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_19"
+    },
+    {
+        "question_id": 106,
+        "question_text": "If the optimistic time, most likely time and pessimistic time of activity A are 4, 6 and 8 weeks. Respectively and for activity B are 5, 5.5 and 9 weeks respectively, then",
+        "options": {
+            "A": "Expected time of activity A is greater than the expected time of activity B",
+            "B": "Expected time of activity B is greater than the expected time of activity A",
+            "C": "Expected time of both activities A and B are same",
+            "D": "Data too inadequate to compute expected limes of activities"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "MPPSC AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Estimation-Costing",
+        "topic": "Estimation and Area Types",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1081,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_106"
+    },
+    {
+        "question_id": 188,
+        "question_text": "PERT technique of network analysis in mainly useful for:",
+        "options": {
+            "A": "Small projects",
+            "B": "Large and complex projects",
+            "C": "Research and development project",
+            "D": "Deterministic activities"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "APPSC AEE 2012 UJVNL AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Estimation-Costing",
+        "topic": "Estimation and Area Types",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1091,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_188"
+    },
+    {
+        "question_id": 19,
+        "question_text": "In long and short wall method of estimation, the length of long wall is the centre to centre distance between the walls and plus ;",
+        "options": {
+            "A": "Breadth of the wall",
+            "B": "Half breadth of wall on cach side",
+            "C": "Onc fourth breadth of wall on cach side",
+            "D": "None of these"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Rajasthan JEn (Degree) 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Estimation-Costing",
+        "topic": "Estimation and Area Types",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1111,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_19"
+    },
+    {
+        "question_id": 106,
+        "question_text": "Which of the following is the most accurate estimate?",
+        "options": {
+            "A": "Plinth arca cstimate",
+            "B": "Cube rate estimate",
+            "C": "Detailed estimate",
+            "D": "Building cost index estimate"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Estimation-Costing",
+        "topic": "Estimation and Area Types",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1121,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_106"
+    },
+    {
+        "question_id": 122,
+        "question_text": "A type of estimate required if there is change amounting to more than 5% of the original value due to price hiking or change in specification, but does not include any major change in structural design is called",
+        "options": {
+            "A": "Detailed estimate",
+            "B": "Revised estimate",
+            "C": "Supplementary estimate",
+            "D": "Rough cost estimate"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "GUJRAT PSC AE - I 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Estimation-Costing",
+        "topic": "Estimation and Area Types",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1123,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_122"
+    },
+    {
+        "question_id": 132,
+        "question_text": "Abstract estimate is :",
+        "options": {
+            "A": "Estimation of quantities of various items of work",
+            "B": "Estimation of unit rates of various items of work",
+            "C": "Estimation of cost of various items of work",
+            "D": "Estimation of leads of various items of work"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "TNPSC AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Estimation-Costing",
+        "topic": "Estimation and Area Types",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1124,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_132"
+    },
+    {
+        "question_id": 155,
+        "question_text": "In long wall and short wall method of estimation which one of the following is correct?",
+        "options": {
+            "A": "Short wall length in-to-in = centre to centre length - one breadth",
+            "B": "Short wall length in-to-in = ccntre to centre length + one breadth",
+            "C": "Long wall length out-to-oul = centre Lo centre Icngth + one breadth",
+            "D": "Long wall length out-to-out = centre to centre length - two breadth"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "OPSC AEE 2019 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Estimation-Costing",
+        "topic": "Estimation and Area Types",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1126,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_155"
+    }
+]

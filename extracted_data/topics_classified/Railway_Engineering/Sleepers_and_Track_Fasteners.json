@@ -1,0 +1,393 @@
+[
+    {
+        "question_id": 150,
+        "question_text": "A cross staff is used for",
+        "options": {
+            "A": "Measuring approximate horizontal angles",
+            "B": "Measuring bearings of lines",
+            "C": "Setting out right angles",
+            "D": "Measuring the weight bearing capacity of a beam GESCOM (KARNATAKA) AE"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Sleepers and Track Fasteners",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 39,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_150"
+    },
+    {
+        "question_id": 8,
+        "question_text": "Cavitations is primarily associated with which of the following fluid properties (RRB SSE (Shift-ID), 03.09.2015)",
+        "options": {
+            "A": "Specific gravity",
+            "B": "Surface tension",
+            "C": "Viscosity",
+            "D": "Vapour pressure"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": null,
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Sleepers and Track Fasteners",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 161,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_8"
+    },
+    {
+        "question_id": 93,
+        "question_text": "Match the Dimensionless number in Group 'A' to their definitions in Group 'B'. i. Reynold's number] A. Ratio of inertia force to the surface tension force to the pressure force iil. Weber's number | C. Ratio of inertia force pees cae vacote ee | to the gravity force",
+        "options": {
+            "A": "i-B, ii-A, iii-D, iv-C",
+            "B": "i-C, ii-D, iii-A, iv-B",
+            "C": "i-D, ii-C, iii-A, iv-B",
+            "D": "i-A, ii-B, iii-C, iv-D"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "ISRO Scientist/Engineer 2014 AE Civil Engg. Volume-II Vr",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Sleepers and Track Fasteners",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 173,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_93"
+    },
+    {
+        "question_id": 21,
+        "question_text": "Two identical pumps operating in parallel",
+        "options": {
+            "A": "boosts the discharge",
+            "B": "boosts the head",
+            "C": "boosts both the discharge and head",
+            "D": "delivers same discharge and head that of single pump"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE January 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Sleepers and Track Fasteners",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 372,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_21"
+    },
+    {
+        "question_id": 93,
+        "question_text": "The cavitation in a hydraulic machine",
+        "options": {
+            "A": "causes noise and vibration of various parts",
+            "B": "makes the surface rough",
+            "C": "reduces the discharge of a turbine",
+            "D": "causes sudden drop in power output and efficiency"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "APPSC AEE (Civil/Mechanical) 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Sleepers and Track Fasteners",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 382,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_93"
+    },
+    {
+        "question_id": 150,
+        "question_text": "Hydroelectric power plant is-",
+        "options": {
+            "A": "non-renewable source of energy",
+            "B": "conventional source of energy",
+            "C": "non-conventional source of energy",
+            "D": "continuous source of energy"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "BPSC AE 2016 Paper (VI) Section-T",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Sleepers and Track Fasteners",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 391,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_150"
+    },
+    {
+        "question_id": 72,
+        "question_text": "Superfluous water refers to-",
+        "options": {
+            "A": "water in the unsaturated zone in cxecss of hygroscopic and capillary water which moves over the soil under favorable drainage conditions",
+            "B": "water held by surface tension in the capillary spaccs and as a continuous film around the particles",
+            "C": "water held in static state with the atmospheric water vapour",
+            "D": "water which drains down so deep that plant roots cannot draw it."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Gujarat PSC AE (N.W.R.) 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Sleepers and Track Fasteners",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 418,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_72"
+    },
+    {
+        "question_id": 93,
+        "question_text": "Which of the following types of rain--gauge is used for measuring rain in remote areas",
+        "options": {
+            "A": "Tipping bucket type",
+            "B": "Weighing bucket type",
+            "C": "Floating type",
+            "D": "Simon's rain-gauge {Uttarakhand Combined State"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "AE Paper I 2007]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Sleepers and Track Fasteners",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 548,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_93"
+    },
+    {
+        "question_id": 93,
+        "question_text": "Flowing artesian wells are expected in areas where:",
+        "options": {
+            "A": "infiltration well (b) artesian well",
+            "B": "the aquifer is confined",
+            "C": "flowing well (d) tube well Kerala",
+            "D": "the rainfall is intense"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PSC AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Sleepers and Track Fasteners",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 617,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_93"
+    },
+    {
+        "question_id": 150,
+        "question_text": "The turbidity in water is due to:-",
+        "options": {
+            "A": "Sulphate and chlorides of calcium and magnesium",
+            "B": "Clay and Silt particles",
+            "C": "Sand particles",
+            "D": "Pathogens"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "UPPCL AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Sleepers and Track Fasteners",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 623,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_150"
+    },
+    {
+        "question_id": 8,
+        "question_text": "The main function of sleeper is",
+        "options": {
+            "A": "to support rails",
+            "B": "to hold rails at correct gauge",
+            "C": "to distribute load from the rails to the ballast",
+            "D": "all of these {Uttarakhand Combined State"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "AE Paper II 2007] Ans ; (d) Main function of sleepers- (i) To hold the rail to correct gauge Gi) To hold the rails in proper level or transverse till i.e., level in turnouts, cross-overs, etc. ii) To distribute the load from the rails to index area of ballast under laying it or to the girders in case of bridges. (iv) Sleeper also add to the longitudinal and lateral stability of the permanent track on the whole. (v) Maintain track geometry during service life. 33 YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Sleepers and Track Fasteners",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 886,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_8"
+    },
+    {
+        "question_id": 21,
+        "question_text": "Which of the following is not the function of fastener?",
+        "options": {
+            "A": "To hold rails in proper positions",
+            "B": "To join rail with sleepers",
+            "C": "To join adjacent rails",
+            "D": "To join sleeper with ballast"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "MPPSC AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Sleepers and Track Fasteners",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 888,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_21"
+    },
+    {
+        "question_id": 72,
+        "question_text": "The number of sleepers used for rails varies from, Where 'z' length of rail in '7'-",
+        "options": {
+            "A": "(n + 1) to (a + 4)",
+            "B": "(n + 3) to (a + 6)",
+            "C": "(n+ 2) to(n +7)",
+            "D": "(n + 4) to (7 + 8)"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "MPPSC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Sleepers and Track Fasteners",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 894,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_72"
+    },
+    {
+        "question_id": 93,
+        "question_text": "Pandrol Clips are used in which railway tracks?",
+        "options": {
+            "A": "Bullet train tracks",
+            "B": "Light rail tracks",
+            "C": "Ballast-less tracks",
+            "D": "Dedicated freight corridor tracks SJVNL ET"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Sleepers and Track Fasteners",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 896,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_93"
+    },
+    {
+        "question_id": 150,
+        "question_text": "The density of sleepers mainly depends upon all except one of the following :",
+        "options": {
+            "A": "Axlc load the rail track is designed to carry",
+            "B": "The nature of sleeper and the materials used",
+            "C": "Lateral thrust of locomotives",
+            "D": "Speed of the train (e) Climatic variations"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "CGPSC AE Shift - 2 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Sleepers and Track Fasteners",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 904,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_150"
+    }
+]

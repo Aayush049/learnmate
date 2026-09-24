@@ -1,0 +1,497 @@
+[
+    {
+        "question_id": 97,
+        "question_text": "Triangulation stations should be",
+        "options": {
+            "A": "in commanding positions",
+            "B": "all of three mentioned here",
+            "C": "intervisible",
+            "D": "casily accessible GWSSB AAE"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Runway Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 32,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_97"
+    },
+    {
+        "question_id": 116,
+        "question_text": "Measuring with a 30 m chain which is 0,041 m too short introduces a:",
+        "options": {
+            "A": "positive compensating error",
+            "B": "negative compensating error",
+            "C": "positive cumulative error",
+            "D": "negative cumulative error"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Runway Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 34,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_116"
+    },
+    {
+        "question_id": 112,
+        "question_text": "Which of the following is not a_non- dimensional parameter?",
+        "options": {
+            "A": "Froude number",
+            "B": "Darcy-Weisbach friction factor",
+            "C": "Chezy's coefficient",
+            "D": "Mach number Chandigarh AE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017 IPSC AE 2009",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Runway Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 176,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_112"
+    },
+    {
+        "question_id": 116,
+        "question_text": "‘The term 'consumptive use’ of water for a crop means-",
+        "options": {
+            "A": "saturation limit",
+            "B": "field capacity",
+            "C": "wilting point",
+            "D": "average of field capacity and wilting {UPPSC State Eng, A.E."
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "2008] [UPPSC State Eng. A.E. 2004(1)]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Runway Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 425,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_116"
+    },
+    {
+        "question_id": 121,
+        "question_text": "The following data were recorded from an irrigation field. Field capacity = 20% Permanent wilting point = 10% Permissible depletion of available soil moisture = 50% AE Civil Engg. Volume-II 4 Dry unit weight of soi=15,000 N/m‘ Effective rainfall = 25mm Based on above data, the net irrigation requirement per metre depth of soil will be",
+        "options": {
+            "A": "water delivered to fields and water diverted to cannels",
+            "B": "water stores in root zone to water delivered to fields",
+            "C": "water required for leaching to water delivered",
+            "D": "water stored in root zone to field capacity (BPSC"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "AE Paper VI 2001)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Runway Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 426,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_121"
+    },
+    {
+        "question_id": 86,
+        "question_text": "Mean precipitation over an area is best obtained based on gauged data using:",
+        "options": {
+            "A": "Thiessen method",
+            "B": "Arithmetic mean method",
+            "C": "Linearly interpolated isohyetal method",
+            "D": "Orographically weighed isohyetal method UPSC JWM"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2017 ESE 1997",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Runway Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 547,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_86"
+    },
+    {
+        "question_id": 110,
+        "question_text": "A Nozzle device is used to convert the",
+        "options": {
+            "A": "total energy to pressure",
+            "B": "total energy to velocity",
+            "C": "kinetic energy to mechanical energy",
+            "D": "potential energy to kinetic energy"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "APPSC AEE (CIVIL/MECHANICAL) 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Runway Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 550,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_110"
+    },
+    {
+        "question_id": 116,
+        "question_text": "Drainage density is the",
+        "options": {
+            "A": "average length of the streams per unit drainage area within the basin",
+            "B": "stream discharge per unit drainage area",
+            "C": "annual runoff per unit drainage arca",
+            "D": "number of streams per unit drainage area"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE Dee 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Runway Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 550,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_116"
+    },
+    {
+        "question_id": 121,
+        "question_text": "Which of the following is not a detrimental force acting on breakwaters?",
+        "options": {
+            "A": "Hydrostatic force",
+            "B": "Temperature fluctuations is summer",
+            "C": "Sea insects",
+            "D": "Solvent action of sca water"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "UPPCL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Runway Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 551,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_121"
+    },
+    {
+        "question_id": 86,
+        "question_text": "The yield of the well depends upon the",
+        "options": {
+            "A": "permeability of the soil",
+            "B": "position of water table",
+            "C": "depth of well in impervious layer",
+            "D": "all of these"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "BPSC AE Paper VI 2006,",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Runway Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 616,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_86"
+    },
+    {
+        "question_id": 121,
+        "question_text": "An indicator organism recommended for bacteriological quality of water is:",
+        "options": {
+            "A": "Escherichia coli",
+            "B": "Salmonella Typhi",
+            "C": "Mycobacterium tuberculosis",
+            "D": "Shigella dysenteries"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "JUVNL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Runway Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 620,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_121"
+    },
+    {
+        "question_id": 86,
+        "question_text": "Lag distance is the distance travelled",
+        "options": {
+            "A": "0.30 (b) 0.48",
+            "B": "during PIEV time",
+            "C": "0.60 (d) 0.72 TRB Poly, Tech, Leet,",
+            "D": "during night"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Runway Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 789,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_86"
+    },
+    {
+        "question_id": 110,
+        "question_text": "In India, the ruling gradient provided in plains for one locomotive train is",
+        "options": {
+            "A": "LIN 150 to 1 IN 200",
+            "B": "LIN 200 to 1 IN 250",
+            "C": "LIN 250 to 1 IN 300",
+            "D": "_ LIN 300 to 1 IN 350 [U.K. Combined A £ Paper IT"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "2012]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Runway Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 898,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_110"
+    },
+    {
+        "question_id": 86,
+        "question_text": "According te ICAO recommendation, as the elevation of the locality changes, the rate at which runway length has to be modified is :",
+        "options": {
+            "A": "decreased at the rate of 9% per 300 m rise in elevation above MSL",
+            "B": "increased at the rate of 10% per 300 m rise in elevation above MSL",
+            "C": "increased at the of 7% per 300 m rise in elevation above MSL",
+            "D": "decreased at the rate of $% per 300 m rise in elevation above MSL BHEL ET"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Runway Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 923,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_86"
+    },
+    {
+        "question_id": 97,
+        "question_text": "The orientation of preferential runway in an airport is influenced by",
+        "options": {
+            "A": "Direction of prevailing wind, adequate length, obstruction-free landing and take-off zone",
+            "B": "Adequate waiting and service facilities",
+            "C": "Convenience of terminal and control facilities",
+            "D": "Stable ground and adequate turning space"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "UPRVUNL AE 2015 ESE 2004 AE Civil Engg. Volume-II 97",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Runway Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 924,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_97"
+    },
+    {
+        "question_id": 110,
+        "question_text": "Runway threshold is indicated by series of parallel lines starting from a distance of-",
+        "options": {
+            "A": "3m from runway end.",
+            "B": "6 m from runway end",
+            "C": "1m from runway end",
+            "D": "15 m from runway end"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "MPPSC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Runway Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 925,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_110"
+    },
+    {
+        "question_id": 112,
+        "question_text": "According to ICAO recommendation, while selecting the site for a runway, as the elevation of the locality changes, the rate at which runway length has to be modified is:",
+        "options": {
+            "A": "Decreased at the rate of 9% per 300 m rise in elevation above MSL.",
+            "B": "Decreased at the rate of 5% per 300 m rise in elevation above MSL.",
+            "C": "Increased at the rate of 10% per 300 m rise in clevation above MSL.",
+            "D": "Increased at the rate of 7% per 300 m rise in elevation above MSL."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "CIL AE 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Runway Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 925,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_112"
+    },
+    {
+        "question_id": 116,
+        "question_text": "At an airport, the basic runway length is corrected for #",
+        "options": {
+            "A": "Moisture content, temperature and effective gradient",
+            "B": "Elevation, temperature and moisture content",
+            "C": "Elevation, temperature and effective gradient",
+            "D": "Temperature and friction."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "LMRC AM 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Runway Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 926,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_116"
+    },
+    {
+        "question_id": 121,
+        "question_text": "Which one of the following instances of performance of aircraft is not considered for determining basic runway length?",
+        "options": {
+            "A": "Normal landing case",
+            "B": "Normal take-off case",
+            "C": "Engine failure case",
+            "D": "Emergency landing case"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "ESE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Airport Engineering",
+        "topic": "Runway Design",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 926,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_121"
+    }
+]

@@ -1,0 +1,261 @@
+[
+    {
+        "question_id": 45,
+        "question_text": "The process of determining the differences of elevations of stations from vertical angles and known distances is known as",
+        "options": {
+            "A": "Trigonometric levelling",
+            "B": "Geodetic surveying",
+            "C": "Field astronomy",
+            "D": "Topographic surveying"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "TNPSC AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydraulic Machine",
+        "topic": "Hydraulic Pumps",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 25,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_45"
+    },
+    {
+        "question_id": 51,
+        "question_text": "An ideal fluid is one which is",
+        "options": {
+            "A": "non-viscous",
+            "B": "incompressible",
+            "C": "incompressible and non-viscous",
+            "D": "non-viscous and frictionless"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydraulic Machine",
+        "topic": "Hydraulic Pumps",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 166,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_51"
+    },
+    {
+        "question_id": 146,
+        "question_text": "A control volume implies",
+        "options": {
+            "A": "an isolated system",
+            "B": "aclosed system",
+            "C": "a specified mass in fluid flow",
+            "D": "a fixed region in space"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "APPSC AEE MAINS 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydraulic Machine",
+        "topic": "Hydraulic Pumps",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 180,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_146"
+    },
+    {
+        "question_id": 210,
+        "question_text": "For a fluid in motion, if pressure at a point is same in all directions, the fluid is said to be:",
+        "options": {
+            "A": "Areal fluid",
+            "B": "Anon Newtonian fluid",
+            "C": "An ideal fluid",
+            "D": "A Newtonian fluid"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "KPSC AE 2016 Rajasthan JEN (Degree) Shift - 11 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydraulic Machine",
+        "topic": "Hydraulic Pumps",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 189,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_210"
+    },
+    {
+        "question_id": 225,
+        "question_text": "To study the cruising of supersonic missiles in air by using dimensional analysis technique, which of the two dimensionless numbers will be of significance-",
+        "options": {
+            "A": "Reynolds number and Froude's number",
+            "B": "Weber number and Mach number",
+            "C": "Weber number and Froude's number",
+            "D": "Reynolds number and mach number"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "UKPSC AE 2013 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydraulic Machine",
+        "topic": "Hydraulic Pumps",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 191,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_225"
+    },
+    {
+        "question_id": 51,
+        "question_text": "During suction stroke of a reciprocating pump, the separation may take place",
+        "options": {
+            "A": "at the end of suction stroke",
+            "B": "in the middle of suction stroke",
+            "C": "at the beginning of suction stroke",
+            "D": "None of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Maharashtra PSC Mains 2018 Paper-2",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydraulic Machine",
+        "topic": "Hydraulic Pumps",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 376,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_51"
+    },
+    {
+        "question_id": 146,
+        "question_text": "Fora centrifugal pump, suction lift head is the-",
+        "options": {
+            "A": "Vertical distance between the top surface of liquid level in the discharge tank and pump centre line",
+            "B": "Vertical distance between free surface of liquid level in the sump and pump centre line",
+            "C": "Head for overcoming friction loss in the suction pipe, entry loss at entrance to the friction pipe and running fluid in the suction pipe",
+            "D": "None of the above"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "MPSC (Mains) 2017 Paper-Il",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydraulic Machine",
+        "topic": "Hydraulic Pumps",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 391,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_146"
+    },
+    {
+        "question_id": 210,
+        "question_text": "The absolute pressure head at the inlet to the pump minus the vapour pressure head (in absolute units) plus the velocity head is known as;",
+        "options": {
+            "A": "Maximum suction lift",
+            "B": "Net positive suction head",
+            "C": "Manometric head",
+            "D": "Cavitation"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "LMRC AM 2019 AE Civil Engg. Volume-II 3",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydraulic Machine",
+        "topic": "Hydraulic Pumps",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 399,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_210"
+    },
+    {
+        "question_id": 225,
+        "question_text": "Ina single acting reciprocating pump, water is delivered in :",
+        "options": {
+            "A": "Suction stroke",
+            "B": "Delivery stroke",
+            "C": "Middle of suction stroke",
+            "D": "Middle of delivery stroke Nagaland"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PSC Paper-IT 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydraulic Machine",
+        "topic": "Hydraulic Pumps",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 401,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_225"
+    },
+    {
+        "question_id": 232,
+        "question_text": "A double-acting reciprocating pump having piston area 0.1 m’ has a stroke 0.30 m long. The pump is discharging 2.4 m’ of water per minute at 45 rpm through a height of 10 m. The slip of the pump and power required to drive the pump will he nearly",
+        "options": {
+            "A": "0.005 m*/s and 4.8 kW",
+            "B": "0.003 m/s and 4.8 kW",
+            "C": "0.005 m*/s and 4.4 kW",
+            "D": "0.003 m/s and 4.4 kW"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ESE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydraulic Machine",
+        "topic": "Hydraulic Pumps",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 402,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_232"
+    }
+]

@@ -1,0 +1,133 @@
+[
+    {
+        "question_id": 863,
+        "question_text": "Which one of the following is carried out by two theodolite method ?",
+        "options": {
+            "A": "Circular curve ranging",
+            "B": "Tachometry survey",
+            "C": "Geodetic survey",
+            "D": "Astronomical survey"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE March 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "Fundamental of Equipments",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 132,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_863"
+    },
+    {
+        "question_id": 863,
+        "question_text": "Ina barrage, crest level is kept :",
+        "options": {
+            "A": "Low with large gates",
+            "B": "High with large gates",
+            "C": "High with small gates",
+            "D": "Low with small gates Nagaland PSC CTSE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017 Paper-II",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "Fundamental of Equipments",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 525,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_863"
+    },
+    {
+        "question_id": 859,
+        "question_text": "Vibrating compactor is ideally suited for-",
+        "options": {
+            "A": "Manual towing and compacting any type of soil with varying moisture content",
+            "B": "Compacting fly ash masses with any moisture content",
+            "C": "Compacting cohesion less granular material with any moisture content",
+            "D": "Compacting all fine grained materials having adequate moisture content"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "MPPSC AE 2017 « Vibrating compactors are frequently used machines to compact materials such as soil in order to increase its density for construction. « Vibration has two measurements - amplitude and frequency. ¢ The amplitude controls the effective area, or depth to which the vibration is transmitted into the soil.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "Fundamental of Equipments",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 884,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_859"
+    },
+    {
+        "question_id": 863,
+        "question_text": "Downtime of an equipment is",
+        "options": {
+            "A": "the time when equipment shall have to be returned to the owner due to expiry of its lease period",
+            "B": "the period of time when equipment is idle for want of work",
+            "C": "the period of time that the equipment fails to provide or perform its primary function",
+            "D": "the time when contractor has to do the down payment before taking equipment on rent {MPPSC AE"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2016]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "Fundamental of Equipments",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 885,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_863"
+    },
+    {
+        "question_id": 865,
+        "question_text": "Physical life of an equipment is defined as",
+        "options": {
+            "A": "age at which the cquipment is worn out and it can no longer reliably produce",
+            "B": "the life over which the equipment can earn a profit",
+            "C": "time period that maximizes the profit over the equipment life",
+            "D": "age at which depreciation cost exceeds the purchase cost"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "IMPPSC AE 2016]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "Fundamental of Equipments",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 885,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_865"
+    }
+]

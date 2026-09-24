@@ -1,0 +1,973 @@
+[
+    {
+        "question_id": 23,
+        "question_text": "The soils most susceptible to liquefaction are-",
+        "options": {
+            "A": "Saturated densc sands",
+            "B": "Saturated fine and medium sands of uniform particle size",
+            "C": "Saturated clays of uniform size",
+            "D": "Saturated gravels and cobbles"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Gujarat PSC AE (N.W.R.) 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 113,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_23"
+    },
+    {
+        "question_id": 1067,
+        "question_text": "Which one of the following planes is most likely to be the failure plane in sandy soils?",
+        "options": {
+            "A": "Plane carrying maximum shear stress",
+            "B": "Plane carrying maximum normal stress",
+            "C": "Plane with maximum anglc of obliquity",
+            "D": "Principal plane"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "BPSC AE 2012 Paper-V",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 262,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1067"
+    },
+    {
+        "question_id": 1068,
+        "question_text": "Expansion of soil under shear is called-",
+        "options": {
+            "A": "liquefaction",
+            "B": "Volumetric deformation",
+            "C": "critical expansion",
+            "D": "dilatancy"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "BPSC AE 2012 Paper-V",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 262,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1068"
+    },
+    {
+        "question_id": 1069,
+        "question_text": "Most of the shear tests are done on equipment which are",
+        "options": {
+            "A": "stress-controlled",
+            "B": "strain-controlled",
+            "C": "drainage-controlled",
+            "D": "volume - controlled"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "BPSC AE 2012 Paper-V",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 262,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1069"
+    },
+    {
+        "question_id": 1080,
+        "question_text": "The water content of a soil remains unchanged during the entire test in-",
+        "options": {
+            "A": "Draincd test",
+            "B": "Consolidated undraincd test",
+            "C": "Unconsolidated undrained test",
+            "D": "None of these"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UKPSC AE 2013 Paper-I Ans ; (c) Unconsolidated undrained test- ¢ suitable for clayey soils. e water content of soil remains unchanged. ¢ 5 to 10 minutes are required for whole test, thus called quick test. ¢ Drainage not permitted at any stage.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 264,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1080"
+    },
+    {
+        "question_id": 1084,
+        "question_text": "In the triaxial test the major principal stress is:",
+        "options": {
+            "A": "deviator stress",
+            "B": "cell pressure",
+            "C": "deviator stress + cell pressure",
+            "D": "none of the above (UKPSC AE (Paper-I)"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2007)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 264,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1084"
+    },
+    {
+        "question_id": 1102,
+        "question_text": "Which of the following is true ?",
+        "options": {
+            "A": "The large the coefficient of consolidation, the longer it takes for consolidation to occur",
+            "B": "Pore pressure parameter A is a constant for a soil",
+            "C": "A saturated loose sand sample reduces in volume when sheared under undrained conditions",
+            "D": "Saturated sand can cxhibit an angle of shearing resistance of zero [HPPSC AE"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2016;",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 267,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1102"
+    },
+    {
+        "question_id": 1103,
+        "question_text": "Shear failure of soils takes place, when :",
+        "options": {
+            "A": "the angle of obliquity is maximum",
+            "B": "maximum cohesion is reached in cohesive soils",
+            "C": "¢ reaches its maximum value in cohesionless soils",
+            "D": "residual strength of the soil is exhausted Karnataka"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PSC AE 2015 Paper - II RRB SSE (Bilaspur) Yellow Paper ; 21.12.2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 267,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1103"
+    },
+    {
+        "question_id": 1104,
+        "question_text": "Unconfined compressive strength test is :",
+        "options": {
+            "A": "Consolidated drained test",
+            "B": "Consolidated undrained test",
+            "C": "Undrained test",
+            "D": "Drained test Rajasthan JEN (Degree) Shift - IT"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016 Soil Properties Unconfined compression strength (kg/em’)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 267,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1104"
+    },
+    {
+        "question_id": 1106,
+        "question_text": "In a Mohr's diagram, a point above Mohr's envelope indicates ;",
+        "options": {
+            "A": "an imaginary condition",
+            "B": "asafe condition",
+            "C": "an imminent failure condition",
+            "D": "a condition of maximum obliquity"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017 ESE 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 268,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1106"
+    },
+    {
+        "question_id": 1107,
+        "question_text": "For assessing the long-term stability of a slope in stiff fissured clay which type of the following laboratory test has to be done :",
+        "options": {
+            "A": "Undrained triaxial test",
+            "B": "Drained triaxial test",
+            "C": "Consolidated undrained test",
+            "D": "Quick vane shear test"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 268,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1107"
+    },
+    {
+        "question_id": 1108,
+        "question_text": "A shear test was conducted on a soil sample. At failure, the ratio of (P; - P3) / 2 to (P) + P3)/2 was equal to 1, Which one of the following shear test represents this condition?",
+        "options": {
+            "A": "Drained triaxial compression test",
+            "B": "Undrained triaxial compression test",
+            "C": "Undrained shear test",
+            "D": "Unconfined compression test"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 268,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1108"
+    },
+    {
+        "question_id": 1109,
+        "question_text": "Considerable loss of shear strength due to shock or disturbance is exhibited by :",
+        "options": {
+            "A": "Under-consolidated clays",
+            "B": "Normally consolidated clays",
+            "C": "Over consolidated clays",
+            "D": "Organic soil"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017 ESE 2010",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 268,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1109"
+    },
+    {
+        "question_id": 1110,
+        "question_text": "Shear strength of a soil is its",
+        "options": {
+            "A": "minimum resistance to shear stresses just before the failure",
+            "B": "minimum resistance to shear stresses just after the failure",
+            "C": "maximum resistance to shear stresses just before the failure",
+            "D": "maximum resistance to shear stresses just after the failure"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019 Ans ; (c) ; Shear strength is maximum soil can resist against shear deformation (shear stress) so that the failure can't be happen before.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 268,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1110"
+    },
+    {
+        "question_id": 1112,
+        "question_text": "Which of the following test is not used to measure the shear strength of soil?",
+        "options": {
+            "A": "Triaxial Compression Test",
+            "B": "Standard Proctor Test",
+            "C": "Unconfined Compression Test",
+            "D": "Vane Shear Test"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019 Ams ; (b) Standard proctor test is used to determine the compaction of different types of soil and the properties of soil with a change in moisture content. 8",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 268,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1112"
+    },
+    {
+        "question_id": 1123,
+        "question_text": "For the determination of shear strength parameters C and 9, of the soil in the laboratory the test to he conducted will be :",
+        "options": {
+            "A": "Tri-axial compression test",
+            "B": "Penetration test",
+            "C": "Sicve analysis",
+            "D": "Compaction test Nagaland"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "PSC Paper-IL 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 270,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1123"
+    },
+    {
+        "question_id": 1128,
+        "question_text": "Statement (1): Cohesion and angle of internal friction are shear strength parameters of soils, Statement (II): Cohesion is zero for pure sand. and angle of internal friction is zero for pure clay.",
+        "options": {
+            "A": "Both Statements-I and Statement-II are individually true and Statement-II is the correct explanation of Statement-I.",
+            "B": "Both Statements-I and Statement-II are individually true but Statement-II is NOT the correct explanation of Siatement-I",
+            "C": "Statement-I is true but Statement-II is false.",
+            "D": "Statement-I is false but Stalement-II is true."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ESE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 271,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1128"
+    },
+    {
+        "question_id": 1131,
+        "question_text": "The angle of internal friction is least for",
+        "options": {
+            "A": "Angular grained loose sand",
+            "B": "Round grained loose sand",
+            "C": "Silts",
+            "D": "Clays"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ISRO Scientist/Engineer 2018 Ans; (d) : Angle of internal friction for a given soil is the angle on the graph (Mohr's Circle) of the shear stress and normal effective stresses al which shear failure occurs.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 272,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1131"
+    },
+    {
+        "question_id": 1133,
+        "question_text": "Which one of the following conditions is valid in case of unconfined compression test in comparison to triaxial test?",
+        "options": {
+            "A": "Minor principal stress = 0",
+            "B": "Minor principal stress = 0.5 x major principal stress",
+            "C": "Minor principal stress = major principal stress",
+            "D": "Major principal stress = 3 x minor principal stress"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "ISRO Scientist/Engineer 2013 ESE 2009",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 272,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1133"
+    },
+    {
+        "question_id": 1147,
+        "question_text": "The useful method of finding the shear strength of soft sensitive clayey soils is by means of :",
+        "options": {
+            "A": "Cone penetration test",
+            "B": "SPT test",
+            "C": "Vane shear test",
+            "D": "Tensional shear test Nagaland"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "PSC Paper-II 2017 OPSC Civil Services Pre 2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 274,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1147"
+    },
+    {
+        "question_id": 1152,
+        "question_text": "The angle between abscissa and the tangent to the curve representing the relationship of shearing resistance to normal stress acting within the soil is called",
+        "options": {
+            "A": "Angle of repose",
+            "B": "Angle of internal friction",
+            "C": "Cohesiveness r",
+            "D": "Hydraulic gradient Punjab PSC SDE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 275,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1152"
+    },
+    {
+        "question_id": 1155,
+        "question_text": "The object of triaxial compression test is to determine the shear strength of soil under :",
+        "options": {
+            "A": "Lateral displacement",
+            "B": "Longitudinal displacement",
+            "C": "Lateral Confinement",
+            "D": "Longitudinal confinement TRB Poly, Lect, Tech,"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017 determine the shear strength of soil under lateral confinement.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 275,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1155"
+    },
+    {
+        "question_id": 1157,
+        "question_text": "In general, plastic undrained clay has negligible or zero :",
+        "options": {
+            "A": "Cohesion",
+            "B": "Shear strength",
+            "C": "Angle of internal friction",
+            "D": "Structural resistance"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "UPPCL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 276,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1157"
+    },
+    {
+        "question_id": 1163,
+        "question_text": "If drainage is permitted throughout, in a shear strength test during the application of both and shear stress, so that full consolidation occurs and no excess pore water pressures develop at any stage of the test, is known as",
+        "options": {
+            "A": "consolidated undrained test",
+            "B": "consolidated drained test",
+            "C": "unconsolidated undrained test",
+            "D": "unconfined compression test"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC Assistant Prof. 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 276,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1163"
+    },
+    {
+        "question_id": 1169,
+        "question_text": "In-situ vane shear test is used to measure shear strength of:-",
+        "options": {
+            "A": "Sandy soil",
+            "B": "Stiff clays",
+            "C": "Very soft and sensitive clays",
+            "D": "Gravel"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPCL AE 2014 MPPSC AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 277,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1169"
+    },
+    {
+        "question_id": 1176,
+        "question_text": "When a loose saturated sand deposit is subjected to a shock or dynamic load, its shear strength will",
+        "options": {
+            "A": "increase",
+            "B": "decrease",
+            "C": "remains same",
+            "D": "increases initially and decreases later"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE Dee 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 278,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1176"
+    },
+    {
+        "question_id": 1179,
+        "question_text": "Which of the following shcar test can be conveniently used to determine the sensitivity of the soils?",
+        "options": {
+            "A": "Unconfined compression test",
+            "B": "Direct shear test",
+            "C": "Vane shear test",
+            "D": "Triaxial compression test"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "CIL MT 2020 SJVNL ET 2019 8",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 278,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1179"
+    },
+    {
+        "question_id": 1185,
+        "question_text": "‘Sensitivity’ of soil can be accessed from",
+        "options": {
+            "A": "standard penetration test",
+            "B": "static cube penetration test",
+            "C": "field density test",
+            "D": "vane shear test"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE (PHE) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 279,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1185"
+    },
+    {
+        "question_id": 1187,
+        "question_text": "For estimating bearing capacity of a saturated clay deposit the shear strength perimeters should be determined from",
+        "options": {
+            "A": "direct shear test",
+            "B": "undrained triaxial test",
+            "C": "drained triaxial test",
+            "D": "consolidated undrained triaxial test"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE (Common) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 279,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1187"
+    },
+    {
+        "question_id": 1195,
+        "question_text": "Which one of the following statement provides the best argument that direct shear tests are not suited for determining shear parameters of a clay soil?",
+        "options": {
+            "A": "Failure plane is not the weakest plane",
+            "B": "Pore pressures developed can nol be measured",
+            "C": "Satisfactory strain levels cannot be maintained",
+            "D": "Adequate consolidation can not be ensured"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "TNPSC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 280,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1195"
+    },
+    {
+        "question_id": 1200,
+        "question_text": "Cohesive soil are :",
+        "options": {
+            "A": "Good for backfill because of low latcral pressure",
+            "B": "Poor for backfill because of large lateral pressure",
+            "C": "Good for backfill because of high shcar strength",
+            "D": "Ideal for backfill soil"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "OPSC Civil Services Pre 2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 281,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1200"
+    },
+    {
+        "question_id": 1219,
+        "question_text": "The effect of cohesion on a soil is to",
+        "options": {
+            "A": "Reduce both active and passive earth pressure intensities",
+            "B": "Increase both active and passive carth pressure intensities",
+            "C": "Reduce active earth pressure intensity but to increase passive earth pressure intensily",
+            "D": "Increase active earth pressure intensity but to reduce passive earth pressure intensity"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "RPSC ACF 2011 WBPSC AE 2007 Ans ; (c) The effect of cohesion on a soil is to reduce active earth pressure intensity but to increases the passive earth resistance of a soil.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 285,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1219"
+    },
+    {
+        "question_id": 1193,
+        "question_text": "In post-tensioning, the clastic loss in a stressed tendon resulting from the shortening of the member when additional tendons are stressed is called as",
+        "options": {
+            "A": "Loss of prestress",
+            "B": "Bond loss",
+            "C": "Sequence stressing loss",
+            "D": "Anchorage loss (e) Shrinkage loss"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "CGPSC AE 2014 Shift-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 907,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1193"
+    },
+    {
+        "question_id": 1195,
+        "question_text": "According to IS 1343, the limit state of serviceability of pre-stresses sections shall satisfy",
+        "options": {
+            "A": "Deflection and cracking",
+            "B": "Cracking and maximum compression",
+            "C": "Cracking, deflection and minimum compression",
+            "D": "Cracking deflection and minimum compression (e) Deflection and maximum compression"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "CGPSC AE 2014 Shift-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 907,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1195"
+    },
+    {
+        "question_id": 1200,
+        "question_text": "Minimum grade of concrete to be used for pre and post-tension = pre-stressed _- concrete construction are",
+        "options": {
+            "A": "M30 and M40 respectively",
+            "B": "M30 in both cases",
+            "C": "M40 in both cases",
+            "D": "M40 and M30 respectively"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TSPSC AEE 2017 Maharashtra PSC AE (Mains) 2012 Paper-I 6",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 907,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1200"
+    },
+    {
+        "question_id": 23,
+        "question_text": "Aking closer is a:",
+        "options": {
+            "A": "stretcher bond (b) header bond",
+            "B": "Three fourth brick",
+            "C": "flemish bond (d) garden bond [UPPSC State Eng. A.E.",
+            "D": "Longitudinally half brick"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "2004 (ID] UPPSC State Eng, AE. 2008,",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1040,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_23"
+    },
+    {
+        "question_id": 23,
+        "question_text": "Cost slope is the ratio of",
+        "options": {
+            "A": "increase in cost by increase in time",
+            "B": "decrease in cost by increase in time",
+            "C": "increase in cost by decrease in time",
+            "D": "decrease in cost by decrease in time"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1112,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_23"
+    }
+]

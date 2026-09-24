@@ -1,0 +1,157 @@
+[
+    {
+        "question_id": 510,
+        "question_text": "Which type of aggregates give maximum strength to concrete?",
+        "options": {
+            "A": "Flaky aggregates",
+            "B": "Angular aggregates",
+            "C": "rounded aggregates",
+            "D": "Mixed aggregates"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019 Ans ; (b) : For maximum strength an angular shape| aggregate is suitable because it provide friction and interlocking both.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Classification of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 72,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_510"
+    },
+    {
+        "question_id": 134,
+        "question_text": "An engineer find suitable sand _ for embankment filling observes that a particular type of 0% What can be conclude from this?",
+        "options": {
+            "A": "Sand is in its loosest state",
+            "B": "Sand is in its densest state",
+            "C": "Sand is in intermediate state of compaction",
+            "D": "This sand cannot be further compacted"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC Poly. Tech. Lect. 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Classification of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 129,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_134"
+    },
+    {
+        "question_id": 440,
+        "question_text": "Given the cocfficient of curvature = 1.4, D3) =3 mm, D,y = 0.6 mm. Based on this information of particle size distribution for use as sub grade, this soil is classified as-",
+        "options": {
+            "A": "Uniformly - graded sand",
+            "B": "Well - graded sand",
+            "C": "Very find sand",
+            "D": "Poorly - graded sand"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "MPPSC AE 2017 ESE 2001",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Classification of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 172,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_440"
+    },
+    {
+        "question_id": 510,
+        "question_text": "As per IS classification, fine sand size particle arc of diameter ranging from :",
+        "options": {
+            "A": "0.002 mm to 0.075 mm",
+            "B": "less than 0.002 mm",
+            "C": "0.075 mm to 0.425 mm",
+            "D": "0.002 mm to 0.425 mm BHEL ET"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2019 1",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Classification of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 181,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_510"
+    },
+    {
+        "question_id": 512,
+        "question_text": "In the classification of fine-grained soils, 'ML' means",
+        "options": {
+            "A": "inorganic silts of high plasticity",
+            "B": "inorganic silts of low plasticity",
+            "C": "inorganic lays of high plasticity",
+            "D": "inorganic clays of low plasticity"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPSC Assistant Prof. 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Classification of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 181,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_512"
+    },
+    {
+        "question_id": 530,
+        "question_text": "The most essential criteria for proper soil classification using the unified soil classification or the AASHTO soil classification system are:",
+        "options": {
+            "A": "Water content and soil density",
+            "B": "Atterberg limits and specific gravity",
+            "C": "Grain-size distribution and water content",
+            "D": "Grain-size distribution and Atterberg limits"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "HPPSC Poly, Lect, 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Classification of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 183,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_530"
+    }
+]

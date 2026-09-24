@@ -1,0 +1,188 @@
+[
+    {
+        "question_id": 325,
+        "question_text": "In Portland cement the strength after two to three years is contributed by the compound:",
+        "options": {
+            "A": "Tetracalcium aluminoferrite",
+            "B": "Di-calcium silicate",
+            "C": "Tricalcium silicate",
+            "D": "Tricalcium aluminate"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "DMRC AM 2017 5",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Expansive Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 53,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_325"
+    },
+    {
+        "question_id": 325,
+        "question_text": "In comparison to Atterberg limits of normal soil, the expansive soils which of the following : Gi) More liquid limit (ii) Less plastic limit (iii) Less shrinkage limit (iv) More volumetric shrinkage Select the correct answers using the codes given below :",
+        "options": {
+            "A": "(i), (ii), (ii) and (iv)",
+            "B": "(i), (iii) and (iv)",
+            "C": "(ii), (iii) and (iv)",
+            "D": "(i), (ii) and (iv)"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017 6",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Expansive Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 156,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_325"
+    },
+    {
+        "question_id": 1365,
+        "question_text": "A black cotton soil is unsuitable for foundation because it",
+        "options": {
+            "A": "Undergoes volumetric changes with change of atmospheric conditions",
+            "B": "Swells excessively when wet",
+            "C": "Shrinks excessively when dry",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "RPSC ACF 2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Expansive Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 305,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1365"
+    },
+    {
+        "question_id": 1577,
+        "question_text": "Black Cotton soil is unsuitable for foundations because of its:",
+        "options": {
+            "A": "Low bearing capacity",
+            "B": "Uncertain permeability",
+            "C": "Cohesive particles",
+            "D": "Property to undergo a volumetric change due to variation of moisture constant"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UJVNL AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Expansive Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 333,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1577"
+    },
+    {
+        "question_id": 1593,
+        "question_text": "In case of foundations on black cotton soils, the most suitable method to increase the bearing capacity of soils is to",
+        "options": {
+            "A": "Settlement of pile more than that of surrounding soil",
+            "B": "Settlement of pile less than that of surrounding soil",
+            "C": "Downward movement of surrounding soil, irrespective of pile movement",
+            "D": "Downward movement of pile irrespective of settlement of soil"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE Dee 2018 5",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Expansive Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 335,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1593"
+    },
+    {
+        "question_id": 1649,
+        "question_text": "Which type of foundation is used for the construction of school building on black cotton soil -",
+        "options": {
+            "A": "Well foundation",
+            "B": "Stepped foundation",
+            "C": "Mat foundation",
+            "D": "Cantilever foundation Rajasthan VP ITT"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Expansive Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 342,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1649"
+    },
+    {
+        "question_id": 1365,
+        "question_text": "In prestressed concrete construction high tensile steel is used for prestressing because",
+        "options": {
+            "A": "It can retain enough residual strength after initial losses",
+            "B": "It required less quantity of steel",
+            "C": "It matches well with high strength concrete",
+            "D": "It has high ductility"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE (PHE) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Expansive Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 929,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1365"
+    }
+]

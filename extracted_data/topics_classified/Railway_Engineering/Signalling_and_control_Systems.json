@@ -1,0 +1,421 @@
+[
+    {
+        "question_id": 200,
+        "question_text": "80 Correct length of tape = 19.92 m 103, Pick the incorrcet pair :",
+        "options": {
+            "A": "Butt Rod : Measuring offsets",
+            "B": "Invar Tape : Baseline Measurement",
+            "C": "Plasters laths : Marking terminal points",
+            "D": "Prism square : Setting right angles"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE March 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Signalling and control Systems",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 32,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_200"
+    },
+    {
+        "question_id": 200,
+        "question_text": "In surveying measurements, the bearings taken in clockwise direction w.r.t. magnetic north are referred as",
+        "options": {
+            "A": "Magnetic meridian",
+            "B": "True meridian",
+            "C": "Whole circle bearing",
+            "D": "Reduced bearing (UP"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "RVNL AE 2016)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Signalling and control Systems",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 45,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_200"
+    },
+    {
+        "question_id": 188,
+        "question_text": "Which of the given preference is beneficial for attaining a non-overloading characteristic in a centrifugal pump?",
+        "options": {
+            "A": "Backward bent vanes are preferred over forward bent vanes",
+            "B": "Forward bent vanes are preferred over backward bent vanes",
+            "C": "Forward bent vanes are preferred over vanes radial at outlet",
+            "D": "Vanes radial at outlet are preferred over backward vanes"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "UPRVUNL AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Signalling and control Systems",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 397,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_188"
+    },
+    {
+        "question_id": 197,
+        "question_text": "...........are those which are capable of working under heads less than 30 m.",
+        "options": {
+            "A": "Low head turbine",
+            "B": "Medium head turbine",
+            "C": "High head turbine",
+            "D": "None of above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Gujarat PSC AE 2017 Ans ; (a) Low head turbine are those which are capable of working under heads less than 30 m. Ex. Propeller & kaplan turbine.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Signalling and control Systems",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 398,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_197"
+    },
+    {
+        "question_id": 188,
+        "question_text": "Which one of the following is not the main cause for soil salinity and sodicity ?",
+        "options": {
+            "A": "Irrigation mismanagement",
+            "B": "Poor land levelling",
+            "C": "Use of heavy machinery, resulting in no soil compaction",
+            "D": "Leaching without adequate drainage"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "ESE 2020 AE Civil Engg. Volume-II 4",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Signalling and control Systems",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 436,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_188"
+    },
+    {
+        "question_id": 202,
+        "question_text": "Crop period is the time a crop takes :",
+        "options": {
+            "A": "First time of watering to last watering",
+            "B": "From sowing lo its harvesting",
+            "C": "From sowing to last watering",
+            "D": "From first watering at the time of sowing to its harvesting TRB Poly, Lect. Tech,"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Signalling and control Systems",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 438,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_202"
+    },
+    {
+        "question_id": 205,
+        "question_text": "The soil become practically infertile when its pH value is Nagaland PSC CTSE 2017 Paper-IT GPSC AE June 2019 OR A soil can be considered as practically infertile when the pH reaches a value of: CIL MT 2017 NPCC AE 2017",
+        "options": {
+            "A": "consumptive usc",
+            "B": "consumptive use - effective rainfall",
+            "C": "consumptive use - effective rainfall + leaching and other requirements",
+            "D": "percolation loss + effective rainfall"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE Dee 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Signalling and control Systems",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 438,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_205"
+    },
+    {
+        "question_id": 188,
+        "question_text": "Infiltration rate is always:-",
+        "options": {
+            "A": "more than the infiltration capacity",
+            "B": "less than the infiltration capacily",
+            "C": "equal to or less than the infiltration capacity",
+            "D": "equal to or more than the infiltration capacity"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UKPSC A E Paper II 2013, Ans ; (¢) Infiltration rate is always less or equal to infiltration capacity. This infiltration rate is the velocity or speed at which enters into the soil. It is usually measured by the depth (in mm) of the water layer that can enter the soil in one hour.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Signalling and control Systems",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 559,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_188"
+    },
+    {
+        "question_id": 197,
+        "question_text": "Excessive fluoride concentration in drinking water causcs problems related with",
+        "options": {
+            "A": "bones and joints stiffness",
+            "B": "kidney function",
+            "C": "heart disease",
+            "D": "dysentery [Uttarakhand Combined State"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "AE Paper I 2007] AE Civil Engg. Volume-II 6",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Signalling and control Systems",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 627,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_197"
+    },
+    {
+        "question_id": 205,
+        "question_text": "MPN index is a measure of [RPSC LECTURE - 2014] OR MPN index is a measure of which one of the following",
+        "options": {
+            "A": "Coliform bacteria",
+            "B": "BOD;",
+            "C": "Dissolved oxygen content",
+            "D": "Hardness"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "IRPSC GWD A.En, - 2014)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Signalling and control Systems",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 628,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_205"
+    },
+    {
+        "question_id": 188,
+        "question_text": "In highway construction, rolling starts from",
+        "options": {
+            "A": "14cm (b) 21 cm",
+            "B": "Distance covered during overtaking operation",
+            "C": "28cm (d) 7em [HPPSC",
+            "D": "Distance covered during reaction time plus distance covered during overtaking operation plus distance covered by the opposing traffic"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016-1]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Signalling and control Systems",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 803,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_188"
+    },
+    {
+        "question_id": 188,
+        "question_text": "Track circuiting indicates the",
+        "options": {
+            "A": "presence of train on track",
+            "B": "derailment of trains",
+            "C": "spacing between trains",
+            "D": "capacity of tracks"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Signalling and control Systems",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 909,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_188"
+    },
+    {
+        "question_id": 197,
+        "question_text": "The reception signal is",
+        "options": {
+            "A": "outer signal only",
+            "B": "starter only",
+            "C": "neither (outer signal) nor (starter)",
+            "D": "both (outer signal) and (starter) I[MPPSC AE"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2016]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Signalling and control Systems",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 911,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_197"
+    },
+    {
+        "question_id": 200,
+        "question_text": "In railways, the disc signals are provided for the purpose of:",
+        "options": {
+            "A": "dead slow movement",
+            "B": "indicating busy platform",
+            "C": "possible danger ahead",
+            "D": "shunting [UKPSC A.F. Paper (1),"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2013] [UPPSC Civil Eng. A.E. 2013(1), 20071) 2004(D]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Signalling and control Systems",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 911,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_200"
+    },
+    {
+        "question_id": 202,
+        "question_text": "When semaphore and Warner signals are installed on the same post, then the stop indication is given when",
+        "options": {
+            "A": "Semaphore arm is lowered but Warner arm is horizontal",
+            "B": "Both semaphore and Warner arms are lowered.",
+            "C": "Both the arms are horizontal",
+            "D": "_ None of the above {UPPSC Civil Eng. A.E."
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2004 (D)]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Signalling and control Systems",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 911,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_202"
+    },
+    {
+        "question_id": 205,
+        "question_text": "‘The reception signal is-",
+        "options": {
+            "A": "Advanced starter only",
+            "B": "Starter only",
+            "C": "None of the other options provided",
+            "D": "Both advanced starter and Starter"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "MPPSC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Railway Engineering",
+        "topic": "Signalling and control Systems",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 912,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_205"
+    }
+]

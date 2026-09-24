@@ -1,0 +1,186 @@
+[
+    {
+        "question_id": 127,
+        "question_text": "Two perfectly elastic spheres of equal masses moving in the same direction with their velocities in the ratio 2 : 1 have an impact. After the impact, they will",
+        "options": {
+            "A": "move in the same direction with the same velocity ratio",
+            "B": "have a velocity ratio of 1 : 2",
+            "C": "move in opposite direction with a velocity ratio of 1:2",
+            "D": "move in the same direction with a velocity ratio of 1:2"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE 2007",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Work, Power & Energy",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 383,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_127"
+    },
+    {
+        "question_id": 128,
+        "question_text": "Consider the below statements :",
+        "options": {
+            "A": "Both statements are false",
+            "B": "Statement B is true A is false",
+            "C": "Both statements are true",
+            "D": "Statement A is true B is false"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPCL AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Work, Power & Energy",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 384,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_128"
+    },
+    {
+        "question_id": 127,
+        "question_text": "Ina composite construction",
+        "options": {
+            "A": "Interface slipping is prevented by using shear connector",
+            "B": "Differential shrinkage is overcome by using the same grade of concrete for both the components",
+            "C": "Precast member is always designed to carry the weight of in-situ concrete without props.",
+            "D": "The in-situ concrete cannot be prestressed."
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "MPPSC AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Work, Power & Energy",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 945,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_127"
+    },
+    {
+        "question_id": 128,
+        "question_text": "Minimum pitch in a riveted joint shouldn’t be",
+        "options": {
+            "A": "Less than 200 mm",
+            "B": "More than 200 mm",
+            "C": "Greater than 2.5 times the gross diameter of the rivet",
+            "D": "Less than 2.5 times the nominal diametcr of the rivet"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE June 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Work, Power & Energy",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 945,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_128"
+    },
+    {
+        "question_id": 127,
+        "question_text": "A well cassion is a foundation facilating structure sunk in the ground or water; which is:",
+        "options": {
+            "A": "Open at top as well as bottom.",
+            "B": "Open at top and closed at bottom",
+            "C": "Open at bottom and closed at top",
+            "D": "Closed at top as well as at bottom"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "Maharashtra PSC (Mains) 2019 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Work, Power & Energy",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1052,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_127"
+    },
+    {
+        "question_id": 127,
+        "question_text": "In the context of construction management, PERT stands for : DMRC AM 2020 OR The full form of PERT method of project network analysis is: GPSC AE January 2018 OR PERT stands for",
+        "options": {
+            "A": "Programme evaluation and research technique",
+            "B": "Programme examination and review technique",
+            "C": "Programme examination and research technique",
+            "D": "Programme evaluation and review technique"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "DMRC AM 2020 WBPSC Poly Lect. 2019 ISRO Scientist/Engineer 2019 Maharashtra PSC Mains 2018 Paper-1 APPSC AE 2016 (Mains) INPSC AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Work, Power & Energy",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1084,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_127"
+    },
+    {
+        "question_id": 128,
+        "question_text": "Critical Path Method (CPM) network is-",
+        "options": {
+            "A": "Activity oriented",
+            "B": "Event oriented",
+            "C": "Both activity as well as cvent oriented",
+            "D": "None of these"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "OPSC AEE 2015 PAPER-I GPSC R&B AE 2016 Maharashtra PSC AE (Mains) 2012 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Work, Power & Energy",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1084,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_128"
+    }
+]

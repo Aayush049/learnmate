@@ -1,0 +1,294 @@
+[
+    {
+        "question_id": 614,
+        "question_text": "Select the correct statement :",
+        "options": {
+            "A": "Contour interval on any map is not kept constant",
+            "B": "Direct method of contouring is cheaper than indirect method",
+            "C": "Intervisibility of points on a contour map can be ascertained",
+            "D": "Slope ofa hill can not be determined with the help of contours {UPPSC State Eng, A.E."
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2011]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Spillway",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 101,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_614"
+    },
+    {
+        "question_id": 938,
+        "question_text": "Which of the following methods is most suitable for area calculation when boundary line is irregular?",
+        "options": {
+            "A": "S{(h +h, )+4(h, +hy thy +...) + 20h, +h +..)|",
+            "B": "Trapezoidal rule",
+            "C": "Simpson's rule",
+            "D": "Mid-Ordinate method"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE Dec 2018 ESE 2009",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Spillway",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 143,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_938"
+    },
+    {
+        "question_id": 941,
+        "question_text": "Simpson's rule for calculating areas states that the area enclosed by a curvilinear figure divided into an even number of strips of equal width, is equal to ;",
+        "options": {
+            "A": "Average ordinate rule",
+            "B": "Mid ordinate rule",
+            "C": "Trapezoidal rule",
+            "D": "Simpson's one third rule"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "IRPSC AE 2013 Ans ; (d) Simpson's one third rule gives most accurate results for calculation of areas. According to simpson's rule-A -{F(0 +0, )+2(O; +0, +....)+4(O, +O, +... ) 3",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Spillway",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 143,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_941"
+    },
+    {
+        "question_id": 941,
+        "question_text": "In open channel, the specific energy is the",
+        "options": {
+            "A": "Total energy per unit discharge",
+            "B": "Total energy measured with respect to the datum passing through the bottom of the channel",
+            "C": "Total energy measured above the horizontal datum",
+            "D": "Kinctic energy plotted above the free surface of water"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "ISRO Scientist/Engineer 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Spillway",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 300,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_941"
+    },
+    {
+        "question_id": 952,
+        "question_text": "For a given discharge, critical flow depth in an open channel depends on :",
+        "options": {
+            "A": "Channel geometry only",
+            "B": "Channel gcometry and bed slope",
+            "C": "Channel geometry bed slope and roughness",
+            "D": "Channel Geometry, bed slope, roughness and Reynolds number"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PSPCL AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Spillway",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 302,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_952"
+    },
+    {
+        "question_id": 1071,
+        "question_text": "In a saddle-siphon spillway, an air vent is provided at the level of the full reservoir surface to-",
+        "options": {
+            "A": "break the siphonic action at that level",
+            "B": "initiate the siphonic action at that level",
+            "C": "prevent cavitation",
+            "D": "maintain ventilation inside the siphon [MPSC"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2015 Paper-II Mains,",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Spillway",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 316,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1071"
+    },
+    {
+        "question_id": 1072,
+        "question_text": "The crest of an emergency spillway is placed-",
+        "options": {
+            "A": "Below the designed minimum reservoir water level",
+            "B": "At the designed minimum reservoir water level",
+            "C": "At or above the designed minimum reservoir water level",
+            "D": "None of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "MPSC-2017 (II) Mains",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Spillway",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 317,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1072"
+    },
+    {
+        "question_id": 614,
+        "question_text": "If the head of water over an Ogee spillway is less than the design head,",
+        "options": {
+            "A": "the pressure on the spillway crest will be negative",
+            "B": "the coefficient of discharge will be less than the design coefficient of discharge",
+            "C": "the coefficient of discharge will be larger than the design coefficient of discharge.",
+            "D": "the cavitations phenomenon will occur."
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "TSPSC AEE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Spillway",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 492,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_614"
+    },
+    {
+        "question_id": 938,
+        "question_text": "In Francis equation for necessary correction for end contraction, for calculation of discharge capacity of the spillway of a dam, \"n\" represents",
+        "options": {
+            "A": "No. of piers",
+            "B": "No. of deflecting comers",
+            "C": "No. of opening in the spillway",
+            "D": "No. of gates"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "WBPSC AE 2007",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Spillway",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 536,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_938"
+    },
+    {
+        "question_id": 941,
+        "question_text": "The solid roller bucket is arranged at the end of a spillway to",
+        "options": {
+            "A": "measure the discharge",
+            "B": "provide stability to the spillway",
+            "C": "trap silt from flowing water",
+            "D": "dissipate energy through hydraulic jump"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AEE 2016 AE Civil Engg. Volume-II 5:",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Spillway",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 536,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_941"
+    },
+    {
+        "question_id": 952,
+        "question_text": "Currently, the most commonly used form of vertical lift gates on a spillway crest is",
+        "options": {
+            "A": "stoney gate",
+            "B": "sliding gate",
+            "C": "fixed wheel gate",
+            "D": "tainter"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE Dec 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Spillway",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 537,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_952"
+    }
+]

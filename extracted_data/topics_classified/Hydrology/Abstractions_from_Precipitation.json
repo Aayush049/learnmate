@@ -1,0 +1,502 @@
+[
+    {
+        "question_id": 156,
+        "question_text": "Which one of the following bricks is used for lining of furnaces?",
+        "options": {
+            "A": "Over- burnt bricks",
+            "B": "Under- burnt bricks",
+            "C": "Refractory bricks",
+            "D": "First quality bricks UPSC JWM"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Abstractions from Precipitation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 36,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_156"
+    },
+    {
+        "question_id": 318,
+        "question_text": "The sum of specific yield and specific retention is equal to",
+        "options": {
+            "A": "Porosity",
+            "B": "Permeability coefficient",
+            "C": "Storage coefficient",
+            "D": "Saturation percentage"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AEE (Mains) 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Abstractions from Precipitation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 155,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_318"
+    },
+    {
+        "question_id": 156,
+        "question_text": "Atmometer is used to measure",
+        "options": {
+            "A": "Pov (b) Pav?",
+            "B": "transpiration",
+            "C": "P«l/V (d) Pav’",
+            "D": "all of the above"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "Gujarat PSC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Abstractions from Precipitation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 388,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_156"
+    },
+    {
+        "question_id": 318,
+        "question_text": "Match List I (crane) with List II (Suitable for) and select the correct answer using the given lists. List I List II",
+        "options": {
+            "A": "A-b, B-a, C-d, D-c - (b) A-c, B-d, C-a, D-b",
+            "B": "Floating craneb, High industrial plant",
+            "C": "A-b, B-d, C-a,D-c (d) A-c, B-a, C-d, D-b",
+            "D": "Gantry crane d, Railway electrification"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "UPRVUNL AE 2015 ESE 2007",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Abstractions from Precipitation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1108,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_318"
+    },
+    {
+        "question_id": 193,
+        "question_text": "If the weight of an angle A is 3 and weight of angle B is 4, what will be the weight of (3A-B +90°) ?",
+        "options": {
+            "A": "3A =76\"40'",
+            "B": "52A=127°50'",
+            "C": "both (a) and (b)",
+            "D": "none of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPSC State Eng, AE, 2007(1) Ans ; (a) A- 25°30! 2A=51°10' The normal equation in A. A+2.A = 25°30! + 51°10\" 3A = 76°40! 195, Read the following statements,",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Abstractions from Precipitation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 44,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_193"
+    },
+    {
+        "question_id": 265,
+        "question_text": "A decline of 3° east means",
+        "options": {
+            "A": "magnetic north is 3° east of north",
+            "B": "magnetic north is 3° west of true north",
+            "C": "true north is 3° east of magnetic north",
+            "D": "true south is 3° cast of magnetic south AP (VSS-1) PART - A"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Abstractions from Precipitation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 55,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_265"
+    },
+    {
+        "question_id": 576,
+        "question_text": "For locating a distant object visible from two transit stations, which method can be preferred",
+        "options": {
+            "A": "Distance from the two stations",
+            "B": "Angles from the two stations",
+            "C": "Both distance and angles from the two stations",
+            "D": "Distance from one station and angle from the other station Sikkim"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PSC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Abstractions from Precipitation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 95,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_576"
+    },
+    {
+        "question_id": 224,
+        "question_text": "Choose the correct match-",
+        "options": {
+            "A": "(ii) @ (ii) (iv)",
+            "B": "(iii) (ii) (iv) (i)",
+            "C": "Gv) (vy) (i) (iii) @ ivy) qi) (iii)",
+            "D": "Inertial force to elastic force (i) Reynold's number (ii) Euler number (iii) Mach number (iv) Weber number (V) Froude number A B Cc D"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "IMPSC 2015 Paper-II Mains] ESE 2006 3B YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Abstractions from Precipitation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 190,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_224"
+    },
+    {
+        "question_id": 98,
+        "question_text": "A Pelton turbine is :",
+        "options": {
+            "A": "a reaction turbine",
+            "B": "both a pressure and reaction turbine",
+            "C": "a velocity turbine",
+            "D": "a pressure turbine"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "UPPCL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Abstractions from Precipitation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 383,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_98"
+    },
+    {
+        "question_id": 128,
+        "question_text": "Operating characteristic curves of a turbine are-",
+        "options": {
+            "A": "Varying speed curves",
+            "B": "Constant cfficiency curves",
+            "C": "Constant head curves",
+            "D": "Constant speed curves [MPSC"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2015 Paper-II Mains]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Abstractions from Precipitation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 388,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_128"
+    },
+    {
+        "question_id": 224,
+        "question_text": "A fast centrifugal pump impeller has which of following ?",
+        "options": {
+            "A": "Foward facing blades",
+            "B": "Radial blades",
+            "C": "Backward facing blades",
+            "D": "Propeller types blades Nagaland"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "PSC Paper-IT 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Abstractions from Precipitation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 401,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_224"
+    },
+    {
+        "question_id": 265,
+        "question_text": "The graphical solution of Kennedy's equation and kutter's equation is given by:",
+        "options": {
+            "A": "Garrct's diagram",
+            "B": "Mohar's diagram",
+            "C": "Kennedy's diagram",
+            "D": "Kutter's diagram"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPSC Civil Eng. A.E, 2013(1) Ans ; (a) Garret diagram :It gives the graphical method of designing the channel dimension based on Kennedy's theory. e It is used for design purpose of channel",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Abstractions from Precipitation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 446,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_265"
+    },
+    {
+        "question_id": 98,
+        "question_text": "The Penman's evapotranspiration equation is based on",
+        "options": {
+            "A": "water budget method",
+            "B": "energy balance method",
+            "C": "mass transfer method",
+            "D": "energy balance and mass transfer approach [UPPSC State Eng. A.E,"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2003] ESE 2002",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Abstractions from Precipitation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 549,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_98"
+    },
+    {
+        "question_id": 128,
+        "question_text": "Modificd Penman Equation is uscd for the estimation of",
+        "options": {
+            "A": "average annual rainfall",
+            "B": "cvapotranspiration",
+            "C": "effective rainfall",
+            "D": "run-off from a basin"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE (Irrigation) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Abstractions from Precipitation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 552,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_128"
+    },
+    {
+        "question_id": 193,
+        "question_text": "Infiltration is the",
+        "options": {
+            "A": "movement of water through the soil",
+            "B": "absorption of water by soil surface",
+            "C": "both (a) and (b)",
+            "D": "none of these"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Abstractions from Precipitation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 560,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_193"
+    },
+    {
+        "question_id": 224,
+        "question_text": "If the intensity of rainfall is more then the infiltration capacity of soil, then the infiltration rate will be",
+        "options": {
+            "A": "equal to rate of rainfall",
+            "B": "equal to infiltration capacity",
+            "C": "more than rate of rainfall",
+            "D": "more than infiltration capacity Chandigarh SDE"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Abstractions from Precipitation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 563,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_224"
+    },
+    {
+        "question_id": 243,
+        "question_text": "A 6h storm with hourly rainfall intensities of 7, 18, 25, 17, 11 and 6 mm/h produces a run off of 39 mm. Then 4 - index is",
+        "options": {
+            "A": "20 m*/sec (b) 25 m°/sec",
+            "B": "Rainfall intensity with time",
+            "C": "30 m’/sec (d) 35 m/sec",
+            "D": "Rainfall intensity over an area"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "APPSC AEE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Abstractions from Precipitation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 565,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "option-contamination"
+        ],
+        "global_id": "Civil_AE_2_complete.json_243"
+    },
+    {
+        "question_id": 265,
+        "question_text": "Infiltration rate is always",
+        "options": {
+            "A": "More than infiltration capacity",
+            "B": "Less than infiltration capacity",
+            "C": "Equal to or less than infiltration capacity",
+            "D": "Equal to or more than infiltration capacity Vizag steel MT"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2017 Rajasthan JEN (Degree) Shift - 112016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Abstractions from Precipitation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 568,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_265"
+    },
+    {
+        "question_id": 576,
+        "question_text": "Infiltration capacity",
+        "options": {
+            "A": "is constant factor",
+            "B": "changes with time",
+            "C": "changes with location",
+            "D": "changes with time and location"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "GUJRAT PSC AE - II. 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Abstractions from Precipitation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 669,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_576"
+    }
+]

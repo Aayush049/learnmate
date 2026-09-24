@@ -1,0 +1,265 @@
+[
+    {
+        "question_id": 800,
+        "question_text": "A rectangular specimen is normally used for carrying out specific gravity test on timber. Dimensions of the specimen is taken as",
+        "options": {
+            "A": "Sem x 5emx 15cm",
+            "B": "2cemx 2cm~x 10cm",
+            "C": "Both (a) and (b)",
+            "D": "Neither (a) nor (b)"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPSC AE June 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Thick & Thin Cylinder/Sphere",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 105,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_800"
+    },
+    {
+        "question_id": 1468,
+        "question_text": "For » = 0, the Terzahgi bearing capacity factors are",
+        "options": {
+            "A": "N.=1,Ny=5.7,N,=0",
+            "B": "N.=0,Nq=5.7,Ny= 1",
+            "C": "No=5.7,Ng=1,N,=0",
+            "D": "N-=1,Ng=0,N,=5.7"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Thick & Thin Cylinder/Sphere",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 320,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1468"
+    },
+    {
+        "question_id": 1470,
+        "question_text": "Efficiency of pile group is defined as",
+        "options": {
+            "A": "load carried by thelargepilein the group load carried by the smallest pile in the group",
+            "B": "Maximum load carried by a pile in the group Minimum load caried by a pile in the group",
+            "C": "Minimum load carried by a pile in the group Maximum load carried by a pile in the group",
+            "D": "Average load carried bya pile in the group load carried by a single pile"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "TNPSC AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Thick & Thin Cylinder/Sphere",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 320,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1470"
+    },
+    {
+        "question_id": 800,
+        "question_text": "A vertical wall of a circular bunker is subjected to horizontal pressure due to coal stored therein. The wall of the bunker is designed for",
+        "options": {
+            "A": "Axial tension",
+            "B": "Loop tension and shear force",
+            "C": "Iloop tension and bending moment",
+            "D": "All are correct"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "MPPSC AE 2016 Ans ; (c) Vertical wall of circular bunker is subjected to horizontal pressure due to which hoop stress is developed and as the bunker is circular resultant forces act outside the wall, producing bending stresses. Therefore it should be designed for hoop tension and bending moment.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Thick & Thin Cylinder/Sphere",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 524,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_800"
+    },
+    {
+        "question_id": 1464,
+        "question_text": "Pressure vessels are made of",
+        "options": {
+            "A": "non-ferrous materials",
+            "B": "sheet metal (steel)",
+            "C": "cast iron",
+            "D": "Any of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC (PHE) AE Paper-2 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Thick & Thin Cylinder/Sphere",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 641,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1464"
+    },
+    {
+        "question_id": 1468,
+        "question_text": "In a thick cylinder pressurized from inside, the hoop stress is maximum at",
+        "options": {
+            "A": "the centre of the wall thickness",
+            "B": "the outer radius",
+            "C": "the inner radius",
+            "D": "both inner and outer radii"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "APPSC (PHE) AE Paper-2 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Thick & Thin Cylinder/Sphere",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 641,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1468"
+    },
+    {
+        "question_id": 1469,
+        "question_text": "Autofrettage is the method of",
+        "options": {
+            "A": "joining thick cylindcrs",
+            "B": "calculating stresses in thick cylinders",
+            "C": "prestressing thick cylinders",
+            "D": "increasing the life of thick cylinders"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC (PHE) AE Paper-2 2012 thick cylinders.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Thick & Thin Cylinder/Sphere",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 641,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1469"
+    },
+    {
+        "question_id": 1470,
+        "question_text": "In thick cylinders, the circumferential stress :",
+        "options": {
+            "A": "is zero",
+            "B": "varies along the thickness",
+            "C": "is related to nonc of the other options",
+            "D": "_ is maximum at the centre"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "CGPSC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Thick & Thin Cylinder/Sphere",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 641,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1470"
+    },
+    {
+        "question_id": 1483,
+        "question_text": "In the analysis of thin cylinders, assumptions made are- (i) radial stress is neglected (ii) the hoop and longitudinal stress distribution across section is uniform Which statement/statements is/are correct?",
+        "options": {
+            "A": "Both (i) and (ii) are true",
+            "B": "(i) is true and (ii) is false",
+            "C": "(i) is false and (ii) is true",
+            "D": "Both (i) and (ii) are false"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "BPSC AE Pre 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Thick & Thin Cylinder/Sphere",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 644,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1483"
+    },
+    {
+        "question_id": 800,
+        "question_text": "2007, the maximum slenderness ratio permitted is :",
+        "options": {
+            "A": "less for member 'M' than that of member 'N'",
+            "B": "more for member 'M' than for member 'N'",
+            "C": "same for both the members",
+            "D": "not specified in the cade"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "JPSC_AE (Pre) 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Thick & Thin Cylinder/Sphere",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 993,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_800"
+    }
+]

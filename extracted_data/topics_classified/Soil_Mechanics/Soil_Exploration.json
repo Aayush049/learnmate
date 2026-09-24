@@ -1,0 +1,581 @@
+[
+    {
+        "question_id": 951,
+        "question_text": "The field density and field moisture content of a soil can be determined by :",
+        "options": {
+            "A": "(A), (B), (C) and (D)",
+            "B": "(A) and (B) only",
+            "C": "(B) and (C) only",
+            "D": "(B) and (D) only Nagaland"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "PSC Paper-II 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Exploration",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 244,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_951"
+    },
+    {
+        "question_id": 1120,
+        "question_text": "Which of the following corrections is/are required while using standard penetration test values?",
+        "options": {
+            "A": "Overburden pressure",
+            "B": "Dilatancy",
+            "C": "Ground water",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "ASSAM PSC CCE (PRE) 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Exploration",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 269,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1120"
+    },
+    {
+        "question_id": 1441,
+        "question_text": "The static cone penetration test and standard penetration test are performed on a soil at a certain depth, The value of static cone penetration test is 8 MPa and the N value is 20, The soil met with at that depth is",
+        "options": {
+            "A": "sandy silt",
+            "B": "silty clay",
+            "C": "sand and gravel mixture",
+            "D": "medium dense sand"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "BPSC AE 2019 Paper (V) Section-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Exploration",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 316,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1441"
+    },
+    {
+        "question_id": 1569,
+        "question_text": "The standard penetration test is most frequently used to measure the",
+        "options": {
+            "A": "shear strength of soft clays",
+            "B": "undrained strength of fissured clays",
+            "C": "relative density of granular soils",
+            "D": "consistency of clay"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "TANGEDCO AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Exploration",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 332,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1569"
+    },
+    {
+        "question_id": 1572,
+        "question_text": "When the standard penetration test is carried out in a sandy soil below the water table, the water level in the borehole is always maintained :",
+        "options": {
+            "A": "Slightly above the ground water level",
+            "B": "Slightly below the ground water level",
+            "C": "Ata depth of ground water level",
+            "D": "None of the above TRB Poly. Leet. Tech."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017 32",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Exploration",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 332,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1572"
+    },
+    {
+        "question_id": 1584,
+        "question_text": "In general, if the density of a soil remains more or less the same, the standard penctration resistance value (N) changes with overburden pressure. If the over burden pressure increases, the standard penetration value :",
+        "options": {
+            "A": "decreases",
+            "B": "increases",
+            "C": "remains unchanged",
+            "D": "is independent of the overburden pressure"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "UPPCL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Exploration",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 334,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1584"
+    },
+    {
+        "question_id": 1599,
+        "question_text": "Match the items in List 1 (Name of field exploration) with those in List 2 (Soil propertics). and select the corrcetion option. options.",
+        "options": {
+            "A": "A 3,B 2,C 1,D4",
+            "B": "A-3, B-1, C4, D-2",
+            "C": "A-2, B-4, C-3, D-1",
+            "D": "A 1,B 3,C 4,D 2 BHEL ET"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2019 ee exploration bearing resistance al a er reaction Plier | eo | test strength",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Exploration",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 336,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1599"
+    },
+    {
+        "question_id": 1721,
+        "question_text": "Penetration resistance ‘N’ in a Standard Penetration Test (SPT) is the total number of blows for",
+        "options": {
+            "A": "the first and second 15 cm of penetration",
+            "B": "the second 15 cm of penetration",
+            "C": "any 30 cm of penetration",
+            "D": "the second 30 cm of penetration"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "UKPSC(Urban engineering)-2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Exploration",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 349,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1721"
+    },
+    {
+        "question_id": 1723,
+        "question_text": "The standard penetration test is useful to measure:-",
+        "options": {
+            "A": "Consistency of clays",
+            "B": "Shear strength of soft clays",
+            "C": "Shear strength of sands",
+            "D": "Shear strength of stiff clay"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2014 UPPCL AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Exploration",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 349,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1723"
+    },
+    {
+        "question_id": 1727,
+        "question_text": "In a standard penetration test (SPT) for soil, the SPT number is",
+        "options": {
+            "A": "Penetration depth of sampler in the soil for any given number of blows",
+            "B": "Number of blows required for 30 cms of penctration of sampler in the soil",
+            "C": "Number of blows required for 20 cms of penetration of sampler in the soil",
+            "D": "None of the above"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "ISRO Scientist/Engineer 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Exploration",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 350,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1727"
+    },
+    {
+        "question_id": 1731,
+        "question_text": "In order to minimize sampling disturbance the ( D2-p2 \\ area ratio A,, | A, = -_ 7 | should be: \\ DS",
+        "options": {
+            "A": "zero",
+            "B": "as high as possible",
+            "C": "as lowas possible",
+            "D": "equal to unity"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPSC AE 12.04,2016 Paper-I ratio. Ar, should be equal to unity.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Exploration",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 351,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1731"
+    },
+    {
+        "question_id": 1732,
+        "question_text": "The cone penetration test (CPT) has four main advantages over the usual combination of boring, sampling and standard penetration testing; which of the following is not an advantage?",
+        "options": {
+            "A": "It provides a continuous or virtually continuous record of ground conditions",
+            "B": "Tt avoids the disturbance of the ground associated with boring and sampling, particularly that which occurs with the Standard Penetration Test (SPT)",
+            "C": "It is an cxpensive as conventional boring method.",
+            "D": "Iv is faster bya factor of about 10 (UP"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "RVNL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Exploration",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 351,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1732"
+    },
+    {
+        "question_id": 1733,
+        "question_text": "Undisturbed samples are obtained by:",
+        "options": {
+            "A": "Direct cxeavations",
+            "B": "Thin walled samplers",
+            "C": "Thick walled samplers",
+            "D": "None of the above Uttrakhand AE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2013)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Exploration",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 351,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1733"
+    },
+    {
+        "question_id": 1738,
+        "question_text": "For sampling natural sands and other soft and wet soils satisfactorily, the most suitable soil sampler is",
+        "options": {
+            "A": "open drive thin-walled tube sampler",
+            "B": "standard spilt-spoon sampler",
+            "C": "stationary piston sampler",
+            "D": "rotary sampler"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "BPSC AE 2019 Paper (¥) Scetion-I TNPSC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Exploration",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 352,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1738"
+    },
+    {
+        "question_id": 1743,
+        "question_text": "In which of the following samplings is care take to ensure that at least the composition of the soil as it exists in nature remains unaltered?",
+        "options": {
+            "A": "Undisturbed samplcs",
+            "B": "Disturbed representative",
+            "C": "Disturbed non-representative samples",
+            "D": "Intact samples"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC Poly, Tech, Lect. 2020 32",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Exploration",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 352,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1743"
+    },
+    {
+        "question_id": 1745,
+        "question_text": "Which one of the following methods is not the category of Gcophysical methods of sub- surface investigation ?",
+        "options": {
+            "A": "Electrical resistivily method.",
+            "B": "Electric logging",
+            "C": "Gamma-ray logging",
+            "D": "Electrical response surveying"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ESE 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Exploration",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 353,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1745"
+    },
+    {
+        "question_id": 1747,
+        "question_text": "Samples of high fissures soils can be obtained from",
+        "options": {
+            "A": "assessable explorations",
+            "B": "open-drive sampling",
+            "C": "split-spoon sampling",
+            "D": "thin-walled sampling"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "TANGEDCO AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Exploration",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 353,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1747"
+    },
+    {
+        "question_id": 1751,
+        "question_text": "The most commonly used sampler for obtaining a disturbed sample of soil is",
+        "options": {
+            "A": "Split spoon sampler",
+            "B": "Open drive sampler",
+            "C": "Piston Sampler",
+            "D": "Thin wall shell by tube sampler"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPSC AE June 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Exploration",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 354,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1751"
+    },
+    {
+        "question_id": 1755,
+        "question_text": "Match List I (lype of exploration) with List IT (Soil profile) and sclect the correet answer using the codes given below the lists: description property of fluid drilling cohesive soils",
+        "options": {
+            "A": "3 4 1 2",
+            "B": "4 3 2 L",
+            "C": "3 1 4 2 Gi) 2 3 4 \\",
+            "D": "Cased boring 4, Exploration upto a shallow depth below ground level A B Cc D"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPSC AE Dee 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Exploration",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 354,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1755"
+    },
+    {
+        "question_id": 1756,
+        "question_text": "A stand pipe in the grout hole is absolutcly essential during grouting opcration of soil when",
+        "options": {
+            "A": "There are many surface cracks",
+            "B": "Rock is very weak",
+            "C": "Drainage is towards the hole",
+            "D": "All of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE January 2018 4",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Exploration",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 354,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1756"
+    },
+    {
+        "question_id": 1757,
+        "question_text": "Cone Penetration Tests (CPT) are best suited for :",
+        "options": {
+            "A": "loose to medium dense silts and sands",
+            "B": "highly dense silts and sands",
+            "C": "any type of silts and sands",
+            "D": "weathered rocks"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Exploration",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 355,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1757"
+    },
+    {
+        "question_id": 1758,
+        "question_text": "The Standard Penetration Test (SPT) is widely used as a simple and economic means of obtaining which of the following:",
+        "options": {
+            "A": "A measurement of Soil compressibility expressed in terms of a compression index",
+            "B": "A direct measurement of the undrained shear strength",
+            "C": "An indirect indication of the relative density of cohesionless soil",
+            "D": "A dircet measurement of the angle of internal friction"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "HPPSC Poly. Lect. 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Exploration",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 355,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1758"
+    }
+]

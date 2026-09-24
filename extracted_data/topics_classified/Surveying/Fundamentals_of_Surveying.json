@@ -1,0 +1,54 @@
+[
+    {
+        "question_id": 44,
+        "question_text": "Surveying deals with",
+        "options": {
+            "A": "Absolute position",
+            "B": "Astronomical position",
+            "C": "Relative position",
+            "D": "Preliminary works"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Fundamentals of Surveying",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 25,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_44"
+    },
+    {
+        "question_id": 478,
+        "question_text": "Which of the following is not a valid surveying practice?",
+        "options": {
+            "A": "Reciprocal ranging",
+            "B": "Reciprocal levelling",
+            "C": "Reciprocal Tacheometry",
+            "D": "None of the above"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "GPHC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Fundamentals of Surveying",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 84,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_478"
+    }
+]

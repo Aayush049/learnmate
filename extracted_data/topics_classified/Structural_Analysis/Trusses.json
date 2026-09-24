@@ -1,0 +1,1273 @@
+[
+    {
+        "question_id": 214,
+        "question_text": "Which of the following pairs is not matched correctly? Cement test Apparatus",
+        "options": {
+            "A": "Fineness 1. Nurse and Blains",
+            "B": "Consistency 2. Vicat",
+            "C": "Soundness 3. Le-Chatelier",
+            "D": "Sp. Gravity 4, Lea and Nurse [HPPSC AE"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2016]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 41,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination"
+        ],
+        "global_id": "Civil_AE_1_complete.json_214"
+    },
+    {
+        "question_id": 255,
+        "question_text": "The main role of dicalcium silicate compound in cement is:",
+        "options": {
+            "A": "for flash set",
+            "B": "to retard the flash sctting of cement",
+            "C": "to provide ultimate later-age strength",
+            "D": "to provide colour effect n cement (e) both, for flash set and to provide ultimate later-age strength"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "CGPSC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 46,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_255"
+    },
+    {
+        "question_id": 263,
+        "question_text": "Which of the following is correct if they are arranged in decreasing order of heat of hydration?",
+        "options": {
+            "A": "Colocrete (b) Silvicrete",
+            "B": "C;A > CsAF > CS> C5",
+            "C": "Snocem (d) All of the above UP Jal Nigam AE",
+            "D": "None of the above UP Jal Nigam AE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 47,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_263"
+    },
+    {
+        "question_id": 273,
+        "question_text": "The apparatus used for determining the Soundness of cement is",
+        "options": {
+            "A": "disperse the particle",
+            "B": "disperse the particles and to remove air bubbles",
+            "C": "disperse the particles, remove air bubbles and to retard setting",
+            "D": "retard setting"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "OPSC AEE 2019 Paper-I TNPSC AE 2018 ESE 1999)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 48,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_273"
+    },
+    {
+        "question_id": 278,
+        "question_text": "Match List-I (ype of cement) with List-II (Property/Characteristics) and sclect the correct answer using the codes given below the lists: List-I (Type of eement)/,",
+        "options": {
+            "A": "High strength Portland cement",
+            "B": "Super sulphated cement",
+            "C": "High alumina cement",
+            "D": "Rapid hardening Portland cement List-LI (Property/characteristics)/"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": null,
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 49,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_278"
+    },
+    {
+        "question_id": 350,
+        "question_text": "Which one of the following cements is a deliquescent ?",
+        "options": {
+            "A": "Quick setting Portland cement",
+            "B": "White and Coloured cement",
+            "C": "Calcium Chloride cement",
+            "D": "Water Repellent cement"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ESE 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 57,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_350"
+    },
+    {
+        "question_id": 39,
+        "question_text": "Which is the geological cycle for the formation of soil?",
+        "options": {
+            "A": "Kankar (b) Black Cotton Soil",
+            "B": "Weathering - Transportation - Deposition - Upheaval",
+            "C": "Loose coarse sand (d) Sand with clay",
+            "D": "Upheaval-Transportation - Deposition- Weathering Rajasthan Nagar Nigam AE Shift-2,"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "UJVNL AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 115,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_39"
+    },
+    {
+        "question_id": 203,
+        "question_text": "The ratio of weight of solids to total volume is called.",
+        "options": {
+            "A": "Dry unit weight",
+            "B": "Bulk unit weight",
+            "C": "saturated unit weight",
+            "D": "submerged unit weight"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPCL AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 139,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_203"
+    },
+    {
+        "question_id": 208,
+        "question_text": "Bulk unit weight is the :",
+        "options": {
+            "A": "Multiplied by unit weight of water",
+            "B": "Divided by unit weight of water",
+            "C": "Plus unit weight of water",
+            "D": "Minus unit weight of water (e) None of these options"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "Haryana PSC AE Paper-II 2018 WBPSC AE (PHE) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 140,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_208"
+    },
+    {
+        "question_id": 255,
+        "question_text": "Toughness index is defined as the ratio of:",
+        "options": {
+            "A": "1.5 (b) 1",
+            "B": "consistency index to liquidity index",
+            "C": "0.5 (d) 2",
+            "D": "liquidity index to Now index"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 146,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_255"
+    },
+    {
+        "question_id": 350,
+        "question_text": "Uniformity coefficient of a soil is:",
+        "options": {
+            "A": "equal to or less than 1",
+            "B": "always less than 1",
+            "C": "always equal to 1",
+            "D": "equal to or greater than 1"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "DMRC AM 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 160,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_350"
+    },
+    {
+        "question_id": 39,
+        "question_text": "Which is the correct statement as per Law of polygon forces?",
+        "options": {
+            "A": "If any number of forces acting at point can be represented by the sides of a polygon taken in order, then the forces are in equilibrium",
+            "B": "If any number of forces acting at point can be represented in direction and magnitude by the sides of polygon, then the forces are in the equilibrium",
+            "C": "If a polygon representing forces acting at a point is closed then forces are in equilibrium",
+            "D": "If any numbcr of forces acting at point can be represented in direction and magnitude by the sides of polygon taken in order, then the forces are in equilibrium"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "ISRO Scicntist/Enginecr 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 368,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_39"
+    },
+    {
+        "question_id": 204,
+        "question_text": "A mild stecl bar of uniform cross-scetion is subjected to a uni-axial tensile stress of 80 N/mm’, Consider a plane NQ making an angle of 30° with MN. What will be the normal stress and the tangential stress on the plane MQ? P aM oO us",
+        "options": {
+            "A": "20/3 N/mm?and 80 N/mm?",
+            "B": "40 N/mm’ and 80 N/mm?",
+            "C": "60 N/mm? and 20-¥3. N/mm?",
+            "D": "40 N/mm’ and 60 N/mm? UPSC JWM"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 418,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_204"
+    },
+    {
+        "question_id": 275,
+        "question_text": "The ratio between tensile stress and tensile strain or compresive stress and compressive strain is termed as",
+        "options": {
+            "A": "modulus of rigidity",
+            "B": "modulus of clasticity",
+            "C": "bulk modulus",
+            "D": "modulus of subgrade reaction"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AEE (Civil/Mechanical) 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 427,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_275"
+    },
+    {
+        "question_id": 330,
+        "question_text": "For a beam, Shear span is defined as the zone where:",
+        "options": {
+            "A": "Shear force is constant",
+            "B": "Shear force is zero",
+            "C": "Bending moment is constant",
+            "D": "Bending moment is zero"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "CIL MT 2020 Rajasthan AE Nagar Nigam Shift-3, 2016 (UKPSC AE (Paper-I) 2007 ESE 2010",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 436,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_330"
+    },
+    {
+        "question_id": 350,
+        "question_text": "The maximum bending moment due to a single point moving load in a simply supported beam occurs at",
+        "options": {
+            "A": "mid span",
+            "B": "quarter span",
+            "C": "a section under the load",
+            "D": "anywhere in the beam"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UKPSC AE (Urban) 2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 438,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_350"
+    },
+    {
+        "question_id": 39,
+        "question_text": "The pin-jointed frame shown in figure is",
+        "options": {
+            "A": "A perfect frame",
+            "B": "A redundant frame",
+            "C": "A deficient frame",
+            "D": "Both redundant and deficient frame"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 657,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_39"
+    },
+    {
+        "question_id": 203,
+        "question_text": "Zero load Test indicate where a plane truss is",
+        "options": {
+            "A": "statically indeterminate (extremely) 6%",
+            "B": "statically indeterminate (internally)",
+            "C": "statically determinate",
+            "D": "geometrically unstable [UPPSC State Eng. A.E,"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2004 (1)]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 685,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_203"
+    },
+    {
+        "question_id": 204,
+        "question_text": "Deficetion in a truss depends upon",
+        "options": {
+            "A": "axial rigidity",
+            "B": "flexural rigidity",
+            "C": "torsional rigidity",
+            "D": "axial and flexural rigidity"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GUJRAT PSC AE - IT 2017 UPPSC AE 12.04.2016 Paper-I, Ans ; (b) Deflection of a truss is depends on flexural rigidity [2 = “| Axial deformation AE NL) E = De _ Deflection N > Applied load E - Modulus of elasticity A Area n- Member L- Length",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 685,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_204"
+    },
+    {
+        "question_id": 208,
+        "question_text": "Determine the force in the member BG in the given truss 4kN F 8KN G A a D Ly im} Boom {Com ZN 2kN 2kN",
+        "options": {
+            "A": "11.18 KN Tension",
+            "B": "14.4 KN tension",
+            "C": "11.18 kN Compression",
+            "D": "14.40 kN compression"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "APPSC AEE (CIVIL/MECHANICAL) 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 686,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_208"
+    },
+    {
+        "question_id": 214,
+        "question_text": "Lack of fit between members of a truss causes",
+        "options": {
+            "A": "no deflections",
+            "B": "vertical deflection only",
+            "C": "horizontal deflection only",
+            "D": "horizontal & vertical deflections both (UKPSC AE"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2012 Paper-D)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 687,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_214"
+    },
+    {
+        "question_id": 218,
+        "question_text": "In an internally indeterminate truss, if the area of cross-section of a rcdundant member is doubled, then",
+        "options": {
+            "A": "The force in that member will be doubled",
+            "B": "The force in that member will be half",
+            "C": "The force in that member will increase but remain less than twice the previous value",
+            "D": "The force in that member will decrease out remain morc than half the previous valuc [UPPSC State Eng. A.E,"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2004 (D]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 688,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_218"
+    },
+    {
+        "question_id": 251,
+        "question_text": "Williot-Mohr diagram is uscd to find",
+        "options": {
+            "A": "displacement in a structure",
+            "B": "settlement of a structure",
+            "C": "strain energy in a structure",
+            "D": "principal stresses in a structure"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPSC AE March 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 694,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_251"
+    },
+    {
+        "question_id": 255,
+        "question_text": "The displacement of the joint of a truss can be obtained directly from the",
+        "options": {
+            "A": "Space diagram",
+            "B": "Force diagram",
+            "C": "Williot-Mohr diagram",
+            "D": "Funicular diagram Punjab PSC SDE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 695,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_255"
+    },
+    {
+        "question_id": 263,
+        "question_text": "A member in a truss can take",
+        "options": {
+            "A": "axial force and bending moment",
+            "B": "only axial force",
+            "C": "only bending moment",
+            "D": "bending moment and shear force"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "APPSC AEE (CIVIL/MECHANICAL) 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 696,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_263"
+    },
+    {
+        "question_id": 266,
+        "question_text": "Hudson's formula gives the dead weight of a truss bridge as a function of",
+        "options": {
+            "A": "bottom chord area",
+            "B": "lop chord area",
+            "C": "middle chord area",
+            "D": "effective span of bridge"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE Dee 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 696,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_266"
+    },
+    {
+        "question_id": 273,
+        "question_text": "How is a truss, which undergoes rigid body translation for an arbitrary load, classified as?",
+        "options": {
+            "A": "Determinate structure",
+            "B": "Geometrically unstable structure",
+            "C": "Statically unstable structure",
+            "D": "Structurally unstable structure"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019 UPRVUNL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 697,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination"
+        ],
+        "global_id": "Civil_AE_1_complete.json_273"
+    },
+    {
+        "question_id": 275,
+        "question_text": "Amongst the following two pin joined trusscs Dt LX & s & Truss I Truss I",
+        "options": {
+            "A": "Truss Lis stable, but Truss II is unstable",
+            "B": "Both Truss I and Truss II are unstable",
+            "C": "Both Truss T and Truss IT are stable",
+            "D": "Truss I is unstable, but Truss II is stable"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPCL AE 2018 will deform when load is applied.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 698,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_275"
+    },
+    {
+        "question_id": 276,
+        "question_text": "Find the force in member AD of the truss shown in figure. 2K0N oN b, E if tm “1m mh",
+        "options": {
+            "A": "2345.67 N (Compression)",
+            "B": "1890.37 N (Compression)",
+            "C": "2886.75 N (Compression)",
+            "D": "1456.98 N (Compression)"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPCL AE 2019 6",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 698,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_276"
+    },
+    {
+        "question_id": 2000,
+        "question_text": "N 4000 N nv Ye am SCO 3m. | t t Ry Re from xf, =0 Ral Re = 2000 | 4000 Rat Re = 6000 N nivvomenienonns QLD taking moment about C (=M, =0) R, x6 2000x 4.5 4000x 1.5 =0 R, x6=15000 R, =2500) N from equation (i) Ik, = 3500 Ry Fap 30° 60\" Fan 270°) 2500 Now, apply Lami's theorem at point A R, = Fup sin 60° sin 270° 2500 Fup N3/2 -l Fyy =--2886.751 N or |F,, =2886.751(compression )IN 277, A compound truss may be formed by connecting two simple rigid frames by:",
+        "options": {
+            "A": "Two bars",
+            "B": "Three parallel bars",
+            "C": "Three bars",
+            "D": "Three bars intcrsccting at a point (e) All of the above options"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Haryana PSC AE 2018 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 698,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_2000"
+    },
+    {
+        "question_id": 278,
+        "question_text": "Consider the following given parameters and choose the one upon which the economic spacing of a roof truss depends.",
+        "options": {
+            "A": "Cost of purlins and cost of roof covering",
+            "B": "Cost of roof covering and dead loads",
+            "C": "Dead loads and live loads",
+            "D": "Live loads and cost of purlins"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 698,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_278"
+    },
+    {
+        "question_id": 286,
+        "question_text": "The deflection at any point of a perfect frame can be obtained by applying a unit load at the joint in-",
+        "options": {
+            "A": "Vertical direction",
+            "B": "Horizontal direction",
+            "C": "Inclined direction",
+            "D": "The direction in which the deflection is required"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "OPSC AEE 2015 PAPER-I Sikkim PSC AE 2017 APPSC AEE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 700,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_286"
+    },
+    {
+        "question_id": 330,
+        "question_text": "Which of the following assumption is not made while analysis a perfect frame / truss :",
+        "options": {
+            "A": "All members are pin jointed",
+            "B": "All members are loaded at the centre",
+            "C": "Sclf weight of the members is neglected",
+            "D": "All members are subjected either tension or compression"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "PSPCL AE 2012 7",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 710,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_330"
+    },
+    {
+        "question_id": 350,
+        "question_text": "Read the following statements about the assumptions made in finding out the forces ina frame : Statement 1 ; The frame is a perfect frame. Statement 2: The frame carries load at the joints. Select the appropriate option from the below.",
+        "options": {
+            "A": "Eccentric loading on the portal frames.",
+            "B": "Non-uniform section of the member. Select the true statement. 14",
+            "C": "Statement | is true and statement 2 is false",
+            "D": "Both the statements 1 and 2 are false"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "DMRC AM 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 714,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_350"
+    },
+    {
+        "question_id": 39,
+        "question_text": "When the axis of load lies in the plane of rivet group, the rivets are subjected to",
+        "options": {
+            "A": "Only shear stresses",
+            "B": "Only tensile stresses",
+            "C": "Both (a) and (b)",
+            "D": "None of the above"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "RPSC ACF 2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 935,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_39"
+    },
+    {
+        "question_id": 203,
+        "question_text": "End returns in fillet welds should not be less THAN werceccceseesseene",
+        "options": {
+            "A": "Twice of size of the weld",
+            "B": "1.5 times of size of weld",
+            "C": "Size of the weld",
+            "D": "0.5 times of size of weld"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPSC AE January 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 953,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_203"
+    },
+    {
+        "question_id": 278,
+        "question_text": "Pick odd one out with respect to failure of tension members,",
+        "options": {
+            "A": "yielding of Gross section (Tag)",
+            "B": "Rupture of net section (Tn)",
+            "C": "Block shear failure (Tan)",
+            "D": "Gross section yielding"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPCL AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 963,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_278"
+    },
+    {
+        "question_id": 350,
+        "question_text": "A flat compression element of a cold formed steel section, stiffened both edges parallel to the direction of stress is called:",
+        "options": {
+            "A": "Stiffened compression clement",
+            "B": "Un-stiffened compression clement",
+            "C": "Multiple stiffened element",
+            "D": "Flat element Kerala"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "PSC AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 972,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_350"
+    },
+    {
+        "question_id": 727,
+        "question_text": "The principal rafter of a roof truss with purlins placed at intermediate parts on panel length can be analysed by",
+        "options": {
+            "A": "method of joints",
+            "B": "method of sections",
+            "C": "graphical method",
+            "D": "moment distribution method"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "APTRANSCO AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1017,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_727"
+    },
+    {
+        "question_id": 255,
+        "question_text": "Working drawings include the following VIEWS.....0045",
+        "options": {
+            "A": "section",
+            "B": "all of three mentioned here",
+            "C": "plan",
+            "D": "elevation GWSSB AAE"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1065,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_255"
+    },
+    {
+        "question_id": 218,
+        "question_text": "In resource levelling :",
+        "options": {
+            "A": "total duration of project in reduced",
+            "B": "total duration of project is increased",
+            "C": "uniform demand of resources is achieved",
+            "D": "_ cost of project is controlled"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPSC State Eng. A.F. 2003 Punjab PSC Sub divisional Engineer 2014 ESE 1995 94",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1095,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_218"
+    },
+    {
+        "question_id": 255,
+        "question_text": "Critical path is PERT network is the one for which",
+        "options": {
+            "A": "Most likely time estimate of the activities is the largest",
+            "B": "Optimistic time estimate of the activities is the largest",
+            "C": "Expected time estimate of the activities is the largest",
+            "D": "Pessimistic time estimate of the activities is the largest"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE 2001",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1101,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_255"
+    },
+    {
+        "question_id": 263,
+        "question_text": "The security deposit deducted from contractor's bill is-",
+        "options": {
+            "A": "Increasing the direct cost and decreasing the indirect cost",
+            "B": "Decreasing the direct cost and increasing the indirect cost 00",
+            "C": "Refunded in the middle of the contract",
+            "D": "Refunded after maintenance period"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "OPSC AEE 2015 PAPER-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1101,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_263"
+    },
+    {
+        "question_id": 266,
+        "question_text": "The application of human biological science along with engineering sciences for achieving the optimum level of adjustment between man and his work is known as x",
+        "options": {
+            "A": "Ergonomics",
+            "B": "Economics",
+            "C": "Ecology",
+            "D": "Engineering Science and Economics"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "Maharashtra PSC (Mains) 2015 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1102,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_266"
+    },
+    {
+        "question_id": 273,
+        "question_text": "In what way does ABC analysis help the manager?",
+        "options": {
+            "A": "The dispute must be submitted initially to the site Engineer for decision, before referring to arbitration",
+            "B": "The contractor has to stop the work till the settlement of dispule",
+            "C": "All actions related to there should be recorded and referred for future negotiations and agreements",
+            "D": "A meeting must be held between the superintendent and union leader"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "KPSC AE 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1103,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_273"
+    },
+    {
+        "question_id": 39,
+        "question_text": "Detailed specifications includes :",
+        "options": {
+            "A": "Rates of various items of work",
+            "B": "Measurements taken after execution of work",
+            "C": "Quantitics of items dumped at site",
+            "D": "Quantitics and qualitics of matcrials"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1113,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_39"
+    },
+    {
+        "question_id": 203,
+        "question_text": "An equipment that has an initial value of INR 6.5 lakhs and a service life of 5 years. Taking the salvage valuc of the equipment to be INR 50,000, which of the following statements is TRUE?",
+        "options": {
+            "A": "For the 2™ year, the depreciation using the linear method is INR 1.6 lakhs, and the depreciation using sum of years methods in INR 1.2 lakhs",
+            "B": "For the 2\" year, the depreciation using both the linear method and the sum of years methods is INR 1.2 lakhs",
+            "C": "For the oe year, the depreciation using both the linear method and the sum of years methods is INR 1.6 lakhs",
+            "D": "For the 2™ year, the depreciation using the linear method is INR 1.2 lakhs, and the depreciation using sum of years methods is TNR 1.6 lakhs"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "UPPCL AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1132,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_203"
+    },
+    {
+        "question_id": 204,
+        "question_text": "Consider the below statements with respect to Large hauled container system :",
+        "options": {
+            "A": "Both statements arc falsc",
+            "B": "Both statements are true",
+            "C": "Statement A is true B is false",
+            "D": "Statement B is truc A is false"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "UPPCL AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Structural Analysis",
+        "topic": "Trusses",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1132,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_204"
+    }
+]

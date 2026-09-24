@@ -1,0 +1,262 @@
+[
+    {
+        "question_id": 1027,
+        "question_text": "The earthquake which occur deep inside earth around 600 km depth is known as :",
+        "options": {
+            "A": "Tectonic earthquake",
+            "B": "Plutonic earthquake",
+            "C": "Volcanic earthquake",
+            "D": "Inner earthquake"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "GPHC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Laminar Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 155,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1027"
+    },
+    {
+        "question_id": 525,
+        "question_text": "The shear stress distribution in viscous fluid through a circular pipe is:",
+        "options": {
+            "A": "Maximum at the centre",
+            "B": "Same throughout the section",
+            "C": "Minimum at the centre",
+            "D": "Maximum at the inside of surface (e) None of these options Haryana"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "PSE AE Paper-2 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Laminar Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 238,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_525"
+    },
+    {
+        "question_id": 548,
+        "question_text": "The velocity at the Reynold's number equal to 2000 is called :",
+        "options": {
+            "A": "Critical velocity",
+            "B": "Lower critical velocity",
+            "C": "Higher critical velocity",
+            "D": "Uniform velocity"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "TNPSC AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Laminar Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 241,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_548"
+    },
+    {
+        "question_id": 994,
+        "question_text": "The Reynolds number below which the flow can definitely be considered as laminar is known as :",
+        "options": {
+            "A": "Navier number",
+            "B": "Stokes' number",
+            "C": "Critical Reynolds number",
+            "D": "Laminar number"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "UPPCL AE 2015 AE Civil Engg. Volume-II 3",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Laminar Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 307,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_994"
+    },
+    {
+        "question_id": 1023,
+        "question_text": "In laminar flow through a pipe, discharge varies as",
+        "options": {
+            "A": "increasing the depth of flow",
+            "B": "reducing the energy of flow",
+            "C": "decreasing the velocity of flow",
+            "D": "reducing turbulence"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "GPSC Assistant Prof. 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Laminar Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 311,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1023"
+    },
+    {
+        "question_id": 1027,
+        "question_text": "‘The loss of pressure head for the laminar flow through pipe varics",
+        "options": {
+            "A": "as the square of velocity",
+            "B": "directly as the velocity",
+            "C": "as the inverse of the velocity",
+            "D": "None of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC (PHE) AE Paper-2 2012 AE Civil Engg. Volume-II 3",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Laminar Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 311,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1027"
+    },
+    {
+        "question_id": 1062,
+        "question_text": "The Darcy law relating to mean velocity and hydraulic gradient in a porous medium is applicable to-",
+        "options": {
+            "A": "laminar regime flow only",
+            "B": "transition regime flow only",
+            "C": "turbulent regime flow only",
+            "D": "flow of all fluids in all regimes of flow"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Gujarat PSC AE (N.W.R.) 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Laminar Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 315,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1062"
+    },
+    {
+        "question_id": 1105,
+        "question_text": "The term fully developed laminar flow means that:",
+        "options": {
+            "A": "The Reynolds number of the flow is critical",
+            "B": "The pressure drop in the direction of flow is zero",
+            "C": "the velocity profile across the flow has become uniform",
+            "D": "the velocity profile does not change in the direction of ow"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "UPPSC State Eng. A.E. 2003,",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Laminar Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 321,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1105"
+    },
+    {
+        "question_id": 1111,
+        "question_text": "The basic equation which govern the motion of incompressible viscous fluid in laminar motion is:",
+        "options": {
+            "A": "Hagen-Poiseuille equation",
+            "B": "Stokes equation",
+            "C": "Darcy-Weisbach equation",
+            "D": "Navier-Stokes equation Karnataka"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PSC AE 2015 Paper - II",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Laminar Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 322,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1111"
+    },
+    {
+        "question_id": 1113,
+        "question_text": "If Reynolds number is less than 1, then :",
+        "options": {
+            "A": "Viscous forces are very strong as compared to inertial forces",
+            "B": "Viscous forces are very weak as compared to inertial forces",
+            "C": "Viscous forces are cqual to inertial forces",
+            "D": "Flow is turbulent in saturated soils"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Laminar Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 322,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1113"
+    }
+]

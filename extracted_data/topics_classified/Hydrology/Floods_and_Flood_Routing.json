@@ -1,0 +1,660 @@
+[
+    {
+        "question_id": 274,
+        "question_text": "Isogonies lincs arc lines passing through",
+        "options": {
+            "A": "points having same declination",
+            "B": "points of zero declination",
+            "C": "points having same dip",
+            "D": "points having zero dip TRB Poly, Tech, Lect."
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Floods & Flood Routing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 56,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_274"
+    },
+    {
+        "question_id": 671,
+        "question_text": "The method of tacheometry commonly used is:",
+        "options": {
+            "A": "Fixed stadia system",
+            "B": "Movable stadia system",
+            "C": "Tangential stadia system",
+            "D": "Transiting stadia system"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPSC AE Dec 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Floods & Flood Routing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 109,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_671"
+    },
+    {
+        "question_id": 752,
+        "question_text": "In tachometry, the distance equation D = KS + C is applicable, only if",
+        "options": {
+            "A": "line of sight is horizontal axis",
+            "B": "line of sight is perpendicular to staff",
+            "C": "linc of sight is inclined at 45°",
+            "D": "line of sight is parallel to horizontal"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "TNPSC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Floods & Flood Routing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 119,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_752"
+    },
+    {
+        "question_id": 758,
+        "question_text": "Ina transit theodolite, any incidental error due to eccentricity of Verniers is primarily counteracted by -",
+        "options": {
+            "A": "Reading both the verniers",
+            "B": "Reading different part of main scale",
+            "C": "Reading right and left faces",
+            "D": "Taking both right swing readings"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "RPSC AE 2018 ESE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Floods & Flood Routing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 119,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_758"
+    },
+    {
+        "question_id": 909,
+        "question_text": "A compound curve has",
+        "options": {
+            "A": "a simple circular curve and a transition curve at onc end",
+            "B": "a simple circular curve and transition curves at both the end",
+            "C": "two or more simple circular curves of different radius",
+            "D": "two simple circular curves having centres in opposite directions"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "GPSC AE June 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Floods & Flood Routing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 139,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_909"
+    },
+    {
+        "question_id": 274,
+        "question_text": "An open circular cylindrical tank is filled with a liquid to its top level. It is rotated about its vertical axis at such a speed that half the liquid spills out. Then the pressure at the point of intersection of the axis and the bottom is-",
+        "options": {
+            "A": "One-fourth the value when the cylinder was full",
+            "B": "One-half the value when the cylinder was full",
+            "C": "Same as before rotation",
+            "D": "Equal to the atmospheric pressure Rajasthan VP ITT"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2018 ESE 1997",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Floods & Flood Routing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 199,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_274"
+    },
+    {
+        "question_id": 752,
+        "question_text": "Ina fully developed rough-turbulent regime in pipe flow :",
+        "options": {
+            "A": "rough and smooth pipes have the same friction factor",
+            "B": "the laminar sub-layer is thicker than the roughness projections",
+            "C": "the friction factor is independent of the Reynolds number",
+            "D": "the friction factor is independent of the relative roughness [HPPSC"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016-1T]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Floods & Flood Routing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 270,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_752"
+    },
+    {
+        "question_id": 274,
+        "question_text": "In case of channel routing, the storage is a function of",
+        "options": {
+            "A": "Inflow discharge only",
+            "B": "Outflow discharge only",
+            "C": "Both (a) and (b)",
+            "D": "None of the above U.K. Combined A E Paper IT"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Floods & Flood Routing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 447,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_274"
+    },
+    {
+        "question_id": 331,
+        "question_text": "The most suitable section of a lined canal, is :",
+        "options": {
+            "A": "triangular section with circular bottom for small canals",
+            "B": "trapezoidal section with rounded corners for large canals",
+            "C": "rectangular section with rounded corners for large canals",
+            "D": "both triangular section with circular bottom for small canals and trapezoidal section with rounded corners for large canals"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "KPTCL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Floods & Flood Routing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 454,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_331"
+    },
+    {
+        "question_id": 374,
+        "question_text": "Which of the following intake structures is INCORRECTLY paired?",
+        "options": {
+            "A": "Rectangular sump well-river intake",
+            "B": "Submersible rectangular chamber-lake intake",
+            "C": "Intake well on dam-reservoir intake",
+            "D": "Intake well at the center of canal-canal intake"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC Poly. Tech. Lect. 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Floods & Flood Routing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 460,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_374"
+    },
+    {
+        "question_id": 396,
+        "question_text": "A minimum of 90 cm free board is provided if the discharge in the canal is between",
+        "options": {
+            "A": "Large amount of seepage",
+            "B": "Water logging of the cultivated areas",
+            "C": "Spread of malaria",
+            "D": "All of these"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "OPSC AE Paper- IT 2019 irrigation canal becomes useless, due to water legging of the cultivated areas.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Floods & Flood Routing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 462,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_396"
+    },
+    {
+        "question_id": 450,
+        "question_text": "Which of the following is not true pertaining to the Rational method for determining the peak discharge from drainage basin runoff?",
+        "options": {
+            "A": "Runoff coefficient is multiplied with the intensity of rainfall",
+            "B": "Runoff coefficient is multiplied with the drainage area",
+            "C": "Drainage area is multiplied with the intensity of rainfall",
+            "D": "Intensity of rainfall is multiplied with runoff"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Floods & Flood Routing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 470,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination"
+        ],
+        "global_id": "Civil_AE_2_complete.json_450"
+    },
+    {
+        "question_id": 671,
+        "question_text": "Hydrologic methods of flood routing use",
+        "options": {
+            "A": "equation of continuity only",
+            "B": "cquation of motion only",
+            "C": "both (a) and (b)",
+            "D": "none of the above [Uttarakhand Combined State"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "AE Paper II 2007]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Floods & Flood Routing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 499,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_671"
+    },
+    {
+        "question_id": 680,
+        "question_text": "Muskingum method for routing of flood is",
+        "options": {
+            "A": "Used for routing floods through reservoirs",
+            "B": "A method of routing that uscs continuity and momentum equations",
+            "C": "A hydrologic method of routing floods through streams",
+            "D": "One in which only energy equation is used hydrologic method."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": null,
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Floods & Flood Routing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 500,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_680"
+    },
+    {
+        "question_id": 752,
+        "question_text": "Peak lag in reservoir planning denotes :",
+        "options": {
+            "A": "time for maximum inflow - time for maximum outflow",
+            "B": "time for maximum outflow -- time for maximum inflow",
+            "C": "time form minimum outflow - time for maximum outflow",
+            "D": "time for maximum outflow - time for minimum outflow"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "CGPSC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Floods & Flood Routing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 512,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_752"
+    },
+    {
+        "question_id": 758,
+        "question_text": "For a flood control reservoir, the effective storage is equal to:",
+        "options": {
+            "A": "Useful storage + valley storage",
+            "B": "Useful storage | surcharge storage - valley storage",
+            "C": "Useful storage + surcharge storage + valley storage",
+            "D": "Useful storage - valley storage (e) Surcharge storage + valley storage Rajasthan VP ITI"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2018 CGPSC AE Shift - 2 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Floods & Flood Routing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 512,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_758"
+    },
+    {
+        "question_id": 909,
+        "question_text": "Hydrologic flood routing mcthods make usc of:",
+        "options": {
+            "A": "Equation of continuity only",
+            "B": "Both momentum and continuity equations",
+            "C": "Energy equation only",
+            "D": "Equation of motion only"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "CIL MT 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Floods & Flood Routing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 532,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_909"
+    },
+    {
+        "question_id": 932,
+        "question_text": "While examining a number of project proposals for selection of a water resources project, given scarcity of financial resources, the best proposal is one for which",
+        "options": {
+            "A": "Benefil/Cost ratio is maximum",
+            "B": "(Benefit-Cost) is maximum",
+            "C": "Rate ofreturn is maximum",
+            "D": "Cost is minimum [UPPSC State Eng. A.E."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2007] Ans ; (a) Financial benefit-cost analysis evaluates at effect of a project on the water sector or utility by providing projected balance, income and sources and application of fund statements. While examining a number of project proposals for selection of a water resources project, given scarcity of| financial resources, the best proposal is benelit/cost ratio is maximum.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Floods & Flood Routing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 535,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_932"
+    },
+    {
+        "question_id": 936,
+        "question_text": "What is the effective storage in a flood control reservoir?",
+        "options": {
+            "A": "Uniform (b) Subcritical",
+            "B": "Useful storage + Surcharge storage",
+            "C": "Critical (d) Super critical",
+            "D": "Useful storage + Surcharge storage + Valley storage Rajasthan Nagar Nigam AE Shift-2,"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "WBPSC AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Floods & Flood Routing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 535,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_936"
+    },
+    {
+        "question_id": 943,
+        "question_text": "When the outflow from a storage reservoir is uncontrolled as in a freely operating spillway, the peak of outflow hydrograph occurs at",
+        "options": {
+            "A": "the point of intersection of the inflow and outflow hydrographs",
+            "B": "a point afler the intersection of the inflow and outflow hydrographs",
+            "C": "the tail of inflow hydrograph",
+            "D": "a point before the intersection of the inflow and outflow hydrographs"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE March 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Floods & Flood Routing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 536,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_943"
+    },
+    {
+        "question_id": 300,
+        "question_text": "A 50 years flood means the following :",
+        "options": {
+            "A": "flood can be expected on an average once every 50 years",
+            "B": "flood can be expected 50 times in a year",
+            "C": "flood can be expected 50 times in a year upto 50 years",
+            "D": "none of the above"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "UKPSC(Urban engineering)-2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Floods & Flood Routing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 572,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_300"
+    },
+    {
+        "question_id": 331,
+        "question_text": "A flood wave a known inflow hydrograph is rated through a large reservoir. The outflow hydrograph will have",
+        "options": {
+            "A": "attenuated peak with reduced time-base",
+            "B": "attenuated peak with increased time-base",
+            "C": "increased peak with increased time-base",
+            "D": "increased peak with reduced time-base (BPSC"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "AE Paper VI 2006) Ans ; (b) A flood wave is known in flow hydrograph is rated through a large reservoir. ‘The outflow hydrograph will have attenuated peak with increased time base.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Floods & Flood Routing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 576,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_331"
+    },
+    {
+        "question_id": 374,
+        "question_text": "Kirpich equation is used to determine which one of the following?",
+        "options": {
+            "A": "P =2.25Q'7 (b) P =2.25Q°?",
+            "B": "base time for unit hydrograph",
+            "C": "P=4.75Q'\" (d) P =4.75Q°°",
+            "D": "none of the above"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "BPSC AE 2016 Paper (VD Section-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Floods & Flood Routing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 581,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_374"
+    },
+    {
+        "question_id": 396,
+        "question_text": "For the estimation of high floods in fan shaped catchment, the formula used is:",
+        "options": {
+            "A": "Designed to carry unbalanced water load",
+            "B": "Designed with adequate dimensions",
+            "C": "Means of controlling floods",
+            "D": "Never provided freeboards (e) None of these options Haryana"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "PSE AE Paper-2 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Floods & Flood Routing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 584,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_396"
+    },
+    {
+        "question_id": 429,
+        "question_text": "Muskingham’s method is connected to which of the following?",
+        "options": {
+            "A": "Unit [ydrograph",
+            "B": "Flood routing",
+            "C": "Design Flood estimation.",
+            "D": "Infiltration capacity"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Gujarat PSC AE (N.W.R.) 2020 ESE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Floods & Flood Routing",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 588,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_429"
+    }
+]

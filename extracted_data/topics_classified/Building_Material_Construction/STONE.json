@@ -1,0 +1,262 @@
+[
+    {
+        "question_id": 30,
+        "question_text": "Laterite is used in",
+        "options": {
+            "A": "carving and ornamental works",
+            "B": "fire resistance works",
+            "C": "electrical switch boards",
+            "D": "heavy engineering works"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "Maharashtra PSC Paper-I 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "STONE",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 22,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_30"
+    },
+    {
+        "question_id": 67,
+        "question_text": "A good building stone should be:",
+        "options": {
+            "A": "Strong",
+            "B": "Good in appearance and colour",
+            "C": "Hard and tough",
+            "D": "All the above"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "UJVNL AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "STONE",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 26,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_67"
+    },
+    {
+        "question_id": 76,
+        "question_text": "Match the items in List 1 (Use of stone) with those in List 2 (Name of stone). Choose the best answer using the codes given in options,",
+        "options": {
+            "A": "A-3, B-1, C-2, D4",
+            "B": "A-I, B-3, C4, D-2",
+            "C": "A-4, B-3, C-1, D-2",
+            "D": "A+4, B-2, C-1, D-3 BHEL ET"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2019 Direction : Match list T with list IT in Q. No, 77 to 87 and select the correct answer using code given below the two list in cach question.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "STONE",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 26,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_76"
+    },
+    {
+        "question_id": 77,
+        "question_text": "List I List I",
+        "options": {
+            "A": "1 2 3 4",
+            "B": "1 2 4 )",
+            "C": "2 3 4 1",
+            "D": "3 4 L 2"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PTCUL AE 2016 6",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "STONE",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 26,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_77"
+    },
+    {
+        "question_id": 704,
+        "question_text": "The machine used to determine hardness of stone is called",
+        "options": {
+            "A": "Dorry's testing machine",
+            "B": "Deval testing machine",
+            "C": "Brinell Hardness testing machine",
+            "D": "Rockwell hardness testing machine"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPSC AE January 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "STONE",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 94,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_704"
+    },
+    {
+        "question_id": 30,
+        "question_text": "Yielding in structural members with partial safety factor as 1.1 is governed hy :",
+        "options": {
+            "A": "net area of connected lug angle",
+            "B": "sectional area",
+            "C": "effective area",
+            "D": "gross area Rajasthan AE (Nagar Nigam)"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "STONE",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 934,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_30"
+    },
+    {
+        "question_id": 76,
+        "question_text": "Which of the following is NOT one of the main purpose of estimating in a civil contract?",
+        "options": {
+            "A": "To form a basis of arbitration and litigation",
+            "B": "To fix up completion period for a given volume of work",
+            "C": "To invite tenders and prepare bills for payments",
+            "D": "To justify investment based on cost to benefit ratio"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "NPCC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "STONE",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1118,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_76"
+    },
+    {
+        "question_id": 637,
+        "question_text": "The base width of rockfill dam, in comparison to that of an earthen dam is",
+        "options": {
+            "A": "much larger",
+            "B": "much smaller",
+            "C": "sometimes larger, sometimes smaller",
+            "D": "almost equal"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "GPSC Poly, Tech. Lect. 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "STONE",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 495,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_637"
+    },
+    {
+        "question_id": 637,
+        "question_text": "Blue baby disease may be caused in infants due to drinking water containing higher concentrations of",
+        "options": {
+            "A": "Nitrosomonas",
+            "B": "Nitrobacter",
+            "C": "Aerobic [eterotrophs",
+            "D": "Phototrophs List -IT (Process)"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": null,
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "STONE",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 676,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_637"
+    },
+    {
+        "question_id": 637,
+        "question_text": "Which stone is the best for road construction?",
+        "options": {
+            "A": "Aggregate having impact value 18%",
+            "B": "Aggregate having impact value 35%",
+            "C": "Aggregate having impact value 39%",
+            "D": "Aggregate having impact value 30% [RPSC LECTURE -"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2011] Ans ; (d) A test designed to evaluate the toughness of slone or the resislance of the aggregates to fracture under repeated impacts is called impact test. The aggregate impact value should not normally exceed 30% for aggregate to be used in wearing course of pavements.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "STONE",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 858,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_637"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "question_id": 244,
+        "question_text": "The type of roof suitable in plains where rainfall is meagre and temperature is high:-",
+        "options": {
+            "A": "Pitched and sloping roof",
+            "B": "Flat roof",
+            "C": "Shell roof",
+            "D": "None of the above [UKPSC A E Paper II"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2013]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Door, Window & Roof",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1064,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_244"
+    }
+]

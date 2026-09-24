@@ -1,0 +1,556 @@
+[
+    {
+        "question_id": 363,
+        "question_text": "‘The included angles of a traverse are generally measured",
+        "options": {
+            "A": "clockwise from back station",
+            "B": "clockwise from forward station",
+            "C": "anti-clockwise from back station",
+            "D": "anti-clockwise from forward Arunachal Pradesh Poly. Tech. Leet."
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Vertical Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 68,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_363"
+    },
+    {
+        "question_id": 378,
+        "question_text": "Curvature correction to the staff reading in a differential leveling survey is",
+        "options": {
+            "A": "Always subtractive",
+            "B": "Always zero",
+            "C": "Always positive",
+            "D": "Depends upon latitude"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GOA PSC Assistant Prof. 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Vertical Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 70,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_378"
+    },
+    {
+        "question_id": 822,
+        "question_text": "In the stadia method of tachometric surveying, the horizontal distanee D, form the vertical axis of the instrument of the staff station is given by",
+        "options": {
+            "A": "D=K,S+k, Where K, and K,",
+            "B": "D=K,+K,S appropriate constants",
+            "C": "D=(K,+K)A and § is the staff",
+            "D": "D=K, + KS intercept"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE 2001",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Vertical Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 127,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_822"
+    },
+    {
+        "question_id": 160,
+        "question_text": "Find the correct pair-",
+        "options": {
+            "A": "Kinematic viscosity 1/y (Density/dynamic viscosity)",
+            "B": "Fluid of zero viscosity Ideal fluid",
+            "C": "Ideal fluid kinematic viscosity",
+            "D": "Viscous fluid- Fluid of zero viscosity"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "UPPCL AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Vertical Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 182,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_160"
+    },
+    {
+        "question_id": 378,
+        "question_text": "Micro-manometer is used to",
+        "options": {
+            "A": "1082 kPa (b) 881 kPa",
+            "B": "determine higher pressure difference",
+            "C": "900 kPa (d) 678 kPa",
+            "D": "measure pressure in congested areas"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "APPSC AEE (CIVIL/MECHANICAL) 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Vertical Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 215,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_378"
+    },
+    {
+        "question_id": 160,
+        "question_text": "Correct statement from the following is :",
+        "options": {
+            "A": "Crop period is slightly more than base period",
+            "B": "Base period is slightly more than crop period",
+            "C": "Crop pcriad is cqual to the base period",
+            "D": "Crop period and base period are expressed in hours"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "TNPSC AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Vertical Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 432,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_160"
+    },
+    {
+        "question_id": 203,
+        "question_text": "The ratio of the water delivered into the fields from the outlet point of a channel to the water pumped into the channel at the starting point is defined as :",
+        "options": {
+            "A": "Efficiency of water-application",
+            "B": "Efficiency of water use",
+            "C": "Efficiency of water-conveyance",
+            "D": "Efficiency of water storage"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "UPPCL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Vertical Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 438,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_203"
+    },
+    {
+        "question_id": 378,
+        "question_text": "Kennedy found the Upper Bari Doab canals-",
+        "options": {
+            "A": "in shallow streams, flumes and small channels, where the velocily of water does not exceed 1m/sec.",
+            "B": "in rivers and big channels, where the velocity of water does not exceed Im/sec.",
+            "C": "in shallow streams, flumes and small channels, where the velocity of water exceeds 1m/sec.",
+            "D": "in rivers and big channels, where the velocity of water exceeds 1m/sec."
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "Gujarat PSC AE (N.W.R.) 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Vertical Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 460,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_378"
+    },
+    {
+        "question_id": 203,
+        "question_text": "A hydrograph is a plot of",
+        "options": {
+            "A": "precipitation against time",
+            "B": "direct run-off against time",
+            "C": "stream flow against time",
+            "D": "surface run-off against time"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TSPSC AEE 2017 MPPSC AE 2014, WBPSC AE 2014, 2001 7 YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Vertical Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 560,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_203"
+    },
+    {
+        "question_id": 281,
+        "question_text": "The flood discharge passing through a river at a weir site is usually estimated by using",
+        "options": {
+            "A": "acurrent meter",
+            "B": "asurface float",
+            "C": "a gauge-discharge curve",
+            "D": "adilution technique"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Vertical Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 570,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_281"
+    },
+    {
+        "question_id": 363,
+        "question_text": "The shape of recession limb of hydrograph depends upon-",
+        "options": {
+            "A": "Basin characteristics only",
+            "B": "Storm characteristics only",
+            "C": "Both basin characteristics and storm characteristics",
+            "D": "Nonc of these Rajasthan VP ITT"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2018 Haryana PSC AE 2017 / MPPSC AE 2017 UKPSC A E Paper II 2013",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Vertical Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 580,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_363"
+    },
+    {
+        "question_id": 363,
+        "question_text": "Which of the following is not a unit process in water treatment systems",
+        "options": {
+            "A": "alum",
+            "B": "hydrated ferrous sulphate and lime",
+            "C": "sodium carbonate",
+            "D": "chlorinated copperas"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC Assistant Prof. 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Vertical Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 645,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_363"
+    },
+    {
+        "question_id": 822,
+        "question_text": "Pickup the incorrect statement from the following",
+        "options": {
+            "A": "the mixture of water and waste products is called sewage. AE Civil Engg. Volume-II 6",
+            "B": "the treated sewage effluents are generally used for irrigation crops.",
+            "C": "the process of collecting, treating and disposing the sewage is called sewerage.",
+            "D": "the old conservancy system was definitely better than water carried sewerage system"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UKPSC(Urban engineering)-2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Vertical Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 696,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_822"
+    },
+    {
+        "question_id": 138,
+        "question_text": "As per IRC recommendations the ruling gradient for plain terrain is: WBPSC Poly Lect. 2019 GPHC AE 2018 RPSC VPITI-2012 WBPSC AE 2007 OR The value of ruling gradient in plains as per TRC recommendation is",
+        "options": {
+            "A": "Parabolic method",
+            "B": "Straight line method",
+            "C": "Straight & Parabolic at crown",
+            "D": "All of these"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "RPSC ACF - 2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Vertical Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 796,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_138"
+    },
+    {
+        "question_id": 160,
+        "question_text": "A vertical curve is designated on the basis of the",
+        "options": {
+            "A": "Radius of the curve",
+            "B": "Minimum sight distance",
+            "C": "Change of gradient",
+            "D": "All of the above [UPPSC State Eng. A.E,"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2004 (I)]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Vertical Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 799,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_160"
+    },
+    {
+        "question_id": 203,
+        "question_text": "A vertical summit curve is formed at the intersection of two gradicnts. +5% and -5%. The length of summit curve needed to provide a stopping sight distance of 100 m will be-",
+        "options": {
+            "A": "Maximum utility per unit cost of road",
+            "B": "Maximum utility per unit length of road",
+            "C": "Maximum ulility per unil population",
+            "D": "None of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "MPSC (Mains) 2017 Paper--IT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Vertical Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 805,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_203"
+    },
+    {
+        "question_id": 281,
+        "question_text": "The important factor considered in the design of summit curve on highways is",
+        "options": {
+            "A": "Comfort to passengers",
+            "B": "Sight distance",
+            "C": "Super elevation",
+            "D": "Impact factor"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "ISRO Scientist/Engineer 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Vertical Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 814,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_281"
+    },
+    {
+        "question_id": 359,
+        "question_text": "For the designing of valley curves, the height of headlight above the road surface is assumed at",
+        "options": {
+            "A": "0.15 m above the road surface",
+            "B": "1.2 m above the road surface",
+            "C": "0.75 m above the road surface",
+            "D": "1.5 m above the road surface"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "OPSC AE Paper- IT 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Vertical Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 824,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_359"
+    },
+    {
+        "question_id": 363,
+        "question_text": "The length of Summit Curve on a two lane two way highway depends upon",
+        "options": {
+            "A": "7% (b) 10%",
+            "B": "Coefficient of lateral friction",
+            "C": "13% (d) 15%",
+            "D": "Required Overtaking Sight Distance"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC R&B AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Vertical Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 824,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_363"
+    },
+    {
+        "question_id": 378,
+        "question_text": "Which of the following is “the steepest gradicnt?",
+        "options": {
+            "A": "Ruling gradient",
+            "B": "Limiting gradient",
+            "C": "Exceptional gradient",
+            "D": "Minimum gradient (JPSC Combined"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "AE Paper VI 2013)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Vertical Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 826,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_378"
+    },
+    {
+        "question_id": 822,
+        "question_text": "Horizontal alignment in Mountainous country is conditioned by:",
+        "options": {
+            "A": "Drainage structures",
+            "B": "Depth of cut and fill",
+            "C": "Cost of right of way",
+            "D": "Maximum grade criteria"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPSC Civil Eng, AE, 20130) Ans ; (c) Horizontal alignment in Mountainous country is conditioned by cost of right of way.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Highway Engineering",
+        "topic": "Vertical Alignment",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 879,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_822"
+    }
+]

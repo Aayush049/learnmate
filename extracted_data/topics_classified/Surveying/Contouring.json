@@ -1,0 +1,104 @@
+[
+    {
+        "question_id": 594,
+        "question_text": "For hilly region the ideal method of contouring is",
+        "options": {
+            "A": "Direct method.",
+            "B": "Method of squares",
+            "C": "Cross section method",
+            "D": "Radial line method"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "UPRVUNL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Contouring",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 99,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_594"
+    },
+    {
+        "question_id": 601,
+        "question_text": "Match the items in List 1 (Features of Contour line) with those in List 2 (Type of feature) and select the best correct answer using the codes given below. P. Contour lines with | 1. Steep slope higher values inside them Q. contour lines of | 2. Hill different elevation cross one another closely spaced S. Contour lines of | 4. Overhanging different elevations | Cliff unite to form one line",
+        "options": {
+            "A": "P-2, Q-3, R-1, S-4",
+            "B": "P-2, Q-1, R44, S-3",
+            "C": "P-2, Q-4, R-I, S-3",
+            "D": "P-4, Q-1, R-3, S-2 BHEL ET"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Contouring",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 100,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_601"
+    },
+    {
+        "question_id": 603,
+        "question_text": "Which of the following is not an indirect method of contouring?",
+        "options": {
+            "A": "Graphical method",
+            "B": "Cross sections method",
+            "C": "Squares method",
+            "D": "Tacheometric method"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "UPPCL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Contouring",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 100,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_603"
+    },
+    {
+        "question_id": 615,
+        "question_text": "An imaginary line lying on the ground and maintaining a constant slope is known as ;",
+        "options": {
+            "A": "Contour line",
+            "B": "Horizontal equivalent",
+            "C": "Contour interval",
+            "D": "Grade contour [UPPSC State Eng. A.E."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2011] Ans; (d) Contour gradient is a line lying throughout on the surface of the ground and preserving a constant inclination to the horizontal. Contour line is an imaginary line on the ground joining the point of equal elevation. The horizontal distance between two points on two consecutive contour is known as the horizontal equivalent. The vertical distance between any two consecutive contour is called contour interval.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Contouring",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 102,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_615"
+    }
+]

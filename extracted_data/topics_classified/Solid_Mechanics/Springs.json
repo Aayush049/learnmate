@@ -1,0 +1,133 @@
+[
+    {
+        "question_id": 1460,
+        "question_text": "With respect to the site investigation for a foundation, significant depth is defined as",
+        "options": {
+            "A": "the depth upto which the stress inerement duc to superimposed load can producc significant settlement",
+            "B": "the depth at which the ground water is encountered",
+            "C": "the depth at which a rock strata is obtained",
+            "D": "the depth at which coefficient of consolidation equals coefficient of compressibility"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Springs",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 318,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1460"
+    },
+    {
+        "question_id": 1517,
+        "question_text": "Cast in situ concrete piles are not suitable for",
+        "options": {
+            "A": "Under water purposes",
+            "B": "With in city",
+            "C": "Light weight casing shell",
+            "D": "On river banks Nagaland"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "PSC Paper-II 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Springs",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 325,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1517"
+    },
+    {
+        "question_id": 1454,
+        "question_text": "The proof load of a leaf spring is:",
+        "options": {
+            "A": "It increase uniformly from the shortest leaf to the longest leaf",
+            "B": "It is largest in the longest leaf",
+            "C": "It is largest in the shortest leaf",
+            "D": "load per unit deflection"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "APPSC Poly. Tech. Lect. 2020 ‘",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Springs",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 640,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1454"
+    },
+    {
+        "question_id": 1460,
+        "question_text": "The stiffness of the spring is the",
+        "options": {
+            "A": "Load required for breaking the spring",
+            "B": "Load required to compress the spring up to shearing proportional limit",
+            "C": "Load required to produce unit deflection",
+            "D": "Load per coil of the spring Punjab PSC SDE"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Springs",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 640,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1460"
+    },
+    {
+        "question_id": 1517,
+        "question_text": "The stiffness of a closed coiled spring is more when ‘",
+        "options": {
+            "A": "wire diameter, rigidity modulus are more and mean radius, number of turns are lesser",
+            "B": "number of turns, rigidity modulus are more and mean radius, number of turns are lesser",
+            "C": "number of turns, rigidity modulus are more and mean radius, wire diameter, number of turns are lesser",
+            "D": "rigidity modulus is more and wire diameter, mean radius, number of turns are lesser"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TSPSC Deputy Engineer 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Springs",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 650,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1517"
+    }
+]

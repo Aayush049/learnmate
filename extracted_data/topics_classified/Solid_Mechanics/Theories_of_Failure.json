@@ -1,0 +1,265 @@
+[
+    {
+        "question_id": 1045,
+        "question_text": "For soil sampling boreholes should be stabilized for",
+        "options": {
+            "A": "Prevention of entry of seepage water into borehole",
+            "B": "Prevention of collapse of side walls of borehole",
+            "C": "Quick advancement of borehole",
+            "D": "Lowering of ground water table"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "WBPSC AE (PHE) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Theories of Failure",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 259,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1045"
+    },
+    {
+        "question_id": 1051,
+        "question_text": "The Mohr's strength thcory is based on the following fact:",
+        "options": {
+            "A": "Material fails essentially by shear",
+            "B": "Ultimate strength of the material is determined by the stress in the plane of slip",
+            "C": "None of these options",
+            "D": "All of the above"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "Haryana PSC AE Paper-II 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Theories of Failure",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 260,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1051"
+    },
+    {
+        "question_id": 1045,
+        "question_text": "If Rankinc's criteria is applied for failure of brittle material, then which of the following will be necessary condition?",
+        "options": {
+            "A": "Maximum shear forecs",
+            "B": "Maximum strain energy",
+            "C": "Maximum principal stress",
+            "D": "Maximum shear strain energy"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "CIL MT 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Theories of Failure",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 574,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1045"
+    },
+    {
+        "question_id": 1051,
+        "question_text": "if o), 2 and o; are principal stresses and o, is the allowable stress, the equation > 2 6, +6, +6; raat XO, +6, X06, +6,x6,)= 62 1 belongs to which failure theory (- is the m Poisson's ratio).",
+        "options": {
+            "A": "Strain energy theory",
+            "B": "Shear strain energy theory",
+            "C": "Maximum principal strain theory",
+            "D": "Maximum shear stress theory"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Theories of Failure",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 575,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1051"
+    },
+    {
+        "question_id": 1090,
+        "question_text": "Which of the following theory gives best result for ductile materials?",
+        "options": {
+            "A": "Rankine's theory",
+            "B": "St. Venant's theory",
+            "C": "Mises-Henky Theory",
+            "D": "Guest or Tresca's Theory"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC Poly, Tech, Lect. 2020 1",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Theories of Failure",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 581,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1090"
+    },
+    {
+        "question_id": 1130,
+        "question_text": "For ductile materials the most appropriate failure theory is",
+        "options": {
+            "A": "Maximum shear stress theory",
+            "B": "Maximum principal stress theory",
+            "C": "Maximum principal strain theory",
+            "D": "Shear strain energy theory"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPSC AE June 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Theories of Failure",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 590,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1130"
+    },
+    {
+        "question_id": 1168,
+        "question_text": "Which theory of failure will you use for aluminium components under steady loading?",
+        "options": {
+            "A": "Principal stress theory",
+            "B": "Principal strain theory",
+            "C": "Strain energy theory",
+            "D": "Maximum shear stress theory"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "UPRVUNL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Theories of Failure",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 595,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1168"
+    },
+    {
+        "question_id": 1180,
+        "question_text": "Maximum strain theory for the failure of a material at the elastic limit is known as:",
+        "options": {
+            "A": "Forces in members of a truss",
+            "B": "Moments ina fixed beam",
+            "C": "Reactions at the supports",
+            "D": "Joint displacement ofa pin jointed frame"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Haryana PSC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Theories of Failure",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 597,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1180"
+    },
+    {
+        "question_id": 1183,
+        "question_text": "For ductile material, the suitable failure theory is",
+        "options": {
+            "A": "Maximum shear strain energy theory",
+            "B": "Maximum shear stress theory",
+            "C": "Both (a) and (b)",
+            "D": "None of the above"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "APPSC AEE (CIVIL/MECHANICAL) 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Theories of Failure",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 597,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1183"
+    },
+    {
+        "question_id": 1402,
+        "question_text": "Torsional failure surface of ductile material occurs at",
+        "options": {
+            "A": "transverse plane",
+            "B": "60° to the transverse plane",
+            "C": "45° to the transverse plane",
+            "D": "any random plane"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE March 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Theories of Failure",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 632,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1402"
+    }
+]

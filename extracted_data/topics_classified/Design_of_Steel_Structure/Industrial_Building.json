@@ -1,0 +1,83 @@
+[
+    {
+        "question_id": 760,
+        "question_text": "For heavy vibratory loads in industrial building, the roof trusses are provided with",
+        "options": {
+            "A": "diagonal bracing in the lower chord member",
+            "B": "diagonal bracing in the upper chord member",
+            "C": "transverse bracing",
+            "D": "knee bracing [UPPSC State Eng. A.E."
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "2007(D] ESE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Industrial Building",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1021,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_760"
+    },
+    {
+        "question_id": 778,
+        "question_text": "As per IS 875 (part-3) : 2015, while considering the wind load acting in direction normal to the individual structural element or cladding unit, the following is not considered:",
+        "options": {
+            "A": "Wind speed associated with maximum wave length",
+            "B": "Wind speed associated with maximum frequency and velocity",
+            "C": "Wind speed associated with maximum amplitude",
+            "D": "Wind speed associated with maximum amplitude and wave length"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ISRO Scientist/Engineer 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Industrial Building",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1023,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_778"
+    },
+    {
+        "question_id": 797,
+        "question_text": "An angle section can be used as purlin when slope of the roof truss is:",
+        "options": {
+            "A": "0.3 (b) 0.4",
+            "B": "there is a horizontal tie at the feet of rafters only",
+            "C": "0.5 (d) 0.6",
+            "D": "there are two horizontal ties, one at the feet and other at the middle of rafters"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPSC AE Dee 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Industrial Building",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1025,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_797"
+    }
+]

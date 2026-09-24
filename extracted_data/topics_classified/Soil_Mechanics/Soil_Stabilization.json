@@ -1,0 +1,239 @@
+[
+    {
+        "question_id": 1033,
+        "question_text": "Sand drains are used to",
+        "options": {
+            "A": "Reduce the settlement",
+            "B": "Accelerate the consolidation",
+            "C": "Increase the permeability",
+            "D": "Transter the load"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "RPSC AE (GWD) 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Stabilization",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 257,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1033"
+    },
+    {
+        "question_id": 1701,
+        "question_text": "The most effective and economical method to stabilize Black Cotton Soils is",
+        "options": {
+            "A": "Cement stabilization",
+            "B": "Lime stabilization with suitable additives",
+            "C": "Thermal stabilization",
+            "D": "None of the given answers"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AEE (Mains) 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Stabilization",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 347,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1701"
+    },
+    {
+        "question_id": 1703,
+        "question_text": "Which type of stabilization will be the best for black cotton soil",
+        "options": {
+            "A": "Mechanical stabilization",
+            "B": "Soil-bitumen stabilization",
+            "C": "Soil-cement stabilization",
+            "D": "Soil-lime stabilization"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "RPSC AE (GWD) 2014 ¢ Highly unstable, plastic and swelling clayey soil such as \"black cotton soils\" may be stabilized by hydrated lime (calcium hydroxide). e Normal dose requirement is 4% to 6% of the soil weight.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Stabilization",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 348,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1703"
+    },
+    {
+        "question_id": 1706,
+        "question_text": "Lime stabilization method is particularly suitable and has been found successful in stabilizing :",
+        "options": {
+            "A": "Clayey soil with expansive nature in water logged areas",
+            "B": "Sandy desertic area",
+            "C": "Soil having liquid limit less than 30%",
+            "D": "Wind blown soil deposits"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPSC State Eng. A.E, 2003, Ans ; (a) Lime stablization: Lime has been widely used as a modifier for clay soil or as a binder. When clay soils with high plasticily are treated with lime, the plasticity index is dceercascd and the soil becomes flexible and easy to pulverize having less affinity with water.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Stabilization",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 348,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1706"
+    },
+    {
+        "question_id": 1709,
+        "question_text": "If water table is high in stiff clay, which of the following stabilizing method should be followed?",
+        "options": {
+            "A": "Bore hole be kept full of water to a level higher than ground water table",
+            "B": "Bore hole be kept full of drilling mud to a level higher than ground water table",
+            "C": "Bore hole be cased with pipe casing",
+            "D": "Nothing needs to be done [HPPSC AE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016] any stabilization.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Stabilization",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 348,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1709"
+    },
+    {
+        "question_id": 1713,
+        "question_text": "With the increase in value of plasticity index of soil, the quantity of lime required for stabilization,",
+        "options": {
+            "A": "Increases",
+            "B": "Decreases",
+            "C": "Remains unaffected",
+            "D": "first increases and then decreases Rajasthan AE (Nagar Nigam)"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016 18",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Stabilization",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 348,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1713"
+    },
+    {
+        "question_id": 1714,
+        "question_text": "Mechanical stabilization requires",
+        "options": {
+            "A": "Addition of chemical to soils",
+            "B": "Mixing of two or more types of natural soils",
+            "C": "Mixing of lime with soils",
+            "D": "Addition of cementing material to soils"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "GPSC AE Dec 2018 WBPSC AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Stabilization",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 349,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1714"
+    },
+    {
+        "question_id": 1715,
+        "question_text": "Lime stabilization of clayey soil generally leads to",
+        "options": {
+            "A": "decrease in shrinkage limit",
+            "B": "decrease in plastic limit",
+            "C": "increase in liquid limit",
+            "D": "flocculation of particles"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "MPPSC AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Stabilization",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 349,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1715"
+    },
+    {
+        "question_id": 1716,
+        "question_text": "When bitumen is added to soil mainly it",
+        "options": {
+            "A": "increases cohesion",
+            "B": "accelerates cohesion",
+            "C": "acts as water proofing agent",
+            "D": "fills void"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Stabilization",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 349,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1716"
+    }
+]

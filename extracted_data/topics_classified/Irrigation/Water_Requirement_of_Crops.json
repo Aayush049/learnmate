@@ -1,0 +1,261 @@
+[
+    {
+        "question_id": 15,
+        "question_text": "Measurement of discharge of river usually forms a part of Maharashtra PSC Mains 2012 Paper -2 (OR) The branch of surveying which deals with water bodies is known as",
+        "options": {
+            "A": "Theodolite traversing",
+            "B": "Sea surveying",
+            "C": "Tachometric surveying",
+            "D": "Hydrographic surveying GWSSB AAE"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water Requirement of Crops",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 21,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_15"
+    },
+    {
+        "question_id": 129,
+        "question_text": "The region outside the Mach cone is called",
+        "options": {
+            "A": "zone of action",
+            "B": "zone of silence",
+            "C": "control volume",
+            "D": "control area Arunachal Pradesh Poly, Tech. Lect,"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water Requirement of Crops",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 178,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_129"
+    },
+    {
+        "question_id": 158,
+        "question_text": "The repeating variables in dimensional analysis should:",
+        "options": {
+            "A": "Include the dependent variable",
+            "B": "Have amongst themselves all the basic dimensions",
+            "C": "Be derivable from one another",
+            "D": "Nonc of the above"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "UJSVNL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water Requirement of Crops",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 182,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_158"
+    },
+    {
+        "question_id": 228,
+        "question_text": "Impulse turbine without jet interference employs maximum number of jets are. :",
+        "options": {
+            "A": "impeller blade angle",
+            "B": "rpm",
+            "C": "type of casing",
+            "D": "number of blades in impeller"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "DMRC AM 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water Requirement of Crops",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 401,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_228"
+    },
+    {
+        "question_id": 15,
+        "question_text": "Which of the following combinations of multiple uses will result in most optimum utilization of available water resources?",
+        "options": {
+            "A": "Water supply, irrigation, flood control",
+            "B": "Hydropower, water supply, irrigation and navigation (D/S of power house)",
+            "C": "Flood control, navigation, _ fisheries development",
+            "D": "Flood control, recreation, _ pollution abatement [UPPSC State Eng. A.E."
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2004 (I)]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water Requirement of Crops",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 411,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_15"
+    },
+    {
+        "question_id": 104,
+        "question_text": "For a standing crop, the consumptive use of water is equal to the depth of water",
+        "options": {
+            "A": "evaporated by the crop",
+            "B": "transpired by the crop",
+            "C": "evapotranspiration by the crop",
+            "D": "evapotranspiration by the crop and quantity of water evaporated from adjacent soil [U.K. Combined A E Paper I"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2012]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water Requirement of Crops",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 423,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_104"
+    },
+    {
+        "question_id": 158,
+        "question_text": "The average A of rice crop is nearer to :",
+        "options": {
+            "A": "Kor watering",
+            "B": "Paleo",
+            "C": "Delta",
+            "D": "None of these [UPPSC State Eng. AE."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2007] Ans; (b) Paleo - It is the first watering before sowing to unsaturated zone of the soil and is required for the| initial growth the crop.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water Requirement of Crops",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 432,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_158"
+    },
+    {
+        "question_id": 199,
+        "question_text": "The application of Kor-Watering for an irrigation crop is done",
+        "options": {
+            "A": "about three weeks before sowing",
+            "B": "at the time of its sowing",
+            "C": "about three weeks after sowing",
+            "D": "just before harvesting Rajasthan Nagar Nigam AE Shift-2,"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016 growth to about three centimeter so it takes about three weeks afler sowing.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water Requirement of Crops",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 438,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_199"
+    },
+    {
+        "question_id": 228,
+        "question_text": "The purpose of mixed cropping is-",
+        "options": {
+            "A": "to increase fertility of land",
+            "B": "to minimize chances of water logging",
+            "C": "lo assume some yield from field",
+            "D": "to increase income from the field"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "WBPSC AE (Irrigation) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water Requirement of Crops",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 441,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_228"
+    },
+    {
+        "question_id": 129,
+        "question_text": "Blaney-Criddle formula is used to compute",
+        "options": {
+            "A": "monthly consumptive use",
+            "B": "annual evapotranspiration",
+            "C": "open water evaporation",
+            "D": "readily available moisture"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE (Irrigation) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Water Requirement of Crops",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 552,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_129"
+    }
+]

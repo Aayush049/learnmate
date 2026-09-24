@@ -1,0 +1,29 @@
+[
+    {
+        "question_id": 1975,
+        "question_text": "17. Volumetric method of assessment leads to:",
+        "options": {
+            "A": "higher duty",
+            "B": "lower duty",
+            "C": "nominal duty",
+            "D": "has no impact on duty [UPPSC State Eng. A.E."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2004 (1)] 8 YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Irrigation & Methods",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 411,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1975"
+    }
+]

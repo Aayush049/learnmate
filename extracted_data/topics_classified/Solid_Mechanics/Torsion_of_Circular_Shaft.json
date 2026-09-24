@@ -1,0 +1,636 @@
+[
+    {
+        "question_id": 1339,
+        "question_text": "The net ultimate bearing capacity of a purely cohesive soil",
+        "options": {
+            "A": "depends on the width of the footing and is independent of the depth of the footing",
+            "B": "depends on the width as well as the depth of the footing",
+            "C": "depends on the depth but is independent of the width of the footing",
+            "D": "is independent of both the width and depth of the footing"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Torsion of Circular Shaft",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 302,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1339"
+    },
+    {
+        "question_id": 1351,
+        "question_text": "Which of the following exhibits maximum deformation?",
+        "options": {
+            "A": "Local shear failure",
+            "B": "General shear failure",
+            "C": "Punching shear failure",
+            "D": "Composite failure"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "BPSC AE 2012 Paper-V",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Torsion of Circular Shaft",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 303,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1351"
+    },
+    {
+        "question_id": 1352,
+        "question_text": "Due to large leakage and flood damage problems, following type of coffer dam is not preferred-",
+        "options": {
+            "A": "Braced type",
+            "B": "Cantilever sheet pile type",
+            "C": "Cellular type",
+            "D": "Double wall type"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "UKPSC AE 2013 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Torsion of Circular Shaft",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 304,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1352"
+    },
+    {
+        "question_id": 1356,
+        "question_text": "Terzaghi's bearing capacity factors namely N., N,; N, are functions of",
+        "options": {
+            "A": "Shape of the foundation",
+            "B": "Size of the foundation",
+            "C": "Angle of shearing resistance",
+            "D": "Cohesion"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 219 ESE 2005:",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Torsion of Circular Shaft",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 304,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1356"
+    },
+    {
+        "question_id": 1315,
+        "question_text": "Match List I with List II and select the correct answer using the codes given below the lists: List I List II",
+        "options": {
+            "A": "Both ends hinged = L /B. One end fixed and other end free = 2L",
+            "B": "i iii il iv",
+            "C": "One end fixed and the other pin-joined Liv2 ‘D. Both ends fixed L2",
+            "D": "iii i iv ii"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC (PHE) AE Paper-2 2012 ESE 2003",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Torsion of Circular Shaft",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 617,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1315"
+    },
+    {
+        "question_id": 1329,
+        "question_text": "In a rectangular shaft subjected to torsion the maximum shear stress occurs at ;",
+        "options": {
+            "A": "Centre",
+            "B": "Corncrs",
+            "C": "Middle of smaller side",
+            "D": "Middle of longer side Nagaland PSC CTSE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017 Paper-I ‘",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Torsion of Circular Shaft",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 620,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1329"
+    },
+    {
+        "question_id": 1332,
+        "question_text": "Magnitude of shear stress induced in a shaft due to applied torque varies from-",
+        "options": {
+            "A": "Maximum at centre to zcro at circumference",
+            "B": "Maximum at centre to minimum (Not Zero) at the circumference",
+            "C": "Zero at centre to maximum at circumference",
+            "D": "Minimum (Not Zero) at centre to maximum at circumference"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Maharashtra PSC (Mains) 2015 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Torsion of Circular Shaft",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 620,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1332"
+    },
+    {
+        "question_id": 1339,
+        "question_text": "For no torsion, the plane of bending should",
+        "options": {
+            "A": "Be parallel to one of the principal axes",
+            "B": "Pass through shear centre of section",
+            "C": "Pass through neutral axis of the section",
+            "D": "Pass through centre of gravity of the section"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "OPSC AEE 2019 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Torsion of Circular Shaft",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 621,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1339"
+    },
+    {
+        "question_id": 1351,
+        "question_text": "The shear stress at a point in a shaft subjected to a torque is",
+        "options": {
+            "A": "Directly proportional to the polar moment of incrtia and to the distance of the point from the axis",
+            "B": "Directly proportional to the applied torque and inversely proportional to the polar moment of inertia",
+            "C": "Directly proportional to the applied torque and polar moment of inertia",
+            "D": "Inversely proportional to the applied torque and the polar moment of incrtia"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Torsion of Circular Shaft",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 622,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1351"
+    },
+    {
+        "question_id": 1352,
+        "question_text": "Consider the following statements: A splined shaft is used for (i) transmitting power (ii) holding a flywheel rigidly in position (iii) moving axially the gear wheels mounted on it. Code:",
+        "options": {
+            "A": "(ii) and (iii) are correct",
+            "B": "(i) and (iv) are correct",
+            "C": "(ii) and (iv) are correct",
+            "D": "(i) and (iii) are correct"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "APPSC (PHE) AE Paper-2 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Torsion of Circular Shaft",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 622,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1352"
+    },
+    {
+        "question_id": 1353,
+        "question_text": "Stress developed in cylindrical bars subjected to pure torsion is",
+        "options": {
+            "A": "The point at which torque acts",
+            "B": "The same as centroidal axis",
+            "C": "The point at which bending moment acts",
+            "D": "The point at which resultant of internal forces passes"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPCL AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Torsion of Circular Shaft",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 622,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1353"
+    },
+    {
+        "question_id": 1356,
+        "question_text": "If two shafts of the same length, one of which is hollow, transmit equal torque and have equal maximum stress, then they should have equal",
+        "options": {
+            "A": "polar moment of inertia",
+            "B": "diameter",
+            "C": "polar modulus of section",
+            "D": "angle of twist"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC (PHE) AE Paper-2 2012 2",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Torsion of Circular Shaft",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 622,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1356"
+    },
+    {
+        "question_id": 1375,
+        "question_text": "Pure torsion of a shaft produces :",
+        "options": {
+            "A": "longitudinal normal stress in shaft",
+            "B": "only direct shear stress in the transverse section of the shaft",
+            "C": "circumferential shear stress on surface element of shaft",
+            "D": "a longitudinal shear stress and a circumferential shear stress on a surface element of shaft [HPPSC"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2016-H]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Torsion of Circular Shaft",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 626,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1375"
+    },
+    {
+        "question_id": 1382,
+        "question_text": "Which one of the following statements is correct for the rotating shafts transmitting power?",
+        "options": {
+            "A": "Lower the frequency of shaft lower will be the torque",
+            "B": "Higher the frequency of shaft lower will be the torque",
+            "C": "Frequency of the shaft docs not influence the torque",
+            "D": "Higher the frequency of shaft higher will be the torque"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "ESE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Torsion of Circular Shaft",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 628,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1382"
+    },
+    {
+        "question_id": 1404,
+        "question_text": "If a shaft is subjected to pure twisting moment, an element on the surface is subjected to",
+        "options": {
+            "A": "normal tensile stress",
+            "B": "normal compressive stress",
+            "C": "pure shear stress",
+            "D": "bending stress"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE March 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Torsion of Circular Shaft",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 632,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1404"
+    },
+    {
+        "question_id": 1416,
+        "question_text": "While designing a mechanical system, a rectangular bar of length (), width (b) and depth (d), where b>d, is subjected to torsion. The maximum shear stress will occur at:",
+        "options": {
+            "A": "The corner",
+            "B": "Along the diagonal",
+            "C": "The center",
+            "D": "Middle of longer side"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Torsion of Circular Shaft",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 634,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1416"
+    },
+    {
+        "question_id": 1423,
+        "question_text": "Shear stress for a circular shaft due to torque varies",
+        "options": {
+            "A": "from surface to centre paraholically",
+            "B": "from surface to centre linearly",
+            "C": "from centre to surface parabolically",
+            "D": "from centre to surface linearly"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AEE (Civil/Mechanical) 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Torsion of Circular Shaft",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 635,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1423"
+    },
+    {
+        "question_id": 1427,
+        "question_text": "In a circular shaft subjected to pure torsion, the maximum shear stress occurs at",
+        "options": {
+            "A": "the axis of the shaft",
+            "B": "between surface and axis",
+            "C": "shear stress is uniform throughout the cross section",
+            "D": "the surface"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC Assistant Prof. 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Torsion of Circular Shaft",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 636,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1427"
+    },
+    {
+        "question_id": 1448,
+        "question_text": "When a membcr is subjected to twisting moment the stress in any elemental ring will he proportional to:",
+        "options": {
+            "A": "its radial distance from center",
+            "B": "Modulus of Rigidity of Material",
+            "C": "Young's Modulus of Material",
+            "D": "the area of cross-section"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "JUVNL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Torsion of Circular Shaft",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 639,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1448"
+    },
+    {
+        "question_id": 1315,
+        "question_text": "The use of concordant cables in prestressed continuous beams induces",
+        "options": {
+            "A": "initial support reactions",
+            "B": "no initial support reactions",
+            "C": "excess cracking",
+            "D": "excess deflection TRB Poly, Tech, Lect."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2012 ESE-2006, 2010",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Torsion of Circular Shaft",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 923,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1315"
+    },
+    {
+        "question_id": 1339,
+        "question_text": "The profile of the prestressing steel in prestressed concrete member follows",
+        "options": {
+            "A": "Axial force diagram",
+            "B": "Shear force diagram",
+            "C": "Bending moment diagram",
+            "D": "None of the above"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "APPSC AEE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Torsion of Circular Shaft",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 926,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1339"
+    },
+    {
+        "question_id": 1352,
+        "question_text": "In a prestressed member it is advisable to use -",
+        "options": {
+            "A": "High strength concrete only",
+            "B": "High strength concrete & high tensile steel",
+            "C": "Low strength concrete but high, tensile steel",
+            "D": "High strength concrete but low tensile steel Rajasthan VP ITI"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2018 ESE-2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Torsion of Circular Shaft",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 927,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1352"
+    },
+    {
+        "question_id": 1356,
+        "question_text": "‘The strain distribution in the limit state design of pre-stressed concrete structure is assumed to be :",
+        "options": {
+            "A": "Linear",
+            "B": "Non-linear",
+            "C": "Parabolic",
+            "D": "Parabolic and rectangular"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2014 ESE-2003",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Torsion of Circular Shaft",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 928,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1356"
+    },
+    {
+        "question_id": 664,
+        "question_text": "The torsional stiffness of a member can be defined as :",
+        "options": {
+            "A": "Torque for unit moment",
+            "B": "Moment for unit twist",
+            "C": "Torque for unit twist",
+            "D": "Torsion for unit twist Nagaland PSC CTSE"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2017 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Torsion of Circular Shaft",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1010,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_664"
+    }
+]

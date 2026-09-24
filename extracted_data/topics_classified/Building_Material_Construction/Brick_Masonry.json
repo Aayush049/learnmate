@@ -1,0 +1,182 @@
+[
+    {
+        "question_id": 169,
+        "question_text": "In brick masonry,",
+        "options": {
+            "A": "Mortar strength should match brick strength",
+            "B": "Mortar strength should exceed brick strength",
+            "C": "Brick strength should exceed mortar strength",
+            "D": "The strengths of masonry and brick are independent"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "UPRVUNL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Brick Masonry",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 37,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_169"
+    },
+    {
+        "question_id": 91,
+        "question_text": "As per IS : 800 - 2007, the distance between centre of fasteners shall not be less than .........0 in holted connections.",
+        "options": {
+            "A": "2.5 times the nominal dia. of the fastener",
+            "B": "3 times the nominal dia. of the fastener",
+            "C": "1.5 times the nominal dia. of the fastener",
+            "D": "2 times the nominal dia. of the fastener"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC R&B AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Brick Masonry",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 941,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_91"
+    },
+    {
+        "question_id": 91,
+        "question_text": "Cavity wall is provided for",
+        "options": {
+            "A": "heat insulation",
+            "B": "sound insulation",
+            "C": "prevention of dampness 10",
+            "D": "all of the above"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019 Uttarakhand Combined State AE Paper I 2007;",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Brick Masonry",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1048,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination"
+        ],
+        "global_id": "Civil_AE_1_complete.json_91"
+    },
+    {
+        "question_id": 169,
+        "question_text": "The depth of an arch is the distance between",
+        "options": {
+            "A": "Ground level and springing line",
+            "B": "Crown and springing line",
+            "C": "Crown and ground level",
+            "D": "Intrados and extrados"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "ISRO Scientist/Engineer 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Brick Masonry",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1056,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_169"
+    },
+    {
+        "question_id": 175,
+        "question_text": "The effect of arching a beam is",
+        "options": {
+            "A": "to increase bending moment throughout",
+            "B": "to increase shear force",
+            "C": "to reduce bending moment throughout",
+            "D": "to decrease shear force"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "GPSC Assistant Prof. 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Brick Masonry",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1057,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_175"
+    },
+    {
+        "question_id": 169,
+        "question_text": "A dummy activity is required when",
+        "options": {
+            "A": "two or more activities having different ending events",
+            "B": "two or more activities having the same starting events",
+            "C": "the network contains two or more activities that have identical starting and ending events",
+            "D": "two or more activilies having the same ending events AP (VSS-1) PART - A"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Brick Masonry",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1089,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_169"
+    },
+    {
+        "question_id": 169,
+        "question_text": "In PWD, a tender is called \"for and on behalf of the\"",
+        "options": {
+            "A": "Chicf Engineer",
+            "B": "Executive Engineer",
+            "C": "Governor of the State",
+            "D": "Government"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "TNPSC AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Brick Masonry",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1128,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_169"
+    }
+]

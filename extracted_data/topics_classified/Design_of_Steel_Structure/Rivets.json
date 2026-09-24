@@ -1,0 +1,29 @@
+[
+    {
+        "question_id": 314,
+        "question_text": "As per IS code, the maximum pitch of rivets in compression flange (thickness 't') of a built up beam is-",
+        "options": {
+            "A": "Lesser of 200 mm and 12t",
+            "B": "Lesser of 250 mm and 1 2t",
+            "C": "Lesser of 200 mm and 16t",
+            "D": "Lesser of 250 mm and 16t"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UTTRAKHAND AE 2013, Ans ; (a) The distance between the centers of two consecutive rivets in direction of stress should not exceed 16t or 200mm, whichever is less in tension member and 12t or 200mm, whichever is less in compression member",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Rivets",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 968,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_314"
+    }
+]

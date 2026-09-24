@@ -1,0 +1,81 @@
+[
+    {
+        "question_id": 758,
+        "question_text": "The ratio of modulus of elasticity of wood in a direction perpendicular to the grain to the value in a direction to the grain falls is in the range of: i 1 1. 1",
+        "options": {
+            "A": "2 (b) 3",
+            "B": "they are glued under pressure",
+            "C": "5 (d) 6 Karnataka",
+            "D": "they are prepared from veneers Karnataka"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "PSC AE 2015 Paper - II",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Column Bases and Caps",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 100,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_758"
+    },
+    {
+        "question_id": 758,
+        "question_text": "Anchor bolts to resist over-turning moment are used in slab base :",
+        "options": {
+            "A": "When the column carries only moments",
+            "B": "When the column carries axial load only",
+            "C": "When the column carrics axial load and moment",
+            "D": "When the column carries no load TRB Poly. Lect. Tech,"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Column Bases and Caps",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 852,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_758"
+    },
+    {
+        "question_id": 711,
+        "question_text": "A steel column base is subjected to a moment. If the intensity of bearing pressure due to axial load is equal to stress due to moment , then the bearing pressure between the base and concrete is :",
+        "options": {
+            "A": "Tension at one end and compression at other end",
+            "B": "Zero at one end and compression at other end",
+            "C": "Uniform compression throughout",
+            "D": "Uniform tension throughout"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "CIL MT 2020 4",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Column Bases and Caps",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1015,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_711"
+    }
+]

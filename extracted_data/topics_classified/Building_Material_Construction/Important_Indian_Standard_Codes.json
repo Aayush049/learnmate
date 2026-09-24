@@ -1,0 +1,29 @@
+[
+    {
+        "question_id": 1072,
+        "question_text": "In an unloaded structure, as crected, the tolerance limit of deviation of distance between adjacent columns after erection is",
+        "options": {
+            "A": "0.002h, h is the height of the column",
+            "B": "5mm",
+            "C": "10mm",
+            "D": "0.0035 h (e) 0.0025 h,, h, is the effective length of the column"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "CGPSC AE 2014 Shift-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Important Indian Standard Codes",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 891,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1072"
+    }
+]

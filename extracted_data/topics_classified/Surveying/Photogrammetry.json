@@ -1,0 +1,246 @@
+[
+    {
+        "question_id": 965,
+        "question_text": "Remote sensing work where system has no energy source of its own but depends on external source of energy is called",
+        "options": {
+            "A": "Active remote sensing",
+            "B": "Passive remote sensing",
+            "C": "SLAR",
+            "D": "LIDAR"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AE 2016 (Mains)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Photogrammetry",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 147,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_965"
+    },
+    {
+        "question_id": 966,
+        "question_text": "Remote sensing of the earth's surface is done by making use of the properties of which types of electromagnetic waves : (i) Emitted (ii) Reflected (iii) Diftracted (iv) Absorbed",
+        "options": {
+            "A": "(i), (ii), (iii) and (iv)",
+            "B": "(i), (ii) and (iii)",
+            "C": "(i) and (ii)",
+            "D": "(i) and (iii)"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Photogrammetry",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 147,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_966"
+    },
+    {
+        "question_id": 1007,
+        "question_text": "Match the items in List 1 (remote sensing) with those in List 2 (Proccss) and choose the correet answer using the codes given below.",
+        "options": {
+            "A": "Visual Visual Identification of Interpretation objects using image characteristics",
+            "B": "Supervised Image | Maximum likelihood Classification algorithm",
+            "C": "Geodata model Data model incorporating spatial data with attribute data and meta data 1 YCT",
+            "D": "A-3, B-1, C4, D-2 BHEL ET"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Photogrammetry",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 152,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1007"
+    },
+    {
+        "question_id": 1018,
+        "question_text": "Distortions in aerial photographs is caused by",
+        "options": {
+            "A": "tilt and ground relief",
+            "B": "faulty camera lenses",
+            "C": "large distance between camera and the object",
+            "D": "lack of focus during photography"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE January 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Photogrammetry",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 154,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1018"
+    },
+    {
+        "question_id": 1024,
+        "question_text": "In perspective view, the picture plane is always assumed to be a...",
+        "options": {
+            "A": "inclined plane",
+            "B": "none of three mentioned here",
+            "C": "horizontal plane",
+            "D": "vertical plane GWSSB AAE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2015 3 YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Photogrammetry",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 154,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1024"
+    },
+    {
+        "question_id": 1029,
+        "question_text": "In Geographic information system, line in polygon method is characteristic of",
+        "options": {
+            "A": "Buffer operation",
+            "B": "Raster overlay AE Civil Engg. Volume-II L",
+            "C": "Intersecting operation",
+            "D": "Vector overlay"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TSPSC Deputy Engineer 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Photogrammetry",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 155,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1029"
+    },
+    {
+        "question_id": 1031,
+        "question_text": "Which of the following can be used as a map substitute?",
+        "options": {
+            "A": "Terrestrial photographs",
+            "B": "Vertical aerial photographs",
+            "C": "Oblique aerial photographs",
+            "D": "Vertical aerial photo-mosaics (UPRVUNL AE"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2015) ESE 2008",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Photogrammetry",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 155,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1031"
+    },
+    {
+        "question_id": 1034,
+        "question_text": "The instruments which sense natural electromagnetic radiations, either emitted or reflected from the earth objects, are known as,",
+        "options": {
+            "A": "Passive sensors",
+            "B": "Theodolites",
+            "C": "Tacheometers",
+            "D": "Active sensors"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "LMRC AM 2019 ‘",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Photogrammetry",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 156,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1034"
+    },
+    {
+        "question_id": 1056,
+        "question_text": "Parallax in aerial photographs is an error due to-",
+        "options": {
+            "A": "movement of camera and ground relief",
+            "B": "overlap in photographs",
+            "C": "distortion caused by camera lens",
+            "D": "distortion due to lack of focus"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Gujarat PSC AE (N.W.R.) 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Photogrammetry",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 159,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1056"
+    }
+]

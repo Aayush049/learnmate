@@ -1,0 +1,214 @@
+[
+    {
+        "question_id": 94,
+        "question_text": "‘Frog is defined asa",
+        "options": {
+            "A": "Depression on the top face of brick",
+            "B": "Top most course of plinth",
+            "C": "Brick whose one end is cut splayed or mitered for the full width",
+            "D": "Brick used for the corner ofa wall Rajasthan AE Nagar Nigam Shift-3,"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "2016 RPSC POLY, TECH. LECT, 2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Basic Fundamental",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 28,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_94"
+    },
+    {
+        "question_id": 17,
+        "question_text": "If the given forces P,, P,, P; and P, which are coplanar and concurrent are such that the force does not close, then the system will-",
+        "options": {
+            "A": "be in equilibrium",
+            "B": "always reduced to a resultant force",
+            "C": "always reduced to a couple 3",
+            "D": "always reduced to a couple and always be in equilibrium."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "IPSC AE 2009",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Basic Fundamental",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 365,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_17"
+    },
+    {
+        "question_id": 18,
+        "question_text": "The angles between two vectors to make their resultant a minimum and maximum respectively, are",
+        "options": {
+            "A": "Coplanar 1. Lines of action of all force forces lie in the same plane, but do not pass through a common point",
+            "B": "Concurrent 2. Lines of actions of all forces forces lie in the same plane and pass through a common point",
+            "C": "Concurrent 3. Lines of actions of all Coplanar forces lie in the same forces plane.",
+            "D": "Collinear 4. Lines of actions of all forces forces pass through a common point"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": null,
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Basic Fundamental",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 365,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_18"
+    },
+    {
+        "question_id": 94,
+        "question_text": "The C.G. of a semicircular lamina lies at a distance of 3",
+        "options": {
+            "A": "= frombase diameter 4r ,",
+            "B": "from base diameter 3x _. 8 ,",
+            "C": "=; from base diameter",
+            "D": "nonc of these"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Basic Fundamental",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 377,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_94"
+    },
+    {
+        "question_id": 1477,
+        "question_text": "To double the period of oscillation of a simple pendulum with small swings",
+        "options": {
+            "A": "Its length should be quadrupled",
+            "B": "The mass of the bob should be quadrupled",
+            "C": "Its length should be doubled",
+            "D": "The mass of the bob should be doubled"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ISRO Scientist/Engineer 2019 Ans; (a): We know that T=2n E g Tov T > Period of oscillation 7 Length So, to double the period of oscillation the length should be quadrupled (i.e. 4 times)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Basic Fundamental",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 643,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1477"
+    },
+    {
+        "question_id": 542,
+        "question_text": "A deformable hody is under the action of external forces (F;). The external forces satisfy the following conditions with respect to an inertial frame: (i) 2F;=0 Gi) Zr; x F;=0 a These conditions are:",
+        "options": {
+            "A": "necessary and not sufficient for equilibrium",
+            "B": "sufficient for equilibrium",
+            "C": "necessary and sufficient for equilibrium",
+            "D": "none of the above [HPPSC AE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Basic Fundamental",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 748,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_542"
+    },
+    {
+        "question_id": 17,
+        "question_text": "Wetting of bricks for sufficient time before actually using in construction does not help in which of the following?",
+        "options": {
+            "A": "help adhesion with mortar",
+            "B": "removal of dust, sand and dirt",
+            "C": "prevents suction of water [rom mortar",
+            "D": "reduces mortar thickness"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "UPPCL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Basic Fundamental",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1039,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_17"
+    },
+    {
+        "question_id": 17,
+        "question_text": "Expected project duration generally follows :",
+        "options": {
+            "A": "Normal distribution curve",
+            "B": "B- distribution curve",
+            "C": "Binominal distribution curve",
+            "D": "Nonc of these"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "HPPSC 2016-II/ UJVNL AE 2016 UPPSC State Eng. AE. 2003, 2008",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Basic Fundamental",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1070,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_17"
+    }
+]

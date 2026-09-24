@@ -1,0 +1,27 @@
+[
+    {
+        "question_id": 968,
+        "question_text": "EDM stands for",
+        "options": {
+            "A": "Electromagnetic Distance Measurement",
+            "B": "Electronic Device Measurement",
+            "C": "Electromagnetic Device Measurement",
+            "D": "Electronic Digital Measurement"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "TNPSC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Linear Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 148,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_968"
+    }
+]

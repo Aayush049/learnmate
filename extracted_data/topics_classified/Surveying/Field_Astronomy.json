@@ -1,0 +1,79 @@
+[
+    {
+        "question_id": 962,
+        "question_text": "Circumpolar stars are those stars :",
+        "options": {
+            "A": "which are visible at the poles only",
+            "B": "which are in the plane of equator",
+            "C": "which are always above the horizon and do not set",
+            "D": "none of the above [UPPSC State Eng. A.E."
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2007(H)] ESE 2005 ‘Ans : (c) The stars having polar distance less than the latitude of the place of observation arc known as circum polar stars. These always remain above the horizon and therefore do not set.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Field Astronomy",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 147,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_962"
+    },
+    {
+        "question_id": 1001,
+        "question_text": "If S denotes the sum of all the angles of a spherical triangle then the quantity S-180 is called as?",
+        "options": {
+            "A": "Spherical error",
+            "B": "Spherical deficiency",
+            "C": "Spherical excess",
+            "D": "Spherical misclosure"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "GPSC AE Dec 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Field Astronomy",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 152,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1001"
+    },
+    {
+        "question_id": 1039,
+        "question_text": "The poles of the celestial horizon arc called",
+        "options": {
+            "A": "Zenith and Nadir",
+            "B": "North and South poles",
+            "C": "Perihelion and aphelion",
+            "D": "Perigee and apogee"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AE 2016 (Mains)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Field Astronomy",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 156,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1039"
+    }
+]

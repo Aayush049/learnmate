@@ -1,0 +1,928 @@
+[
+    {
+        "question_id": 476,
+        "question_text": "Ten readings are recorded in a level field book. If the instruments was shifted after 2nd and 6th readings, then the foresights are:",
+        "options": {
+            "A": "3rd, 4th and Sth readings",
+            "B": "2nd, 6th and 10th readings",
+            "C": "3rd and 6th readings",
+            "D": "Ist, 3rd and 7th readings"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "JUVNL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 84,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_476"
+    },
+    {
+        "question_id": 509,
+        "question_text": "Match List I (Instrument) with List I (Usage) and select the correct answer using the codes given helow the lists:",
+        "options": {
+            "A": "Sextant 1. To determine horizontal distance",
+            "B": "Tangent clinometer | 2. ‘To measure angular distance",
+            "C": "Subtense bar 3. To establish right angles",
+            "D": "Heliotrope 4, To determined difference in elevation between the points"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": null,
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 88,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_509"
+    },
+    {
+        "question_id": 553,
+        "question_text": "The three-point problem in plane tabling involves",
+        "options": {
+            "A": "determining the position of three points",
+            "B": "locating the station occupied by plane table given the position of the three points",
+            "C": "locating the position of two points given the position of the third points",
+            "D": "surveying a triangular area"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019 Ans ; (b) : Three point involves 3-observation points i.e., (Known Points)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 93,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_553"
+    },
+    {
+        "question_id": 554,
+        "question_text": "In a plane table survey the plotting of in accessible points can be done by:",
+        "options": {
+            "A": "Method of intersection",
+            "B": "Method of interpolation",
+            "C": "Method of radiation",
+            "D": "Method of traversing"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "KPSC AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 93,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_554"
+    },
+    {
+        "question_id": 569,
+        "question_text": "Alidade is used in :",
+        "options": {
+            "A": "Traverse Surveying",
+            "B": "Geodetic Surveying",
+            "C": "Plane Table Surveying",
+            "D": "Hydrographic Surveying"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "PSPCL AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 95,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_569"
+    },
+    {
+        "question_id": 864,
+        "question_text": "Degree of curve is defined as",
+        "options": {
+            "A": "Angle at the centre by unit 30 m chord",
+            "B": "Angle at the centre by unit 25 m chord",
+            "C": "Angle at the centre by unit 15 m chord",
+            "D": "Angle at the centre by unit 7 m chord Vizag steel MT"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017 1 YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 132,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_864"
+    },
+    {
+        "question_id": 269,
+        "question_text": "If a body floating in a liquid returns back to its original position, when given a small angular displacement, the body is said to be in:",
+        "options": {
+            "A": "Neutral equilibrium",
+            "B": "Stable equilibrium",
+            "C": "Unstable equilibrium",
+            "D": "All of the above options (e) None of the above options Haryana"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "PSE AE Paper-2 2018 Rajasthan Nagar Nigam AE Shift-2, 2016 GWSSB AAE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 198,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_269"
+    },
+    {
+        "question_id": 418,
+        "question_text": "Orifices are used to measure",
+        "options": {
+            "A": "rate of flow",
+            "B": "none of three mentioned here",
+            "C": "velocity",
+            "D": "pressure GWSSB AAE"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "2015 WBPSC AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 221,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_418"
+    },
+    {
+        "question_id": 509,
+        "question_text": "Ina pipe nctwork",
+        "options": {
+            "A": "the algebraic sum of discharges around each clementary circuit must be zcro",
+            "B": "the algebraic sum of the drop in piezometric head around each elementary circuit should be zero",
+            "C": "the head at each node must be same",
+            "D": "the piezometric head loss in each line of each circuit should be same"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019 LMRC AM 2015 / ESE 2013",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 236,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination"
+        ],
+        "global_id": "Civil_AE_2_complete.json_509"
+    },
+    {
+        "question_id": 543,
+        "question_text": "Low discharges arc effectively measured by :",
+        "options": {
+            "A": "Rectangular notch",
+            "B": "Stepped notch",
+            "C": "Trapezoidal notch",
+            "D": "triangular notch"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 241,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_543"
+    },
+    {
+        "question_id": 553,
+        "question_text": "The pressure of fluid duc to hammer blow is :",
+        "options": {
+            "A": "Directly proportional to density of fluid",
+            "B": "Inversely proportional to density of fluid",
+            "C": "Directly proportional to (density)'* of fluid",
+            "D": "Inversely proportional to (density)'” of fluid Nagaland PSC CTSE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 242,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_553"
+    },
+    {
+        "question_id": 554,
+        "question_text": "In cavitation, the collapse pressure of vapour bubbles is :",
+        "options": {
+            "A": "Less than atmospheric pressure",
+            "B": "Equal to atmospheric pressure",
+            "C": "13.6 atmospheres",
+            "D": "13600 atmospheres Nagaland PSC CTSE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017 Paper-IT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 242,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_554"
+    },
+    {
+        "question_id": 919,
+        "question_text": "If Reynolds number of the flow of a liquid is more than 2800, then the flow is called as :",
+        "options": {
+            "A": "Turbulent flow",
+            "B": "Neither Laminar nor Turbulent",
+            "C": "Streamlined flow",
+            "D": "Laminar flow Rajasthan AE (Nagar Nigam)"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016 AE Civil Engg. Volume-II 2",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 296,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_919"
+    },
+    {
+        "question_id": 236,
+        "question_text": "Velocity of ground water may be measured",
+        "options": {
+            "A": "with the help of dyes or salts",
+            "B": "with the help of pumps",
+            "C": "with the help of sounding rods",
+            "D": "with the help of pitot tub"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "WBPSC AE (PWD) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 442,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_236"
+    },
+    {
+        "question_id": 269,
+        "question_text": "The ground water movement in alluvial soils is analyzed with the help of:",
+        "options": {
+            "A": "Kennedy's equations and relationship",
+            "B": "Lacey's equations",
+            "C": "Darcy's equations",
+            "D": "Froude's criterion"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "UPPSC AE 12.04.2016 Paper-II",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 446,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_269"
+    },
+    {
+        "question_id": 418,
+        "question_text": "If there are two canals taking off from cach flank of a river, then there will be",
+        "options": {
+            "A": "one divide wall and one under-sluice",
+            "B": "one divide wall and two under-sluice",
+            "C": "two divide wall and one under-sluice",
+            "D": "two divide wall and two under-sluice"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "BPSC AE Aug 2019 Paper-VI",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 465,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_418"
+    },
+    {
+        "question_id": 472,
+        "question_text": "The velocity of drainage water in the barrels of a Syphon-aqueduct, is normally limited to",
+        "options": {
+            "A": "1 to 2 m per second",
+            "B": "2 to 3 m per second",
+            "C": "3 ta 4 m per second",
+            "D": "4 to 5 m per second"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "OPSC AE Paper- II 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 474,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_472"
+    },
+    {
+        "question_id": 476,
+        "question_text": "A canal is to be carried over a natural drainage. Which structure will you provide at this place",
+        "options": {
+            "A": "Mature stage (b) Old stage",
+            "B": "Under sluice",
+            "C": "Juvenile stage (d) Incipient stage SJVNL ET",
+            "D": "Weir"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 474,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_476"
+    },
+    {
+        "question_id": 479,
+        "question_text": "The capacity of an irrigation canal is usually regulated by :",
+        "options": {
+            "A": "kor demand of kharif crops",
+            "B": "kor demand of rabi corps",
+            "C": "the average rabi demand",
+            "D": "the average kharif demand"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "UPPCL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 474,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_479"
+    },
+    {
+        "question_id": 487,
+        "question_text": "The divide wall in a diversion headwork is provided",
+        "options": {
+            "A": "To increase the head of flow through the head regulation",
+            "B": "To prevent the formation of verticcs in front of head regulator",
+            "C": "To control the silt energy into channel",
+            "D": "To reduce the uplift pressures on the apron"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "WBPSC AE 2003",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 475,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_487"
+    },
+    {
+        "question_id": 494,
+        "question_text": "The discharge of rigid module depends upon",
+        "options": {
+            "A": "the water level in the distributory only",
+            "B": "the water level in the water course only",
+            "C": "the water levels both in the distributory and water course",
+            "D": "neither the water level in the distributory nor the water level in the water course"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "MPPSC AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 476,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_494"
+    },
+    {
+        "question_id": 509,
+        "question_text": "In Syphon aqueduct, river is Syphoned",
+        "options": {
+            "A": "under the canal",
+            "B": "over the river",
+            "C": "canal crosses the river level",
+            "D": "_ none of the above [U.K. Combined A E Paper II"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2012] Ans ; (a) In Syphon aqueduct, river Siphoned under the canal. When there is very less difference of level between river and canal, then at crossing bed level of river is lowered by excavation and required water way is achieved by river and ils water flows below canal by syphoning action.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 478,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_509"
+    },
+    {
+        "question_id": 543,
+        "question_text": "Which of the following is NOT a part of canal headwork's?",
+        "options": {
+            "A": "To control the sitting in canal",
+            "B": "To raise the water level of river water",
+            "C": "To control the flow in the cxiting canal",
+            "D": "To generate the electricity power from water"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPCL AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 482,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_543"
+    },
+    {
+        "question_id": 553,
+        "question_text": "The characteristic feature of a barrage is",
+        "options": {
+            "A": "the provision of a raised crest across the river for flow regulation",
+            "B": "the provision of a scrics of gates across the tiver for flow regulation",
+            "C": "the creation of storage reservoir on the U/S side",
+            "D": "none of the above (UK Combined"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "AE Paper- I, 2012) Ans ; (b) The function of barrage is same to that of weir. but the heading up of water is effected by the gates alone. No solid obstruction is put across river. The crest level of barrage is kept at low level. 1 | Rope 4 Road bridge ILF.L. Ea FE | cine Pond level Abutment =>",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 484,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_553"
+    },
+    {
+        "question_id": 554,
+        "question_text": "Fish ladder is provided for",
+        "options": {
+            "A": "catching fish",
+            "B": "fisherman to go up and catch fish",
+            "C": "providing passage to fish",
+            "D": "(a) and (b) together [U.K. Combined A E Paper II"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2012]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 484,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_554"
+    },
+    {
+        "question_id": 556,
+        "question_text": "The most suitable location of a canal headwork is",
+        "options": {
+            "A": "boulder stage of the river",
+            "B": "delta stage of the fiver",
+            "C": "rock stage of the river",
+            "D": "trough stage of the river"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "OPSC AE Paper- II 2019 (BPSC AE Paper VI 05.12.2012) Ans ; (d) The most advantageous location for canal headwork is at through stage. Following are the advantages at through stage. (i) Subsoil Now is comparatively less (ii) Headwork constructed here serves large area (iii) Cross-drainage works across the canal are less (iv) The water contains silt and other fertilizing material.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 484,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_556"
+    },
+    {
+        "question_id": 557,
+        "question_text": "An aqueduct is a cross drainage work provided to carry canal over a natural drain when-",
+        "options": {
+            "A": "canal bed is at the same level as the bed of the natural drain",
+            "B": "canal bed is below the I.F.L. of the natural drain",
+            "C": "canal bed is well above the H.F.L. of the natural drain",
+            "D": "canal bed is below the bed of the natural drain"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "IMPSC 2015 Papcer-II Mains]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 484,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_557"
+    },
+    {
+        "question_id": 817,
+        "question_text": "The width of a meander belt is the transverse distance between",
+        "options": {
+            "A": "apex point of one curve and the apex point of the next reverse curve",
+            "B": "apex point and the crossing",
+            "C": "two banks of meandering river",
+            "D": "two successive apex points on the same bank"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE (Irrigation) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 519,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_817"
+    },
+    {
+        "question_id": 832,
+        "question_text": "The meander pattern of river is developed hy",
+        "options": {
+            "A": "Average discharge",
+            "B": "Dominant discharge",
+            "C": "Maximum discharge",
+            "D": "Critical discharge"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "Gujarat PSC AE (N.W.R.) 2020 Vizag steel MT 2017 Punjab MCP SDO 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 521,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_832"
+    },
+    {
+        "question_id": 852,
+        "question_text": "Which of the following effects cannot be attributed to have heen caused by the construction of dikes along a river course ?",
+        "options": {
+            "A": "Faster travel ofa flood wave",
+            "B": "Higher flood levels along the river",
+            "C": "Increased peak discharges all along the downstream points",
+            "D": "Decrease in the meander belt (e) Decrease in the surface slope of the river above the leveed reach"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "CGPSC AE Shift - 2 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 524,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_852"
+    },
+    {
+        "question_id": 864,
+        "question_text": "The purpose of constructing a 'Groyne' is to",
+        "options": {
+            "A": "Expand a river channel to improve its depth",
+            "B": "Encourage meandering",
+            "C": "‘Train the flow along a certain course",
+            "D": "Reduce the silting in the river bed"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ESE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 525,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_864"
+    },
+    {
+        "question_id": 869,
+        "question_text": "Earthen embankments built an each side of a river, some distance away from its banks to control flood, is called:",
+        "options": {
+            "A": "Dyke",
+            "B": "Spur",
+            "C": "Crone",
+            "D": "Dam"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC Poly Lect. 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 526,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_869"
+    },
+    {
+        "question_id": 871,
+        "question_text": "Tortuosity of a meandering river is",
+        "options": {
+            "A": "the ratio of curved length along the channcl to the dircet axial length of the river reach",
+            "B": "the ratio of direct axial length of the river reach to the curved length along the channel",
+            "C": "the difference of curved length along the channel and the direct axial length of the river reach",
+            "D": "the summation of curved length along the channel and the direct axial length of the river reach"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019 Ans ; (a) : Turtuosity of a meandering is the ratio of curve length along the river to the axial length of the River or Sinuosity ‘ F length of channel © = Sinuosity = AA length of valley centre line © Meander Ratio- Meander Width Meander Length wonky’ 3 2a Q y eq=CH” 5,04 aarp A q H e Flexibility It is the ratio of discharge of outlet to the discharge of distributary oO F= dq/q ojoMe Outlet Index i dQ/q n CanalIndex y ae j M_y © Proportionality > F = 1 = dq/q/dQiQ >=- == n H aps dq/q e Sensitivity ~ -- dn/y",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 527,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_871"
+    },
+    {
+        "question_id": 872,
+        "question_text": "A divide wall is constructed for the purpose of :",
+        "options": {
+            "A": "Controlling seepage",
+            "B": "Scouring the silt",
+            "C": "Creating a still pond",
+            "D": "Providing a lish passage"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 527,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_872"
+    },
+    {
+        "question_id": 919,
+        "question_text": "In brick lining the layer which makes the canal water tights is :",
+        "options": {
+            "A": "Down layer of bricks",
+            "B": "Upper layer of the bricks",
+            "C": "Sandwiched layer of the cement mortar",
+            "D": "All layers together Nagaland PSC CTSE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017 Paper-IL AE Civil Engg. Volume-II 5:",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Irrigation",
+        "topic": "Canal-Irrigation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 533,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_919"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "question_id": 1151,
+        "question_text": "Lateral torsional buckling will occur in :",
+        "options": {
+            "A": "Beams whose compression flange is embedded in the slab o",
+            "B": "Beams which are laterally restricted by horizontal bracings",
+            "C": "Beams which are laterally unsupported",
+            "D": "Beams whose web are restrained by lateral beams TRB Poly, Lect, Tech,"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Beams (WSM)",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 901,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1151"
+    }
+]

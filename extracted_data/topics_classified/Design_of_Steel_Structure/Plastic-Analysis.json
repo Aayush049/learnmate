@@ -1,0 +1,867 @@
+[
+    {
+        "question_id": 352,
+        "question_text": "Increase in fineness of cement :",
+        "options": {
+            "A": "decreases the rale of strength development and increases the bleeding of cement",
+            "B": "increase the rate of strength development and leads to higher shrinkage",
+            "C": "increase the rate of strength development and reduces the rate of deterioration 5",
+            "D": "reduces the rate of slrength development and leads to higher shrinkage Punjab PSC Sub divisional Engineer"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2014 PSPCL AE 2012 ESE 1999",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 57,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_352"
+    },
+    {
+        "question_id": 241,
+        "question_text": "The ratio of a given volume change in a soil, expressed as percentage of the dry volume, to the corresponding change in water content is called",
+        "options": {
+            "A": "Specific gravity of soil solids",
+            "B": "Mass-specific gravity of soils",
+            "C": "Shrinkage ratio of soils",
+            "D": "Density ratio of soils"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ESE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 144,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_241"
+    },
+    {
+        "question_id": 1111,
+        "question_text": "In a Mohr's circle, the shear stress t on the plane of maximum obliquity is",
+        "options": {
+            "A": "less than the maximum shear stress Tax",
+            "B": "more than the maximum shear stress Timex",
+            "C": "equal to the maximum shear stress Tox",
+            "D": "numerically equal to (6, 03)/2"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 268,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1111"
+    },
+    {
+        "question_id": 5,
+        "question_text": "8 6-5, 5 coso+ 5 sind Given equation is Cx coso= 10 3 sin > = 0.5 b= 30° ©. Cx cos 30° = 10 V3 C= 20, = 30° 1146, The shear strength of loamy soil depends upon",
+        "options": {
+            "A": "internal friction",
+            "B": "cohesion",
+            "C": "both internal friction and cohesion",
+            "D": "neither internal friction nor cohesion"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Maharashtra PSC Mains 2012 Paper -2",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 274,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_5"
+    },
+    {
+        "question_id": 1431,
+        "question_text": "Statement (A) : In Boussinesq's theory of stress computations, soil is considered to be unstressed before application of the load. Statement (B) : The contact pressure distribution under a_ rigid footing in cohesionless soil, uniform throughout the width of the footing.",
+        "options": {
+            "A": "Both the statements (A) and (B) are correct",
+            "B": "Statement (A) is correct but (B) is wrong",
+            "C": "Statement (A) is wrong but (B) is correct",
+            "D": "Both the statements (A) and (B) are wrong"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "IMPSC 2015 Paper-II Mains] 14",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 314,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1431"
+    },
+    {
+        "question_id": 5,
+        "question_text": "A point subjected to a number of forces will be in equilibrium if",
+        "options": {
+            "A": "sum of the resolved parts in any two directions at right angles are both zero",
+            "B": "the algebraic sum of the forces is zero",
+            "C": "two resolved parts in any two directions at right angles are equal",
+            "D": "the algebraic sum of the moments of the forces about the point is zero"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE 2007",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 363,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_5"
+    },
+    {
+        "question_id": 5,
+        "question_text": "Lines of actions of all forces lie along same line. Codes:",
+        "options": {
+            "A": "A 5,B 4,C 1,D 3",
+            "B": "A-4, B-3,C-2,D-1",
+            "C": "A--4, B-5,C-2,D-1",
+            "D": "A-3, B-4,C-2,D-5"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "OPSC Civil Services Pre 2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 365,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_5"
+    },
+    {
+        "question_id": 241,
+        "question_text": "Shape factor may be defined as the ratio of.......",
+        "options": {
+            "A": "1Pa (b) 1 MPa",
+            "B": "Plastic Modulus to Rigidity Modulus",
+            "C": "1GPa (d) 1 KPa SJVNL ET",
+            "D": "Plastic Modulus to Elastic Modulus SJVNL ET"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 423,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_241"
+    },
+    {
+        "question_id": 352,
+        "question_text": "The maximum bending moment in a beam occurs where",
+        "options": {
+            "A": "Shear force is minimum",
+            "B": "Shear force is maximum",
+            "C": "Shear force changes sign",
+            "D": "Deflection is zero"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TSGENCO AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 438,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_352"
+    },
+    {
+        "question_id": 5,
+        "question_text": "790. According to the law of moments, if a number of coplanar forces acting on a particle are in equilibrium, then",
+        "options": {
+            "A": "their algebraic sum of zero",
+            "B": "their liners of action are at equal distances",
+            "C": "The algebraic sum of thcir moments about any points in their plane is zcro",
+            "D": "the algebraic sum of their moments about any point is equal to the moment of their resultant force about the same point Chandigarh SDE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 522,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_5"
+    },
+    {
+        "question_id": 5,
+        "question_text": "the corresponding force. This statement/ principle is called as :",
+        "options": {
+            "A": "Principle of strain energy",
+            "B": "Maxwell's law of reciprocal deflections",
+            "C": "Conjugate beam / truss principle",
+            "D": "First theorem of Castigliano (e) Bette's law"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "CGPSC AE 2014 Shift-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 532,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_5"
+    },
+    {
+        "question_id": 5,
+        "question_text": "862. The slope deflection equation at B of element BC in the following frame is (AB = 6 m and BC =CD= 8m)",
+        "options": {
+            "A": "Mgc = 0.5 EI (20¢-Og)",
+            "B": "Muc= 0.5 EI (20z-0.)",
+            "C": "Mge = 0.5 El (28,+8,)",
+            "D": "Mac = 0.5 EI (20¢-0g) (ce) Mpc= 0.33 EL (20¢-03)"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "CGPSC AE 2014 Shift-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 535,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_5"
+    },
+    {
+        "question_id": 5,
+        "question_text": "903. Which one of the following method is convenient for determining deflection of beam of non uniform flexural rigidity?",
+        "options": {
+            "A": "Macaulay's method",
+            "B": "Conjugate beam method",
+            "C": "Moment area method",
+            "D": "Double integration method."
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "TNPSC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 545,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_5"
+    },
+    {
+        "question_id": 5,
+        "question_text": ") = (8s) = oer , wee &,). == (5). Sep (8), _8 975, “The deflection of a point in the real beam is numerically equal to the bending moment at the corresponding point in the conjugate beam”. This theorem is used for analysis of beams in which of the following methods?",
+        "options": {
+            "A": "Castigliano's method",
+            "B": "Moment area method",
+            "C": "Conjugate beam method",
+            "D": "None of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE June 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 561,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_5"
+    },
+    {
+        "question_id": 1111,
+        "question_text": "The theory which is in good agreement with experiments for ductile materials is",
+        "options": {
+            "A": "Maximum stress theory",
+            "B": "Maximum strain theory",
+            "C": "Maximum shear theory",
+            "D": "All the given answers"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "APPSC AEE MAINS 2016 3%",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 587,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1111"
+    },
+    {
+        "question_id": 1431,
+        "question_text": "List I List I Type of section Shape of factor",
+        "options": {
+            "A": "4 3 i 2",
+            "B": "1 4 3 2",
+            "C": "3 4 L 2",
+            "D": "3 4 2 1"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "PTCUL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 636,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1431"
+    },
+    {
+        "question_id": 5,
+        "question_text": "3 22 Dg = 2 [D,=2-2=0] 82, Which one of the following condition has to be satisfied for both elastic and plastic method of analysis of indeterminate structures?",
+        "options": {
+            "A": "Yield condition",
+            "B": "Equilibrium condition",
+            "C": "Mechanism condition",
+            "D": "Compatibility condition"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "UJVNL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 664,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_5"
+    },
+    {
+        "question_id": 352,
+        "question_text": "Match list I (Collapse load for beam) with List Il (Values) and select the correct answer using the codes given below in the lists if M, is the fully plastic moment in beam (as specified below) of length L : List-I List-II (Collapse Load for beam) (Values)",
+        "options": {
+            "A": "1 2 4 3",
+            "B": "2 1 3 4",
+            "C": "4 3 2 1",
+            "D": "1 2 3 4"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "HPPSC Poly. Lect. 2016 ESE 2000 1 w Collapse load = froonkannanact aA 16M, Lv 2 w Collapse load = 4 f > 8M, LL 3 W Collapse load = -- # oM, L | Collapse load = > 4M, hn & L",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 715,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_352"
+    },
+    {
+        "question_id": 471,
+        "question_text": "Which of the following conditions is to be satisfied both in elastic and plastic analysis ?",
+        "options": {
+            "A": "Yield condition",
+            "B": "Equilibrium condition",
+            "C": "Plastic moment condition",
+            "D": "Mechanism condition"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Gujarat PSC AE (N.W.R.) 2020 Nagaland PSC CTSE 2017 Paper-I CIL MT 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 736,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_471"
+    },
+    {
+        "question_id": 1111,
+        "question_text": "Load factor in plastic design depends upon",
+        "options": {
+            "A": "nature of loading",
+            "B": "support conditions",
+            "C": "geometrical shape",
+            "D": "All of the above"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "BPSC AE 2012 Paper-V",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 896,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1111"
+    },
+    {
+        "question_id": 241,
+        "question_text": "When an equal single angle is used as tension member, the contribution of outstanding leg towards effective area is",
+        "options": {
+            "A": "same as that of connected leg",
+            "B": "less than that of connected leg by a factor",
+            "C": "_ two times that of connected Ieg",
+            "D": "one and halftimes connected leg"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "UPPSC State Eng. A,E, 2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 957,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_241"
+    },
+    {
+        "question_id": 818,
+        "question_text": "In plastic analysis of steel structures, at the location of plastic hinge",
+        "options": {
+            "A": "Curvature is zero",
+            "B": "Curvature is infinite",
+            "C": "Moment is infinite",
+            "D": "Moment is zero"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "RPSC VPITI 2012 ESE 2010",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1028,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_818"
+    },
+    {
+        "question_id": 824,
+        "question_text": "Which of the following represents the increasing order of shape factor?",
+        "options": {
+            "A": "Rectangle, I-scction, solid-circular section, diamond",
+            "B": "I-section, rectangle, solid-circular section, diamond",
+            "C": "Diamond, solid-circular section, rectangle, I- section",
+            "D": "Diamond, solid-circular section, I-section, rectangle (JPSC Combined"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "AE Paper V 2013)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1029,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_824"
+    },
+    {
+        "question_id": 829,
+        "question_text": "Which one of the following is the correct assumption made in evaluation of fully plastic moment ?",
+        "options": {
+            "A": "The upper and lower yield stresses and the modulus of elasticity have different values in compression and tension",
+            "B": "The material is homogeneous and isotropic in both the elastic and plastic states",
+            "C": "There will be resultant axial force on the beam",
+            "D": "Some layers of the material are not free to expand and contract longitudinally and laterally under stress"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "ESE 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1029,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_829"
+    },
+    {
+        "question_id": 830,
+        "question_text": "Shape factor is a property which depends :",
+        "options": {
+            "A": "Only on the ultimate stress of the material",
+            "B": "Only on the yield stress of the material",
+            "C": "Only on the geometry of the section",
+            "D": "Both on the yield stress and ultimate stress of material"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPCL AE 2019 Nagaland PSC CTSE 2017 Paper-I 28",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1029,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_830"
+    },
+    {
+        "question_id": 831,
+        "question_text": "The statical method of Plastic analysis satisfies:",
+        "options": {
+            "A": "Equilibrium and mechanism conditions",
+            "B": "Mechanism and plastic moment conditions",
+            "C": "Equilibrium conditions only",
+            "D": "Equilibrium and plastic moment conditions Nagaland PSC CTSE"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2017 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1030,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_831"
+    },
+    {
+        "question_id": 846,
+        "question_text": "Find the correct statement with regards to Plastic Hinge :",
+        "options": {
+            "A": "Plastic Hinges are reached first at sections subjected Lo leas! curvature.",
+            "B": "The plastic hinge will not form at the point of zero shear in a span under distributed load.",
+            "C": "Where three structural members meets, plastic hinge will form in all members irrespeetive of their capacitics of taking the moment.",
+            "D": "A plastic hinge is a zone of yielding due to shear in a structural member."
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "OPSC AEE 2019 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1032,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_846"
+    },
+    {
+        "question_id": 849,
+        "question_text": "The condition which are satisfied both in elastic and plastic analysis are :",
+        "options": {
+            "A": "equilibrium condition",
+            "B": "yielding condition",
+            "C": "both ‘a' and ‘b'",
+            "D": "none of the above"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "PSPCL AE 2012 ESE 2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1032,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_849"
+    },
+    {
+        "question_id": 865,
+        "question_text": "Consider the following two statements: Statement I : A semi-compact section cannot reach yield stress. Statement I]: A semi-compact section cannot develop plastic moment of resistance. Which of the following is CORRECT?",
+        "options": {
+            "A": "Statement I is truc, but Statement IT is falsc",
+            "B": "Both Statement T and Statement IT are false",
+            "C": "Both Statement I and Statement TT is truc",
+            "D": "Statement T is falsc, but Statement IT is truc"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPCL AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1035,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_865"
+    },
+    {
+        "question_id": 866,
+        "question_text": "In plastic bending of beams, the shape factor of a section is the ratio of",
+        "options": {
+            "A": "yicld rotation to ultimate rotation",
+            "B": "yield moment to plastic moment",
+            "C": "elastic modulus to plastic modulus",
+            "D": "plastic moment to yield moment"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPCL AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1036,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_866"
+    },
+    {
+        "question_id": 871,
+        "question_text": "Which of the following conditions to be satisfied both in elastic and plastic analysis?",
+        "options": {
+            "A": "Equilibrium condition",
+            "B": "Yicld condition",
+            "C": "Plastic moment condition",
+            "D": "Mechanism condition"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1036,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_871"
+    },
+    {
+        "question_id": 5,
+        "question_text": "Minimum thickness of wall where single flemish bond can be used is:",
+        "options": {
+            "A": "Half brick thickness",
+            "B": "One brick thickness",
+            "C": "One and half brick thick",
+            "D": "Two bricks thick"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "WBPSC Poly Lect. 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1038,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_5"
+    },
+    {
+        "question_id": 5,
+        "question_text": "Critical path can pass through dummy activity. 166, An activity in a project management network is",
+        "options": {
+            "A": "The beginning or end ofa specified job",
+            "B": "An element of work entailed in the project",
+            "C": "Represented by a circle in a network with a number in it",
+            "D": "The progress of work up to a certain limit"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ISRO Scientist/Engineer 2017 Ans ; (b) An activity in a project management network is an element of work entailed in the project. 87",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Plastic-Analysis",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1088,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_5"
+    }
+]

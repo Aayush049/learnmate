@@ -1,0 +1,108 @@
+[
+    {
+        "question_id": 55,
+        "question_text": "Colluvial soils are those which are",
+        "options": {
+            "A": "deposited by glaciers",
+            "B": "deposited by gravitational force",
+            "C": "deposited by wind",
+            "D": "deposited by see-water"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE (Common) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Origin & Its Properties",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 116,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_55"
+    },
+    {
+        "question_id": 503,
+        "question_text": "Cohesionless soils are formed due to the following",
+        "options": {
+            "A": "Hydration",
+            "B": "Oxidation",
+            "C": "Physical disintegration",
+            "D": "None of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UKPSC(Urban engineering)-2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Origin & Its Properties",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 180,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_503"
+    },
+    {
+        "question_id": 1255,
+        "question_text": "The angle between the horizontal and the maximum slope that a soil assumes through natural process is called:",
+        "options": {
+            "A": "Angle of internal friction",
+            "B": "Cohesiveness",
+            "C": "Angle of repose",
+            "D": "Hydraulic gradient"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "KPSC AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Origin & Its Properties",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 290,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1255"
+    },
+    {
+        "question_id": 55,
+        "question_text": "Slack time refers to-",
+        "options": {
+            "A": "recording the instructions of the executive engineer",
+            "B": "recording the constructions measurements",
+            "C": "issuing the requisition requests for matcrials",
+            "D": "maintaining the record of the ordered instruments and materials."
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "Gujarat PSC AE (N.W.R.) 2020 APPSC AEE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Soil Mechanics",
+        "topic": "Soil Origin & Its Properties",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1075,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_55"
+    }
+]

@@ -1,0 +1,422 @@
+[
+    {
+        "question_id": 301,
+        "question_text": "Due to which of the following reasons the local attractions during a compass surveying may occur?",
+        "options": {
+            "A": "Incorrect temporary adjustments",
+            "B": "Magnetic fields around the location where surveying is taking place",
+            "C": "All-adjustments in the compass",
+            "D": "Friction between the needle and compass"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "NPCC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Runoff & Drought",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 60,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_301"
+    },
+    {
+        "question_id": 458,
+        "question_text": "Statement (I): Curvature correction must be applied when the sights are long. Statement (II): Linc of collimation is not a level line but is tangential to the level line.",
+        "options": {
+            "A": "Both Statement-I and Statement-II are individually true and Statement-II is the correct explanation of Statement-I",
+            "B": "Both Statement-I and Statement-Il are individually true and Statement-I] is NOT the correct explanation of Statement-I",
+            "C": "Statement-I is true but Statement-II is false.",
+            "D": "Statement-I is false but Statement-II is true."
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "ESE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Runoff & Drought",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 81,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_458"
+    },
+    {
+        "question_id": 830,
+        "question_text": "In the method of repetition for measuring horizontal angles, to rotate the instrument without changing the reading.",
+        "options": {
+            "A": "Lower clamp screw is tightened and upper clamp is looscned.",
+            "B": "Lower clamp screw is loosened and upper clamp is tightened.",
+            "C": "Any one of the clamp screw is loosened.",
+            "D": "Both the clamp screw are loosened."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "OPSC AE Paper- II 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Runoff & Drought",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 128,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_830"
+    },
+    {
+        "question_id": 435,
+        "question_text": "Consider the following devices:",
+        "options": {
+            "A": "B,C, A, D (b) D.C, A, B",
+            "B": "Borda's mouthpiece running free",
+            "C": "D, A, C.B (d) B, A, C, D",
+            "D": "External mouthpiece What is the correct sequence of these devices decreasing magnitude of coefficient of discharge?"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "UPRVUNL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Runoff & Drought",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 223,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_435"
+    },
+    {
+        "question_id": 458,
+        "question_text": "In a pipeline the hydraulic grade line is above the pipe centre line in the longitudinal section at point A and below the pipe centre line at another point B. From this it can be inferred that:",
+        "options": {
+            "A": "Vacuum pressure prevails al B",
+            "B": "Vacuum pressure prevails al A",
+            "C": "the flow is from A to B",
+            "D": "_ the flow is from B to A [UPPSC Civil Eng. AE."
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "2013(D]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Runoff & Drought",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 228,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_458"
+    },
+    {
+        "question_id": 830,
+        "question_text": "The strength of a jump is indicated by :",
+        "options": {
+            "A": "the upstream velocity of the liquid",
+            "B": "the downstream velocity of the liquid",
+            "C": "the upstream froude number",
+            "D": "the upstream depth of flow [UPPSC State Eng. A.E.2007(),"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2003] Ans ; (c) In hydraulic jump, flow changes from super critical to subcritical. The strength of jump is decided by Froude number corresponding to supercritical flow i.e, upstream flow (F))",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Runoff & Drought",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 283,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_830"
+    },
+    {
+        "question_id": 458,
+        "question_text": "A fish ladder is provided in a canal project to:",
+        "options": {
+            "A": "catch the fish for commercial purposes",
+            "B": "enable the fish to move freely and safely in the river",
+            "C": "stop pollution",
+            "D": "catch the fish in bulk for breeding purpose"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "CGPSC AE Shift - 2 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Runoff & Drought",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 471,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_458"
+    },
+    {
+        "question_id": 830,
+        "question_text": "For a river in flash flood, turbidity is mainly duc to",
+        "options": {
+            "A": "Inorganic soil",
+            "B": "Silica",
+            "C": "Iron, manganese and zinc",
+            "D": "Organic wastes of plants and animals Punjab PSC SDE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016 soil, as scdiments and these are responsible for turbidity.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Runoff & Drought",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 521,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_830"
+    },
+    {
+        "question_id": 933,
+        "question_text": "In a flow mass curve study, the demand line drawn from a ridge in the curve did not intersect the mass curve again. This represents that",
+        "options": {
+            "A": "The reservoir was not full at the beginning",
+            "B": "The storage was not adequate",
+            "C": "The demand cannot be met by the inflow as the reservoir will not refill",
+            "D": "The reservoir is wasting water by spill [UPPSC State Eng. A.E,"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2007] ESE 2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Runoff & Drought",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 535,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_933"
+    },
+    {
+        "question_id": 94,
+        "question_text": "According to Indian Meteorological Department, a year is considered a drought year in case the total area affected exceeds",
+        "options": {
+            "A": "10% of the total area of the country",
+            "B": "20% of the total arca of the country",
+            "C": "50% of the total area of the country",
+            "D": "75% of the total area of the country"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE Dee 2018 OPSC AEE 2015 PAPER-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Runoff & Drought",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 548,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_94"
+    },
+    {
+        "question_id": 301,
+        "question_text": "Sequent peak algorithm is a method used in estimation of",
+        "options": {
+            "A": "Maximum possible precipitation in basin",
+            "B": "Maximum possible flood peak in a catchment",
+            "C": "Minimum -evapotranspiration from = a catchment",
+            "D": "Minimum reservoir capacity needed to met given demand Vizag steel MT"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Runoff & Drought",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 572,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_301"
+    },
+    {
+        "question_id": 337,
+        "question_text": "Maximum surface run-off is beeause of :",
+        "options": {
+            "A": "a flash storm",
+            "B": "Leaf shaped catchment",
+            "C": "Improved land management",
+            "D": "Presence of forest area"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Runoff & Drought",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 576,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_337"
+    },
+    {
+        "question_id": 432,
+        "question_text": "The time required by rain water to reach the outlet of drainage basin is generally called :",
+        "options": {
+            "A": "Time of concentration",
+            "B": "Duration of the rainfall",
+            "C": "Lag time",
+            "D": "Recession time"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "KPSC AE 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Runoff & Drought",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 589,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_432"
+    },
+    {
+        "question_id": 435,
+        "question_text": "Virgin flow is",
+        "options": {
+            "A": "The flow unaffected by works of man.",
+            "B": "The flow in a river downstream of a gauging station",
+            "C": "The flow in a river upstream of a gauging station",
+            "D": "None of these Nagaland"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "PSC Paper-II 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Runoff & Drought",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 589,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_435"
+    },
+    {
+        "question_id": 458,
+        "question_text": "(a) The effective rainfall is uniformly distributed within its duration of specified period time.",
+        "options": {
+            "A": "Both statements (a) and (b) are true.",
+            "B": "Statement (b) alone is true",
+            "C": "Statement (a) alone is true",
+            "D": "Statement (a) is true and (b) is false"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "DSSSB AE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Runoff & Drought",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 594,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_458"
+    },
+    {
+        "question_id": 471,
+        "question_text": "Pick out the factor which affect runoff:",
+        "options": {
+            "A": "Shape of catchment",
+            "B": "Existence of vegetation",
+            "C": "Type of soil",
+            "D": "All the above"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "TNPSC AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydrology",
+        "topic": "Runoff & Drought",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 595,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_471"
+    }
+]

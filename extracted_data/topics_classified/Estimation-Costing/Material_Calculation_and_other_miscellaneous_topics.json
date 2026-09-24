@@ -1,0 +1,241 @@
+[
+    {
+        "question_id": 186,
+        "question_text": "The effective length of fillet weld is",
+        "options": {
+            "A": "Overall length weld size",
+            "B": "Overall length throat thickness overall",
+            "C": "Overall length - 2 x weld size",
+            "D": "Length -2 x throat thickness"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019 Maharashtra PSC Mains 2018 Paper-1 RPSC AEn.- 2013, ESE 2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Estimation-Costing",
+        "topic": "Material Calculation & other miscellaneous topics",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 951,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "option-contamination"
+        ],
+        "global_id": "Civil_AE_1_complete.json_186"
+    },
+    {
+        "question_id": 26,
+        "question_text": "Instone masonry, the stones are placed in such a way that their natural bedding plane is-",
+        "options": {
+            "A": "parallel to the direction of pressure they carry",
+            "B": "normal to the direction of pressure they carry",
+            "C": "at 45° Lo the direction of pressure they carry",
+            "D": "at 60° to the direction of pressure they carry"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Gujarat PSC AE (N.W.R.) 2020 GPSC AE Dec 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Estimation-Costing",
+        "topic": "Material Calculation & other miscellaneous topics",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1040,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_26"
+    },
+    {
+        "question_id": 26,
+        "question_text": "Critical Path is always :",
+        "options": {
+            "A": "the longest path",
+            "B": "the shortest path",
+            "C": "the most profitable path",
+            "D": "the fastest path"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017 Gujarat PSC AE 2017 Nagaland PSC CTSE 2017 Paper-T Punjab PSC Sub divisional Engineer 2014 APPSC AEE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Estimation-Costing",
+        "topic": "Material Calculation & other miscellaneous topics",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1071,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_26"
+    },
+    {
+        "question_id": 81,
+        "question_text": "Which of the following are the methods of scheduling?",
+        "options": {
+            "A": "Bar charts or Gantt charts",
+            "B": "Milestone charts",
+            "C": "Network analysis",
+            "D": "All of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Maharashtra PSC Mains 2018 Paper-1",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Estimation-Costing",
+        "topic": "Material Calculation & other miscellaneous topics",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1078,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_81"
+    },
+    {
+        "question_id": 222,
+        "question_text": "The short coming of bar chart is",
+        "options": {
+            "A": "lack of degree of details",
+            "B": "activity inter-relationship 10",
+            "C": "does not show progress of work",
+            "D": "All the above"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "Maharashtra PSC AE (Mains) 2012 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Estimation-Costing",
+        "topic": "Material Calculation & other miscellaneous topics",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1096,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_222"
+    },
+    {
+        "question_id": 26,
+        "question_text": "Which of the following is not included in tender document?",
+        "options": {
+            "A": "supplementary estimate",
+            "B": "annual repair estimate",
+            "C": "revised estimate",
+            "D": "detailed estimate (e) item rate estimate"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "CGPSC AE 2017 11",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Estimation-Costing",
+        "topic": "Material Calculation & other miscellaneous topics",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1112,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_26"
+    },
+    {
+        "question_id": 81,
+        "question_text": "The earnest money is kept equal to :",
+        "options": {
+            "A": "1.5% to 2% of tender cost.",
+            "B": "3% to 5% of tender cost. 11",
+            "C": "4% to 6% of tender cost.",
+            "D": "8% to 10% of tender cost."
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPHC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Estimation-Costing",
+        "topic": "Material Calculation & other miscellaneous topics",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1118,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_81"
+    },
+    {
+        "question_id": 186,
+        "question_text": "Site order book is used for recording-",
+        "options": {
+            "A": "Instructions of the executive engineer",
+            "B": "Construction measurements",
+            "C": "Requisition of plants and equipments",
+            "D": "Indents for materials to be ordered"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "MPPSC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Estimation-Costing",
+        "topic": "Material Calculation & other miscellaneous topics",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1129,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_186"
+    },
+    {
+        "question_id": 222,
+        "question_text": "Formula to workout quantity of trapezoidal portion of footing is :",
+        "options": {
+            "A": "Fats a2 +VAIxA2) . h",
+            "B": "Abpea?) h",
+            "C": "3 AlrAg) ho po",
+            "D": "5X VAIxA2)"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPHC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Estimation-Costing",
+        "topic": "Material Calculation & other miscellaneous topics",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1134,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_222"
+    }
+]

@@ -1,0 +1,245 @@
+[
+    {
+        "question_id": 148,
+        "question_text": "Normal tension for a tape is defined as the pull-",
+        "options": {
+            "A": "applied by an average adult",
+            "B": "applied for standardizing the tape",
+            "C": "which equalizes the effect due to sag",
+            "D": "that equalizes the effect due to the slope"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "Gujarat PSC AE (N.W.R.) 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Navigation Channel Harbour Dock",
+        "topic": "Dock",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 39,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_148"
+    },
+    {
+        "question_id": 148,
+        "question_text": "Which of the following pumps is suitable for small discharge and high head?",
+        "options": {
+            "A": "head of water",
+            "B": "quantity of water",
+            "C": "specific weight of water",
+            "D": "efficiency of alternator"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "BPSC AE 2016 Paper (VI) Section-T",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Navigation Channel Harbour Dock",
+        "topic": "Dock",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 391,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_148"
+    },
+    {
+        "question_id": 132,
+        "question_text": "The rating curve applicable to a section of a stream, depends on",
+        "options": {
+            "A": "cross-sectional area and water surface slope",
+            "B": "cross-sectional area",
+            "C": "water surface slope",
+            "D": "water surface elevation"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE (Common) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Navigation Channel Harbour Dock",
+        "topic": "Dock",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 552,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_132"
+    },
+    {
+        "question_id": 148,
+        "question_text": "The S-curve is the summation of",
+        "options": {
+            "A": "44 hours (b) 48 hours",
+            "B": "Total runoff hydrograph",
+            "C": "52 hours (d) 56 hours (IPSC Combined",
+            "D": "Base flow curve"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "AE Paper VI 2013,",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Navigation Channel Harbour Dock",
+        "topic": "Dock",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 554,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_148"
+    },
+    {
+        "question_id": 148,
+        "question_text": "If total hardness of water is less than its total alkalinity the non-carbonate hardness will be equal to",
+        "options": {
+            "A": "Total alkalinity",
+            "B": "total hardness",
+            "C": "Total alkalinity - total hardness",
+            "D": "Zero"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TSPSC Deputy Engineer 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Navigation Channel Harbour Dock",
+        "topic": "Dock",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 622,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_148"
+    },
+    {
+        "question_id": 132,
+        "question_text": "Reaction time of driver increases with",
+        "options": {
+            "A": "increase in vehicle Icngth",
+            "B": "decrease in vehicle speed",
+            "C": "increase in vehicle speed",
+            "D": "decrease in vehicle length [MPPSC AE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016, Ans ; (b) Reaction time : (i) Perception time (ii) Brake reaction time e Perception time is the times required for driver to realize that brakes must be applied. e Brake reaction time depends upon skill and type of| problem. e Reaction time of driver increases with decrease in vehicle speed. Total reaction time varics between 0.5 to 4 sec.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Navigation Channel Harbour Dock",
+        "topic": "Dock",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 795,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_132"
+    },
+    {
+        "question_id": 132,
+        "question_text": "The lengths of the standard crossings in India for broad gauge and metre gauge tracks is same for",
+        "options": {
+            "A": "1 in 81 B. Gand | in 12 M.G.",
+            "B": "1 in 12 B. Gand 1 in 16 M.G.",
+            "C": "1 in 12 B. Gand 1 in8 4M.G.",
+            "D": "1 in 16 B. Gand 1 in 12 M.G."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Navigation Channel Harbour Dock",
+        "topic": "Dock",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 902,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_132"
+    },
+    {
+        "question_id": 132,
+        "question_text": "What is the purpose of providing slipways in a harbour ?",
+        "options": {
+            "A": "To demarcate the harbour entrance",
+            "B": "To act as cushion to absorb shock of ship during loading and unloading",
+            "C": "Repairing and building of ship.",
+            "D": "Mooring structure in combination with loading platform. BHEL ET"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Navigation Channel Harbour Dock",
+        "topic": "Dock",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 927,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_132"
+    },
+    {
+        "question_id": 148,
+        "question_text": "A 'dock' parallel to the shore is called",
+        "options": {
+            "A": "Morning dolphins",
+            "B": "Breasting dolphins",
+            "C": "Bulk head",
+            "D": "Fixed mooring berth Nagaland"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PSC Paper-II 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Navigation Channel Harbour Dock",
+        "topic": "Dock",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 929,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_148"
+    }
+]

@@ -1,0 +1,163 @@
+[
+    {
+        "question_id": 57,
+        "question_text": "Which onc or more of the following statements is/are true?",
+        "options": {
+            "A": "Presence of organic matter in a soil decreases the bearing capacity of the soil",
+            "B": "Clays are more porous than sands",
+            "C": "Aluminous cement is used for foundations in soils with chemical deposits",
+            "D": "All of these statements are true (e) None of these statements are true"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Haryana PSC AE Paper-IT 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Friction",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 116,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_57"
+    },
+    {
+        "question_id": 1783,
+        "question_text": "The maximum angle of inclination of the plane (with horizontal) at which a body remains in equilibrium under the action of friction only is termed as",
+        "options": {
+            "A": "Angle of wedge",
+            "B": "Angle of equilibrium",
+            "C": "Angle of repose",
+            "D": "All the given answers"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AEE MAINS 2016 38",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Friction",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 358,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1783"
+    },
+    {
+        "question_id": 56,
+        "question_text": "The coefficient of friction between two surfaces is the constant of proportionality between the applied force and normal reaction",
+        "options": {
+            "A": "At the instant of impending motion",
+            "B": "Atan instant aftcr the motion takes place",
+            "C": "At the instant of application of force",
+            "D": "At the instant when the body is at rest"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GOA PSC Assistant Prof, 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Friction",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 371,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_56"
+    },
+    {
+        "question_id": 57,
+        "question_text": "Ona ladder resisting on a smooth ground and leaning against a rough vertical wall, the force of friction acts:",
+        "options": {
+            "A": "Towards the wall at ils upper end",
+            "B": "Away from the wall at its upper end",
+            "C": "Upwards at its upper end",
+            "D": "Downwards at its lower end"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "OPSC Civil Services Pre 2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Friction",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 371,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_57"
+    },
+    {
+        "question_id": 57,
+        "question_text": "In building construction, gauging is the:",
+        "options": {
+            "A": "process of mixing various constitucnts of plaster 10",
+            "B": "process of roughing the group to provide suitable bond for plastering",
+            "C": "process of scaling away patches of plaster or previous coats",
+            "D": "_ reflection on the surface of plaster [UPPSC State Eng. A.E."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2007(D] Ans ; (a) Gauging is the process of mixing various constituents of plaster ie cement, lime and sand.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Friction",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1044,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_57"
+    },
+    {
+        "question_id": 57,
+        "question_text": "The information which cannot be included in drawings is conveyed through",
+        "options": {
+            "A": "progress chart",
+            "B": "none of three mentioned here",
+            "C": "always additive",
+            "D": "always subtractive GWSSB AAE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Friction",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1115,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_57"
+    }
+]

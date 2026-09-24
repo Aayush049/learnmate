@@ -1,0 +1,342 @@
+[
+    {
+        "question_id": 119,
+        "question_text": "Why are bricks soaked in water before using in brick masonry ?",
+        "options": {
+            "A": "for removing dust",
+            "B": "for reducing air voids",
+            "C": "for preventing depletion of moisture from mortar",
+            "D": "for reducing efflorescence Karnataka"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "PSC AE 2017 Paper - IT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Bricks",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 32,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_119"
+    },
+    {
+        "question_id": 125,
+        "question_text": "Tolerance limits for dimensions of bricks in length, width and height, respeetively, for a sample of 20 bricks taken together as per IS code are:",
+        "options": {
+            "A": "2000 mm, 90 mm, 90 mm",
+            "B": "80mm, 40mm, 40mm",
+            "C": "100mm, 95mm, 95mm",
+            "D": "50mm, 20mm, 20mm."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Rajasthan JEn (Degree) 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Bricks",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 32,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_125"
+    },
+    {
+        "question_id": 140,
+        "question_text": "The bricks after moulding should be dried in :",
+        "options": {
+            "A": "Open air",
+            "B": "Sun for 3 to 8 days",
+            "C": "Air for 3 to 8 days but not in sun",
+            "D": "Hot air for 3 days Nagaland PSC CTSE"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2017 Papert",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Bricks",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 34,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_140"
+    },
+    {
+        "question_id": 142,
+        "question_text": "The dolomite bricks are :",
+        "options": {
+            "A": "Ordinary bricks",
+            "B": "Acid refractory bricks",
+            "C": "Basic refractory bricks",
+            "D": "Neutral refractory bricks Rajasthan VP ITI"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2018 Nagaland PSC CTSE 2017 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Bricks",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 34,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_142"
+    },
+    {
+        "question_id": 159,
+        "question_text": "The indentation provide in a face of the brick is called",
+        "options": {
+            "A": "strike",
+            "B": "none of three mentioned here",
+            "C": "frog",
+            "D": "pallet GWSSB AAE"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Bricks",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 36,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_159"
+    },
+    {
+        "question_id": 178,
+        "question_text": "The standard modular size of common building bricks shall be:",
+        "options": {
+            "A": "190 mm 90 mm x 90 mm",
+            "B": "200 mm x 100 mm x 100 mm",
+            "C": "200 mm x 90 mm x 90 mm.",
+            "D": "190mm x 100 mm 100 mm"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TSPSC AEE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Bricks",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 38,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_178"
+    },
+    {
+        "question_id": 179,
+        "question_text": "According to Indian Standards Institute, the actual size of modular bricks is",
+        "options": {
+            "A": "23 em x 11.5emx 7.5m",
+            "B": "25cm x 13 em * 7.5 cm",
+            "C": "19em x 9emx 9em",
+            "D": "20 cm x 10 cm « 10 cm Chandigarh AE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Bricks",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 38,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_179"
+    },
+    {
+        "question_id": 125,
+        "question_text": "In design of steel structures using Working Stress method of design, the factor of safety (FOS) is applied to ......sccorssee",
+        "options": {
+            "A": "Loading",
+            "B": "Yield stress of material",
+            "C": "Sectional properties of the members",
+            "D": "Safe bearing capacity (SBC) of soil"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "GPSC AE January 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Bricks",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 945,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_125"
+    },
+    {
+        "question_id": 178,
+        "question_text": "In PERT, the critical path represents the",
+        "options": {
+            "A": "gamma distribution",
+            "B": "normal distribution",
+            "C": "beta distribution",
+            "D": "log-normal distribution"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE March 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Bricks",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1090,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_178"
+    },
+    {
+        "question_id": 125,
+        "question_text": "The bill to be used for making a single payment for a work is",
+        "options": {
+            "A": "First and final bill",
+            "B": "Running account bill",
+            "C": "Lump-sum contract bill",
+            "D": "none of these"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TNPSC AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Bricks",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1123,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_125"
+    },
+    {
+        "question_id": 140,
+        "question_text": "Which of the following is a construction estimate?",
+        "options": {
+            "A": "Initial feasibility estimate",
+            "B": "Conceptual preliminary budget",
+            "C": "Definite estimate",
+            "D": "All of the above GESCOM (KARNATAKA) AE"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Bricks",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1125,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_140"
+    },
+    {
+        "question_id": 142,
+        "question_text": "While doing cost analysis, if the standard deviation is high, it would generally lead to",
+        "options": {
+            "A": "Higher levels of uncertainty",
+            "B": "Lower levels of uncertainty",
+            "C": "Increased costs",
+            "D": "Reduced costs GESCOM (KARNATAKA) AE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2011 Ans ; (c) While doing cost analysis, if the standard deviation is high, it would generally lead to cost inerement.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Bricks",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1125,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_142"
+    },
+    {
+        "question_id": 178,
+        "question_text": "When additional works were found necessary during construction, which were not contemplated at the beginning, the estimate prepared for such items is known as:",
+        "options": {
+            "A": "Preliminary cstimate",
+            "B": "Complementary estimate",
+            "C": "Supplementary estimate",
+            "D": "Revised estimate"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TSPSC AEE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Bricks",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1129,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_178"
+    }
+]

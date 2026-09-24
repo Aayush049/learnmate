@@ -1,0 +1,721 @@
+[
+    {
+        "question_id": 583,
+        "question_text": "General ratio of cement : sand : aggregate in nominal mix M20 grade concrete is:",
+        "options": {
+            "A": "Hardening, setting, loss of workability",
+            "B": "Loss of workability, setting, hardening",
+            "C": "Sctting, loss of workability, hardening",
+            "D": "Hardening, loss of workability, setting"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ISRO Scientist/Engineer 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 80,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_583"
+    },
+    {
+        "question_id": 583,
+        "question_text": "Consider the following statements : G@) Quicksand is a special variety of sand (ii) Quicksand is not a material but a hydraulics condition. (iii) In nature, quicksand condition is observed usually in coarse silt or fine sand. Which of the above statements are correct?",
+        "options": {
+            "A": "(i), (ii) and (iii)",
+            "B": "(i) and (ii)",
+            "C": "(ii) and (iii)",
+            "D": "(i) and (iii)"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 191,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_583"
+    },
+    {
+        "question_id": 611,
+        "question_text": "At the neutral axis of beam :",
+        "options": {
+            "A": "The layers are subjected to maximum bending stress",
+            "B": "The layers are subjected to minimum bending stress",
+            "C": "The layers are subjected to compression",
+            "D": "The layers do not undcrgo any strain Nagaland PSC CTSE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 489,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_611"
+    },
+    {
+        "question_id": 588,
+        "question_text": "In the moment-arca method, the differenec in slope between any two scetions is equal to",
+        "options": {
+            "A": "Kani's theorem",
+            "B": "Maxwell reciprocal theorem",
+            "C": "Moment area method",
+            "D": "Unit load method"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "BPSC AE Aug. 2019 Paper-V",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 756,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_588"
+    },
+    {
+        "question_id": 611,
+        "question_text": "The____ method of structural analysis is/are force method/s:",
+        "options": {
+            "A": "Column analogy",
+            "B": "Moment distribution",
+            "C": "Slope deflection",
+            "D": "both slope deflection and moment distribution"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 761,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_611"
+    },
+    {
+        "question_id": 248,
+        "question_text": "Loss of stress due to elastic deformation of concrete depends upon:",
+        "options": {
+            "A": "Relaxation of steel",
+            "B": "Modular ratio",
+            "C": "Friction and anchorage slip",
+            "D": "Shrinkage strain"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "IRCON AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 790,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_248"
+    },
+    {
+        "question_id": 548,
+        "question_text": "Due to shrinkage stresses, simply supported beam having reinforcement only at the bottom tends to deflect",
+        "options": {
+            "A": "more than that of beam B",
+            "B": "less than that of beam B",
+            "C": "the same as that of beam B",
+            "D": "generally less but sometimes more depending upon the magnitude of UDL"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AEE (Mains) 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 826,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_548"
+    },
+    {
+        "question_id": 583,
+        "question_text": "The short term deflection of a two way reinforced concrete slab depends on",
+        "options": {
+            "A": "the long span",
+            "B": "the short span",
+            "C": "the aspect ratio",
+            "D": "_ cocfficicnt of orthotropy"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APTRASCO 2017 0",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 831,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_583"
+    },
+    {
+        "question_id": 588,
+        "question_text": "Shrinkage deflection in case of rectangular beams and slabs can be eliminated by putting :",
+        "options": {
+            "A": "Compression stecl cqual to tensile stecl",
+            "B": "Compression steel more than tensile steel",
+            "C": "Compression steel less than tensile steel",
+            "D": "Compression steel 25% more than tensile steel"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "OPSC AEE 2019 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 832,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_588"
+    },
+    {
+        "question_id": 611,
+        "question_text": "The deflection in a RCC beam is reduced by (as per IS 456 2000) / RCC",
+        "options": {
+            "A": "moderating water cement ratio",
+            "B": "controlling span/depth ratio",
+            "C": "using large aspect ratio",
+            "D": "using small modular ratio Rajasthan AE Nagar Nigam Shift-3,"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 835,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_611"
+    },
+    {
+        "question_id": 1198,
+        "question_text": "In a post-tensioned pre-stressed concrete beam, jacking force is applied from one end only. ‘The loss of stresses in stecl duc to friction between steel and surrounding material will be maximum at",
+        "options": {
+            "A": "Jacking end",
+            "B": "Mid span",
+            "C": "Anchored end",
+            "D": "Loss of stresses in steel due to friction is uniform throughout the span"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "Maharashtra PSC AE (Mains) 2012 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 907,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1198"
+    },
+    {
+        "question_id": 1239,
+        "question_text": "The loss of pre-stress due to elastic shortening of conercte is Icast in",
+        "options": {
+            "A": "One wire pre-tensioned beam",
+            "B": "One wire post-tensioned beam",
+            "C": "Multiple wire pre-tensioned beam with sequential cutting of wires",
+            "D": "Multiple wire post-tensioned beam subjected to sequential pre-stressing"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "RPSC POLY. TECH. LECT. 2014 will be least if one wire post tensioned beam is formed.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 913,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1239"
+    },
+    {
+        "question_id": 1254,
+        "question_text": "The loss due to creep in pre-stressed concrete shall be determined considcring-",
+        "options": {
+            "A": "All loads and pre-stressing force",
+            "B": "Live loads and pre-stressing foree",
+            "C": "Permanent loads and pre-stressing force",
+            "D": "Permanent loads only"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "Maharashtra PSC (Mains) 2017 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 915,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1254"
+    },
+    {
+        "question_id": 1260,
+        "question_text": "Which of the following losscs occurs only in post-tensioning?",
+        "options": {
+            "A": "Shrinkage of concrete",
+            "B": "Elastic shortening of concrete",
+            "C": "Loss due to friction",
+            "D": "Crecp of concrete"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "OPSC AEE 2015 PAPER-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 916,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1260"
+    },
+    {
+        "question_id": 1273,
+        "question_text": "If a simply supported post-tensioned beam of span 'L' is pre-stressed by a straight tendon at a uniform eccentricity 'e' below the centroidal axis and a pre-stressing force 'P' with flexural rigidity of beam as EI, then the maximum central deflection of the beam is",
+        "options": {
+            "A": "M20 (b) M30",
+            "B": "Pel'/48EI (Upwards)",
+            "C": "M40 (d) M45 Kerala",
+            "D": "PeL*/8EI (Upwards)"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PSC AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 917,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1273"
+    },
+    {
+        "question_id": 1294,
+        "question_text": "Which one of the following is categorized as long term loss of pre-stress in a PSC member?",
+        "options": {
+            "A": "Loss due to elastic shortening",
+            "B": "Loss due to relaxation of strands",
+            "C": "Loss due to anchorage slip",
+            "D": "Loss due to friction"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "PSPCL AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 920,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1294"
+    },
+    {
+        "question_id": 1304,
+        "question_text": "Which of the following losses of prestress occurs only in pre-tensioning and not in post- tensioning ?",
+        "options": {
+            "A": "elastic shortening of concrete 9",
+            "B": "shrinkage of concrete",
+            "C": "creep of concrete",
+            "D": "loss due to friction"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE March 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 922,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1304"
+    },
+    {
+        "question_id": 1316,
+        "question_text": "Losses in prestress in pretensioned beams are more than the losses in post tensioned beams due to the",
+        "options": {
+            "A": "effect of elastic shortening",
+            "B": "frictional force through bonding",
+            "C": "excess shrinkage",
+            "D": "anchorage slip TRB Poly, Tech, Lect,"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 923,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1316"
+    },
+    {
+        "question_id": 1318,
+        "question_text": "After pre-stressing process is completed, a loss in stress is due to",
+        "options": {
+            "A": "shrinkage of concrete",
+            "B": "elastic shortening of concrete",
+            "C": "creep of concrete and steel",
+            "D": "all the above"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "UKPSC(Urban engineering)-2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 923,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1318"
+    },
+    {
+        "question_id": 1327,
+        "question_text": "Which of the following losses is present in Post- tensioning but absent in Pre-tensioning?",
+        "options": {
+            "A": "Relaxation of Stress in Steel",
+            "B": "Creep of Concrete",
+            "C": "Shrinkage of Concrete",
+            "D": "Anchorage Slip"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE June 2019 Types of Loss Pretensioning Post Tensioning (1) Anchorage slip No Yes (2) Friction loss No Yes (3) Creep & shrinkage of Yes Yes concrete (4) Relaxation of steel Yes Yes",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 925,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1327"
+    },
+    {
+        "question_id": 1337,
+        "question_text": "Which of the following is categorized as a long term loss of prestress in a prestressed concrete member:",
+        "options": {
+            "A": "Loss due to relaxation of strands",
+            "B": "Loss due to anchorage slip",
+            "C": "Loss due to friction",
+            "D": "Loss due to elastic shortening"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "PTCUL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 926,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1337"
+    },
+    {
+        "question_id": 1366,
+        "question_text": "Long term losses in a post-tensioned girded are due to",
+        "options": {
+            "A": "elastic shortening, creep, shrinkage",
+            "B": "creep, shrinkage, relaxation",
+            "C": "creep, shrinkage, slip",
+            "D": "relaxation, friction, creep, shrinkage"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "WBPSC AE (Common) 1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 929,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1366"
+    },
+    {
+        "question_id": 548,
+        "question_text": "Horizontal stiffener in a plate girder is provided to safeguard against :",
+        "options": {
+            "A": "Shear buckling of web plate",
+            "B": "Compression buckling of web plate",
+            "C": "Yielding",
+            "D": "All of these"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "OPSC AEE 2019 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 997,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_548"
+    },
+    {
+        "question_id": 583,
+        "question_text": "Determine the economical depth of the welded plate girder of span 24m to carry super imposed load of 35 kKN/m. Avoid stiffeners and use Fe 415 steel :",
+        "options": {
+            "A": "(6; +m) ty Yue",
+            "B": "+m) t iw Mz) ty =-. ‘ ia 00",
+            "C": "1400 mm (d) 1200 mm TRB Poly, Lect, Tech,",
+            "D": "None of the above TRB Poly. Leet. Tech."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017 584, The web crippling strength is calculated as : fw",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1001,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_583"
+    },
+    {
+        "question_id": 588,
+        "question_text": "A diagram which shows the variation of the axial load at all sections along the span of a beam is -",
+        "options": {
+            "A": "85t (b) 180t",
+            "B": "Bending moment diagram",
+            "C": "2501 (d)",
+            "D": "Shear force diagram"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2001 UPPCL AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1002,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_588"
+    },
+    {
+        "question_id": 611,
+        "question_text": "Economical depth of a plate girder corresponds to -",
+        "options": {
+            "A": "Minimum weight",
+            "B": "Minimum depth",
+            "C": "Maximum weight",
+            "D": "Minimum thickness of web Rajasthan VP ITI"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1004,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_611"
+    },
+    {
+        "question_id": 248,
+        "question_text": "Match the Items in List 1 (description of planning) with those in List 2 (Type of development) and choose the hest answer using the codes.",
+        "options": {
+            "A": "A-4, B-1, C-2, D-3",
+            "B": "A-2, B-1, C-4, D-3",
+            "C": "A-2, B-4, C-1, D-3",
+            "D": "A-3, B-2, C-1, D-4 BHEL Et"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "Losses & Deflection in Pre-Stress Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1100,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_248"
+    }
+]

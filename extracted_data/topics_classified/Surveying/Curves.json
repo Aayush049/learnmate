@@ -1,0 +1,54 @@
+[
+    {
+        "question_id": 899,
+        "question_text": "Point of tangency is the :",
+        "options": {
+            "A": "Beginning of the curve",
+            "B": "End of the curve",
+            "C": "Common point where the radius changes",
+            "D": "Common point where the radius and direction changes"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "TNPSC AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Curves",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 137,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_899"
+    },
+    {
+        "question_id": 906,
+        "question_text": "The length of the long chord of a simple circular curve of radius, R, and angle of deflection A, is:",
+        "options": {
+            "A": "Both Statement-I and Statement-II are individually true and Statement-II is the correct explanation of Statement-T",
+            "B": "Both Statement-I and Statement-II are individually true and Statement-II is NOT the correct explanation of Statement-L",
+            "C": "Statement-I is true but Statement-II is false.",
+            "D": "Statement-I is false but Statement-II is true."
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "ESE 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Curves",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 138,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_906"
+    }
+]

@@ -1,0 +1,396 @@
+[
+    {
+        "question_id": 89,
+        "question_text": "When two stations for which ranging is to be done are not intcrvisible, the ranging method used in such case is:",
+        "options": {
+            "A": "Reciprocal ranging",
+            "B": "Direct ranging",
+            "C": "Partial ranging",
+            "D": "Simultaneous ranging"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPSC AE January 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydraulic Machine",
+        "topic": "Turbines",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 31,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_89"
+    },
+    {
+        "question_id": 136,
+        "question_text": "The length of a chain is measured from -",
+        "options": {
+            "A": "Centre of one handle to centre of the other handle",
+            "B": "Outside of one handle to outside of the other handle AE Civil Engg. Volume-II 3",
+            "C": "Inside of one handle to inside of the other handle",
+            "D": "Outside of one handle to centre of the other handle Rajasthan VP ITI"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydraulic Machine",
+        "topic": "Turbines",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 37,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_136"
+    },
+    {
+        "question_id": 168,
+        "question_text": "In triangulation survey, the strength of figure in a triangulation system is more :",
+        "options": {
+            "A": "in the method of trilateration",
+            "B": "when the error is the least when computing the length of last line",
+            "C": "when any angle of a triangle is not less than 30° or more than 120°",
+            "D": "when the angles of a triangle are very ncarly equal to 60° BHEL Et"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydraulic Machine",
+        "topic": "Turbines",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 41,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_168"
+    },
+    {
+        "question_id": 89,
+        "question_text": "Match the dimensionless parameters in Group - I with the corresponding ratios in Group - IT IP. Mach number 1. Ratio of inertial force and P| ee | Q. Reynolds number | 2. Ratio of Muid pon of sound IR. Weber number 3. Ratio of inertial force and viscous le IS. Froude number 4. Ratio of incrtial force and surface ee |",
+        "options": {
+            "A": "P-3, Q-2, R-4, S-L",
+            "B": "P-3, Q-4, R-2, S-1",
+            "C": "P-2, Q-3, R-4, S-L",
+            "D": "P-1, Q-3, R-2, S-4"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ISRO Scientist/Enginecr 2019 Ans ; (c): © Mach Number - Ratio of Fluid velocity and velocity of sound. Vv Vp [me Number = velocity of body in medium Velocity of soundin thesamemedium - Mach number <1 is called subsonic - Mach number =1 is called sonic -> Mach number >1 is called supersonic (1 to 6) > Mach number >>1 is called Hypersonic (6 to 10) ¢ Reynolds Numher - It is the Ratio of incrtial force and viscous force. ie Reynold's model law is used in pipe flow, airplane motion in atmosphere, parachutes ete. © Weber Number - It is the ratio of inertial force and surface tension force. ynnaainbeen wes number = <utiooleasband Surface tension force c number = =2 [= Vel | Weber Model law is used in capillary rise, rising bubbles, seepage flow through soil. « Froude Number - Ratio of inertial force and gravitational force. « It is applicable in free surface flow such as flow over spillway, weirs. 0 YCT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydraulic Machine",
+        "topic": "Turbines",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 172,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_89"
+    },
+    {
+        "question_id": 192,
+        "question_text": "Printer's ink is an example of-",
+        "options": {
+            "A": "Newtonian fluid",
+            "B": "Non-Newtonian fluid",
+            "C": "Thyrotrophic substance",
+            "D": "Elastic solid"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "MPSC-2017 (ID Mains",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydraulic Machine",
+        "topic": "Turbines",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 186,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_192"
+    },
+    {
+        "question_id": 233,
+        "question_text": "The square root of the ratio of inertia force to gravity force is called",
+        "options": {
+            "A": "A is true; R is true, and it explains A",
+            "B": "A is true; R is true, but it does not explain A",
+            "C": "Ais true; R is false",
+            "D": "A is false; R is truc"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "APPSC (PHE) AE Paper-2 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydraulic Machine",
+        "topic": "Turbines",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 192,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_233"
+    },
+    {
+        "question_id": 253,
+        "question_text": "The condition of stable equilibrium for a floating body is",
+        "options": {
+            "A": "when its metacentric height is zero",
+            "B": "when the metacentre is above the centre of gravity",
+            "C": "when the metacentre is below the centre of gravity",
+            "D": "only when its centre of gravily is below its centre of buoyancy"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "PSPCL AE 2012 [UPPSC State Eng. A.E, 2003] AE Civil Engg. Volume-II I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydraulic Machine",
+        "topic": "Turbines",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 195,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_253"
+    },
+    {
+        "question_id": 89,
+        "question_text": "In an inward flow reaction turbine",
+        "options": {
+            "A": "the water flows parallel to the axis of the wheel",
+            "B": "the water enters at the centre of the whecl and from there flows towards the outcr periphery of the wheel",
+            "C": "the water enters the wheel at outer periphery, and then flows towards the centre of the wheel",
+            "D": "the flow of water is partly radial and partly axial"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "APPSC AEE (Civil/Mechanical) 2012 ‘",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydraulic Machine",
+        "topic": "Turbines",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 382,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_89"
+    },
+    {
+        "question_id": 91,
+        "question_text": "The power developed by a turbine is",
+        "options": {
+            "A": "Directly proportional to H'”",
+            "B": "Inversely proportional to H'’?",
+            "C": "Directly proportional to H*’*",
+            "D": "Inversely proportional to 11°”?"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "OPSC AEE 2015 PAPER-I APPSC AEE (Civil/Mechanical) 2012 AE Civil Engg. Volume-II x",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydraulic Machine",
+        "topic": "Turbines",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 382,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_91"
+    },
+    {
+        "question_id": 111,
+        "question_text": "The main function of the surge tank is to",
+        "options": {
+            "A": "restrict the water hammer cffects to small length of penstock",
+            "B": "provide a free water surface ncar turbines",
+            "C": "act as a reservoir",
+            "D": "protect the penstock from bursting Maharastra"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PSC Mains 2012 Paper -2",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydraulic Machine",
+        "topic": "Turbines",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 385,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_111"
+    },
+    {
+        "question_id": 136,
+        "question_text": "Muschel curves belong to the category of-",
+        "options": {
+            "A": "Constant head curves or main characteristic curves.",
+            "B": "Constant speed curves or operating characteristic curves.",
+            "C": "Constant cfficicncy curves or Muschel curves.",
+            "D": "operating characteristics of a pump"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC Poly. Tech. Lect. 2020 IMPSC 2015 Paper-II Mains] APPSC (PHE) AE Papcer-2 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydraulic Machine",
+        "topic": "Turbines",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 389,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_136"
+    },
+    {
+        "question_id": 168,
+        "question_text": "The specific speed for a turbine is the speed of a geometrically similar turbine which would",
+        "options": {
+            "A": "produce unit power (one kilowatt) under unit head (one meter)",
+            "B": "produce unit discharge (1 litre/sec) under unit head (one meter)",
+            "C": "produce unit discharge (1 litre/sec) with unit power (one kilowatt) AE Civil Engg. Volume-II 3",
+            "D": "produce unit head (one meter) with unit power (one kilowatt)"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE (CLASS 1 & 2) 2019 Ans ; (a) : The specific speed for a turbine of a geometrically similar turbine which would produce unit power (1 kW) under unit head (1 meter).",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydraulic Machine",
+        "topic": "Turbines",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 394,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_168"
+    },
+    {
+        "question_id": 192,
+        "question_text": "Kaplan turbine is",
+        "options": {
+            "A": "an impulse turbine",
+            "B": "aradial flow impulse turbine",
+            "C": "an axial flow reaction turbine",
+            "D": "aradial flow reaction turbine"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "GUJRAT PSC AE - IT 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydraulic Machine",
+        "topic": "Turbines",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 397,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_192"
+    },
+    {
+        "question_id": 233,
+        "question_text": "Consider the following data from a test on Pelton wheel: Head at the base of the nozzle = 32 m Discharge of the nozzle = 0.18 m*/s Area of the jet = 7500 mm’ Power available at the shaft = 44 kW Mechanical efficiency = 94% The power lost in the nozzle will be nearly",
+        "options": {
+            "A": "40,000 kW and 68.8%",
+            "B": "50,000 kW and 68.8%",
+            "C": "40,000 kW and 62.3%",
+            "D": "50,000 kW and 62.3%"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "ESE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydraulic Machine",
+        "topic": "Turbines",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 402,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_233"
+    },
+    {
+        "question_id": 253,
+        "question_text": "Hydraulic efficicney of Francis turbine is :",
+        "options": {
+            "A": "Directly proportional to velocity of whirl at inlet and inversely proportional to net head on turbine",
+            "B": "Directly proportional to velocity of whirl at inlet and net head on turbine",
+            "C": "Inversely proportional to velocity of whirl at inlet and net head on turbine",
+            "D": "Inversely proportional to velocity of whirl at inlet and directly proportional to net head on turbine"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "ESE 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Hydraulic Machine",
+        "topic": "Turbines",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 406,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_253"
+    }
+]

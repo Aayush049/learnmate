@@ -1,0 +1,27 @@
+[
+    {
+        "question_id": 1311,
+        "question_text": "Shock waves will not occur in the",
+        "options": {
+            "A": "Convergent seetion of a nozzle",
+            "B": "divergent section of a nozzle",
+            "C": "diffuser throat of a supersonic wind tunnel",
+            "D": "in front of blunt-nosed bodies [UPPSC State Eng. A.E,"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2011]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Compressibility and Consolidation",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 350,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1311"
+    }
+]

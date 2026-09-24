@@ -1,0 +1,56 @@
+[
+    {
+        "question_id": 137,
+        "question_text": "Duration along the critical path defines which of the following ?",
+        "options": {
+            "A": "A and B only (b) Aand D only",
+            "B": "Shortest duration permissible",
+            "C": "BandC only (d) Cand D only Karnataka",
+            "D": "Longest duration permissible Select the code for the correct answer from the options given below :"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "PSC AE 2017 Paper - II ESE 2007",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "Critical Path Method",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1085,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_137"
+    },
+    {
+        "question_id": 195,
+        "question_text": "Precedence Network Analysis (PNA) method of network analysis better addresses the real life situation in a construction project than CPM because",
+        "options": {
+            "A": "activity, research and development projects",
+            "B": "event, construction projects",
+            "C": "event, rescarch and development projccts",
+            "D": "activity, construction projects"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "GPSC AE January 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "Critical Path Method",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1092,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_195"
+    }
+]

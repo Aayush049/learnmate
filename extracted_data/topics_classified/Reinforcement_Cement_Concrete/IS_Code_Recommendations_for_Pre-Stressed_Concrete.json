@@ -1,0 +1,55 @@
+[
+    {
+        "question_id": 1271,
+        "question_text": "As per IS 1343-1980, the minimum characteristic strength pre-stressed concrete for post-tensioned and pre-tensioned work is :",
+        "options": {
+            "A": "25 MPa and 30 MPa respectively",
+            "B": "25 MPa and 35 MPa respectively",
+            "C": "30 MPa and 35 MPa respectively",
+            "D": "30 MPa and 40 MPa respectively"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "IS Code Recommendations for Pre-Stressed Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 917,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1271"
+    },
+    {
+        "question_id": 1346,
+        "question_text": "As per IS 1343 : 1980, members having no tensile stress permitted under working conditions are known as :",
+        "options": {
+            "A": "limited pre-stressed members",
+            "B": "partially pre-stressed members",
+            "C": "half pre-stressed members",
+            "D": "fully pre-stressed members (e) initially pre-stressed members"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "CGPSC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Reinforcement Cement Concrete",
+        "topic": "IS Code Recommendations for Pre-Stressed Concrete",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 927,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1346"
+    }
+]

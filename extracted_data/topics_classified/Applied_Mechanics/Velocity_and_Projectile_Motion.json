@@ -1,0 +1,131 @@
+[
+    {
+        "question_id": 114,
+        "question_text": "When a particle moves with a uniform velocity along a circular path, then the particle has",
+        "options": {
+            "A": "tangential acceleration only",
+            "B": "centripetal acceleration only",
+            "C": "both tangential and centripetal acceleration",
+            "D": "none of the mentioned"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GOA PSC Assistant Prof. 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Velocity & Projectile Motion",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 381,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_114"
+    },
+    {
+        "question_id": 116,
+        "question_text": "If a body moves in such a way that its velocity increase by equal amount in equal intervals of time, it is said to the moving with",
+        "options": {
+            "A": "a uniform retardation",
+            "B": "a uniform acceleration",
+            "C": "a variable acecleration",
+            "D": "a variable retardation Arunachal Pradesh Poly, Tech. Lect."
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Velocity & Projectile Motion",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 382,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_116"
+    },
+    {
+        "question_id": 117,
+        "question_text": "Two bodies of masses m; and m, are connected by a light inextensible string passing over a small smooth fixed pulley; m; > m;. What is the acceleration of the system? ans |",
+        "options": {
+            "A": "g(m,+m,)/(m, -m,)",
+            "B": "g(2m, +m,)/(m, -2m,)",
+            "C": "g(m, +2m,)/(2m, - im)",
+            "D": "g(m,-m,)(m, +m.)"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "JPSC AE 2009",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Velocity & Projectile Motion",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 382,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_117"
+    },
+    {
+        "question_id": 1389,
+        "question_text": "A particle moyes along a circular path with constant speed, What is the nature of its acceleration?",
+        "options": {
+            "A": "its is zero",
+            "B": "It is Uniform",
+            "C": "Its direction changes",
+            "D": "its magnitude changes RRB SSE (Bilaspur) Yellow Paper : 21.12.2014"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": null,
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Velocity & Projectile Motion",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 385,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_1389"
+    },
+    {
+        "question_id": 114,
+        "question_text": "Match the following-",
+        "options": {
+            "A": "TI qT Iv q",
+            "B": "Il IV I I",
+            "C": "IV Til I I",
+            "D": "I Iv I I"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "MPSC (Mains) 2017 Paper-IT",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Applied Mechanics",
+        "topic": "Velocity & Projectile Motion",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1050,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_114"
+    }
+]

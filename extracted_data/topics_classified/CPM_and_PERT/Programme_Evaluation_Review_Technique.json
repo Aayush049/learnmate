@@ -1,0 +1,134 @@
+[
+    {
+        "question_id": 21,
+        "question_text": "Diameter of a rivet hole is made larger than the diameter of the rivet by",
+        "options": {
+            "A": "0.1x10° N/émm? (b) 0.8x10° N/mm?",
+            "B": "1.50 mm for rivet diameter cxeceding 25 mm",
+            "C": "1.0x10° N/mm? (d) 2.1x10° N/mm? Rajasthan VP ITI",
+            "D": "none of these"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2018 CGPSC AE 2014 Shift-I TNPSC AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "Programme Evaluation Review Technique",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 933,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_21"
+    },
+    {
+        "question_id": 193,
+        "question_text": "Welded connections are preferred over riveted connections hecause",
+        "options": {
+            "A": "they are economical",
+            "B": "easy in connection",
+            "C": "the loss of member strength is smaller",
+            "D": "they reduce the secondary strength [UPPSC State Eng. AE."
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2007(D)] 9%",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "Programme Evaluation Review Technique",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 952,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_193"
+    },
+    {
+        "question_id": 193,
+        "question_text": "The PERT network analysis iS a wcrc based method",
+        "options": {
+            "A": "finish-to-start manner",
+            "B": "overlapping manner",
+            "C": "partially finish-to-starl and _ partially overlapping manner",
+            "D": "random manner"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "GPSC AE January 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "Programme Evaluation Review Technique",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1092,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_193"
+    },
+    {
+        "question_id": 205,
+        "question_text": "While doing the project planning of a Construction project, using PERT, it is intended to identify the variance of the project. This can be done by:",
+        "options": {
+            "A": "Sum of variance of the activities along critical path of the project",
+            "B": "Sum of squares of the total floats of all activities in the project",
+            "C": "Sum of variance of all activities of the project",
+            "D": "Sum of squares of free floats of all activities along the critical path of the in the"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "CIL MY 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "Programme Evaluation Review Technique",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1094,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_205"
+    },
+    {
+        "question_id": 21,
+        "question_text": "5 é 2.67 days 239, Slack is given as the difference between",
+        "options": {
+            "A": "latest allowable time and earliest expected time",
+            "B": "latest allowable time and pessimistic lime estimate",
+            "C": "earliest expected time and latest allowable time",
+            "D": "final event time and initial event time"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE March 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "Programme Evaluation Review Technique",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1099,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_21"
+    }
+]

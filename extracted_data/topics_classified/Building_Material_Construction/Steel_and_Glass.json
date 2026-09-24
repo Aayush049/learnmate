@@ -1,0 +1,325 @@
+[
+    {
+        "question_id": 123,
+        "question_text": "Charpy's V notch test is done on a building material to determine :",
+        "options": {
+            "A": "less than 25 Nimm? .",
+            "B": "between 25 N/mm and 30 N/mm*",
+            "C": "between 30 N/mm’ and 40 N/mm”",
+            "D": "more than 40 N/mm?"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017 compressive water Type of bricks strength absorption N/mm? %.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Steel & Glass",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 32,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_123"
+    },
+    {
+        "question_id": 258,
+        "question_text": "The main constituent of fly-ash is:",
+        "options": {
+            "A": "Ferrous oxide",
+            "B": "Aluminium oxide",
+            "C": "None of the above options",
+            "D": "All of the above options"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Haryana PSC AE 2018 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Steel & Glass",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 47,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_258"
+    },
+    {
+        "question_id": 851,
+        "question_text": "One of the following is not a principle related to thermal insulation:",
+        "options": {
+            "A": "Thermal resistance is directly proportional to thickness of a material.",
+            "B": "Provision of air gap plays an important role in thermal insulation.",
+            "C": "Thermal resistance of building depends on oricntation also.",
+            "D": "Thermal resistance of a building depend on oricntation also"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Maharashtra PSC (Mains) 2019 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Steel & Glass",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 109,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_851"
+    },
+    {
+        "question_id": 859,
+        "question_text": "Polyvinyl Chloride (PVC) is a",
+        "options": {
+            "A": "Thermosetting material",
+            "B": "Elasto-plastic material",
+            "C": "Thermoplastic material",
+            "D": "Rigid plastic material"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "GUJRAT PSC AE - 11 2017 UJVNL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Steel & Glass",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 110,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_859"
+    },
+    {
+        "question_id": 862,
+        "question_text": "Statement (I): Foam glass is extensively used in air-conditioning units. Statement (II): Foam glass is termite proof and non-combustible.",
+        "options": {
+            "A": "Both statements - I and statements-II are individually true and statement-II is the correct explanation of statement- I",
+            "B": "Both statements - I and statements-II are individually true and statement-II is the NOT correct explanation of statement- I",
+            "C": "Statement- J is true but Statement-II is false.",
+            "D": "Statement- Lis false but Statement-II is true."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ESE 2017 L",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Steel & Glass",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 110,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_862"
+    },
+    {
+        "question_id": 258,
+        "question_text": "In case of a torsional problem the assumption- \"Plane sections perpendicular to longitudinal axis before deformation remain plane and perpendicular to the longitudinal axis after deformation\" holds true for a shaft haying",
+        "options": {
+            "A": "circular cross-section",
+            "B": "elliptical cross-section",
+            "C": "circular and elliptical cross-section",
+            "D": "any cross-section"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AEE (CIVIL/MECHANICAL) 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Steel & Glass",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 425,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_258"
+    },
+    {
+        "question_id": 258,
+        "question_text": "Analysis of space trusses can be carried out",
+        "options": {
+            "A": "4t (b) 4V3r",
+            "B": "Combination of section method and joint method",
+            "C": "zero (d) 4/2",
+            "D": "Only shape factor SJVNL ET"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "BPSC Poly. Tech. Lect. 2016 6",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Steel & Glass",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 695,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_258"
+    },
+    {
+        "question_id": 41,
+        "question_text": "Quality of reinforcing steel is evaluated by :",
+        "options": {
+            "A": "Compressive strength",
+            "B": "Tensile strength, ductility",
+            "C": "Yicld strength, ductility",
+            "D": "None of the above"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "KPSC AE 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Steel & Glass",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 767,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_41"
+    },
+    {
+        "question_id": 135,
+        "question_text": "Stainless steel is an alloy of which among the following?",
+        "options": {
+            "A": "Type and strength of bricks",
+            "B": "Efflorescence of bricks",
+            "C": "Strength of mortar",
+            "D": "Slenderness ratio"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ESE 2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Steel & Glass",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 778,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_135"
+    },
+    {
+        "question_id": 258,
+        "question_text": "Percentage of carbon content in mild steel is",
+        "options": {
+            "A": "Which is not expected to fall by more than 5%",
+            "B": "Which is not expected to fall by more than 5%",
+            "C": "Which has 95% probability of not being exceeded during the life of the structure",
+            "D": "Which has 85% probability or not being exceeded during the lite of the structure"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "WBPSC AE 2001",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Steel & Glass",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 791,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_1_complete.json_258"
+    },
+    {
+        "question_id": 135,
+        "question_text": "The distance between centre to centre of two adjacent rivet holes should not be less than:",
+        "options": {
+            "A": "2.5 times the diameter of rivet",
+            "B": "1.5 times the diameter of rivet",
+            "C": "1.5 times the diameter of rivet hole",
+            "D": "1.5 times diameter of rivet + 2 mm"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "DMRC AM 2020 Nagaland PSC CTSE 2017 Paper-I PICUL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Steel & Glass",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 946,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_135"
+    },
+    {
+        "question_id": 41,
+        "question_text": "The type of masonry in which the stones of irregular size and shapes are used and there is no regular course, is known as",
+        "options": {
+            "A": "uncoursed rubble masonry",
+            "B": "coursed rubble masonry",
+            "C": "uniform rubble masonry",
+            "D": "dry rubble masonry Rajasthan Nagar Nigam AE Shift-2,"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016 41",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Steel & Glass",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1042,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_41"
+    }
+]

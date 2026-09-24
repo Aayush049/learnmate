@@ -1,0 +1,159 @@
+[
+    {
+        "question_id": 163,
+        "question_text": "Lintels are associated with",
+        "options": {
+            "A": "a Lintel (b) 1-Girder",
+            "B": "Ceilings",
+            "C": "angle iron frame (d) anarch",
+            "D": "neither (a) nor (b) KARNATAKA"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPPSC State Eng, AE. 2008, Ans ; (a) The economical construction on top of a three meter wide window will be that of a lintel. 54",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "Project Management",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1055,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_163"
+    },
+    {
+        "question_id": 104,
+        "question_text": "In construction project management, Sensitivity Analysis is a modeling technique used",
+        "options": {
+            "A": "to identify sensitive components of the project",
+            "B": "to determine impact of unccrtaintics having significant impact on project",
+            "C": "to determine important activities of a project",
+            "D": "to determine accuracy of budget estimation"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "GPSC AE January 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "Project Management",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1081,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_104"
+    },
+    {
+        "question_id": 163,
+        "question_text": "Work study comprises",
+        "options": {
+            "A": "Motion study",
+            "B": "Work measurement",
+            "C": "Probabilistic analysis 10",
+            "D": "Method study and work measurement Nagaland PSC CTSE"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "2017 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "Project Management",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1088,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_163"
+    },
+    {
+        "question_id": 256,
+        "question_text": "Select the correct statement",
+        "options": {
+            "A": "Activity arrows in a CPM network are drawn to scale",
+            "B": "The trail of an arrow represents the finish of an activity",
+            "C": "Arrow head represents the start of an activity",
+            "D": "none of the above Chandigarh SDE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "Project Management",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1101,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_256"
+    },
+    {
+        "question_id": 267,
+        "question_text": "What are the advantages of a good sitc layout or job layout?",
+        "options": {
+            "A": "Smooth and economical working of project",
+            "B": "It reduces the completion time of project",
+            "C": "Provides more safety on site",
+            "D": "All the above"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "Maharashtra PSC (Mains) 2015 Paper-I",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "Project Management",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1102,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_267"
+    },
+    {
+        "question_id": 297,
+        "question_text": "Which of the following Acts specially covers safety legislation of construction industry in India?",
+        "options": {
+            "A": "Contract Labour Act",
+            "B": "Workmen's Compensation Act",
+            "C": "Inter State Migrant Workers Act",
+            "D": "There is no safety legislation oriented to construction industry"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "Maharashtra PSC AE (Mains) 2012 Paper-I ‘Ans ; (d) There is no such act exist in Indian which specially covers safety legislation of construction industry.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "CPM & PERT",
+        "topic": "Project Management",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1106,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_297"
+    }
+]

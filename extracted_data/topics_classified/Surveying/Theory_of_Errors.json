@@ -1,0 +1,30 @@
+[
+    {
+        "question_id": 77,
+        "question_text": "Different types of errors are given below:",
+        "options": {
+            "A": "AandD (b) A, BandC",
+            "B": "Gross error C, Systematic error",
+            "C": "B, CandD (d) AandC",
+            "D": "Random error Which of these crrors represent the crrors in surveying?"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "LMRC AM 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Theory of Errors",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 29,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_77"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "question_id": 1156,
+        "question_text": "In Mohr's diagram, a point above Mohr's envelope indicates",
+        "options": {
+            "A": "Imaginary condition",
+            "B": "Imminent failure condition",
+            "C": "Safe condition",
+            "D": "Condition of maximum obliquity"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UJVNL AE 2016 imaginary condition because failure had happened earlier of that.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Solid Mechanics",
+        "topic": "Shear Strength of Soil",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 594,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1156"
+    }
+]

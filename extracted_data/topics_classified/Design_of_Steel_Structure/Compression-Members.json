@@ -1,0 +1,271 @@
+[
+    {
+        "question_id": 1301,
+        "question_text": "The formula given by LS, code in calculating allowable stress for the design of eccentrically loaded columns is based on",
+        "options": {
+            "A": "Johnson's parabolic formula",
+            "B": "Straight line formula",
+            "C": "Perry's formula",
+            "D": "Secant formula"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC AEE (Civil/Mechanical) 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Compression-Members",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 615,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_1301"
+    },
+    {
+        "question_id": 949,
+        "question_text": "The allowable slenderness ratio of the clements in built-up section is",
+        "options": {
+            "A": "effective length does not exceed 2 times its least lateral dimension.",
+            "B": "effective length does not exceed 3 times its Icast lateral dimension.",
+            "C": "effective length does not exceed 4 times its least lateral dimension.",
+            "D": "effective length docs not exceed 5 times its least lateral dimension."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE Dec 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Compression-Members",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 876,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_949"
+    },
+    {
+        "question_id": 332,
+        "question_text": "The angle of inclination of lacing bars (double or single) with respect to the axis of the stanchion shall be :",
+        "options": {
+            "A": "Not less than 30° nor more than 60°",
+            "B": "not less than 25° nor more than 50°",
+            "C": "not less than 45° nor more than 80°",
+            "D": "_ not less than 40° nor more than 70° (BPSC"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "AE Paper V 2006) Ans; (d) Slenderness ratio of lacing bar should be less than 145. Angle of inclination of lacing bar with longitudinal axis should be kept between 40°-70°.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Compression-Members",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 970,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_332"
+    },
+    {
+        "question_id": 344,
+        "question_text": "A strut is a structural member subjected to:",
+        "options": {
+            "A": "tension in a direction parallel to its longitudinal axis",
+            "B": "tension in a direction perpendicular to its longitudinal axis",
+            "C": "compression in a direction parallcl to its longitudinal axis",
+            "D": "compression in a direction perpendicular to its longitudinal axis"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Compression-Members",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 971,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_344"
+    },
+    {
+        "question_id": 361,
+        "question_text": "For a compression member with double angle section, which of the following section will give larger value of minimum radius of gyration?",
+        "options": {
+            "A": "Equal angles back to back.",
+            "B": "Unequal legged angles with long legs back to back.",
+            "C": "Unequal legged angles with short legs back to back.",
+            "D": "Both (b) and (c)"
+        },
+        "correct_answer": "B",
+        "solution": null,
+        "exam": "OPSC AEE 2019 Paper-I Sikkim PSC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Compression-Members",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 974,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_361"
+    },
+    {
+        "question_id": 382,
+        "question_text": "The batten plates used to connect the components of built-up column are designed to resist",
+        "options": {
+            "A": "longitudinal shear only",
+            "B": "transverse shear only",
+            "C": "longitudinal shear and moment arising from transverse shear",
+            "D": "vertical shear only TRB Poly. Tech. Lect,"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Compression-Members",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 976,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_382"
+    },
+    {
+        "question_id": 383,
+        "question_text": "Buckling load in a steel column is",
+        "options": {
+            "A": "related to length",
+            "B": "directly proportional to the slenderness ratio",
+            "C": "inversely proportional to the slenderness ratio -_----sasss_n0 BF",
+            "D": "non linearity of the slenderness ratio TSGENCO"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Compression-Members",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 976,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_383"
+    },
+    {
+        "question_id": 403,
+        "question_text": "As per IS: 800-2007, the design compressive stress of an axially loaded compression member is given hy",
+        "options": {
+            "A": "Rankine formula",
+            "B": "Secant formula",
+            "C": "Merchant Rankine formula",
+            "D": "Perry Robertson formula"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "GPSC AE Dee 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Compression-Members",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 978,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_403"
+    },
+    {
+        "question_id": 420,
+        "question_text": "Lacing bars and battens is a compound steel columns are designed to resist a transverse shear force of:",
+        "options": {
+            "A": "1/60th of the length between inner end rivets",
+            "B": "1/5th of the length between inner end rivets",
+            "C": "1/40th of the length between inner end rivets",
+            "D": "1/30th of the length between inner end rivets"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "JUVNL AE 2016 . : L",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Compression-Members",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 981,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "option-contamination",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_420"
+    },
+    {
+        "question_id": 425,
+        "question_text": "Maximum permitted slenderness ratio for a structural member carrying compressive load due to D.L. and L.L, is",
+        "options": {
+            "A": "A member carrying compressive loads | 180 resulting from dead load and imposed load.",
+            "B": "A tension member in which a reversed of | 180 direct stress occurs due to loads other than wind or seismic force",
+            "C": "Compression flange of a beam restrained | 300 against lateral torsional buckling",
+            "D": "A member normally acting as a tie ina | 350 roof truss or a bracing system not considered effective when subjected to possible reversal of stresses resulting from the action of wind or carthquake forces."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": null,
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Design of Steel Structure",
+        "topic": "Compression-Members",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 982,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_425"
+    }
+]

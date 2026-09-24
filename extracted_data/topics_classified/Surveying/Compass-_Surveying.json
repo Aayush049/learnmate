@@ -1,0 +1,83 @@
+[
+    {
+        "question_id": 245,
+        "question_text": "A prismatic compass is used to determine",
+        "options": {
+            "A": "Dip at a place",
+            "B": "Declination of a line",
+            "C": "Whole circle bearing of a line",
+            "D": "Quadrangle bearing of a line Nagaland"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "PSC Paper-II 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Compass- Surveying",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 52,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_245"
+    },
+    {
+        "question_id": 254,
+        "question_text": "Statement (1): Compass survey is still used by Geologists to locate the magnetic ores, Statement (II): Local attraction causes errors in compass survey due to terrestrial features- either natural or manmade.",
+        "options": {
+            "A": "N52°W (b) N 63°E",
+            "B": "Both Statement-I and Statement-If are individually true and Statement-I is NOT the correct explanation of Statement-I",
+            "C": "N54°E (d) N52°E",
+            "D": "Statement-L is false but Statement-II is true."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "ESE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Compass- Surveying",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 53,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_254"
+    },
+    {
+        "question_id": 275,
+        "question_text": "Which will be the included angle AOB if the bearings of the lines AO and OB are 130° and 40°, respectively",
+        "options": {
+            "A": "180° (b) 0°",
+            "B": "at right angles to the poles",
+            "C": "90° (d) 45°",
+            "D": "near the cquator Arunachal Pradesh Poly. Tech. Leet."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "PTCUL AE 2016 Kerala PSC AE 2015 RPSC GWD A. En. - 2014 UJVNL AE 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Surveying",
+        "topic": "Compass- Surveying",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 56,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_275"
+    }
+]

@@ -1,0 +1,239 @@
+[
+    {
+        "question_id": 355,
+        "question_text": "In external focusing telescope for focusing",
+        "options": {
+            "A": "Eyepiece is moved",
+            "B": "Objective tube is moved",
+            "C": "Either eyepiece or objective piece is moved",
+            "D": "Neither eyepiece nor objective piece is moved"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Pressure and its Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 67,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_355"
+    },
+    {
+        "question_id": 371,
+        "question_text": "Process of taking levels on each side of a main line at right angles to that line is called.............",
+        "options": {
+            "A": "Differential levelling",
+            "B": "Cross-section levelling",
+            "C": "Profile levelling",
+            "D": "Reciprocal levelling SJVNL ET"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Pressure and its Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 69,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_371"
+    },
+    {
+        "question_id": 383,
+        "question_text": "The distance between successive steps for measuring along a hill in order to achieve higher accuracy shall",
+        "options": {
+            "A": "Decrease with increase of slope",
+            "B": "Increase with increase of slope",
+            "C": "Decrease with decrease of slope",
+            "D": "Independent of the slope Sikkim"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "PSC AE 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Pressure and its Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 70,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_383"
+    },
+    {
+        "question_id": 352,
+        "question_text": "Piezometer is used to measure:",
+        "options": {
+            "A": "pressure head",
+            "B": "total head",
+            "C": "velocity head",
+            "D": "intensity of pressure [UPPSC State Eng. A.E."
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "2007(D]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Pressure and its Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 212,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_352"
+    },
+    {
+        "question_id": 355,
+        "question_text": "Which of the following is an incorrect statement in regard to selection of Mercury to be used in Barometers over other liquids?",
+        "options": {
+            "A": "Mercury has a very high vapor pressure",
+            "B": "Mercury’s freezing point is much lower",
+            "C": "Mercury does not evaporate easily",
+            "D": "Mercury being a metal shines brightly, hence easier to read (UP"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "RVNL AE 2016)",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Pressure and its Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 212,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_355"
+    },
+    {
+        "question_id": 361,
+        "question_text": "Pressure variation of air above sea level is:",
+        "options": {
+            "A": "linearly increasing with height",
+            "B": "exponentially decreasing with height",
+            "C": "parabolic with height",
+            "D": "linearly decreasing with height [HPPSC AE"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2016]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Pressure and its Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 213,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_361"
+    },
+    {
+        "question_id": 371,
+        "question_text": "A barometer is used to measure:",
+        "options": {
+            "A": "Very low pressure",
+            "B": "Very high pressure",
+            "C": "Pressure diff. between two points",
+            "D": "Atmospheric pressure"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "UJVNL AE 2012 Ans (d):; A barometer is a scientific instrument used to measure atmospheric pressure, also called barometric pressure. The atmosphere is the layers of air wrapped around the Earth. ‘That air has a weight and presses against everything it touches as gravity pulls it ta Earth. Barometers measure this pressure.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Pressure and its Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 214,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_371"
+    },
+    {
+        "question_id": 383,
+        "question_text": "When the barometer reads 740.0 mm of mercury, a pressure of 10 kPa suction at that location is equivalent to",
+        "options": {
+            "A": "10.2 m of water (abs)",
+            "B": "9.87 m of water (abs)",
+            "C": "88.72 kPa (abs)",
+            "D": "0.043 kPa (abs)"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "TSPSC AEE 2017 ESE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Pressure and its Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 216,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_383"
+    },
+    {
+        "question_id": 699,
+        "question_text": "The linc joining the piczometric heads at various points in a flow is known as the :",
+        "options": {
+            "A": "Total energy line",
+            "B": "Hydraulic Gradient linc",
+            "C": "Datum",
+            "D": "None of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "KPSC AE 2020",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Fluid Mechanics",
+        "topic": "Pressure and its Measurement",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 262,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_699"
+    }
+]

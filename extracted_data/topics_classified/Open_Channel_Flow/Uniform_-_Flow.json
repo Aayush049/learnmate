@@ -1,0 +1,428 @@
+[
+    {
+        "question_id": 967,
+        "question_text": "‘The remotely sensed data has errors due to the following : @ Imaging characteristics of the sensor (ii) Stability and orbit characteristics of the platform (iii) Motion of the earth (iv) Atmospheric effects",
+        "options": {
+            "A": "(i), Gi), (ii) and (iv)",
+            "B": "(i), (iii) and (iv)",
+            "C": "(i), (ii) and (iv)",
+            "D": "(iii) and (iv)"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GPSC AE Class (1&2) Paper - 2 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Open Channel Flow",
+        "topic": "Uniform - Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 147,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_967"
+    },
+    {
+        "question_id": 978,
+        "question_text": "In the context of aerial photography. ___ is the term for the angle formed between the right line and the edges of the photograph in the direction of the flight.",
+        "options": {
+            "A": "Radial speed",
+            "B": "Second asironautical velocity",
+            "C": "Initial velocity",
+            "D": "First astronautical velocity"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "CIL MT 2017",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Open Channel Flow",
+        "topic": "Uniform - Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 149,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_978"
+    },
+    {
+        "question_id": 960,
+        "question_text": "‘The flow in channels is considered to be in transitional state if the Reynolds numbcr is",
+        "options": {
+            "A": "less than 500",
+            "B": "between 500 and 2000",
+            "C": "between",
+            "D": "greater than 4000"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2000 and 4000",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Open Channel Flow",
+        "topic": "Uniform - Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 303,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_960"
+    },
+    {
+        "question_id": 967,
+        "question_text": "A triangular lined canal section with corners rounded off by a radius equal to the full supply depth of 4 m is likely to have its hydraulic radius as",
+        "options": {
+            "A": "4m",
+            "B": "3m",
+            "C": "2m",
+            "D": "Cannot be ascertained as side slopes are not given"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "GOA PSC Assistant Prof. 2020 AE Civil Engg. Volume-II 3",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Open Channel Flow",
+        "topic": "Uniform - Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 304,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_967"
+    },
+    {
+        "question_id": 978,
+        "question_text": "In Manning's equation, the Manning's constant depends on:",
+        "options": {
+            "A": "Width of channel",
+            "B": "Length of channel",
+            "C": "Slope of channel",
+            "D": "Type of surface of channel"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "OPSC Civil Services Pre 2011",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Open Channel Flow",
+        "topic": "Uniform - Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 305,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_978"
+    },
+    {
+        "question_id": 988,
+        "question_text": "Shooting flow can never occur",
+        "options": {
+            "A": "directly after a hydraulic jump",
+            "B": "ina horizontal channel",
+            "C": "ina mild slope channel",
+            "D": "ina steep slope channel Arunachal Pradesh Poly. Tech. Lect."
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "2019",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Open Channel Flow",
+        "topic": "Uniform - Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 306,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_988"
+    },
+    {
+        "question_id": 1011,
+        "question_text": "In most of the economical rectangular sections of a channel, depth is kept equal to",
+        "options": {
+            "A": "One-fourth of the width",
+            "B": "Three times the hydraulic radius",
+            "C": "Half the width",
+            "D": "Hydraulic mean depth"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "GPSC AE Dec 2018",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Open Channel Flow",
+        "topic": "Uniform - Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 309,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1011"
+    },
+    {
+        "question_id": 1030,
+        "question_text": "The discharge through a trapezoidal channel is maximum when",
+        "options": {
+            "A": "half of top width = sloping side",
+            "B": "top width = half of sloping side",
+            "C": "top width = 1.5 = sloping side",
+            "D": "None of the above"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "APPSC (PHE) AE Paper-2 2012",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Open Channel Flow",
+        "topic": "Uniform - Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 311,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1030"
+    },
+    {
+        "question_id": 1043,
+        "question_text": "Shooting flow can never oceur",
+        "options": {
+            "A": "directly after a hydraulic jump",
+            "B": "ina mild slope channel",
+            "C": "ina horizontal channel",
+            "D": "ina steep slope channel"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "BPSC AE Aug 2019 Papcr-VI",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Open Channel Flow",
+        "topic": "Uniform - Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 313,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1043"
+    },
+    {
+        "question_id": 1054,
+        "question_text": "A channel of trapezoidal section will have maximum discharge when,",
+        "options": {
+            "A": "lop width = half of sloping side",
+            "B": "top width = depth",
+            "C": "top width = 1.5 x sloping side",
+            "D": "half of top width = sloping side"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "JUVNL AE 2016",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Open Channel Flow",
+        "topic": "Uniform - Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 314,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1054"
+    },
+    {
+        "question_id": 1129,
+        "question_text": "Uniform flow in an open channel exist, when the flow is steady and the :",
+        "options": {
+            "A": "Channel is prismatic",
+            "B": "Channel is lined with frictionless surface",
+            "C": "Channel is non-prismatic",
+            "D": "Channel is prismatic and the depth of the flaw is constant throughout the channel"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "UPPCL AE 2015",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Open Channel Flow",
+        "topic": "Uniform - Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 324,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1129"
+    },
+    {
+        "question_id": 1157,
+        "question_text": "For a best symmetrical trapezoidal section of an open channel with a given area of section and side slopes, which one of the following statements holds true:",
+        "options": {
+            "A": "Half the top width is equal to one of the side slopes",
+            "B": "Half the top width plus the bottom width is equal to both the side slopes put together",
+            "C": "Water depth is equal to half bottom width",
+            "D": "Hydraulic mean depth is equal to half the top width"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE 2014",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Open Channel Flow",
+        "topic": "Uniform - Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 328,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1157"
+    },
+    {
+        "question_id": 1162,
+        "question_text": "If the area of cross-section of an open channel remains constant the discharge will be maximum only when",
+        "options": {
+            "A": "pressure head will be maximum",
+            "B": "velocity of flaw will be maximum",
+            "C": "frictional loss will be maximum",
+            "D": "bed slope will be maximum"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "WBPSC AE 2007",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Open Channel Flow",
+        "topic": "Uniform - Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 329,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_2_complete.json_1162"
+    },
+    {
+        "question_id": 1168,
+        "question_text": "The maximum velocity in open channels occurs",
+        "options": {
+            "A": "at which the total energies are same",
+            "B": "at which specific cnergics arc same",
+            "C": "at which specific forces arc same",
+            "D": "which are conjugate to each other ‘WBPSC AE (Common)"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "1998",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Open Channel Flow",
+        "topic": "Uniform - Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 329,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label",
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1168"
+    },
+    {
+        "question_id": 1172,
+        "question_text": "For the most economical trapezoidal channel section,",
+        "options": {
+            "A": "depth of flow = Y = B/2",
+            "B": "hydraulic radius (R) = ¥/2 y -i -",
+            "C": "A circle of radius (y) should be inscribed in trapezoidal section. 1 ¥ L:} - s --> most economical rectangular channel seclion",
+            "D": "hydraulic mean radius is equal to the depth of the flow"
+        },
+        "correct_answer": "C",
+        "solution": null,
+        "exam": "LMRC AM 2015 Ans (c) For most cconomical trapezoidal section",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Open Channel Flow",
+        "topic": "Uniform - Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 330,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "duplicate-option-label"
+        ],
+        "global_id": "Civil_AE_2_complete.json_1172"
+    },
+    {
+        "question_id": 367,
+        "question_text": "Canal designed on the basis of uniform flow is/are :",
+        "options": {
+            "A": "Lined canal",
+            "B": "Unlined canal",
+            "C": "Both lined and unlined canal",
+            "D": "Rigid boundary canal"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "UPRVUNL AE 2014 is rigid boundary canal.",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Open Channel Flow",
+        "topic": "Uniform - Flow",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 2.pdf",
+        "page": 459,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_2_complete.json_367"
+    }
+]

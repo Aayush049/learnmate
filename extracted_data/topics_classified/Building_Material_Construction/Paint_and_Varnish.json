@@ -1,0 +1,79 @@
+[
+    {
+        "question_id": 810,
+        "question_text": "Paints with white lead base are suitable for painting of :",
+        "options": {
+            "A": "Wood work",
+            "B": "Iron work",
+            "C": "Both wood and iron work",
+            "D": "None of the above"
+        },
+        "correct_answer": "A",
+        "solution": null,
+        "exam": "OPSC AEE 2019 Paper-I Punjab PSC Sub divisional Engineer 2014 [UKPSC A E Paper II 2013]",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Paint & Varnish",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 106,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_810"
+    },
+    {
+        "question_id": 815,
+        "question_text": "How much is the covering capacity of cement paint? -",
+        "options": {
+            "A": "About 18 m‘/kg per coat",
+            "B": "About 20 m‘/kg per coat",
+            "C": "About 12 m‘/kg per coat",
+            "D": "About 4 m7/kg_ per coat"
+        },
+        "correct_answer": "D",
+        "solution": null,
+        "exam": "Maharashtra PSC 2015 (Paper-1) Mains",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Paint & Varnish",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 106,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": false,
+        "review_flags": [],
+        "global_id": "Civil_AE_1_complete.json_815"
+    },
+    {
+        "question_id": 810,
+        "question_text": "The force in the member AB of the loaded truss shown in figure, is 200 N te 2000 N, 2000 N a bp won \\ / Ns AA Ave (e} elelere) eI",
+        "options": {
+            "A": "3000 N (Tensile)",
+            "B": "3000 N (compressive)",
+            "C": "6000 N (Tensile)",
+            "D": "60000 N (compressive)"
+        },
+        "correct_answer": null,
+        "solution": null,
+        "exam": "WBPSC AE 2001 25",
+        "branch": null,
+        "year": null,
+        "shift": null,
+        "subject": "Building Material Construction",
+        "topic": "Paint & Varnish",
+        "source": "C:\\Users\\ELYSIUM\\Documents\\VSCODE\\learnmate\\pdfdata\\main pdfs\\Civil AE 1.pdf",
+        "page": 1026,
+        "ocr_method": "tesseract-columns",
+        "validation_status": "ok",
+        "review_required": true,
+        "review_flags": [
+            "no-printed-answer"
+        ],
+        "global_id": "Civil_AE_1_complete.json_810"
+    }
+]
