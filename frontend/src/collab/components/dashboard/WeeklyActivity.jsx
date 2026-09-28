@@ -27,12 +27,16 @@ export default function WeeklyActivity() {
   // Assuming max 10 hours for 100%
   const maxHours = 10;
 
+  // Real weekly total, derived from the same data the chart already plots.
+  const totalHours = activity.reduce((sum, item) => sum + (item.hours || 0), 0);
+  const totalLabel = `${Math.floor(totalHours)}h ${Math.round((totalHours % 1) * 60)}m`;
+
   return (
     <section className="card">
       <div className="card-header">
         <div>
-          <h3>Weekly Study Activity</h3>
-          <p>Your previous 7 days preparation consistency</p>
+          <h3>Study Activity</h3>
+          <p>{totalLabel} this week</p>
         </div>
       </div>
 
@@ -41,7 +45,7 @@ export default function WeeklyActivity() {
           let h = (item.hours / maxHours) * 100;
           if (h > 100) h = 100;
           const displayDay = item.day.substring(0, 1);
-          
+
           return (
             <div className="bar-wrap" key={index} title={`${item.hours} hours`}>
               <div className="bar" style={{ height: `${h}%` }} />

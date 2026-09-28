@@ -1,10 +1,27 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
+import { CheckSquare, Square } from 'lucide-react';
 import { Topbar } from '../../../components/layout/Topbar';
-import { Card, CardBody } from '../../../components/ui/Card';
-import { Button } from '../../../components/ui/Button';
+import { Card } from '../../../components/ui/Card';
 import { hierarchyAPI } from '../../../api/hierarchy';
 import type { SubjectWithChapters, ChapterWithTopics, TopicSimple } from '../../../types';
+
+const TopicCheckbox = ({ topicId }: { topicId: number }) => {
+  const [checked, setChecked] = useState(false);
+  return (
+    <button
+      onClick={() => setChecked(!checked)}
+      className="p-1 rounded hover:bg-gray-100 transition-colors"
+      aria-label={`${checked ? 'Uncheck' : 'Check'} ${topicId}`}
+    >
+      {checked ? (
+        <CheckSquare size={20} className="text-primary" />
+      ) : (
+        <Square size={20} className="text-gray-300" />
+      )}
+    </button>
+  );
+};
 
 export const SyllabusPage: React.FC = () => {
   const { subjectId } = useParams();
@@ -34,41 +51,38 @@ export const SyllabusPage: React.FC = () => {
     <>
       <Topbar title={`${subject?.name || 'Subject'} Syllabus`} />
       <div className="flex-1 overflow-auto p-6">
-        <button className="mb-4 text-blue-600" onClick={() => navigate(`/branches/${subject?.branch_id}/subjects`)}>
-          &larr; Back to Subjects
+        <button className="mb-6 flex items-center text-gray-500 hover:text-blue-600 transition-colors font-medium text-sm" onClick={() => navigate(`/branches/${subject?.branch_id}/subjects`)}>
+          <span className="mr-1">&larr;</span> Back to Subjects
         </button>
 
-        <h2 className="text-2xl font-bold mb-6">Chapters & Topics</h2>
+        <div className="mb-8">
+          <h2 className="text-3xl font-extrabold text-gray-900 tracking-tight">Chapters & Topics</h2>
+          <p className="text-gray-600 mt-2">Select a topic to start your practice session.</p>
+        </div>
 
         {subject?.chapters && subject.chapters.length > 0 ? (
           <div className="space-y-6">
             {subject.chapters.map((chapter: ChapterWithTopics) => (
-              <div key={chapter.id} className="bg-white p-6 rounded-lg shadow-sm border border-gray-100">
-                <h3 className="text-xl font-semibold mb-4 text-gray-800">{chapter.name}</h3>
-                {chapter.description && <p className="text-gray-600 mb-4">{chapter.description}</p>}
+              <Card key={chapter.id} className="p-6">
+                <h3 className="text-xl font-semibold mb-4 text-gray-900">{chapter.name}</h3>
+                {chapter.description && <p className="text-gray-600 mb-6">{chapter.description}</p>}
 
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                <div className="space-y-2">
                   {chapter.topics && chapter.topics.length > 0 ? (
-                    chapter.topics.map((topic: TopicSimple) => (
-                      <Card key={topic.id} className="hover:shadow-md transition-shadow">
-                        <CardBody className="p-4">
-                          <h4 className="font-medium text-gray-900 mb-2">{topic.name}</h4>
-                          <Button
-                            variant="primary"
-                            size="sm"
-                            fullWidth
-                            onClick={() => navigate(`/practice?topic_id=${topic.id}`)}
-                          >
-                            Practice
-                          </Button>
-                        </CardBody>
-                      </Card>
+                    chapter.topics.map((topic: TopicSimple, index: number) => (
+                      <div key={topic.id} className="flex items-center justify-between p-3 rounded-lg hover:bg-gray-50 border border-transparent hover:border-gray-100 transition-all">
+                        <div className="flex items-center gap-4 cursor-pointer flex-grow" onClick={() => navigate(`/practice?topic_id=${topic.id}`)}>
+                          <span className="text-sm font-mono text-gray-400 w-8">{String(index + 1).padStart(2, '0')}</span>
+                          <span className="font-medium text-gray-900">{topic.name}</span>
+                        </div>
+                        <TopicCheckbox topicId={topic.id} />
+                      </div>
                     ))
                   ) : (
                     <p className="text-gray-500 text-sm italic">No topics found in this chapter.</p>
                   )}
                 </div>
-              </div>
+              </Card>
             ))}
           </div>
         ) : (

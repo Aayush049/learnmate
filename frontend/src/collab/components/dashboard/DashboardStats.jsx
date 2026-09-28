@@ -25,10 +25,35 @@ export default function DashboardStats() {
 
   return (
     <section className="stats-grid">
-      <StatCard icon={<BookOpen />} label="Civil Syllabus" value={`${stats.syllabus_completion_percent}%`} sub="Current progress" />
-      <StatCard icon={<Clock3 />} label="Study Time" value={`${stats.total_study_time_hours}h`} sub="This preparation cycle" />
-      <StatCard icon={<Brain />} label="PYQs Solved" value={stats.pyqs_solved} sub="Total solved" />
-      <StatCard icon={<Flame />} label="Study Streak" value={`${stats.streak_days} days`} sub="Keep it going!" />
+      <StatCard
+        icon={<BookOpen />}
+        tone="purple"
+        label="Syllabus Progress"
+        value={`${stats.syllabus_completion_percent}%`}
+        sub="Across the full Civil syllabus"
+        progress={stats.syllabus_completion_percent}
+      />
+      <StatCard
+        icon={<Clock3 />}
+        tone="blue"
+        label="Study Time"
+        value={`${stats.total_study_time_hours}h`}
+        sub="This preparation cycle"
+      />
+      <StatCard
+        icon={<Brain />}
+        tone="teal"
+        label="PYQs Solved"
+        value={stats.pyqs_solved}
+        sub="Total questions attempted"
+      />
+      <StatCard
+        icon={<Flame />}
+        tone="orange"
+        label="Study Streak"
+        value={`${stats.streak_days} days`}
+        sub={stats.streak_days > 0 ? "Keep it going!" : "Start today to begin"}
+      />
     </section>
   );
 }

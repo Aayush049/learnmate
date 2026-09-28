@@ -9,7 +9,7 @@ import ExamCountdown from "./ExamCountdown";
 
 export default function Dashboard() {
   return (
-    <div className="page">
+    <div className="page dashboard-page">
       <section className="hero">
         <div>
           <span className="eyebrow">SSC JE CIVIL • PERSONALIZED PREPARATION</span>

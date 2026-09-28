@@ -1,46 +1,79 @@
 import { useState, useEffect } from "react";
 import { NavLink } from "react-router-dom";
-import { Bot, Sparkles } from "lucide-react";
+import { Bot, Sparkles, ArrowRight } from "lucide-react";
 import api from "../../../api/client";
 
+// Same endpoint, same response shape as before. Only the presentation
+// changes - the old version used a large gradient panel that dominated
+// the layout; this is a compact card that matches the reference.
 export default function AIRecommendation() {
   const [rec, setRec] = useState(null);
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     async function fetchRec() {
       try {
-        const res = await api.get("/recommendations/");
+        const res = await api.get("/api/v1/recommendations/");
         setRec(res.data);
       } catch (err) {
         console.error("AI Recommendation error:", err);
+      } finally {
+        setLoading(false);
       }
     }
     fetchRec();
   }, []);
 
+  // Subject name, when the backend framed the rec as "Focus on <subject>".
+  // Derived from the existing title string - no new data requested.
+  const subject = rec?.title?.startsWith("Focus on ") ? rec.title.replace("Focus on ", "") : null;
+
   return (
-    <section className="card ai-card relative overflow-hidden bg-gradient-to-br from-indigo-50 to-blue-50 border-blue-100">
-      <div className="absolute top-0 right-0 p-4 opacity-10">
-        <Sparkles size={100} />
-      </div>
-      <div className="ai-heading">
-        <div className="ai-spark bg-blue-600 text-white shadow-lg shadow-blue-500/30 font-serif mr-3">✦</div>
+    <section className="card ai-card">
+      <div className="card-header">
         <div>
-          <h3 className="text-blue-900 font-bold">AI Study Recommendation</h3>
-          <p className="text-blue-700/70 text-sm font-medium">Based on your SSC JE Civil activity</p>
+          <h3>Today's Focus</h3>
+          <p>Recommended from your recent activity</p>
         </div>
+        <span className="ai-badge">
+          <Sparkles size={12} /> AI Recommended
+        </span>
       </div>
 
-      <div className="ai-message bg-white/80 backdrop-blur border border-white p-4 rounded-lg my-4 shadow-sm z-10 relative">
-        <strong className="text-gray-900 block mb-1">{rec ? rec.title : "Analyzing your performance..."}</strong>
-        <p className="text-gray-700 text-sm leading-relaxed">
-          {rec ? rec.rationale : "Please wait while we crunch your recent test numbers to build a personalized study vector."}
-        </p>
-      </div>
+      {loading ? (
+        <div className="ai-loading">
+          <div className="ai-spark">
+            <Bot size={17} />
+          </div>
+          <div className="ai-loading-lines">
+            <span />
+            <span />
+            <span />
+          </div>
+          <p>Analysing your recent performance…</p>
+        </div>
+      ) : rec ? (
+        <>
+          <div className="ai-message">
+            <strong>{subject || rec.title}</strong>
+            <p>{rec.rationale}</p>
+          </div>
 
-      <NavLink to="/learn/ai-tutor" className="primary-button z-10 relative bg-blue-600 hover:bg-blue-700 text-white shadow shadow-blue-500/20 border-none transition-all hover:-translate-y-0.5">
-        <Bot size={17} /> {rec ? rec.action : "Ask Civil AI Tutor"}
-      </NavLink>
+          <div className="ai-actions">
+            <NavLink to="/learn/ai-tutor" className="primary-button">
+              Start Focus Session <ArrowRight size={14} />
+            </NavLink>
+            <NavLink to="/learn/pyqs" className="text-link">
+              {rec.action}
+            </NavLink>
+          </div>
+        </>
+      ) : (
+        <div className="mini-empty">
+          <p>No recommendation available yet.</p>
+          <span>Take a mock test so we can analyse your performance.</span>
+        </div>
+      )}
     </section>
   );
 }

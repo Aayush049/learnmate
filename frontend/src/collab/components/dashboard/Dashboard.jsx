@@ -1,15 +1,21 @@
 import { useState, useEffect } from "react";
 import { NavLink } from "react-router-dom";
+import { ArrowRight, CheckCircle2 } from "lucide-react";
 import DashboardStats from "./DashboardStats";
 import ContinueLearning from "./ContinueLearning";
 import AIRecommendation from "./AIRecommendation";
 import Goal from "./Goal";
 import WeeklyActivity from "./WeeklyActivity";
 import ExamCountdown from "./ExamCountdown";
+import Achievements from "./Achievements";
+import SubjectPerformance from "./SubjectPerformance";
+import Motivation from "./Motivation";
 import { useAuth } from "../../../contexts/AuthContext";
 import { hierarchyAPI } from "../../../api/hierarchy";
 import { goalsAPI } from "../../../api/goals";
 import { analyticsAPI } from "../../../api/analytics";
+import bgimg from "../../../assets/bgimg.jpg";
+
 
 export default function Dashboard() {
   const { user } = useAuth();
@@ -27,18 +33,20 @@ export default function Dashboard() {
           analyticsAPI.getProgress() // from /analytics/progress
         ]);
 
-        const colors = ["purple", "blue", "orange", "cyan", "red", "green"];
+        const colors = ["purple", "blue", "teal", "orange", "red", "cyan"];
 
         const authSubjects = hierachyData.slice(0, 4).map((sub, index) => {
           // Find matching progress data
           const prog = progressData.find(p => p.subject === sub.name);
           const currentProgress = prog ? prog.progress : 0;
           const currentTopics = prog ? prog.totalTopics : 0;
+          const completedTopics = prog ? prog.completedTopics : 0;
 
           return {
             name: sub.name,
             progress: currentProgress,
             topics: currentTopics,
+            completedTopics: completedTopics,
             color: colors[index % colors.length],
             icon: sub.icon || sub.name.substring(0, 2).toUpperCase()
           };
@@ -90,97 +98,97 @@ export default function Dashboard() {
   const remainingGoals = goals.filter(g => !g.is_completed).length;
 
   return (
-    <div className="page">
-      <section className="hero">
-        <div>
-          <span className="eyebrow">SSC JE CIVIL • PERSONALIZED PREPARATION</span>
-          <h2>Good morning, {firstName} 👋</h2>
-          <p>
-            Your SSC JE Civil study plan is ready. Focus on your weakest
-            topics first.
-          </p>
-        </div>
-
-        <ExamCountdown />
-      </section>
-
-      <DashboardStats />
-
-      <div className="dashboard-grid">
-        <ContinueLearning subjects={subjects} />
-        <AIRecommendation />
-      </div>
-
-      <div className="dashboard-grid">
-        <section className="card">
-          <div className="card-header">
-            <div>
-              <h3>Today's SSC JE Goals</h3>
-              <p>{remainingGoals} tasks remaining</p>
+    <div className="page dashboard-page">
+      {/* LEVEL 1 - Welcome + countdown */}
+      <div className="hero-row">
+        <section className="hero-card welcome-hero">
+          <div className="hero-text">
+            <span className="eyebrow">SSC JE CIVIL • PERSONALIZED PREPARATION</span>
+            <h2>Good morning, {firstName} 👋</h2>
+            <p>Let's crack SSC JE Civil today. Focus on your weakest topics first.</p>
+            <div className="hero-cta">
+              <NavLink to="/learn/textbook" className="primary-button hero-button">
+                Continue Preparation <ArrowRight size={15} />
+              </NavLink>
+              <span className="hero-hint">
+                {remainingGoals > 0
+                  ? `${remainingGoals} task${remainingGoals > 1 ? "s" : ""} left today`
+                  : "Plan today's tasks below"}
+              </span>
             </div>
-            <NavLink to="/track/goals" className="text-link">
-              Manage
-            </NavLink>
           </div>
-
-          <form onSubmit={handleAddGoal} className="flex gap-2 mb-4">
-            <input 
-              type="text" 
-              className="flex-1 p-2 border rounded" 
-              placeholder="Add a new goal..." 
-              value={newGoalText}
-              onChange={e => setNewGoalText(e.target.value)}
-            />
-            <button className="primary-button text-sm whitespace-nowrap">Add</button>
-          </form>
-
-          <div className="goal-list">
-            {goals.map(g => (
-              <Goal 
-                key={g.id} 
-                goal={g} 
-                onToggle={handleToggleGoal} 
-                onDelete={handleDeleteGoal} 
-              />
-            ))}
-            {goals.length === 0 && (
-              <p className="text-gray-500 text-sm italic py-2">No goals set yet.</p>
-            )}
+          <div className="hero-right-zone">
+            <img src={bgimg} alt="Engineering" className="hero-illustration-img" />
           </div>
         </section>
-
-        <WeeklyActivity />
+        <ExamCountdown />
       </div>
 
-      <section className="card exam-focus-card">
-        <div className="card-header">
-          <div>
-            <h3>SSC JE Civil Focus</h3>
-            <p>Use your recent performance to decide what to study next.</p>
-          </div>
-          <NavLink to="/track/performance" className="text-link">
-            View performance
-          </NavLink>
+      {/* LEVEL 2 - Four key statistics */}
+      <DashboardStats />
+
+      {/* Columns for Level 3 & 4 Layout */}
+      <div className="dashboard-columns">
+        <div className="dashboard-left">
+          <section>
+            <ContinueLearning subjects={subjects} />
+          </section>
+          <SubjectPerformance />
+          <section className="card card-checklist">
+            <div className="card-header">
+              <div>
+                <h3>Today's Study Plan</h3>
+                <p>{remainingGoals} tasks remaining</p>
+              </div>
+              <NavLink to="/track/goals" className="text-link">
+                Manage
+              </NavLink>
+            </div>
+
+            {goals.length === 0 ? (
+              <div className="mini-empty compact">
+                <div className="flex justify-center mb-2">
+                  <div className="w-8 h-8 rounded-full bg-green-100 flex items-center justify-center text-green-600">
+                    <CheckCircle2 size={16} />
+                  </div>
+                </div>
+                <p>No tasks planned yet</p>
+                <span>Add your first study task to start your day.</span>
+              </div>
+            ) : (
+                <div className="goal-list">
+                  {goals.map(g => (
+                    <Goal
+                      key={g.id}
+                      goal={g}
+                      onToggle={handleToggleGoal}
+                      onDelete={handleDeleteGoal}
+                    />
+                  ))}
+                </div>
+            )}
+
+            <form onSubmit={handleAddGoal} className="goal-add-form mt-4 pt-4 border-t border-gray-100">
+              <input
+                type="text"
+                className="goal-input"
+                placeholder="+ Add task"
+                value={newGoalText}
+                onChange={e => setNewGoalText(e.target.value)}
+              />
+            </form>
+          </section>
         </div>
 
-        <div className="focus-grid">
-          <div>
-            <span>Priority</span>
-            <strong>Soil Mechanics</strong>
-            <small>Needs more practice based on recent accuracy.</small>
-          </div>
-          <div>
-            <span>Next target</span>
-            <strong>25 PYQs</strong>
-            <small>Mix conceptual and numerical questions.</small>
-          </div>
-          <div>
-            <span>Revision mode</span>
-            <strong>Formula Review</strong>
-            <small>Revise formulas before starting the next mock.</small>
-          </div>
+        <div className="dashboard-right">
+          <AIRecommendation />
+          <WeeklyActivity />
+          <Achievements />
         </div>
-      </section>
+      </div>
+
+      {/* LEVEL 5 - Motivational banner */}
+      <Motivation />
     </div>
   );
 }

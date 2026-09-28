@@ -1,26 +1,36 @@
 import { useEffect, useState } from "react";
 import { Clock3 } from "lucide-react";
 import api from "../../../api/client";
+import { analyticsAPI } from "../../../api/analytics";
 
 export default function ExamCountdown() {
   const [examDate, setExamDate] = useState(null);
   const [daysLeft, setDaysLeft] = useState(null);
+  const [progress, setProgress] = useState(0);
 
   useEffect(() => {
-    async function fetchExamDate() {
+    async function fetchExamData() {
       try {
-        // Find SSC JE exam
-        const response = await api.get("/exams/");
-        const exams = response.data;
+        const [examRes, progRes] = await Promise.all([
+          api.get("/api/v1/exams/"),
+          analyticsAPI.getProgress()
+        ]);
+
+        const exams = examRes.data;
         if (exams && exams.length > 0) {
-          // Assuming the latest or matching name
-          setExamDate("2026-12-01"); // We will hardcode date since exams might not have date field yet or we can simulate
+          setExamDate("2026-12-01");
+        }
+
+        // Calculate aggregate progress percent
+        if (progRes && progRes.length > 0) {
+          const totalProgress = progRes.reduce((acc, curr) => acc + curr.progress, 0);
+          setProgress(Math.round(totalProgress / progRes.length));
         }
       } catch (error) {
         console.error("Could not load exam data:", error);
       }
     }
-    fetchExamDate();
+    fetchExamData();
   }, []);
 
   useEffect(() => {
@@ -48,14 +58,25 @@ export default function ExamCountdown() {
   return (
     <div className="exam-card">
       <div className="exam-icon">
-        <Clock3 size={20} />
+        <Clock3 size={22} />
       </div>
 
-      <div>
-        <span>SSC JE exam countdown</span>
-        <strong>
-          {daysLeft === null ? "Loading..." : `${daysLeft} days`}
-        </strong>
+      <div className="exam-body">
+        <span className="exam-label">SSC JE 2026</span>
+        {daysLeft === null ? (
+          <strong className="exam-value">Loading…</strong>
+        ) : (
+          <strong className="exam-value">
+            {daysLeft}
+            <em>days left</em>
+          </strong>
+        )}
+        <div className="exam-progress-wrap">
+            <div className="exam-progress-bar">
+                <div className="exam-progress-fill" style={{ width: `${progress}%` }}></div>
+            </div>
+            <span className="exam-progress-text">Your preparation {progress}%</span>
+        </div>
       </div>
     </div>
   );

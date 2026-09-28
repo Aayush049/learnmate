@@ -120,6 +120,27 @@ A production-grade administrative dashboard with real server-side queries and ze
 - **Root Cause of "Cannot reach the API":** When port 5173 was held by background node processes, Vite silently jumped to ports 5174/5175. Because Vite dev mode bakes `VITE_API_URL` on server start, old stale dev servers were pointing to outdated or inactive backend ports.
 - **Fix:** Automated cleanup script to kill processes on conflicting ports and bind cleanly to canonical ports (`8002` for FastAPI, `5173` for Vite).
 
+### F. Modern 5-Level Dashboard Redesign & UI Integration (Ported from branch `origin/refine-ui`)
+A modern, 5-level hierarchical dashboard layout with SaaS design system variables and real data binding:
+1. **Level 1 — Welcome Hero & Exam Countdown**:
+   - `welcome-hero` with personalized user greeting, dynamic remaining daily task counter, CTA button to textbook, and Civil engineering artwork (`frontend/src/assets/bgimg.jpg`).
+   - `ExamCountdown.jsx` with real-time countdown to SSC JE Civil 2025.
+2. **Level 2 — Four Key Metric Statistics**:
+   - `DashboardStats.jsx` + `StatCard.jsx` showing syllabus completion %, study hours, solved PYQs, and daily streaks with circular progress rings and sparkline indicators.
+3. **Level 3 & 4 (Left Column) — Learning & Performance Actionables**:
+   - `ContinueLearning.jsx`: Active subject resume block with progress bar and direct links to syllabus chapters.
+   - `SubjectPerformance.jsx`: Real-time subject accuracy matrix with alert callout identifying lowest-scoring subject and direct practice CTA.
+   - `Goal.jsx`: Interactive daily study plan checklist with real-time add, toggle, and delete functionality.
+4. **Level 3 & 4 (Right Column) — Insights & Milestone Achievements**:
+   - `AIRecommendation.jsx`: AI Copilot study advice card with personalized recommendation triggers.
+   - `WeeklyActivity.jsx`: 7-day study time bar chart.
+   - `Achievements.jsx`: Milestone badges with real unlocked states (streak, PYQ count, accuracy, syllabus mastery) and fallback lock state.
+5. **Level 5 — Motivational Engineering Banner**:
+   - `Motivation.jsx`: Full-width Civil Engineering quote banner with vector art and direct link to performance tracking.
+6. **Design System & CSS Styling (`frontend/src/index.css`)**:
+   - Integrated SaaS color palette variables (`--bg-color`, `--sidebar-bg`, `--primary-color: #6C46E8`, `--secondary-color: #22C7B8`, etc.).
+   - Preserved independent `.sidebar nav` vertical scrolling rules with custom thin scrollbars.
+
 ---
 
 ## 4. Current Work & Next Up
