@@ -41,6 +41,12 @@ class Settings(BaseSettings):
     GEMINI_API_KEY: str | None = None
     GOOGLE_CLIENT_ID: str | None = None
 
+    # Payment Gateway (Razorpay / Pluggable)
+    PAYMENT_PROVIDER: str = "razorpay"
+    RAZORPAY_KEY_ID: str | None = None
+    RAZORPAY_KEY_SECRET: str | None = None
+    RAZORPAY_WEBHOOK_SECRET: str | None = None
+
     model_config = SettingsConfigDict(env_file=".env", case_sensitive=True, extra="ignore")
 
 settings = Settings()

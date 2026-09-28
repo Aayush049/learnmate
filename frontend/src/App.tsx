@@ -6,6 +6,15 @@ import { LandingPage } from './pages/public/LandingPage';
 import { LoginPage } from './pages/public/LoginPage';
 import { RegisterPage } from './pages/public/RegisterPage';
 
+// Payment & Legal Pages
+import { PricingPage } from './pages/payment/PricingPage';
+import { PaymentSuccessPage } from './pages/payment/PaymentSuccessPage';
+import { PaymentFailedPage } from './pages/payment/PaymentFailedPage';
+import { TermsPage } from './pages/legal/TermsPage';
+import { PrivacyPolicyPage } from './pages/legal/PrivacyPolicyPage';
+import { RefundPolicyPage } from './pages/legal/RefundPolicyPage';
+import { AdminPaymentsPage } from './pages/payment/AdminPaymentsPage';
+
 // Admin Pages
 import { AdminLayout } from './components/layout/AdminLayout';
 import { AdminDashboardPage } from './pages/admin/AdminDashboardPage';
@@ -39,12 +48,21 @@ function App() {
             <Route path="/" element={<LandingPage />} />
             <Route path="/login" element={<LoginPage />} />
             <Route path="/register" element={<RegisterPage />} />
+            <Route path="/pricing" element={<PricingPage />} />
+            <Route path="/payment/success" element={<PaymentSuccessPage />} />
+            <Route path="/payment/failed" element={<PaymentFailedPage />} />
+
+            {/* Statutory Legal Routes */}
+            <Route path="/legal/terms" element={<TermsPage />} />
+            <Route path="/legal/privacy" element={<PrivacyPolicyPage />} />
+            <Route path="/legal/refund-policy" element={<RefundPolicyPage />} />
 
             {/* Admin Routes */}
             <Route element={<AdminRoute />}>
               <Route element={<AdminLayout />}>
                 <Route path="/admin" element={<Navigate to="/admin/dashboard" replace />} />
                 <Route path="/admin/dashboard" element={<AdminDashboardPage />} />
+                <Route path="/admin/payments" element={<AdminPaymentsPage />} />
                 <Route path="/admin/users" element={<AdminUsersPage />} />
                 <Route path="/admin/hierarchy" element={<AdminHierarchyPage />} />
                 <Route path="/admin/questions" element={<AdminQuestionsPage />} />

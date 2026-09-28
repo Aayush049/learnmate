@@ -124,3 +124,29 @@ def get_current_user_optional(
         return db.query(User).filter(User.email == email).first()
     except JWTError:
         return None
+
+
+def require_active_entitlement(
+    current_user: User = Depends(get_current_active_user),
+    db: Session = Depends(get_db),
+) -> User:
+    """
+    Access gate dependency for commercial & premium features.
+    Admins are automatically granted full bypass access.
+    """
+    if current_user.is_admin:
+        return current_user
+
+    from app.services.payment_service import PaymentService
+    entitlement = PaymentService.get_user_entitlement(db, current_user)
+    if entitlement.has_active_entitlement:
+        return current_user
+
+    raise HTTPException(
+        status_code=status.HTTP_403_FORBIDDEN,
+        detail={
+            "message": "Active Pro/Master subscription required to access this resource.",
+            "code": "SUBSCRIPTION_REQUIRED",
+            "upgrade_url": "/pricing"
+        }
+    )

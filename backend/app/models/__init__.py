@@ -35,3 +35,5 @@ from .note import Note
 __all__.append('Note')
 from .flashcard import Flashcard
 __all__.append('Flashcard')
+from .payment import Plan, Payment, Entitlement, Refund
+__all__.extend(['Plan', 'Payment', 'Entitlement', 'Refund'])

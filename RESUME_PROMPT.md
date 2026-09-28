@@ -158,6 +158,35 @@ A modern, 5-level hierarchical dashboard layout with SaaS design system variable
 5. **Synchronized with `origin/main`**:
    - All repository cleanup, documentation, and bugfix changes are committed and pushed cleanly to GitHub `main`.
 
+### H. Commercial Access & Payment Gateway Architecture (V1)
+A production-grade, PCI DSS compliant, and DPDP Act 2025 aligned payment & entitlement subsystem for LearnMate:
+1. **Database-Driven Dynamic Pricing (`Plan` Entity)**:
+   - Dynamic plan management supporting dynamic price updates, billing intervals (`free`, `monthly`, `annual`, `lifetime`), discount percentages, and feature lists.
+   - Seeded default tiers: `Free Starter` (₹0), `Pro Monthly` (₹499), `Pro Annual` (₹1,499), and `Master Lifetime Pass` (₹2,999).
+2. **Pluggable Payment Gateway Architecture (`backend/app/services/payment_service.py`)**:
+   - `BasePaymentGateway` abstract interface.
+   - `RazorpayGateway`: Integration with Razorpay India API v1 for hosted checkout order creation, cryptographic HMAC SHA-256 signature verification, webhook processing, and statutory refunds.
+   - `MockPaymentGateway`: Built-in sandbox gateway for local development and CI testing without requiring live third-party API credentials.
+3. **Cryptographic Verification & Server-Side Entitlement Gatekeeping**:
+   - `verify_payment_and_grant_entitlement`: Atomically captures payments, verifies signatures, and provisions/extends `Entitlement` records.
+   - `require_active_entitlement` dependency in `backend/app/auth.py`: Protects premium mock tests and advanced features with automatic Admin role bypass.
+   - Webhook processing with idempotency guards for asynchronous payment capture events (`payment.captured`, `payment.failed`).
+4. **PCI DSS & Data Privacy Boundaries**:
+   - Zero raw cardholder data (PAN, CVV, expiry dates) is transmitted, processed, or persisted on LearnMate servers.
+   - Secure server-to-server metadata with DPDP Act 2025 consent collection prior to checkout launch.
+5. **Statutory Refund & Cancellation Flow**:
+   - Direct digital purchase policy with clear statutory exception handling (duplicate charges, technical delivery failures).
+   - Auditable Admin refund processing (`admin_process_refund`) that triggers gateway reversal, logs admin ID/reason, and automatically revokes active user entitlements.
+6. **Complete Frontend UI/UX Flow**:
+   - `/pricing`: Dynamic pricing tier cards, billing interval switches, feature comparison table, and Razorpay modal integration.
+   - `/payment/success`: Verification confirmation, transaction receipt summary, and direct links to CBT mocks & PYQs.
+   - `/payment/failed`: Diagnostic failure screen with order reference, common gateway failure causes, retry action, and support contact.
+   - `/admin/payments`: Financial administration hub with Gross Revenue, Captured Orders, Active Entitlements, and Statutory Refund metrics, live searchable transaction logs, and refund execution modal.
+   - `SettingsPage.jsx`: Subscription & Entitlement management widget showing current plan status, validity days, and upgrade CTAs.
+   - Legal Policies: `/legal/terms`, `/legal/privacy`, and `/legal/refund-policy`.
+7. **Automated Unit Testing (`backend/tests/test_payments.py`)**:
+   - Standalone in-memory SQLite test suite verifying plan seeding, mock order generation, HMAC verification, lifetime entitlements, and admin statutory refund revocations.
+
 ---
 
 ## 4. Current Work & Next Up
@@ -182,13 +211,17 @@ learnmate/
 │   │   │   ├── analytics.py      # Dashboard stats, weekly activity, performance, AI profile & study plans
 │   │   │   ├── auth.py           # Login, registration, token refresh, Google OAuth
 │   │   │   ├── mock_tests.py     # Mock test creation, retrieval, and submission
+│   │   │   ├── payments.py       # Payment checkout, HMAC verification, webhooks, and history
 │   │   │   ├── questions.py      # Question retrieval and answer verification
 │   │   │   └── tutor.py          # AI Tutor Gemini endpoint
 │   │   ├── services/
-│   │   │   └── ai_personality.py # Gemini candidate profiling & study plan generator
-│   │   ├── models/               # SQLAlchemy models (User, Subject, Chapter, Topic, Question, MockTest)
-│   │   ├── schemas/              # Pydantic request/response schemas
+│   │   │   ├── ai_personality.py # Gemini candidate profiling & study plan generator
+│   │   │   └── payment_service.py# Pluggable Razorpay & Mock payment gateway service
+│   │   ├── models/               # SQLAlchemy models (User, Payment, Plan, Entitlement, Refund, etc.)
+│   │   ├── schemas/              # Pydantic request/response schemas (Payment, Entitlement, etc.)
 │   │   └── core/                 # Config, security, database session
+│   ├── tests/
+│   │   └── test_payments.py      # Isolated in-memory SQLite payment & entitlement test suite
 │   └── .env                      # Database URL and secret keys
 ├── frontend/
 │   ├── src/
@@ -196,13 +229,24 @@ learnmate/
 │   │   │   ├── admin.ts          # Typed admin API client
 │   │   │   ├── analytics.ts      # Analytics, performance, and AI profile client
 │   │   │   ├── mockTests.ts      # Test attempt & mock test API client
+│   │   │   ├── payments.ts       # Typed payment gateway & entitlement client
 │   │   │   └── questions.ts      # Question fetching & answer verification API
-│   │   ├── pages/admin/
-│   │   │   ├── AdminDashboardPage.tsx
-│   │   │   ├── AdminUsersPage.tsx
-│   │   │   ├── AdminQuestionsPage.tsx
-│   │   │   ├── AdminHierarchyPage.tsx
-│   │   │   └── AdminMockTestsPage.tsx
+│   │   ├── pages/
+│   │   │   ├── admin/
+│   │   │   │   ├── AdminDashboardPage.tsx
+│   │   │   │   ├── AdminUsersPage.tsx
+│   │   │   │   ├── AdminQuestionsPage.tsx
+│   │   │   │   ├── AdminHierarchyPage.tsx
+│   │   │   │   ├── AdminMockTestsPage.tsx
+│   │   │   │   └── AdminPaymentsPage.tsx # Payment & revenue auditing with statutory refunds
+│   │   │   ├── payment/
+│   │   │   │   ├── PricingPage.tsx       # Student pricing tiers & checkout
+│   │   │   │   ├── PaymentSuccessPage.tsx# Post-checkout receipt & onboarding
+│   │   │   │   └── PaymentFailedPage.tsx # Checkout diagnostics & retry
+│   │   │   └── legal/
+│   │   │       ├── TermsPage.tsx         # Terms of service
+│   │   │       ├── PrivacyPage.tsx       # Privacy policy (DPDP Act 2025 compliant)
+│   │   │       └── RefundPolicyPage.tsx  # Statutory refund & cancellation policy
 │   │   ├── collab/
 │   │   │   ├── components/
 │   │   │   │   ├── layout/       # Sidebar (scrollable nav), Topbar
