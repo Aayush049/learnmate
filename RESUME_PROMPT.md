@@ -149,8 +149,11 @@ A modern, 5-level hierarchical dashboard layout with SaaS design system variable
    - Cleaned working tree preserving all production backend endpoints, database migration scripts, and frontend components.
 2. **Modernized `README.md`**:
    - Overhauled with interactive project badges, live Vercel URL ([learnmate-seven.vercel.app](https://learnmate-seven.vercel.app)), feature showcase, system architecture ASCII diagram, domain hierarchy, quick start guide, and license.
-3. **Synchronized with `origin/main`**:
-   - All repository cleanup and documentation changes are committed and pushed cleanly to GitHub `main`.
+3. **ExamCountdown Loading Fix (`ExamCountdown.jsx`)**:
+   - Resolved double `/api/v1` prefix call (`/api/v1/api/v1/exams/`) by migrating to typed `hierarchyAPI.getExams()`.
+   - Added immediate initial calculation for target exam date and `Promise.allSettled` fallback handling so the countdown timer and preparation % never get stuck in "Loading…".
+4. **Synchronized with `origin/main`**:
+   - All repository cleanup, documentation, and bugfix changes are committed and pushed cleanly to GitHub `main`.
 
 ---
 
