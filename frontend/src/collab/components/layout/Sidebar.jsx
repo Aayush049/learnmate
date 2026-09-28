@@ -89,12 +89,12 @@ export default function Sidebar({ open, setOpen, collapsed, toggleCollapse }) {
             <NavLink
               key={item.to}
               to={item.to}
-              onClick={(e) => {
-                if (item.comingSoon) e.preventDefault();
-                setOpen(false)
+              onClick={() => {
+                setOpen(false);
               }}
               className={({ isActive }) =>
-`nav-item ${isActive ? "active" : ""} ${item.comingSoon ? "opacity-70 pointer-events-auto cursor-pointer" : ""}`}
+                `nav-item ${isActive ? "active" : ""}`
+              }
               title={collapsed ? item.label : undefined}
             >
               <item.icon size={17} />

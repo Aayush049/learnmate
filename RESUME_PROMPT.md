@@ -152,7 +152,10 @@ A modern, 5-level hierarchical dashboard layout with SaaS design system variable
 3. **ExamCountdown Loading Fix (`ExamCountdown.jsx`)**:
    - Resolved double `/api/v1` prefix call (`/api/v1/api/v1/exams/`) by migrating to typed `hierarchyAPI.getExams()`.
    - Added immediate initial calculation for target exam date and `Promise.allSettled` fallback handling so the countdown timer and preparation % never get stuck in "Loading…".
-4. **Synchronized with `origin/main`**:
+4. **AI Tutor Navigation & Preview Page (`Sidebar.jsx`, `AITutor.jsx`)**:
+   - Enabled interactive navigation to `/learn/ai-tutor` from the sidebar dashboard panel.
+   - Restored the dedicated AI Tutor preview page displaying the Version 2.0 announcement, core capability previews (Instant Doubt Solving, IS Code Simplifier, 24/7 Availability), and badge indicator.
+5. **Synchronized with `origin/main`**:
    - All repository cleanup, documentation, and bugfix changes are committed and pushed cleanly to GitHub `main`.
 
 ---

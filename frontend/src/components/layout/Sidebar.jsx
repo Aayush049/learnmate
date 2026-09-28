@@ -88,12 +88,11 @@ export default function Sidebar({ open, setOpen, collapsed, toggleCollapse }) {
           ) : (
             <NavLink
               key={item.to}
-              to={item.comingSoon ? "#" : item.to}
-              onClick={(e) => { 
-                if (item.comingSoon) { e.preventDefault(); return; }
-                setOpen(false); 
+              to={item.to}
+              onClick={() => {
+                setOpen(false);
               }}
-              className={({ isActive }) => `nav-item ${isActive && !item.comingSoon ? "active" : ""} ${item.comingSoon ? "opacity-60 cursor-default" : ""}`}
+              className={({ isActive }) => `nav-item ${isActive ? "active" : ""}`}
               title={collapsed ? item.label : undefined}
             >
               <item.icon size={17} />
@@ -108,8 +107,8 @@ export default function Sidebar({ open, setOpen, collapsed, toggleCollapse }) {
         )}
       </nav>
 
-      <div 
-        className="sidebar-user" 
+      <div
+        className="sidebar-user"
         onClick={() => setMenuOpen(!menuOpen)}
         ref={menuRef}
       >
@@ -120,62 +119,17 @@ export default function Sidebar({ open, setOpen, collapsed, toggleCollapse }) {
           <strong>{user?.full_name || user?.name || 'Mrinal'}</strong>
           <span>{user?.email || 'user1@test.com'}</span>
         </div>
-        
+
         {menuOpen && (
           <div className="user-menu-popover" onClick={(e) => e.stopPropagation()}>
-            <NavLink
-              key={item.to}
-              to={item.comingSoon ? "#" : item.to}
-              onClick={(e) => { 
-                if (item.comingSoon) { e.preventDefault(); return; }
-                setOpen(false); 
-              }}
-              className={({ isActive }) => `nav-item ${isActive && !item.comingSoon ? "active" : ""} ${item.comingSoon ? "opacity-60 cursor-default" : ""}`}
-              title={collapsed ? item.label : undefined}
-            >
-              <item.icon size={17} />
-              <span className="flex-1">{item.label}</span>
-              {item.comingSoon && !collapsed && (
-                <span className="text-[10px] font-bold bg-blue-100 text-blue-700 px-1.5 py-0.5 rounded-full ml-auto">
-                  COMING SOON
-                </span>
-              )}
+            <NavLink to="/settings/profile" className="user-menu-item" onClick={() => setMenuOpen(false)}>
+              <UserRound size={15} /> Profile
             </NavLink>
-            <NavLink
-              key={item.to}
-              to={item.comingSoon ? "#" : item.to}
-              onClick={(e) => { 
-                if (item.comingSoon) { e.preventDefault(); return; }
-                setOpen(false); 
-              }}
-              className={({ isActive }) => `nav-item ${isActive && !item.comingSoon ? "active" : ""} ${item.comingSoon ? "opacity-60 cursor-default" : ""}`}
-              title={collapsed ? item.label : undefined}
-            >
-              <item.icon size={17} />
-              <span className="flex-1">{item.label}</span>
-              {item.comingSoon && !collapsed && (
-                <span className="text-[10px] font-bold bg-blue-100 text-blue-700 px-1.5 py-0.5 rounded-full ml-auto">
-                  COMING SOON
-                </span>
-              )}
+            <NavLink to="/settings/preferences" className="user-menu-item" onClick={() => setMenuOpen(false)}>
+              <SlidersHorizontal size={15} /> Study Preferences
             </NavLink>
-            <NavLink
-              key={item.to}
-              to={item.comingSoon ? "#" : item.to}
-              onClick={(e) => { 
-                if (item.comingSoon) { e.preventDefault(); return; }
-                setOpen(false); 
-              }}
-              className={({ isActive }) => `nav-item ${isActive && !item.comingSoon ? "active" : ""} ${item.comingSoon ? "opacity-60 cursor-default" : ""}`}
-              title={collapsed ? item.label : undefined}
-            >
-              <item.icon size={17} />
-              <span className="flex-1">{item.label}</span>
-              {item.comingSoon && !collapsed && (
-                <span className="text-[10px] font-bold bg-blue-100 text-blue-700 px-1.5 py-0.5 rounded-full ml-auto">
-                  COMING SOON
-                </span>
-              )}
+            <NavLink to="/settings/security" className="user-menu-item" onClick={() => setMenuOpen(false)}>
+              <Shield size={15} /> Security
             </NavLink>
             <button className="user-menu-item logout" onClick={() => { logout(); setMenuOpen(false); }}>
               <LogOut size={15} /> Log out
