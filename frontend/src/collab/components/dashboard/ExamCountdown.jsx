@@ -1,30 +1,41 @@
 import { useEffect, useState } from "react";
 import { Clock3 } from "lucide-react";
-import api from "../../../api/client";
+import { hierarchyAPI } from "../../../api/hierarchy";
 import { analyticsAPI } from "../../../api/analytics";
 
 export default function ExamCountdown() {
-  const [examDate, setExamDate] = useState(null);
-  const [daysLeft, setDaysLeft] = useState(null);
+  const [examDate, setExamDate] = useState("2026-12-01");
+  const [daysLeft, setDaysLeft] = useState(() => {
+    const today = new Date();
+    const exam = new Date("2026-12-01");
+    const difference = exam.getTime() - today.getTime();
+    return Math.max(Math.ceil(difference / (1000 * 60 * 60 * 24)), 0);
+  });
   const [progress, setProgress] = useState(0);
 
   useEffect(() => {
     async function fetchExamData() {
       try {
-        const [examRes, progRes] = await Promise.all([
-          api.get("/api/v1/exams/"),
-          analyticsAPI.getProgress()
+        const [examsResult, progResult, statsResult] = await Promise.allSettled([
+          hierarchyAPI.getExams(),
+          analyticsAPI.getProgress(),
+          analyticsAPI.getDashboardStats()
         ]);
 
-        const exams = examRes.data;
-        if (exams && exams.length > 0) {
-          setExamDate("2026-12-01");
+        if (examsResult.status === "fulfilled" && examsResult.value?.length > 0) {
+          const sscExam = examsResult.value.find(
+            (e) => e.name?.toLowerCase().includes("ssc") || e.code?.toLowerCase().includes("ssc")
+          ) || examsResult.value[0];
+          if (sscExam?.exam_date) {
+            setExamDate(sscExam.exam_date);
+          }
         }
 
-        // Calculate aggregate progress percent
-        if (progRes && progRes.length > 0) {
-          const totalProgress = progRes.reduce((acc, curr) => acc + curr.progress, 0);
-          setProgress(Math.round(totalProgress / progRes.length));
+        if (statsResult.status === "fulfilled" && statsResult.value?.syllabus_completion_percent !== undefined) {
+          setProgress(Math.round(statsResult.value.syllabus_completion_percent));
+        } else if (progResult.status === "fulfilled" && progResult.value?.length > 0) {
+          const totalProgress = progResult.value.reduce((acc, curr) => acc + (curr.progress || 0), 0);
+          setProgress(Math.round(totalProgress / progResult.value.length));
         }
       } catch (error) {
         console.error("Could not load exam data:", error);
