@@ -143,6 +143,15 @@ A modern, 5-level hierarchical dashboard layout with SaaS design system variable
    - Integrated SaaS color palette variables (`--bg-color`, `--sidebar-bg`, `--primary-color: #6C46E8`, `--secondary-color: #22C7B8`, etc.).
    - Preserved independent `.sidebar nav` vertical scrolling rules with custom thin scrollbars.
 
+### G. Repository Hygiene & Modern README with Live Vercel Deployment
+1. **Repository Cleanup**:
+   - Safely removed 70 obsolete, unmaintained debug scripts, scratch patch files, and duplicate test helpers across root, `frontend/`, and `backend/`.
+   - Cleaned working tree preserving all production backend endpoints, database migration scripts, and frontend components.
+2. **Modernized `README.md`**:
+   - Overhauled with interactive project badges, live Vercel URL ([learnmate-seven.vercel.app](https://learnmate-seven.vercel.app)), feature showcase, system architecture ASCII diagram, domain hierarchy, quick start guide, and license.
+3. **Synchronized with `origin/main`**:
+   - All repository cleanup and documentation changes are committed and pushed cleanly to GitHub `main`.
+
 ---
 
 ## 4. Current Work & Next Up
