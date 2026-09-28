@@ -137,7 +137,9 @@ A modern, 5-level hierarchical dashboard layout with SaaS design system variable
    - `Achievements.jsx`: Milestone badges with real unlocked states (streak, PYQ count, accuracy, syllabus mastery) and fallback lock state.
 5. **Level 5 — Motivational Engineering Banner**:
    - `Motivation.jsx`: Full-width Civil Engineering quote banner with vector art and direct link to performance tracking.
-6. **Design System & CSS Styling (`frontend/src/index.css`)**:
+6. **Landing Page Redesign (`LandingPage.tsx`)**:
+   - Modernized public landing page featuring top navigation, clean engineering hero with illustration asset (`frontend/src/assets/engineerimg.png`), quick register/login CTAs, and a 4-card feature overview grid (Question Bank, Mock Tests, Performance Analytics, AI Tutor).
+7. **Design System & CSS Styling (`frontend/src/index.css`)**:
    - Integrated SaaS color palette variables (`--bg-color`, `--sidebar-bg`, `--primary-color: #6C46E8`, `--secondary-color: #22C7B8`, etc.).
    - Preserved independent `.sidebar nav` vertical scrolling rules with custom thin scrollbars.
 
