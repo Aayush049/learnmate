@@ -9,7 +9,7 @@ export default function AIRecommendation() {
   useEffect(() => {
     async function fetchRec() {
       try {
-        const res = await api.get("/api/v1/recommendations/");
+        const res = await api.get("/recommendations/");
         setRec(res.data);
       } catch (err) {
         console.error("AI Recommendation error:", err);

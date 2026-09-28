@@ -16,6 +16,7 @@ export interface MockTest {
   duration_minutes: number;
   total_marks: number;
   negative_marking?: number;
+  is_baseline?: boolean;
 }
 
 export interface MockTestStartResponse {
@@ -122,7 +123,34 @@ export interface MockTestAnalytics {
   };
 }
 
+export interface GeneratePersonalizedTestParams {
+  branch_id: number;
+  total_questions?: number;
+  adaptation_weight?: number;
+  name?: string;
+  description?: string;
+}
+
 export const mockTestsAPI = {
+  async generateSmartTest(): Promise<MockTest> {
+    const response = await apiClient.post<MockTest>('/mock-tests/generate-smart');
+    return response.data;
+  },
+
+  async generatePersonalizedTest(data: GeneratePersonalizedTestParams): Promise<MockTest> {
+    const response = await apiClient.post<MockTest>('/mock-tests/generate-personalized', data);
+    return response.data;
+  },
+
+  async generateAITest(data: GeneratePersonalizedTestParams): Promise<MockTest> {
+    return this.generatePersonalizedTest(data);
+  },
+
+  async generateBaselineTest(data: GeneratePersonalizedTestParams): Promise<MockTest> {
+    const response = await apiClient.post<MockTest>('/mock-tests/generate-baseline', data);
+    return response.data;
+  },
+
   // Get all available mock tests
   async getAllTests(): Promise<MockTest[]> {
     const response = await apiClient.get<MockTest[]>('/mock-tests/');

@@ -22,6 +22,7 @@ class MockTestResponse(BaseModel):
     duration_minutes: int
     total_marks: int
     negative_marking: float = 0.25
+    is_baseline: bool = False
 
     class Config:
         from_attributes = True
@@ -42,6 +43,7 @@ class MockTestDetail(BaseModel):
     duration_minutes: int
     total_marks: int
     negative_marking: float = 0.25
+    is_baseline: bool = False
     questions: List[MockTestQuestionInfo] = []
 
 
@@ -100,6 +102,7 @@ class MockTestCreate(BaseModel):
     total_marks: int
     negative_marking: float = 0.25
     is_active: bool = True
+    is_baseline: bool = False
 
 class MockTestUpdate(BaseModel):
     name: Optional[str] = None

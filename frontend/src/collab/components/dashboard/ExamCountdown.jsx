@@ -10,7 +10,7 @@ export default function ExamCountdown() {
     async function fetchExamDate() {
       try {
         // Find SSC JE exam
-        const response = await api.get("/api/v1/exams/");
+        const response = await api.get("/exams/");
         const exams = response.data;
         if (exams && exams.length > 0) {
           // Assuming the latest or matching name

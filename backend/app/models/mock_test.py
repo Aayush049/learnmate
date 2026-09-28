@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String, Text, DateTime, ForeignKey, Enum, Float
+from sqlalchemy import Column, Integer, String, Text, DateTime, ForeignKey, Enum, Float, Boolean
 from sqlalchemy.orm import relationship
 from sqlalchemy.sql import func
 from app.database import Base
@@ -22,12 +22,16 @@ class MockTest(Base):
     duration_minutes = Column(Integer, nullable=False)  # Total duration in minutes
     total_marks = Column(Integer, nullable=False)
     negative_marking = Column(Float, default=0.25) # e.g. 0.25
+    user_id = Column(Integer, ForeignKey("users.id", ondelete="CASCADE"), nullable=True) # For backward compatibility
+    created_by_id = Column(Integer, ForeignKey("users.id", ondelete="CASCADE"), nullable=True, index=True)
+    is_baseline = Column(Boolean, default=False)
     created_at = Column(DateTime(timezone=True), server_default=func.now())
     updated_at = Column(DateTime(timezone=True), onupdate=func.now())
 
     # Relationships
     mock_test_questions = relationship("MockTestQuestion", back_populates="mock_test", cascade="all, delete-orphan")
     attempts = relationship("MockTestAttempt", back_populates="mock_test", cascade="all, delete-orphan")
+    creator = relationship("User", foreign_keys=[created_by_id], backref="created_mock_tests")
 
     def __repr__(self):
         return f"<MockTest(id={self.id}, name={self.name}, test_type={self.test_type})>"

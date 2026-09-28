@@ -94,6 +94,7 @@ def get_pyq_index(
             models.Question.shift.label("shift"),
             models.Topic.name.label("topic"),
             models.Subject.name.label("subject"),
+            models.Question.question_text.label("question_text"),
         )
         .join(models.Topic, models.Question.topic_id == models.Topic.id)
         .join(models.Chapter, models.Topic.chapter_id == models.Chapter.id)
@@ -114,6 +115,7 @@ def get_pyq_index(
             "year": r.year,
             "shift": r.shift,
             "subject": r.subject,
+            "question_text": r.question_text,
             "topic": r.topic,
         }
         for idx, r in enumerate(rows)
@@ -383,3 +385,5 @@ def delete_question(
     db.delete(question)
     db.commit()
     return None
+
+

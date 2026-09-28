@@ -1,5 +1,5 @@
 from fastapi import APIRouter
-from app.api.v1.endpoints import auth, debug, ai_tutor, recommendations, goals, notes, analytics, bookmarks, exams, branches, subjects, chapters, topics, questions, practice, mock_tests, flashcards, admin
+from app.api.v1.endpoints import auth, debug, ai_tutor, recommendations, goals, notes, analytics, bookmarks, exams, branches, subjects, chapters, topics, questions, practice, mock_tests, mock_tests_advanced, flashcards, admin
 
 api_router = APIRouter()
 api_router.include_router(auth.router, prefix="/auth", tags=["Authentication"])
@@ -13,6 +13,7 @@ api_router.include_router(topics.router, prefix="/topics", tags=["Topics"])
 api_router.include_router(questions.router, prefix="/questions", tags=["Questions"])
 api_router.include_router(practice.router, prefix="/practice", tags=["Practice"])
 api_router.include_router(mock_tests.router, prefix="/mock-tests", tags=["Mock Tests"])
+api_router.include_router(mock_tests_advanced.router, prefix="/mock-tests", tags=["Mock Tests Advanced"])
 api_router.include_router(bookmarks.router, prefix="/bookmarks", tags=["Bookmarks"])
 api_router.include_router(analytics.router, prefix="/analytics", tags=["Analytics"])
 api_router.include_router(goals.router, prefix="/goals", tags=["Goals"])

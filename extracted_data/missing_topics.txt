@@ -1,0 +1,29 @@
+=== MISSING TOPICS LIST ===
+These 11 topics had 0 questions extracted from the provided PDFs.
+
+1. Building Material Construction
+   - Stair Case
+   - Floors
+   - Building Maintenance Engineering
+
+2. Navigation Channel Harbour Dock
+   - Navigation Channel
+   - Breakwaters
+
+3. Fluid Mechanics
+   - Liquid in Relative Equilibrium
+   - Weir and Notches
+
+4. Open Channel Flow
+   - Gradually Varied Flow
+
+5. Airport Engineering
+   - Taxiway Design
+
+6. CPM & PERT
+   - Excavation Equipment
+
+7. Design of Steel Structure
+   - Bolts
+
+Note: Earthquake and Auto Cad also had 0 questions, though they had no explicit sub-topics defined in the syllabus.

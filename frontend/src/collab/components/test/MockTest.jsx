@@ -7,7 +7,12 @@ import {
   Pause,
   Play,
   Send,
-  Loader2
+  Loader2,
+  Sparkles,
+  Lock,
+  Compass,
+  Zap,
+  Target
 } from "lucide-react";
 import PageIntro from "../common/PageIntro.jsx";
 import TestTimer from "./TestTimer.jsx";
@@ -19,10 +24,12 @@ import { mockTestsAPI } from "../../../api/mockTests.ts";
 
 export default function MockTest() {
   const [testList, setTestList] = useState([]);
+  const [completedAttemptsCount, setCompletedAttemptsCount] = useState(0);
   const [selectedTest, setSelectedTest] = useState(null);
   const [attemptData, setAttemptData] = useState(null);
 
   const [loading, setLoading] = useState(true);
+  const [generating, setGenerating] = useState(false);
   const [error, setError] = useState(null);
 
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -34,20 +41,76 @@ export default function MockTest() {
 
   const [questionStats, setQuestionStats] = useState([]);
 
-  // 1. Fetch available tests on mount
+  // 1. Fetch available tests and attempt counts on mount
   useEffect(() => {
-    const fetchTests = async () => {
-      try {
-        const tests = await mockTestsAPI.getAllTests();
-        setTestList(tests);
-      } catch (err) {
-        setError("Failed to load available mock tests.");
-      } finally {
-        setLoading(false);
-      }
-    };
-    fetchTests();
+    fetchTestsAndAttempts();
   }, []);
+
+  const fetchTestsAndAttempts = async () => {
+    try {
+      const [tests, attempts] = await Promise.all([
+        mockTestsAPI.getAllTests(),
+        mockTestsAPI.getUserAttempts().catch(() => [])
+      ]);
+      setTestList(tests);
+      const completed = attempts.filter(a => a.completed_at != null).length;
+      setCompletedAttemptsCount(completed);
+    } catch (err) {
+      setError("Failed to load available mock tests.");
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const handleGenerateBaselineTest = async () => {
+    setGenerating(true);
+    setError(null);
+    try {
+      const newTest = await mockTestsAPI.generateBaselineTest({
+        branch_id: 1,
+        total_questions: 100,
+        name: `Mock Test ${completedAttemptsCount + 1}`
+      });
+      await fetchTestsAndAttempts();
+      await startTest(newTest.id);
+    } catch (err) {
+      if (err.response?.data?.detail) {
+        setError(err.response.data.detail);
+      } else {
+        setError("Failed to generate baseline mock test. Please check backend connection.");
+      }
+    } finally {
+      setGenerating(false);
+    }
+  };
+
+  const handleGeneratePersonalizedTest = async () => {
+    if (completedAttemptsCount < 4) {
+      setError(`You need to complete ${4 - completedAttemptsCount} more baseline test${4 - completedAttemptsCount > 1 ? 's' : ''} to unlock AI Personalized Tests.`);
+      return;
+    }
+
+    setGenerating(true);
+    setError(null);
+    try {
+      const newTest = await mockTestsAPI.generatePersonalizedTest({
+        branch_id: 1,
+        total_questions: 100,
+        adaptation_weight: 0.6,
+        name: `AI Adaptive Test #${testList.filter(t => !t.is_baseline).length + 1}`
+      });
+      await fetchTestsAndAttempts();
+      await startTest(newTest.id);
+    } catch (err) {
+      if (err.response?.data?.detail) {
+        setError(err.response.data.detail);
+      } else {
+        setError("Failed to generate AI Personalized mock test.");
+      }
+    } finally {
+      setGenerating(false);
+    }
+  };
 
   // 2. Start a specific test
   const startTest = async (testId) => {
@@ -133,6 +196,7 @@ export default function MockTest() {
       const res = await mockTestsAPI.submitTest(attemptData.attempt_id, answers);
       setResultData(res);
       setSubmitted(true);
+      await fetchTestsAndAttempts();
     } catch (err) {
       setError("Failed to submit test. Try again.");
       setRunning(true);
@@ -172,31 +236,133 @@ export default function MockTest() {
 
   // State 1: Test Selection
   if (!selectedTest) {
+    const isAiUnlocked = completedAttemptsCount >= 4;
+    const remainingBaseline = Math.max(0, 4 - completedAttemptsCount);
+
     return (
-      <div className="page">
+      <div className="page max-w-6xl mx-auto">
         <PageIntro
-          title="Mock Tests"
-          subtitle="Select a dynamic test to start practicing."
+          title="SSC JE Mock Test Arena"
+          subtitle="Real exam simulations with PYQ distribution weightage and AI-driven weakness profiling."
         />
-        {error && <div className="text-red-500 mb-4">{error}</div>}
-        <div className="flex flex-col gap-4">
+
+        {/* Diagnostic Calibration Banner */}
+        <div className="mb-8 p-6 bg-gradient-to-r from-blue-900 to-indigo-950 rounded-2xl text-white shadow-xl relative overflow-hidden">
+          <div className="relative z-10 flex flex-col md:flex-row justify-between items-start md:items-center gap-6">
+            <div className="max-w-xl">
+              <div className="flex items-center gap-2 mb-2">
+                <Compass className="text-blue-400" size={20} />
+                <span className="text-xs font-bold uppercase tracking-wider text-blue-300">
+                  Adaptive Calibration Engine
+                </span>
+              </div>
+              <h3 className="text-xl font-bold mb-2">
+                {isAiUnlocked
+                  ? "AI Personalized Mode Unlocked!"
+                  : `Baseline Diagnostic Phase (${completedAttemptsCount}/4 Complete)`}
+              </h3>
+              <p className="text-sm text-blue-200 leading-relaxed">
+                {isAiUnlocked
+                  ? "Your weakness profile is fully calibrated. Tests are dynamically generated to target your specific improvement areas."
+                  : `Complete your first 4 baseline diagnostic tests to calibrate your weakness matrix and unlock AI adaptive personalized tests.`}
+              </p>
+
+              {/* Progress Bar */}
+              <div className="mt-4 flex items-center gap-3">
+                <div className="flex-1 bg-blue-950/60 h-2.5 rounded-full overflow-hidden border border-blue-700/50">
+                  <div
+                    className="bg-gradient-to-r from-blue-400 to-emerald-400 h-full rounded-full transition-all duration-500"
+                    style={{ width: `${Math.min(100, (completedAttemptsCount / 4) * 100)}%` }}
+                  />
+                </div>
+                <span className="text-xs font-semibold text-blue-200">
+                  {completedAttemptsCount} / 4 Tests
+                </span>
+              </div>
+            </div>
+
+            <div className="flex flex-col sm:flex-row gap-3 w-full md:w-auto">
+              <button
+                className="px-5 py-3 rounded-xl font-semibold text-sm bg-blue-600 hover:bg-blue-500 text-white transition flex items-center justify-center gap-2 shadow-lg shadow-blue-600/30 disabled:opacity-50"
+                onClick={handleGenerateBaselineTest}
+                disabled={generating}
+              >
+                {generating ? <Loader2 className="animate-spin" size={16} /> : <Zap size={16} />}
+                Generate Baseline #{completedAttemptsCount + 1}
+              </button>
+
+              <button
+                className={`px-5 py-3 rounded-xl font-semibold text-sm transition flex items-center justify-center gap-2 ${
+                  isAiUnlocked
+                    ? "bg-gradient-to-r from-emerald-500 to-teal-600 hover:from-emerald-400 hover:to-teal-500 text-white shadow-lg shadow-emerald-600/30"
+                    : "bg-slate-800 text-slate-400 border border-slate-700 cursor-not-allowed"
+                }`}
+                onClick={handleGeneratePersonalizedTest}
+                disabled={generating || !isAiUnlocked}
+              >
+                {generating ? (
+                  <Loader2 className="animate-spin" size={16} />
+                ) : isAiUnlocked ? (
+                  <Sparkles size={16} className="text-yellow-300" />
+                ) : (
+                  <Lock size={16} />
+                )}
+                {isAiUnlocked ? "Generate AI Adaptive Test" : `Locked (${remainingBaseline} more)`}
+              </button>
+            </div>
+          </div>
+        </div>
+
+        {error && (
+          <div className="bg-red-50 border border-red-200 text-red-700 p-4 rounded-xl mb-6 flex justify-between items-center shadow-sm">
+            <span className="text-sm font-medium">{error}</span>
+            <button onClick={() => setError(null)} className="text-red-500 hover:text-red-700 font-bold ml-4">✕</button>
+          </div>
+        )}
+
+        <div className="flex items-center justify-between mb-4">
+          <h3 className="text-lg font-bold text-gray-900">Available Mock Tests</h3>
+          <span className="text-xs font-semibold text-gray-500 bg-gray-100 px-3 py-1 rounded-full">
+            {testList.length} Tests Ready
+          </span>
+        </div>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           {testList.map(t => (
-             <section className="card flex items-center justify-between p-6" key={t.id}>
+             <section className="bg-white border border-gray-100 hover:border-blue-200 rounded-2xl p-6 shadow-sm hover:shadow-md transition flex flex-col justify-between" key={t.id}>
                <div>
-                 <h3 className="font-semibold text-lg">{t.name}</h3>
-                 <p className="text-gray-500 text-sm mt-1">{t.description}</p>
-                 <div className="flex gap-4 mt-3 text-sm text-gray-600">
-                    <span>{t.duration_minutes} mins</span>
-                    <span>{t.total_marks} Marks</span>
+                 <div className="flex items-center justify-between mb-3">
+                   <span className={`text-xs font-bold uppercase tracking-wider px-2.5 py-1 rounded-full ${
+                     t.is_baseline
+                       ? "bg-blue-50 text-blue-700 border border-blue-200/60"
+                       : "bg-purple-50 text-purple-700 border border-purple-200/60"
+                   }`}>
+                     {t.is_baseline ? "Baseline Diagnostic" : "AI Personalized"}
+                   </span>
+                   <span className="text-xs font-semibold text-gray-500">{t.duration_minutes} mins</span>
+                 </div>
+                 <h4 className="font-bold text-gray-900 text-lg">{t.name}</h4>
+                 <p className="text-gray-500 text-sm mt-1 line-clamp-2">{t.description || "Standard PYQ-based exam pattern."}</p>
+                 <div className="flex gap-4 mt-4 text-xs font-medium text-gray-600 bg-gray-50 p-2.5 rounded-lg">
+                    <span><strong>{t.total_marks}</strong> Marks</span>
+                    <span><strong>{t.total_marks}</strong> Questions</span>
+                    <span><strong>0.25</strong> Negative</span>
                  </div>
                </div>
-               <button className="primary-button" onClick={() => startTest(t.id)}>
-                 Start Test <Play size={16} className="ml-1" />
+               <button
+                 className="mt-6 w-full py-2.5 px-4 bg-gray-900 hover:bg-blue-600 text-white font-semibold text-sm rounded-xl transition flex items-center justify-center gap-2"
+                 onClick={() => startTest(t.id)}
+               >
+                 Start Test <Play size={15} />
                </button>
              </section>
           ))}
           {testList.length === 0 && (
-             <div className="p-8 text-center text-gray-500">No mock tests available in the database yet.</div>
+             <div className="col-span-2 p-12 text-center text-gray-400 bg-gray-50 rounded-2xl border border-dashed border-gray-200">
+               <Target size={36} className="mx-auto mb-2 text-gray-300" />
+               <p className="font-medium text-gray-600">No mock tests generated yet.</p>
+               <p className="text-xs text-gray-400 mt-1">Click "Generate Baseline" above to create your first test.</p>
+             </div>
           )}
         </div>
       </div>
