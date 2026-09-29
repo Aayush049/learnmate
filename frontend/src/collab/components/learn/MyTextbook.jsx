@@ -259,8 +259,8 @@ export default function MyTextbook() {
                                   }`}
                                 >
                                   <div className="flex items-center gap-3">
-                                    <span className="w-6 h-6 flex items-center justify-center bg-gray-100 text-gray-500 text-xs font-bold rounded">
-                                      {topic.number}
+                                    <span className="px-2 py-0.5 min-w-[2.5rem] flex items-center justify-center bg-gray-100 text-gray-700 text-xs font-bold rounded">
+                                      {unit.unitNumber}.{topic.number}
                                     </span>
                                     <span className={`font-semibold ${tId ? 'text-gray-800 group-hover:text-blue-700' : 'text-gray-600'}`}>
                                       {topic.title}

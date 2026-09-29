@@ -43,12 +43,11 @@ Thumbs.db
 htmlcov/
 .pytest_cache/
 
-# Database
+# Database & Data files
 *.db
 *.sqlite3
 pdfdata/
-
-
+pyq/
 
 .vercel
 .env*

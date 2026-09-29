@@ -7,8 +7,11 @@ from app.models import *  # ensure all models are loaded
 from app.database import Base
 from sqlalchemy import text
 
-# Create tables
-Base.metadata.create_all(bind=engine)
+# Create tables (graceful fallback if DB is not reachable during tests or startup)
+try:
+    Base.metadata.create_all(bind=engine)
+except Exception as e:
+    print(f"Warning: Database initialization skipped: {e}")
 
 # Ensure new columns exist
 try:

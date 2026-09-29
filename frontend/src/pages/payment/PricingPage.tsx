@@ -29,6 +29,11 @@ export const PricingPage: React.FC = () => {
   const [consentTerms, setConsentTerms] = useState(true);
   const [errorMessage, setErrorMessage] = useState<string | null>(null);
   const [showHostedModal, setShowHostedModal] = useState(false);
+  const [activeOrderId, setActiveOrderId] = useState<string | null>(null);
+  const [activePlan, setActivePlan] = useState<Plan | null>(null);
+  const [hostedPaymentIdInput, setHostedPaymentIdInput] = useState('');
+  const [verifyingHosted, setVerifyingHosted] = useState(false);
+  const [hostedError, setHostedError] = useState<string | null>(null);
 
   useEffect(() => {
     async function loadData() {
@@ -74,6 +79,10 @@ export const PricingPage: React.FC = () => {
 
       // 1. Create order on backend
       const orderData = await paymentsAPI.createOrder(plan.code, consentTerms);
+      setActiveOrderId(orderData.order_id);
+      setActivePlan(plan);
+      setHostedError(null);
+      setHostedPaymentIdInput('');
 
       // If key is mock/unconfigured, we open the official Razorpay payment page and show the guidance modal
       if (!orderData.key_id || orderData.key_id.startsWith('rzp_test_mock')) {
@@ -141,6 +150,42 @@ export const PricingPage: React.FC = () => {
       );
     } finally {
       setProcessingPlanCode(null);
+    }
+  };
+
+  const handleVerifyHostedPayment = async () => {
+    if (!activeOrderId) {
+      setHostedError('Order session is missing. Please click Unlock again to re-initiate.');
+      return;
+    }
+    setHostedError(null);
+    setVerifyingHosted(true);
+    try {
+      const res = await paymentsAPI.verifyHostedPayment(
+        activeOrderId,
+        hostedPaymentIdInput.trim() || undefined,
+        activePlan?.code
+      );
+      if (res.success) {
+        setShowHostedModal(false);
+        navigate('/payment/success', {
+          state: {
+            planName: activePlan?.name || 'SSC JE Civil Full Access',
+            planCode: activePlan?.code || 'ssc_je_civil_lifetime',
+            orderId: res.order_id,
+            paymentId: res.payment_id,
+            amount: activePlan?.price_inr || 2999,
+            isLifetime: true,
+          },
+        });
+      } else {
+        setHostedError(res.message || 'Payment is not verified yet.');
+      }
+    } catch (err: any) {
+      const detail = err.response?.data?.detail || err.message || 'Payment verification failed. Please try again.';
+      setHostedError(detail);
+    } finally {
+      setVerifyingHosted(false);
     }
   };
 
@@ -500,59 +545,97 @@ export const PricingPage: React.FC = () => {
           </div>
         </div>
 
-        {/* Official Razorpay Hosted Gateway Modal */}
+        {/* Official Razorpay Hosted Gateway Modal & Server Verification */}
         {showHostedModal && (
           <div className="fixed inset-0 bg-black/60 backdrop-blur-sm z-50 flex items-center justify-center p-4">
-            <div className="bg-white rounded-3xl max-w-md w-full p-6 shadow-2xl border border-purple-100 text-center animate-in fade-in zoom-in-95 duration-200">
+            <div className="bg-white rounded-3xl max-w-md w-full p-6 sm:p-8 shadow-2xl border border-purple-100 text-center animate-in fade-in zoom-in-95 duration-200">
               <div className="w-14 h-14 bg-purple-100 text-purple-700 rounded-2xl flex items-center justify-center mx-auto mb-4">
                 <ShieldCheck className="w-8 h-8" />
               </div>
               <h3 className="text-xl font-bold text-gray-900 mb-1">Razorpay Checkout Opened</h3>
-              <p className="text-xs text-purple-600 font-semibold mb-3">Official Hosted Gateway: {RAZORPAY_PAYMENT_PAGE_URL}</p>
-              <p className="text-sm text-gray-600 mb-6 leading-relaxed">
-                A secure Razorpay payment window has been opened for your <span className="font-bold text-gray-900">SSC JE Civil Full Access</span> pass (₹2,999).
-                Please complete payment on the Razorpay page.
+              <p className="text-xs text-purple-600 font-semibold mb-3">Official Gateway: {RAZORPAY_PAYMENT_PAGE_URL}</p>
+              <p className="text-xs text-gray-600 mb-4 leading-relaxed">
+                Complete your ₹2,999 payment on the Razorpay page. Once done, verify your payment below to unlock instant lifetime access.
               </p>
 
-              <div className="space-y-3">
-                <button
-                  onClick={async () => {
-                    try {
-                      const updated = await paymentsAPI.getMyEntitlement();
-                      if (updated.has_active_entitlement || updated.is_admin) {
-                        navigate('/payment/success', {
-                          state: {
-                            planName: 'SSC JE Civil Full Access',
-                            planCode: 'ssc_je_civil_lifetime',
-                            amount: 2999,
-                            isLifetime: true,
-                          },
-                        });
-                      } else {
-                        navigate('/dashboard');
-                      }
-                    } catch {
-                      navigate('/dashboard');
-                    }
+              {activeOrderId && (
+                <div className="mb-4 py-2 px-3 bg-gray-50 border border-gray-200 rounded-xl text-left">
+                  <div className="flex items-center justify-between text-[11px] text-gray-500 font-medium">
+                    <span>LearnMate Order ID:</span>
+                    <span className="font-mono font-bold text-gray-800">{activeOrderId}</span>
+                  </div>
+                </div>
+              )}
+
+              {/* Payment ID Input */}
+              <div className="text-left mb-4">
+                <label className="block text-xs font-bold text-gray-700 mb-1">
+                  Razorpay Payment ID (Optional if auto-captured)
+                </label>
+                <input
+                  type="text"
+                  value={hostedPaymentIdInput}
+                  onChange={(e) => {
+                    setHostedPaymentIdInput(e.target.value);
+                    if (hostedError) setHostedError(null);
                   }}
-                  className="w-full py-3.5 px-4 bg-purple-600 hover:bg-purple-700 text-white font-bold rounded-xl text-sm transition-all shadow-md shadow-purple-500/20"
+                  placeholder="e.g. pay_R1O2T3I4c5..."
+                  className="w-full px-3.5 py-2.5 bg-white border border-gray-300 rounded-xl text-xs font-mono text-gray-900 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-purple-500 focus:border-transparent transition-all"
+                />
+                <p className="text-[11px] text-gray-400 mt-1">
+                  Found on your Razorpay success screen or payment receipt SMS/email.
+                </p>
+              </div>
+
+              {hostedError && (
+                <div className="mb-4 p-3 bg-red-50 border border-red-200 rounded-xl flex items-start gap-2 text-left">
+                  <AlertCircle className="w-4 h-4 text-red-600 flex-shrink-0 mt-0.5" />
+                  <p className="text-xs text-red-700 leading-snug">{hostedError}</p>
+                </div>
+              )}
+
+              <div className="space-y-2.5">
+                <button
+                  onClick={handleVerifyHostedPayment}
+                  disabled={verifyingHosted}
+                  className="w-full py-3.5 px-4 bg-purple-600 hover:bg-purple-700 disabled:bg-purple-400 text-white font-bold rounded-xl text-sm transition-all shadow-md shadow-purple-500/20 flex items-center justify-center gap-2"
                 >
-                  I've Completed Payment (Go to Dashboard)
+                  {verifyingHosted ? (
+                    <>
+                      <Loader2 className="w-4 h-4 animate-spin" />
+                      Verifying with Razorpay...
+                    </>
+                  ) : (
+                    <>
+                      <ShieldCheck className="w-4 h-4" />
+                      Verify Payment & Unlock Lifetime Access
+                    </>
+                  )}
                 </button>
 
-                <button
-                  onClick={() => openRazorpayPaymentPage()}
-                  className="w-full py-3 px-4 bg-gray-100 hover:bg-gray-200 text-gray-800 font-semibold rounded-xl text-xs transition-all flex items-center justify-center gap-2"
-                >
-                  <Sparkles className="w-4 h-4 text-purple-600" />
-                  Reopen Razorpay Payment Page
-                </button>
+                <div className="flex items-center gap-2">
+                  <button
+                    onClick={handleVerifyHostedPayment}
+                    disabled={verifyingHosted}
+                    className="flex-1 py-2.5 px-3 bg-gray-50 hover:bg-gray-100 text-gray-700 font-semibold rounded-xl text-xs transition-all border border-gray-200"
+                  >
+                    Check Status
+                  </button>
+                  <button
+                    onClick={() => openRazorpayPaymentPage()}
+                    className="flex-1 py-2.5 px-3 bg-gray-50 hover:bg-gray-100 text-purple-700 font-semibold rounded-xl text-xs transition-all border border-gray-200 flex items-center justify-center gap-1"
+                  >
+                    <Sparkles className="w-3.5 h-3.5 text-purple-600" />
+                    Reopen Page
+                  </button>
+                </div>
 
                 <button
                   onClick={() => setShowHostedModal(false)}
-                  className="w-full py-2 text-xs text-gray-500 hover:text-gray-700 font-medium"
+                  disabled={verifyingHosted}
+                  className="w-full py-2 text-xs text-gray-400 hover:text-gray-600 font-medium"
                 >
-                  Close Window
+                  Cancel / Return Later
                 </button>
               </div>
             </div>

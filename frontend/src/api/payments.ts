@@ -127,6 +127,20 @@ export const paymentsAPI = {
     return response.data;
   },
 
+  // Authoritatively reconcile hosted payment against Razorpay server-side
+  verifyHostedPayment: async (
+    orderId: string,
+    paymentId?: string,
+    planCode?: string
+  ): Promise<VerifyPaymentResponse> => {
+    const response = await apiClient.post<VerifyPaymentResponse>('/payments/verify-hosted-payment', {
+      order_id: orderId,
+      payment_id: paymentId?.trim() || undefined,
+      plan_code: planCode,
+    });
+    return response.data;
+  },
+
   // User payment invoice history
   getPaymentHistory: async (): Promise<PaymentHistoryItem[]> => {
     const response = await apiClient.get<{ payments: PaymentHistoryItem[] }>('/payments/history');

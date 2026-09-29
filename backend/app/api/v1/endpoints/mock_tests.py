@@ -171,12 +171,18 @@ def start_mock_test(
     }
 
 
-def update_user_weakness_cache(user_id: int, attempt_id: int, db: Session):
+def update_user_weakness_cache(user_id: int, attempt_id: int, db: Session = None):
     """
     Asynchronous hydration of UserWeaknessProfile table.
     Updates weakness profiles based on the just-completed test attempt.
     This runs in the background after test submission to avoid blocking the user.
     """
+    from app.database import SessionLocal
+    own_session = False
+    if db is None:
+        db = SessionLocal()
+        own_session = True
+
     try:
         # Get all question attempts from this specific test
         question_attempts = (
@@ -254,6 +260,9 @@ def update_user_weakness_cache(user_id: int, attempt_id: int, db: Session):
         # Log error but don't fail the background task
         print(f"Background weakness profile update failed for user {user_id}: {e}")
         db.rollback()
+    finally:
+        if own_session:
+            db.close()
 
 
 @router.post("/attempt/{attempt_id}/submit")
@@ -352,7 +361,7 @@ def submit_mock_test(
     db.refresh(attempt)
 
     # Trigger background task to update UserWeaknessProfile asynchronously
-    background_tasks.add_task(update_user_weakness_cache, current_user.id, attempt.id, db)
+    background_tasks.add_task(update_user_weakness_cache, current_user.id, attempt.id)
 
     # Calculate accuracy
     attempted = correct_count + incorrect_count

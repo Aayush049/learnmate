@@ -1,0 +1,203 @@
+Topic ID,Topic Name,Chapter ID,Chapter Name,Subject ID,Subject Name,Question Count
+40,Water Quality,18,Uncategorized Chapter,11,Environmental Engineering,423
+41,Water Treatment,18,Uncategorized Chapter,11,Environmental Engineering,0
+42,Wastewater Characteristics,18,Uncategorized Chapter,11,Environmental Engineering,0
+43,Air Pollution,18,Uncategorized Chapter,11,Environmental Engineering,0
+44,Solid Waste Management,18,Uncategorized Chapter,11,Environmental Engineering,0
+182,"Water Demand, Source & Conveyance Concepts",144,"Water Demand, Source & Conveyance",11,Environmental Engineering,30
+183,Quality Parameters of Water Concepts,145,Quality Parameters of Water,11,Environmental Engineering,95
+184,Treatment of Water Concepts,146,Treatment of Water,11,Environmental Engineering,140
+185,Distribution System Concepts,147,Distribution System,11,Environmental Engineering,35
+186,Waste Water Characteristics Concepts,148,Waste Water Characteristics,11,Environmental Engineering,63
+187,Disposal of Sewage Waste Concepts,149,Disposal of Sewage Waste,11,Environmental Engineering,35
+188,Design of Sewerage System and Sewer Appurtenances Concepts,150,Design of Sewerage System and Sewer Appurtenances,11,Environmental Engineering,95
+189,Sewage Treatment Concepts,151,Sewage Treatment,11,Environmental Engineering,112
+190,Solid Waste Management Concepts,152,Solid Waste Management,11,Environmental Engineering,40
+191,Air Pollution Concepts,153,Air Pollution,11,Environmental Engineering,82
+192,Noise Pollution Concepts,154,Noise Pollution,11,Environmental Engineering,22
+45,Fluid Properties,19,Uncategorized Chapter,12,Fluid Mechanics,0
+46,Fluid Kinematics,19,Uncategorized Chapter,12,Fluid Mechanics,0
+47,Fluid Dynamics,19,Uncategorized Chapter,12,Fluid Mechanics,0
+48,Flow Through Pipes,19,Uncategorized Chapter,12,Fluid Mechanics,0
+49,Boundary Layer Theory,19,Uncategorized Chapter,12,Fluid Mechanics,0
+131,Properties of Fluid Concepts,93,Properties of Fluid,12,Fluid Mechanics,14
+132,Pressure and its Measurement Concepts,94,Pressure and its Measurement,12,Fluid Mechanics,9
+133,Hydrostatic-Forces Concepts,95,Hydrostatic-Forces,12,Fluid Mechanics,3
+134,Buoyancy and Floatation Concepts,96,Buoyancy and Floatation,12,Fluid Mechanics,5
+135,Liquid in Relative Equilibrium Concepts,97,Liquid in Relative Equilibrium,12,Fluid Mechanics,0
+136,Fluid Kinematics Concepts,98,Fluid Kinematics,12,Fluid Mechanics,35
+137,Fluid Dynamics Concepts,99,Fluid Dynamics,12,Fluid Mechanics,19
+138,Momentum Equation and Application Concepts,100,Momentum Equation and Application,12,Fluid Mechanics,5
+139,Weir and Notches Concepts,101,Weir and Notches,12,Fluid Mechanics,0
+140,Laminar Flow Concepts,102,Laminar Flow,12,Fluid Mechanics,10
+141,Turbulent Flow Concepts,103,Turbulent Flow,12,Fluid Mechanics,17
+142,Boundary Layer Thickness Concepts,104,Boundary Layer Thickness,12,Fluid Mechanics,20
+143,Dimensional Analysis and Model Studies Concepts,105,Dimensional Analysis and Model Studies,12,Fluid Mechanics,5
+144,Flow Through Pipes Concepts,106,Flow Through Pipes,12,Fluid Mechanics,22
+50,Properties of Soils,20,Uncategorized Chapter,13,Soil Mechanics,0
+51,Seepage Analysis,20,Uncategorized Chapter,13,Soil Mechanics,0
+52,Compaction,20,Uncategorized Chapter,13,Soil Mechanics,0
+53,Consolidation,20,Uncategorized Chapter,13,Soil Mechanics,0
+54,Shear Strength,20,Uncategorized Chapter,13,Soil Mechanics,0
+86,Soil Origin & Its Properties Concepts,48,Soil Origin & Its Properties,13,Soil Mechanics,4
+87,Index Properties of Soil Concepts,49,Index Properties of Soil,13,Soil Mechanics,36
+88,Classification of Soil Concepts,50,Classification of Soil,13,Soil Mechanics,6
+89,Clay Mineral & Soil Structure Concepts,51,Clay Mineral & Soil Structure,13,Soil Mechanics,8
+90,Compaction of Soil Concepts,52,Compaction of Soil,13,Soil Mechanics,31
+91,Compressibility and Consolidation Concepts,53,Compressibility and Consolidation,13,Soil Mechanics,26
+92,"Effective Stress, Capillarity and Permeability Concepts",54,"Effective Stress, Capillarity and Permeability",13,Soil Mechanics,45
+93,Seepage Through Soil Concepts,55,Seepage Through Soil,13,Soil Mechanics,16
+94,Shear Strength of Soil Concepts,56,Shear Strength of Soil,13,Soil Mechanics,37
+95,Earth pressure and Retaining walls Concepts,57,Earth pressure and Retaining walls,13,Soil Mechanics,57
+96,Shallow Foundation Concepts,58,Shallow Foundation,13,Soil Mechanics,70
+97,Deep Foundation Concepts,59,Deep Foundation,13,Soil Mechanics,44
+98,Vertical Stressess Concepts,60,Vertical Stressess,13,Soil Mechanics,11
+99,Stability of slopes Concepts,61,Stability of slopes,13,Soil Mechanics,13
+100,Soil Exploration Concepts,62,Soil Exploration,13,Soil Mechanics,22
+101,Expansive Soil Concepts,63,Expansive Soil,13,Soil Mechanics,7
+102,Soil Stabilization Concepts,64,Soil Stabilization,13,Soil Mechanics,9
+66,Important Indian Standard Codes Concepts,28,Important Indian Standard Codes,18,Building Material Construction,1
+67,Cement Concepts,29,Cement,18,Building Material Construction,53
+68,Concrete Concepts,30,Concrete,18,Building Material Construction,95
+69,Timber Concepts,31,Timber,18,Building Material Construction,12
+70,Aggregates Concepts,32,Aggregates,18,Building Material Construction,13
+71,Bricks Concepts,33,Bricks,18,Building Material Construction,13
+72,Brick Masonry Concepts,34,Brick Masonry,18,Building Material Construction,7
+73,Mortar & Lime Concepts,35,Mortar & Lime,18,Building Material Construction,7
+74,STONE Concepts,36,STONE,18,Building Material Construction,10
+75,"Door, Window & Roof Concepts",37,"Door, Window & Roof",18,Building Material Construction,1
+76,Stair Case Concepts,38,Stair Case,18,Building Material Construction,0
+77,Floors Concepts,39,Floors,18,Building Material Construction,0
+78,Steel & Glass Concepts,40,Steel & Glass,18,Building Material Construction,12
+79,Paint & Varnish Concepts,41,Paint & Varnish,18,Building Material Construction,3
+80,Building Maintenance Engineering Concepts,42,Building Maintenance Engineering,18,Building Material Construction,0
+81,Building Laws Concepts,43,Building Laws,18,Building Material Construction,2
+82,Basic Measurement & Work Concepts,44,Basic Measurement & Work,19,Estimation-Costing,10
+83,Valuation Concepts,45,Valuation,19,Estimation-Costing,5
+84,Estimation and Area Types Concepts,46,Estimation and Area Types,19,Estimation-Costing,13
+85,Material Calculation & other miscellaneous topics Concepts,47,Material Calculation & other miscellaneous topics,19,Estimation-Costing,9
+103,Properties of Material Concepts,65,Properties of Material,20,Solid Mechanics,93
+104,Shear Force & Bending Moment Concepts,66,Shear Force & Bending Moment,20,Solid Mechanics,60
+105,Deflection of Beams Concepts,67,Deflection of Beams,20,Solid Mechanics,22
+106,Principal Stress & Principal Strain Concepts,68,Principal Stress & Principal Strain,20,Solid Mechanics,35
+107,Theories of Failure Concepts,69,Theories of Failure,20,Solid Mechanics,10
+108,Bending Stress Concepts,70,Bending Stress,20,Solid Mechanics,37
+109,Shear Stress Concepts,71,Shear Stress,20,Solid Mechanics,26
+110,Combined Stress Concepts,72,Combined Stress,20,Solid Mechanics,6
+111,Columns Concepts,73,Columns,20,Solid Mechanics,39
+112,Springs Concepts,74,Springs,20,Solid Mechanics,5
+113,Torsion of Circular Shaft Concepts,75,Torsion of Circular Shaft,20,Solid Mechanics,24
+114,Thick & Thin Cylinder/Sphere Concepts,76,Thick & Thin Cylinder/Sphere,20,Solid Mechanics,10
+115,Navigation Channel Concepts,77,Navigation Channel,21,Navigation Channel Harbour Dock,0
+116,Harbour Concepts,78,Harbour,21,Navigation Channel Harbour Dock,5
+117,Breakwaters Concepts,79,Breakwaters,21,Navigation Channel Harbour Dock,0
+118,Dock Concepts,80,Dock,21,Navigation Channel Harbour Dock,9
+119,Basic of RCC Concepts,81,Basic of RCC,22,Reinforcement Cement Concrete,42
+120,Limit State Method & Beam Concepts,82,Limit State Method & Beam,22,Reinforcement Cement Concrete,238
+121,Codal Provisions for Beam and Slab Concepts,83,Codal Provisions for Beam and Slab,22,Reinforcement Cement Concrete,147
+122,Shear Concepts,84,Shear,22,Reinforcement Cement Concrete,56
+123,Bond and Anchorage Concepts,85,Bond and Anchorage,22,Reinforcement Cement Concrete,33
+124,Torsion Concepts,86,Torsion,22,Reinforcement Cement Concrete,17
+125,Column Concepts,87,Column,22,Reinforcement Cement Concrete,42
+126,Wall & Footing Concepts,88,Wall & Footing,22,Reinforcement Cement Concrete,29
+127,Pre-Stressed Concrete Basic Concepts,89,Pre-Stressed Concrete Basic,22,Reinforcement Cement Concrete,31
+128,IS Code Recommendations for Pre-Stressed Concrete Concepts,90,IS Code Recommendations for Pre-Stressed Concrete,22,Reinforcement Cement Concrete,2
+129,Analysis of Pre-Stress And Bending Stresses Concepts,91,Analysis of Pre-Stress And Bending Stresses,22,Reinforcement Cement Concrete,19
+130,Losses & Deflection in Pre-Stress Concrete Concepts,92,Losses & Deflection in Pre-Stress Concrete,22,Reinforcement Cement Concrete,27
+145,Turbines Concepts,107,Turbines,24,Hydraulic Machine,15
+146,Hydraulic Pumps Concepts,108,Hydraulic Pumps,24,Hydraulic Machine,10
+147,Introduction Concepts,109,Introduction,25,Open Channel Flow,4
+148,Uniform - Flow Concepts,110,Uniform - Flow,25,Open Channel Flow,16
+149,Energy-Depth Relationship Concepts,111,Energy-Depth Relationship,25,Open Channel Flow,14
+150,Gradually Varied Flow Concepts,112,Gradually Varied Flow,25,Open Channel Flow,0
+151,Rapid Varied Flow Concepts,113,Rapid Varied Flow,25,Open Channel Flow,18
+152,Fundamentals of Surveying Concepts,114,Fundamentals of Surveying,26,Surveying,2
+153,Linear Measurement Concepts,115,Linear Measurement,26,Surveying,1
+154,Compass- Surveying Concepts,116,Compass- Surveying,26,Surveying,3
+155,Theodolite Concepts,117,Theodolite,26,Surveying,15
+156,Traversing Concepts,118,Traversing,26,Surveying,2
+157,Levelling Concepts,119,Levelling,26,Surveying,10
+158,Techeometry Concepts,120,Techeometry,26,Surveying,4
+159,Plane-Table Surveying Concepts,121,Plane-Table Surveying,26,Surveying,4
+160,Contouring Concepts,122,Contouring,26,Surveying,4
+161,Curves Concepts,123,Curves,26,Surveying,2
+162,Field Astronomy Concepts,124,Field Astronomy,26,Surveying,3
+163,Measurement of Area and Volume Concepts,125,Measurement of Area and Volume,26,Surveying,2
+164,Photogrammetry Concepts,126,Photogrammetry,26,Surveying,9
+165,Theory of Errors Concepts,127,Theory of Errors,26,Surveying,1
+166,Introduction Concepts,128,Introduction,27,Hydrology,6
+167,Precipitation and Measurement Concepts,129,Precipitation and Measurement,27,Hydrology,43
+168,Abstractions from Precipitation Concepts,130,Abstractions from Precipitation,27,Hydrology,19
+169,Stream Flow Measurement Concepts,131,Stream Flow Measurement,27,Hydrology,20
+170,Runoff & Drought Concepts,132,Runoff & Drought,27,Hydrology,16
+171,Hydrograph Concepts,133,Hydrograph,27,Hydrology,31
+172,Floods & Flood Routing Concepts,134,Floods & Flood Routing,27,Hydrology,25
+173,Irrigation & Methods Concepts,135,Irrigation & Methods,28,Irrigation,1
+174,Soil-moisture Plant Relationship Concepts,136,Soil-moisture Plant Relationship,28,Irrigation,1
+175,Water Requirement of Crops Concepts,137,Water Requirement of Crops,28,Irrigation,10
+176,Canal-Design Concepts,138,Canal-Design,28,Irrigation,67
+177,Earthen-Dams Concepts,139,Earthen-Dams,28,Irrigation,25
+178,Canal-Irrigation Concepts,140,Canal-Irrigation,28,Irrigation,35
+179,Water-Logging Concepts,141,Water-Logging,28,Irrigation,23
+180,Gravity Dams Concepts,142,Gravity Dams,28,Irrigation,43
+181,Spillway Concepts,143,Spillway,28,Irrigation,11
+193,Introduction Concepts,155,Introduction,29,Highway Engineering,25
+194,Geometric Design Concepts,156,Geometric Design,29,Highway Engineering,93
+195,Horizontal Alignment Concepts,157,Horizontal Alignment,29,Highway Engineering,30
+196,Vertical Alignment Concepts,158,Vertical Alignment,29,Highway Engineering,21
+197,Traffic Engineering Studies Concepts,159,Traffic Engineering Studies,29,Highway Engineering,76
+198,Traffic Control Regulation Concepts,160,Traffic Control Regulation,29,Highway Engineering,41
+199,Highway Material Concepts,161,Highway Material,29,Highway Engineering,52
+200,Pavement Design Concepts,162,Pavement Design,29,Highway Engineering,34
+201,Flexible Pavement Design Concepts,163,Flexible Pavement Design,29,Highway Engineering,64
+202,Design of Rigid Pavement Concepts,164,Design of Rigid Pavement,29,Highway Engineering,46
+203,Highway Maintenance Concepts,165,Highway Maintenance,29,Highway Engineering,33
+204,Introduction Concepts,166,Introduction,30,Airport engineering,1
+205,Airport Planning Concepts,167,Airport Planning,30,Airport engineering,11
+206,Runway Design Concepts,168,Runway Design,30,Airport engineering,19
+207,Airport Capacity Concepts,169,Airport Capacity,30,Airport engineering,3
+208,Taxiway Design Concepts,170,Taxiway Design,30,Airport engineering,0
+262,Basics of Tunneling Concepts,224,Basics of Tunneling,31,Tunnel Engineering,0
+209,Basic of Railway and Rail Joints Concepts,171,Basic of Railway and Rail Joints,33,Railway Engineering,31
+210,Sleepers and Track Fasteners Concepts,172,Sleepers and Track Fasteners,33,Railway Engineering,15
+211,Ballast and Track Alignment Concepts,173,Ballast and Track Alignment,33,Railway Engineering,7
+212,Track Stress and Creep Concepts,174,Track Stress and Creep,33,Railway Engineering,17
+213,Geometric Design of the track Concepts,175,Geometric Design of the track,33,Railway Engineering,62
+214,Points and Cross Concepts,176,Points and Cross,33,Railway Engineering,29
+215,Railway Station and Station Yard Concepts,177,Railway Station and Station Yard,33,Railway Engineering,2
+216,Signalling and control Systems Concepts,178,Signalling and control Systems,33,Railway Engineering,16
+217,Traction and Tractive Resistance Concepts,179,Traction and Tractive Resistance,33,Railway Engineering,2
+218,Project Management Concepts,180,Project Management,34,CPM & PERT,6
+219,Network Technique Concepts,181,Network Technique,34,CPM & PERT,7
+220,Programme Evaluation Review Technique Concepts,182,Programme Evaluation Review Technique,34,CPM & PERT,5
+221,Critical Path Method Concepts,183,Critical Path Method,34,CPM & PERT,2
+222,"CRASHING, Updating & Resource Allocation Concepts",184,"CRASHING, Updating & Resource Allocation",34,CPM & PERT,2
+223,Fundamental of Equipments Concepts,185,Fundamental of Equipments,34,CPM & PERT,5
+224,Excavation Equipment Concepts,186,Excavation Equipment,34,CPM & PERT,0
+225,Basic Fundamental Concepts,187,Basic Fundamental,35,Applied Mechanics,8
+226,Velocity & Projectile Motion Concepts,188,Velocity & Projectile Motion,35,Applied Mechanics,5
+227,Friction Concepts,189,Friction,35,Applied Mechanics,6
+228,Force Concepts,190,Force,35,Applied Mechanics,15
+229,"Work, Power & Energy Concepts",191,"Work, Power & Energy",35,Applied Mechanics,7
+230,"Determinacy, Indeterminacy & Stability of Structure Concepts",192,"Determinacy, Indeterminacy & Stability of Structure",36,Structural Analysis,84
+231,Force Method Of Analysis Concepts,193,Force Method Of Analysis,36,Structural Analysis,56
+232,Slope-Deflection Method Concepts,194,Slope-Deflection Method,36,Structural Analysis,34
+233,Moment-Distribution Method Concepts,195,Moment-Distribution Method,36,Structural Analysis,6
+234,Arches Concepts,196,Arches,36,Structural Analysis,39
+235,Trusses Concepts,197,Trusses,36,Structural Analysis,48
+236,Influence-Line Diagram Concepts,198,Influence-Line Diagram,36,Structural Analysis,54
+237,Matrix-Method Of Analysis Concepts,199,Matrix-Method Of Analysis,36,Structural Analysis,18
+238,Rivets Concepts,200,Rivets,37,Design of Steel Structure,1
+239,Limit State Method of Design Concepts,201,Limit State Method of Design,37,Design of Steel Structure,7
+240,Bolts Concepts,202,Bolts,37,Design of Steel Structure,0
+241,Welded Connections Concepts,203,Welded Connections,37,Design of Steel Structure,2
+242,Tension Member Concepts,204,Tension Member,37,Design of Steel Structure,1
+243,Compression-Members Concepts,205,Compression-Members,37,Design of Steel Structure,10
+244,Column Bases and Caps Concepts,206,Column Bases and Caps,37,Design of Steel Structure,3
+245,Beams (WSM) Concepts,207,Beams (WSM),37,Design of Steel Structure,1
+246,Plate-Girders Concepts,208,Plate-Girders,37,Design of Steel Structure,17
+247,Industrial Building Concepts,209,Industrial Building,37,Design of Steel Structure,3
+248,Plastic-Analysis Concepts,210,Plastic-Analysis,37,Design of Steel Structure,33
+263,Mock Test Topic,225,Mock Test Chapter,42,Mock Test Subject,2955
+264,Test Topic Practice,226,Test Chapter Practice,43,Test Subject Practice,288
+265,Empty Test Topic,227,Empty Test Chapter,44,Empty Test Subject,0

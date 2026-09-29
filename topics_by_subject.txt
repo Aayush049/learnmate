@@ -1,0 +1,682 @@
+====================================================================================================
+              LEARNMATE - SYLLABUS HIERARCHY (SUBJECT -> CHAPTER -> TOPIC)
+====================================================================================================
+
+
+##########################################################################################
+SUBJECT [11]: ENVIRONMENTAL ENGINEERING (Total Questions: 1172)
+##########################################################################################
+
+  ├── CHAPTER [18]: Uncategorized Chapter (Questions: 423)
+  │     └── [Topic ID  40] Water Quality                                           (Questions: 423)
+  │     └── [Topic ID  41] Water Treatment                                         (Questions:   0)
+  │     └── [Topic ID  42] Wastewater Characteristics                              (Questions:   0)
+  │     └── [Topic ID  43] Air Pollution                                           (Questions:   0)
+  │     └── [Topic ID  44] Solid Waste Management                                  (Questions:   0)
+
+  ├── CHAPTER [144]: Water Demand, Source & Conveyance (Questions: 30)
+  │     └── [Topic ID 182] Water Demand, Source & Conveyance                       (Questions:  30)
+
+  ├── CHAPTER [145]: Quality Parameters of Water (Questions: 95)
+  │     └── [Topic ID 183] Quality Parameters of Water                             (Questions:  95)
+
+  ├── CHAPTER [146]: Treatment of Water (Questions: 140)
+  │     └── [Topic ID 184] Treatment of Water                                      (Questions: 140)
+
+  ├── CHAPTER [147]: Distribution System (Questions: 35)
+  │     └── [Topic ID 185] Distribution System                                     (Questions:  35)
+
+  ├── CHAPTER [148]: Waste Water Characteristics (Questions: 63)
+  │     └── [Topic ID 186] Waste Water Characteristics                             (Questions:  63)
+
+  ├── CHAPTER [149]: Disposal of Sewage Waste (Questions: 35)
+  │     └── [Topic ID 187] Disposal of Sewage Waste                                (Questions:  35)
+
+  ├── CHAPTER [150]: Design of Sewerage System and Sewer Appurtenances (Questions: 95)
+  │     └── [Topic ID 188] Design of Sewerage System and Sewer Appurtenances       (Questions:  95)
+
+  ├── CHAPTER [151]: Sewage Treatment (Questions: 112)
+  │     └── [Topic ID 189] Sewage Treatment                                        (Questions: 112)
+
+  ├── CHAPTER [152]: Solid Waste Management (Questions: 40)
+  │     └── [Topic ID 190] Solid Waste Management                                  (Questions:  40)
+
+  ├── CHAPTER [153]: Air Pollution (Questions: 82)
+  │     └── [Topic ID 191] Air Pollution                                           (Questions:  82)
+
+  ├── CHAPTER [154]: Noise Pollution (Questions: 22)
+  │     └── [Topic ID 192] Noise Pollution                                         (Questions:  22)
+
+##########################################################################################
+SUBJECT [12]: FLUID MECHANICS (Total Questions: 164)
+##########################################################################################
+
+  ├── CHAPTER [19]: Uncategorized Chapter (Questions: 0)
+  │     └── [Topic ID  45] Fluid Properties                                        (Questions:   0)
+  │     └── [Topic ID  46] Fluid Kinematics                                        (Questions:   0)
+  │     └── [Topic ID  47] Fluid Dynamics                                          (Questions:   0)
+  │     └── [Topic ID  48] Flow Through Pipes                                      (Questions:   0)
+  │     └── [Topic ID  49] Boundary Layer Theory                                   (Questions:   0)
+
+  ├── CHAPTER [93]: Properties of Fluid (Questions: 14)
+  │     └── [Topic ID 131] Properties of Fluid                                     (Questions:  14)
+
+  ├── CHAPTER [94]: Pressure and its Measurement (Questions: 9)
+  │     └── [Topic ID 132] Pressure and its Measurement                            (Questions:   9)
+
+  ├── CHAPTER [95]: Hydrostatic-Forces (Questions: 3)
+  │     └── [Topic ID 133] Hydrostatic-Forces                                      (Questions:   3)
+
+  ├── CHAPTER [96]: Buoyancy and Floatation (Questions: 5)
+  │     └── [Topic ID 134] Buoyancy and Floatation                                 (Questions:   5)
+
+  ├── CHAPTER [97]: Liquid in Relative Equilibrium (Questions: 0)
+  │     └── [Topic ID 135] Liquid in Relative Equilibrium                          (Questions:   0)
+
+  ├── CHAPTER [98]: Fluid Kinematics (Questions: 35)
+  │     └── [Topic ID 136] Fluid Kinematics                                        (Questions:  35)
+
+  ├── CHAPTER [99]: Fluid Dynamics (Questions: 19)
+  │     └── [Topic ID 137] Fluid Dynamics                                          (Questions:  19)
+
+  ├── CHAPTER [100]: Momentum Equation and Application (Questions: 5)
+  │     └── [Topic ID 138] Momentum Equation and Application                       (Questions:   5)
+
+  ├── CHAPTER [101]: Weir and Notches (Questions: 0)
+  │     └── [Topic ID 139] Weir and Notches                                        (Questions:   0)
+
+  ├── CHAPTER [102]: Laminar Flow (Questions: 10)
+  │     └── [Topic ID 140] Laminar Flow                                            (Questions:  10)
+
+  ├── CHAPTER [103]: Turbulent Flow (Questions: 17)
+  │     └── [Topic ID 141] Turbulent Flow                                          (Questions:  17)
+
+  ├── CHAPTER [104]: Boundary Layer Thickness (Questions: 20)
+  │     └── [Topic ID 142] Boundary Layer Thickness                                (Questions:  20)
+
+  ├── CHAPTER [105]: Dimensional Analysis and Model Studies (Questions: 5)
+  │     └── [Topic ID 143] Dimensional Analysis and Model Studies                  (Questions:   5)
+
+  ├── CHAPTER [106]: Flow Through Pipes (Questions: 22)
+  │     └── [Topic ID 144] Flow Through Pipes                                      (Questions:  22)
+
+##########################################################################################
+SUBJECT [13]: SOIL MECHANICS (Total Questions: 442)
+##########################################################################################
+
+  ├── CHAPTER [20]: Uncategorized Chapter (Questions: 0)
+  │     └── [Topic ID  50] Properties of Soils                                     (Questions:   0)
+  │     └── [Topic ID  51] Seepage Analysis                                        (Questions:   0)
+  │     └── [Topic ID  52] Compaction                                              (Questions:   0)
+  │     └── [Topic ID  53] Consolidation                                           (Questions:   0)
+  │     └── [Topic ID  54] Shear Strength                                          (Questions:   0)
+
+  ├── CHAPTER [48]: Soil Origin & Its Properties (Questions: 4)
+  │     └── [Topic ID  86] Soil Origin & Its Properties                            (Questions:   4)
+
+  ├── CHAPTER [49]: Index Properties of Soil (Questions: 36)
+  │     └── [Topic ID  87] Index Properties of Soil                                (Questions:  36)
+
+  ├── CHAPTER [50]: Classification of Soil (Questions: 6)
+  │     └── [Topic ID  88] Classification of Soil                                  (Questions:   6)
+
+  ├── CHAPTER [52]: Compaction of Soil (Questions: 31)
+  │     └── [Topic ID  90] Compaction of Soil                                      (Questions:  31)
+
+  ├── CHAPTER [51]: Clay Mineral & Soil Structure (Questions: 8)
+  │     └── [Topic ID  89] Clay Mineral & Soil Structure                           (Questions:   8)
+
+  ├── CHAPTER [53]: Compressibility and Consolidation (Questions: 26)
+  │     └── [Topic ID  91] Compressibility and Consolidation                       (Questions:  26)
+
+  ├── CHAPTER [54]: Effective Stress, Capillarity and Permeability (Questions: 45)
+  │     └── [Topic ID  92] Effective Stress, Capillarity and Permeability          (Questions:  45)
+
+  ├── CHAPTER [55]: Seepage Through Soil (Questions: 16)
+  │     └── [Topic ID  93] Seepage Through Soil                                    (Questions:  16)
+
+  ├── CHAPTER [56]: Shear Strength of Soil (Questions: 37)
+  │     └── [Topic ID  94] Shear Strength of Soil                                  (Questions:  37)
+
+  ├── CHAPTER [57]: Earth pressure and Retaining walls (Questions: 57)
+  │     └── [Topic ID  95] Earth pressure and Retaining walls                      (Questions:  57)
+
+  ├── CHAPTER [58]: Shallow Foundation (Questions: 70)
+  │     └── [Topic ID  96] Shallow Foundation                                      (Questions:  70)
+
+  ├── CHAPTER [59]: Deep Foundation (Questions: 44)
+  │     └── [Topic ID  97] Deep Foundation                                         (Questions:  44)
+
+  ├── CHAPTER [60]: Vertical Stressess (Questions: 11)
+  │     └── [Topic ID  98] Vertical Stressess                                      (Questions:  11)
+
+  ├── CHAPTER [61]: Stability of slopes (Questions: 13)
+  │     └── [Topic ID  99] Stability of slopes                                     (Questions:  13)
+
+  ├── CHAPTER [62]: Soil Exploration (Questions: 22)
+  │     └── [Topic ID 100] Soil Exploration                                        (Questions:  22)
+
+  ├── CHAPTER [63]: Expansive Soil (Questions: 7)
+  │     └── [Topic ID 101] Expansive Soil                                          (Questions:   7)
+
+  ├── CHAPTER [64]: Soil Stabilization (Questions: 9)
+  │     └── [Topic ID 102] Soil Stabilization                                      (Questions:   9)
+
+##########################################################################################
+SUBJECT [18]: BUILDING MATERIAL CONSTRUCTION (Total Questions: 229)
+##########################################################################################
+
+  ├── CHAPTER [28]: Important Indian Standard Codes (Questions: 1)
+  │     └── [Topic ID  66] Important Indian Standard Codes                         (Questions:   1)
+
+  ├── CHAPTER [29]: Cement (Questions: 53)
+  │     └── [Topic ID  67] Cement                                                  (Questions:  53)
+
+  ├── CHAPTER [30]: Concrete (Questions: 95)
+  │     └── [Topic ID  68] Concrete                                                (Questions:  95)
+
+  ├── CHAPTER [31]: Timber (Questions: 12)
+  │     └── [Topic ID  69] Timber                                                  (Questions:  12)
+
+  ├── CHAPTER [32]: Aggregates (Questions: 13)
+  │     └── [Topic ID  70] Aggregates                                              (Questions:  13)
+
+  ├── CHAPTER [33]: Bricks (Questions: 13)
+  │     └── [Topic ID  71] Bricks                                                  (Questions:  13)
+
+  ├── CHAPTER [34]: Brick Masonry (Questions: 7)
+  │     └── [Topic ID  72] Brick Masonry                                           (Questions:   7)
+
+  ├── CHAPTER [35]: Mortar & Lime (Questions: 7)
+  │     └── [Topic ID  73] Mortar & Lime                                           (Questions:   7)
+
+  ├── CHAPTER [36]: STONE (Questions: 10)
+  │     └── [Topic ID  74] STONE                                                   (Questions:  10)
+
+  ├── CHAPTER [37]: Door, Window & Roof (Questions: 1)
+  │     └── [Topic ID  75] Door, Window & Roof                                     (Questions:   1)
+
+  ├── CHAPTER [38]: Stair Case (Questions: 0)
+  │     └── [Topic ID  76] Stair Case                                              (Questions:   0)
+
+  ├── CHAPTER [39]: Floors (Questions: 0)
+  │     └── [Topic ID  77] Floors                                                  (Questions:   0)
+
+  ├── CHAPTER [40]: Steel & Glass (Questions: 12)
+  │     └── [Topic ID  78] Steel & Glass                                           (Questions:  12)
+
+  ├── CHAPTER [41]: Paint & Varnish (Questions: 3)
+  │     └── [Topic ID  79] Paint & Varnish                                         (Questions:   3)
+
+  ├── CHAPTER [42]: Building Maintenance Engineering (Questions: 0)
+  │     └── [Topic ID  80] Building Maintenance Engineering                        (Questions:   0)
+
+  ├── CHAPTER [43]: Building Laws (Questions: 2)
+  │     └── [Topic ID  81] Building Laws                                           (Questions:   2)
+
+##########################################################################################
+SUBJECT [19]: ESTIMATION-COSTING (Total Questions: 37)
+##########################################################################################
+
+  ├── CHAPTER [44]: Basic Measurement & Work (Questions: 10)
+  │     └── [Topic ID  82] Basic Measurement & Work                                (Questions:  10)
+
+  ├── CHAPTER [45]: Valuation (Questions: 5)
+  │     └── [Topic ID  83] Valuation                                               (Questions:   5)
+
+  ├── CHAPTER [46]: Estimation and Area Types (Questions: 13)
+  │     └── [Topic ID  84] Estimation and Area Types                               (Questions:  13)
+
+  ├── CHAPTER [47]: Material Calculation & other miscellaneous topics (Questions: 9)
+  │     └── [Topic ID  85] Material Calculation & other miscellaneous topics       (Questions:   9)
+
+##########################################################################################
+SUBJECT [20]: SOLID MECHANICS (Total Questions: 367)
+##########################################################################################
+
+  ├── CHAPTER [65]: Properties of Material (Questions: 93)
+  │     └── [Topic ID 103] Properties of Material                                  (Questions:  93)
+
+  ├── CHAPTER [66]: Shear Force & Bending Moment (Questions: 60)
+  │     └── [Topic ID 104] Shear Force & Bending Moment                            (Questions:  60)
+
+  ├── CHAPTER [67]: Deflection of Beams (Questions: 22)
+  │     └── [Topic ID 105] Deflection of Beams                                     (Questions:  22)
+
+  ├── CHAPTER [68]: Principal Stress & Principal Strain (Questions: 35)
+  │     └── [Topic ID 106] Principal Stress & Principal Strain                     (Questions:  35)
+
+  ├── CHAPTER [69]: Theories of Failure (Questions: 10)
+  │     └── [Topic ID 107] Theories of Failure                                     (Questions:  10)
+
+  ├── CHAPTER [70]: Bending Stress (Questions: 37)
+  │     └── [Topic ID 108] Bending Stress                                          (Questions:  37)
+
+  ├── CHAPTER [71]: Shear Stress (Questions: 26)
+  │     └── [Topic ID 109] Shear Stress                                            (Questions:  26)
+
+  ├── CHAPTER [72]: Combined Stress (Questions: 6)
+  │     └── [Topic ID 110] Combined Stress                                         (Questions:   6)
+
+  ├── CHAPTER [73]: Columns (Questions: 39)
+  │     └── [Topic ID 111] Columns                                                 (Questions:  39)
+
+  ├── CHAPTER [74]: Springs (Questions: 5)
+  │     └── [Topic ID 112] Springs                                                 (Questions:   5)
+
+  ├── CHAPTER [75]: Torsion of Circular Shaft (Questions: 24)
+  │     └── [Topic ID 113] Torsion of Circular Shaft                               (Questions:  24)
+
+  ├── CHAPTER [76]: Thick & Thin Cylinder/Sphere (Questions: 10)
+  │     └── [Topic ID 114] Thick & Thin Cylinder/Sphere                            (Questions:  10)
+
+##########################################################################################
+SUBJECT [21]: NAVIGATION CHANNEL HARBOUR DOCK (Total Questions: 14)
+##########################################################################################
+
+  ├── CHAPTER [77]: Navigation Channel (Questions: 0)
+  │     └── [Topic ID 115] Navigation Channel                                      (Questions:   0)
+
+  ├── CHAPTER [78]: Harbour (Questions: 5)
+  │     └── [Topic ID 116] Harbour                                                 (Questions:   5)
+
+  ├── CHAPTER [79]: Breakwaters (Questions: 0)
+  │     └── [Topic ID 117] Breakwaters                                             (Questions:   0)
+
+  ├── CHAPTER [80]: Dock (Questions: 9)
+  │     └── [Topic ID 118] Dock                                                    (Questions:   9)
+
+##########################################################################################
+SUBJECT [22]: REINFORCEMENT CEMENT CONCRETE (Total Questions: 683)
+##########################################################################################
+
+  ├── CHAPTER [81]: Basic of RCC (Questions: 42)
+  │     └── [Topic ID 119] Basic of RCC                                            (Questions:  42)
+
+  ├── CHAPTER [82]: Limit State Method & Beam (Questions: 238)
+  │     └── [Topic ID 120] Limit State Method & Beam                               (Questions: 238)
+
+  ├── CHAPTER [83]: Codal Provisions for Beam and Slab (Questions: 147)
+  │     └── [Topic ID 121] Codal Provisions for Beam and Slab                      (Questions: 147)
+
+  ├── CHAPTER [84]: Shear (Questions: 56)
+  │     └── [Topic ID 122] Shear                                                   (Questions:  56)
+
+  ├── CHAPTER [85]: Bond and Anchorage (Questions: 33)
+  │     └── [Topic ID 123] Bond and Anchorage                                      (Questions:  33)
+
+  ├── CHAPTER [86]: Torsion (Questions: 17)
+  │     └── [Topic ID 124] Torsion                                                 (Questions:  17)
+
+  ├── CHAPTER [87]: Column (Questions: 42)
+  │     └── [Topic ID 125] Column                                                  (Questions:  42)
+
+  ├── CHAPTER [88]: Wall & Footing (Questions: 29)
+  │     └── [Topic ID 126] Wall & Footing                                          (Questions:  29)
+
+  ├── CHAPTER [89]: Pre-Stressed Concrete Basic (Questions: 31)
+  │     └── [Topic ID 127] Pre-Stressed Concrete Basic                             (Questions:  31)
+
+  ├── CHAPTER [90]: IS Code Recommendations for Pre-Stressed Concrete (Questions: 2)
+  │     └── [Topic ID 128] IS Code Recommendations for Pre-Stressed Concrete       (Questions:   2)
+
+  ├── CHAPTER [91]: Analysis of Pre-Stress And Bending Stresses (Questions: 19)
+  │     └── [Topic ID 129] Analysis of Pre-Stress And Bending Stresses             (Questions:  19)
+
+  ├── CHAPTER [92]: Losses & Deflection in Pre-Stress Concrete (Questions: 27)
+  │     └── [Topic ID 130] Losses & Deflection in Pre-Stress Concrete              (Questions:  27)
+
+##########################################################################################
+SUBJECT [24]: HYDRAULIC MACHINE (Total Questions: 25)
+##########################################################################################
+
+  ├── CHAPTER [107]: Turbines (Questions: 15)
+  │     └── [Topic ID 145] Turbines                                                (Questions:  15)
+
+  ├── CHAPTER [108]: Hydraulic Pumps (Questions: 10)
+  │     └── [Topic ID 146] Hydraulic Pumps                                         (Questions:  10)
+
+##########################################################################################
+SUBJECT [25]: OPEN CHANNEL FLOW (Total Questions: 52)
+##########################################################################################
+
+  ├── CHAPTER [111]: Energy-Depth Relationship (Questions: 14)
+  │     └── [Topic ID 149] Energy-Depth Relationship                               (Questions:  14)
+
+  ├── CHAPTER [112]: Gradually Varied Flow (Questions: 0)
+  │     └── [Topic ID 150] Gradually Varied Flow                                   (Questions:   0)
+
+  ├── CHAPTER [113]: Rapid Varied Flow (Questions: 18)
+  │     └── [Topic ID 151] Rapid Varied Flow                                       (Questions:  18)
+
+  ├── CHAPTER [109]: Introduction (Questions: 4)
+  │     └── [Topic ID 147] Introduction                                            (Questions:   4)
+
+  ├── CHAPTER [110]: Uniform - Flow (Questions: 16)
+  │     └── [Topic ID 148] Uniform - Flow                                          (Questions:  16)
+
+##########################################################################################
+SUBJECT [26]: SURVEYING (Total Questions: 62)
+##########################################################################################
+
+  ├── CHAPTER [114]: Fundamentals of Surveying (Questions: 2)
+  │     └── [Topic ID 152] Fundamentals of Surveying                               (Questions:   2)
+
+  ├── CHAPTER [115]: Linear Measurement (Questions: 1)
+  │     └── [Topic ID 153] Linear Measurement                                      (Questions:   1)
+
+  ├── CHAPTER [116]: Compass- Surveying (Questions: 3)
+  │     └── [Topic ID 154] Compass- Surveying                                      (Questions:   3)
+
+  ├── CHAPTER [117]: Theodolite (Questions: 15)
+  │     └── [Topic ID 155] Theodolite                                              (Questions:  15)
+
+  ├── CHAPTER [118]: Traversing (Questions: 2)
+  │     └── [Topic ID 156] Traversing                                              (Questions:   2)
+
+  ├── CHAPTER [119]: Levelling (Questions: 10)
+  │     └── [Topic ID 157] Levelling                                               (Questions:  10)
+
+  ├── CHAPTER [120]: Techeometry (Questions: 4)
+  │     └── [Topic ID 158] Techeometry                                             (Questions:   4)
+
+  ├── CHAPTER [121]: Plane-Table Surveying (Questions: 4)
+  │     └── [Topic ID 159] Plane-Table Surveying                                   (Questions:   4)
+
+  ├── CHAPTER [122]: Contouring (Questions: 4)
+  │     └── [Topic ID 160] Contouring                                              (Questions:   4)
+
+  ├── CHAPTER [123]: Curves (Questions: 2)
+  │     └── [Topic ID 161] Curves                                                  (Questions:   2)
+
+  ├── CHAPTER [124]: Field Astronomy (Questions: 3)
+  │     └── [Topic ID 162] Field Astronomy                                         (Questions:   3)
+
+  ├── CHAPTER [125]: Measurement of Area and Volume (Questions: 2)
+  │     └── [Topic ID 163] Measurement of Area and Volume                          (Questions:   2)
+
+  ├── CHAPTER [126]: Photogrammetry (Questions: 9)
+  │     └── [Topic ID 164] Photogrammetry                                          (Questions:   9)
+
+  ├── CHAPTER [127]: Theory of Errors (Questions: 1)
+  │     └── [Topic ID 165] Theory of Errors                                        (Questions:   1)
+
+##########################################################################################
+SUBJECT [27]: HYDROLOGY (Total Questions: 160)
+##########################################################################################
+
+  ├── CHAPTER [128]: Introduction (Questions: 6)
+  │     └── [Topic ID 166] Introduction                                            (Questions:   6)
+
+  ├── CHAPTER [129]: Precipitation and Measurement (Questions: 43)
+  │     └── [Topic ID 167] Precipitation and Measurement                           (Questions:  43)
+
+  ├── CHAPTER [130]: Abstractions from Precipitation (Questions: 19)
+  │     └── [Topic ID 168] Abstractions from Precipitation                         (Questions:  19)
+
+  ├── CHAPTER [131]: Stream Flow Measurement (Questions: 20)
+  │     └── [Topic ID 169] Stream Flow Measurement                                 (Questions:  20)
+
+  ├── CHAPTER [132]: Runoff & Drought (Questions: 16)
+  │     └── [Topic ID 170] Runoff & Drought                                        (Questions:  16)
+
+  ├── CHAPTER [133]: Hydrograph (Questions: 31)
+  │     └── [Topic ID 171] Hydrograph                                              (Questions:  31)
+
+  ├── CHAPTER [134]: Floods & Flood Routing (Questions: 25)
+  │     └── [Topic ID 172] Floods & Flood Routing                                  (Questions:  25)
+
+##########################################################################################
+SUBJECT [28]: IRRIGATION (Total Questions: 216)
+##########################################################################################
+
+  ├── CHAPTER [135]: Irrigation & Methods (Questions: 1)
+  │     └── [Topic ID 173] Irrigation & Methods                                    (Questions:   1)
+
+  ├── CHAPTER [136]: Soil-moisture Plant Relationship (Questions: 1)
+  │     └── [Topic ID 174] Soil-moisture Plant Relationship                        (Questions:   1)
+
+  ├── CHAPTER [137]: Water Requirement of Crops (Questions: 10)
+  │     └── [Topic ID 175] Water Requirement of Crops                              (Questions:  10)
+
+  ├── CHAPTER [138]: Canal-Design (Questions: 67)
+  │     └── [Topic ID 176] Canal-Design                                            (Questions:  67)
+
+  ├── CHAPTER [139]: Earthen-Dams (Questions: 25)
+  │     └── [Topic ID 177] Earthen-Dams                                            (Questions:  25)
+
+  ├── CHAPTER [140]: Canal-Irrigation (Questions: 35)
+  │     └── [Topic ID 178] Canal-Irrigation                                        (Questions:  35)
+
+  ├── CHAPTER [141]: Water-Logging (Questions: 23)
+  │     └── [Topic ID 179] Water-Logging                                           (Questions:  23)
+
+  ├── CHAPTER [142]: Gravity Dams (Questions: 43)
+  │     └── [Topic ID 180] Gravity Dams                                            (Questions:  43)
+
+  ├── CHAPTER [143]: Spillway (Questions: 11)
+  │     └── [Topic ID 181] Spillway                                                (Questions:  11)
+
+##########################################################################################
+SUBJECT [29]: HIGHWAY ENGINEERING (Total Questions: 515)
+##########################################################################################
+
+  ├── CHAPTER [155]: Introduction (Questions: 25)
+  │     └── [Topic ID 193] Introduction                                            (Questions:  25)
+
+  ├── CHAPTER [156]: Geometric Design (Questions: 93)
+  │     └── [Topic ID 194] Geometric Design                                        (Questions:  93)
+
+  ├── CHAPTER [157]: Horizontal Alignment (Questions: 30)
+  │     └── [Topic ID 195] Horizontal Alignment                                    (Questions:  30)
+
+  ├── CHAPTER [158]: Vertical Alignment (Questions: 21)
+  │     └── [Topic ID 196] Vertical Alignment                                      (Questions:  21)
+
+  ├── CHAPTER [159]: Traffic Engineering Studies (Questions: 76)
+  │     └── [Topic ID 197] Traffic Engineering Studies                             (Questions:  76)
+
+  ├── CHAPTER [160]: Traffic Control Regulation (Questions: 41)
+  │     └── [Topic ID 198] Traffic Control Regulation                              (Questions:  41)
+
+  ├── CHAPTER [161]: Highway Material (Questions: 52)
+  │     └── [Topic ID 199] Highway Material                                        (Questions:  52)
+
+  ├── CHAPTER [162]: Pavement Design (Questions: 34)
+  │     └── [Topic ID 200] Pavement Design                                         (Questions:  34)
+
+  ├── CHAPTER [163]: Flexible Pavement Design (Questions: 64)
+  │     └── [Topic ID 201] Flexible Pavement Design                                (Questions:  64)
+
+  ├── CHAPTER [164]: Design of Rigid Pavement (Questions: 46)
+  │     └── [Topic ID 202] Design of Rigid Pavement                                (Questions:  46)
+
+  ├── CHAPTER [165]: Highway Maintenance (Questions: 33)
+  │     └── [Topic ID 203] Highway Maintenance                                     (Questions:  33)
+
+##########################################################################################
+SUBJECT [30]: AIRPORT ENGINEERING (Total Questions: 34)
+##########################################################################################
+
+  ├── CHAPTER [166]: Introduction (Questions: 1)
+  │     └── [Topic ID 204] Introduction                                            (Questions:   1)
+
+  ├── CHAPTER [167]: Airport Planning (Questions: 11)
+  │     └── [Topic ID 205] Airport Planning                                        (Questions:  11)
+
+  ├── CHAPTER [168]: Runway Design (Questions: 19)
+  │     └── [Topic ID 206] Runway Design                                           (Questions:  19)
+
+  ├── CHAPTER [169]: Airport Capacity (Questions: 3)
+  │     └── [Topic ID 207] Airport Capacity                                        (Questions:   3)
+
+  ├── CHAPTER [170]: Taxiway Design (Questions: 0)
+  │     └── [Topic ID 208] Taxiway Design                                          (Questions:   0)
+
+##########################################################################################
+SUBJECT [31]: TUNNEL ENGINEERING (Total Questions: 0)
+##########################################################################################
+
+  ├── CHAPTER [224]: Basics of Tunneling (Questions: 0)
+  │     └── [Topic ID 262] Basics of Tunneling Concepts                            (Questions:   0)
+
+##########################################################################################
+SUBJECT [33]: RAILWAY ENGINEERING (Total Questions: 181)
+##########################################################################################
+
+  ├── CHAPTER [171]: Basic of Railway and Rail Joints (Questions: 31)
+  │     └── [Topic ID 209] Basic of Railway and Rail Joints                        (Questions:  31)
+
+  ├── CHAPTER [172]: Sleepers and Track Fasteners (Questions: 15)
+  │     └── [Topic ID 210] Sleepers and Track Fasteners                            (Questions:  15)
+
+  ├── CHAPTER [173]: Ballast and Track Alignment (Questions: 7)
+  │     └── [Topic ID 211] Ballast and Track Alignment                             (Questions:   7)
+
+  ├── CHAPTER [174]: Track Stress and Creep (Questions: 17)
+  │     └── [Topic ID 212] Track Stress and Creep                                  (Questions:  17)
+
+  ├── CHAPTER [175]: Geometric Design of the track (Questions: 62)
+  │     └── [Topic ID 213] Geometric Design of the track                           (Questions:  62)
+
+  ├── CHAPTER [176]: Points and Cross (Questions: 29)
+  │     └── [Topic ID 214] Points and Cross                                        (Questions:  29)
+
+  ├── CHAPTER [177]: Railway Station and Station Yard (Questions: 2)
+  │     └── [Topic ID 215] Railway Station and Station Yard                        (Questions:   2)
+
+  ├── CHAPTER [178]: Signalling and control Systems (Questions: 16)
+  │     └── [Topic ID 216] Signalling and control Systems                          (Questions:  16)
+
+  ├── CHAPTER [179]: Traction and Tractive Resistance (Questions: 2)
+  │     └── [Topic ID 217] Traction and Tractive Resistance                        (Questions:   2)
+
+##########################################################################################
+SUBJECT [34]: CPM & PERT (Total Questions: 27)
+##########################################################################################
+
+  ├── CHAPTER [180]: Project Management (Questions: 6)
+  │     └── [Topic ID 218] Project Management                                      (Questions:   6)
+
+  ├── CHAPTER [181]: Network Technique (Questions: 7)
+  │     └── [Topic ID 219] Network Technique                                       (Questions:   7)
+
+  ├── CHAPTER [182]: Programme Evaluation Review Technique (Questions: 5)
+  │     └── [Topic ID 220] Programme Evaluation Review Technique                   (Questions:   5)
+
+  ├── CHAPTER [183]: Critical Path Method (Questions: 2)
+  │     └── [Topic ID 221] Critical Path Method                                    (Questions:   2)
+
+  ├── CHAPTER [184]: CRASHING, Updating & Resource Allocation (Questions: 2)
+  │     └── [Topic ID 222] CRASHING, Updating & Resource Allocation                (Questions:   2)
+
+  ├── CHAPTER [185]: Fundamental of Equipments (Questions: 5)
+  │     └── [Topic ID 223] Fundamental of Equipments                               (Questions:   5)
+
+  ├── CHAPTER [186]: Excavation Equipment (Questions: 0)
+  │     └── [Topic ID 224] Excavation Equipment                                    (Questions:   0)
+
+##########################################################################################
+SUBJECT [35]: APPLIED MECHANICS (Total Questions: 41)
+##########################################################################################
+
+  ├── CHAPTER [187]: Basic Fundamental (Questions: 8)
+  │     └── [Topic ID 225] Basic Fundamental                                       (Questions:   8)
+
+  ├── CHAPTER [188]: Velocity & Projectile Motion (Questions: 5)
+  │     └── [Topic ID 226] Velocity & Projectile Motion                            (Questions:   5)
+
+  ├── CHAPTER [189]: Friction (Questions: 6)
+  │     └── [Topic ID 227] Friction                                                (Questions:   6)
+
+  ├── CHAPTER [190]: Force (Questions: 15)
+  │     └── [Topic ID 228] Force                                                   (Questions:  15)
+
+  ├── CHAPTER [191]: Work, Power & Energy (Questions: 7)
+  │     └── [Topic ID 229] Work, Power & Energy                                    (Questions:   7)
+
+##########################################################################################
+SUBJECT [36]: STRUCTURAL ANALYSIS (Total Questions: 339)
+##########################################################################################
+
+  ├── CHAPTER [192]: Determinacy, Indeterminacy & Stability of Structure (Questions: 84)
+  │     └── [Topic ID 230] Determinacy, Indeterminacy & Stability of Structure     (Questions:  84)
+
+  ├── CHAPTER [193]: Force Method Of Analysis (Questions: 56)
+  │     └── [Topic ID 231] Force Method Of Analysis                                (Questions:  56)
+
+  ├── CHAPTER [194]: Slope-Deflection Method (Questions: 34)
+  │     └── [Topic ID 232] Slope-Deflection Method                                 (Questions:  34)
+
+  ├── CHAPTER [195]: Moment-Distribution Method (Questions: 6)
+  │     └── [Topic ID 233] Moment-Distribution Method                              (Questions:   6)
+
+  ├── CHAPTER [196]: Arches (Questions: 39)
+  │     └── [Topic ID 234] Arches                                                  (Questions:  39)
+
+  ├── CHAPTER [197]: Trusses (Questions: 48)
+  │     └── [Topic ID 235] Trusses                                                 (Questions:  48)
+
+  ├── CHAPTER [198]: Influence-Line Diagram (Questions: 54)
+  │     └── [Topic ID 236] Influence-Line Diagram                                  (Questions:  54)
+
+  ├── CHAPTER [199]: Matrix-Method Of Analysis (Questions: 18)
+  │     └── [Topic ID 237] Matrix-Method Of Analysis                               (Questions:  18)
+
+##########################################################################################
+SUBJECT [37]: DESIGN OF STEEL STRUCTURE (Total Questions: 78)
+##########################################################################################
+
+  ├── CHAPTER [200]: Rivets (Questions: 1)
+  │     └── [Topic ID 238] Rivets                                                  (Questions:   1)
+
+  ├── CHAPTER [201]: Limit State Method of Design (Questions: 7)
+  │     └── [Topic ID 239] Limit State Method of Design                            (Questions:   7)
+
+  ├── CHAPTER [202]: Bolts (Questions: 0)
+  │     └── [Topic ID 240] Bolts                                                   (Questions:   0)
+
+  ├── CHAPTER [203]: Welded Connections (Questions: 2)
+  │     └── [Topic ID 241] Welded Connections                                      (Questions:   2)
+
+  ├── CHAPTER [204]: Tension Member (Questions: 1)
+  │     └── [Topic ID 242] Tension Member                                          (Questions:   1)
+
+  ├── CHAPTER [205]: Compression-Members (Questions: 10)
+  │     └── [Topic ID 243] Compression-Members                                     (Questions:  10)
+
+  ├── CHAPTER [206]: Column Bases and Caps (Questions: 3)
+  │     └── [Topic ID 244] Column Bases and Caps                                   (Questions:   3)
+
+  ├── CHAPTER [207]: Beams (WSM) (Questions: 1)
+  │     └── [Topic ID 245] Beams (WSM)                                             (Questions:   1)
+
+  ├── CHAPTER [208]: Plate-Girders (Questions: 17)
+  │     └── [Topic ID 246] Plate-Girders                                           (Questions:  17)
+
+  ├── CHAPTER [209]: Industrial Building (Questions: 3)
+  │     └── [Topic ID 247] Industrial Building                                     (Questions:   3)
+
+  ├── CHAPTER [210]: Plastic-Analysis (Questions: 33)
+  │     └── [Topic ID 248] Plastic-Analysis                                        (Questions:  33)
+
+##########################################################################################
+SUBJECT [42]: MOCK TEST SUBJECT (Total Questions: 3270)
+##########################################################################################
+
+  ├── CHAPTER [225]: Mock Test Chapter (Questions: 3270)
+  │     └── [Topic ID 263] Mock Test Topic                                         (Questions: 3270)
+
+##########################################################################################
+SUBJECT [43]: TEST SUBJECT PRACTICE (Total Questions: 324)
+##########################################################################################
+
+  ├── CHAPTER [226]: Test Chapter Practice (Questions: 324)
+  │     └── [Topic ID 264] Test Topic Practice                                     (Questions: 324)
+
+##########################################################################################
+SUBJECT [44]: EMPTY TEST SUBJECT (Total Questions: 0)
+##########################################################################################
+
+  ├── CHAPTER [227]: Empty Test Chapter (Questions: 0)
+  │     └── [Topic ID 265] Empty Test Topic                                        (Questions:   0)

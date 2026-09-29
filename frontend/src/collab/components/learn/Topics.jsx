@@ -226,8 +226,8 @@ export default function Topics() {
               <div key={`${topic.unitId}-${topic.number}-${idx}`} className="bg-white border border-gray-200 rounded-xl p-5 hover:border-blue-300 hover:shadow-md transition-all flex flex-col">
                 <div className="mb-3">
                   <div className="flex items-start justify-between mb-2">
-                    <span className="text-[10px] font-bold uppercase tracking-wider bg-gray-100 text-gray-600 px-2 py-0.5 rounded">
-                      UNIT {topic.unitNumber}
+                    <span className="text-[10px] font-bold uppercase tracking-wider bg-gray-100 text-gray-700 px-2 py-0.5 rounded">
+                      UNIT {topic.unitNumber}.{topic.number}
                     </span>
                     <span className={`text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded ${
                       topic.sectionType === 'Core' ? 'bg-blue-50 text-blue-700' :

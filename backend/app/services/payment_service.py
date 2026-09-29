@@ -32,6 +32,12 @@ class BasePaymentGateway:
     def verify_webhook_signature(self, body: bytes, signature: str) -> bool:
         raise NotImplementedError
 
+    def fetch_payment(self, payment_id: str) -> Optional[Dict[str, Any]]:
+        raise NotImplementedError
+
+    def fetch_order_payments(self, order_id: str) -> List[Dict[str, Any]]:
+        raise NotImplementedError
+
     def process_refund(self, payment_id: str, amount_inr: float, reason: str) -> Dict[str, Any]:
         raise NotImplementedError
 
@@ -42,12 +48,30 @@ class MockPaymentGateway(BasePaymentGateway):
     Allows zero-friction local and CI testing when external gateway credentials are not yet configured.
     """
 
+    def __init__(self):
+        self.mock_payments: Dict[str, Dict[str, Any]] = {}
+        self.mock_order_payments: Dict[str, List[Dict[str, Any]]] = {}
+
+    def register_mock_payment(self, payment_data: Dict[str, Any]):
+        pid = payment_data.get("id")
+        if pid:
+            self.mock_payments[pid] = payment_data
+        oid = payment_data.get("order_id")
+        if oid:
+            if oid not in self.mock_order_payments:
+                self.mock_order_payments[oid] = []
+            self.mock_order_payments[oid].append(payment_data)
+
+    def reset_mock_data(self):
+        self.mock_payments.clear()
+        self.mock_order_payments.clear()
+
     def create_order(self, amount_inr: float, currency: str, receipt: str, notes: Dict[str, Any]) -> Dict[str, Any]:
         order_id = f"order_mock_{uuid.uuid4().hex[:14]}"
         return {
             "id": order_id,
             "entity": "order",
-            "amount": int(amount_inr * 100),
+            "amount": int(round(amount_inr * 100)),
             "currency": currency,
             "receipt": receipt,
             "status": "created",
@@ -62,11 +86,31 @@ class MockPaymentGateway(BasePaymentGateway):
     def verify_webhook_signature(self, body: bytes, signature: str) -> bool:
         return True
 
+    def fetch_payment(self, payment_id: str) -> Optional[Dict[str, Any]]:
+        if payment_id in self.mock_payments:
+            return self.mock_payments[payment_id]
+        # Default mock fixture if unconfigured
+        return {
+            "id": payment_id,
+            "entity": "payment",
+            "amount": 299900,
+            "currency": "INR",
+            "status": "captured",
+            "order_id": None,
+            "method": "card",
+            "captured": True,
+        }
+
+    def fetch_order_payments(self, order_id: str) -> List[Dict[str, Any]]:
+        if order_id in self.mock_order_payments:
+            return self.mock_order_payments[order_id]
+        return []
+
     def process_refund(self, payment_id: str, amount_inr: float, reason: str) -> Dict[str, Any]:
         return {
             "id": f"rfnd_mock_{uuid.uuid4().hex[:14]}",
             "entity": "refund",
-            "amount": int(amount_inr * 100),
+            "amount": int(round(amount_inr * 100)),
             "currency": "INR",
             "payment_id": payment_id,
             "status": "processed",
@@ -91,7 +135,6 @@ class RazorpayGateway(BasePaymentGateway):
         return (self.key_id, self.key_secret)
 
     def create_order(self, amount_inr: float, currency: str, receipt: str, notes: Dict[str, Any]) -> Dict[str, Any]:
-        # Razorpay takes amount in paise (1 INR = 100 paise)
         amount_paise = int(round(amount_inr * 100))
         payload = {
             "amount": amount_paise,
@@ -136,6 +179,33 @@ class RazorpayGateway(BasePaymentGateway):
         ).hexdigest()
         return hmac.compare_digest(generated_signature, signature)
 
+    def fetch_payment(self, payment_id: str) -> Optional[Dict[str, Any]]:
+        try:
+            resp = requests.get(
+                f"{self.base_url}/payments/{payment_id}",
+                auth=self._get_auth(),
+                timeout=10,
+            )
+            if resp.status_code != 200:
+                raise Exception(f"Razorpay Payment fetch failed [{resp.status_code}]: {resp.text}")
+            return resp.json()
+        except requests.RequestException as e:
+            raise Exception(f"Failed to communicate with Razorpay: {str(e)}")
+
+    def fetch_order_payments(self, order_id: str) -> List[Dict[str, Any]]:
+        try:
+            resp = requests.get(
+                f"{self.base_url}/orders/{order_id}/payments",
+                auth=self._get_auth(),
+                timeout=10,
+            )
+            if resp.status_code != 200:
+                raise Exception(f"Razorpay Order payments fetch failed [{resp.status_code}]: {resp.text}")
+            data = resp.json()
+            return data.get("items", [])
+        except requests.RequestException as e:
+            raise Exception(f"Failed to communicate with Razorpay: {str(e)}")
+
     def process_refund(self, payment_id: str, amount_inr: float, reason: str) -> Dict[str, Any]:
         amount_paise = int(round(amount_inr * 100))
         payload = {
@@ -156,6 +226,9 @@ class RazorpayGateway(BasePaymentGateway):
             raise Exception(f"Razorpay Refund connection error: {str(e)}")
 
 
+_mock_gateway_singleton = MockPaymentGateway()
+
+
 def get_payment_gateway() -> BasePaymentGateway:
     """Factory to instantiate configured Payment Gateway provider"""
     key_id = settings.RAZORPAY_KEY_ID
@@ -166,7 +239,7 @@ def get_payment_gateway() -> BasePaymentGateway:
     if key_id and key_secret and not key_id.startswith("test_placeholder"):
         return RazorpayGateway(key_id, key_secret, webhook_secret)
     # Default fallback to Mock Sandbox Gateway for offline/dev test runs
-    return MockPaymentGateway()
+    return _mock_gateway_singleton
 
 
 class PaymentService:
@@ -330,7 +403,6 @@ class PaymentService:
 
             # Check expiration
             if ent.expires_at:
-                # Normalize timezone
                 exp = ent.expires_at
                 if exp.tzinfo is None:
                     exp = exp.replace(tzinfo=timezone.utc)
@@ -353,7 +425,6 @@ class PaymentService:
                         features=features,
                     )
                 else:
-                    # Mark expired in DB
                     ent.status = "expired"
                     db.commit()
 
@@ -393,7 +464,6 @@ class PaymentService:
         is_mock = isinstance(gateway, MockPaymentGateway)
         provider_name = "mock" if is_mock else "razorpay"
 
-        # Unique transaction receipt identifier
         receipt = f"lm_rcpt_{user.id}_{int(datetime.now(timezone.utc).timestamp())}"
         notes = {
             "user_id": str(user.id),
@@ -403,7 +473,6 @@ class PaymentService:
             "app": "LEARNMATE",
         }
 
-        # Create order in Payment Gateway
         gw_order = gateway.create_order(
             amount_inr=float(plan.price_inr),
             currency="INR",
@@ -412,7 +481,6 @@ class PaymentService:
         )
         provider_order_id = gw_order["id"]
 
-        # Save initial Payment record in DB (PCI DSS Compliant)
         payment = Payment(
             user_id=user.id,
             plan_id=plan.id,
@@ -449,6 +517,149 @@ class PaymentService:
         )
 
     @staticmethod
+    def reconcile_and_activate_payment(
+        db: Session,
+        payment: Payment,
+        user: User,
+        payment_data: Dict[str, Any],
+        payment_method: Optional[str] = "online",
+    ) -> VerifyPaymentResponse:
+        """
+        Authoritative, shared, and idempotent payment reconciliation engine.
+        Strictly validates gateway payment payload invariants before granting entitlement:
+        1. User ownership check (or admin)
+        2. Idempotency check: if payment already captured, return success with current entitlement
+        3. Payment status must be 'captured' / 'paid'
+        4. Payment order_id must match payment.provider_order_id (if present in payload)
+        5. Payment amount must match expected plan amount (in paise)
+        6. Payment currency must match expected currency ('INR')
+        7. Anti-replay: Payment ID must not be already claimed by another captured order
+        8. Atomically update Payment record and provision Entitlement
+        """
+        if payment.user_id != user.id and not user.is_admin:
+            raise ValueError("Unauthorized: Payment order does not belong to the requesting user.")
+
+        payment_id = payment_data.get("id") or payment.provider_payment_id or "unknown_payment_id"
+
+        # Idempotency Check: if already captured
+        if payment.status == "captured":
+            entitlement_info = PaymentService.get_user_entitlement(db, user)
+            return VerifyPaymentResponse(
+                success=True,
+                message="Payment already verified and active.",
+                payment_id=payment.provider_payment_id or payment_id,
+                order_id=payment.provider_order_id,
+                plan_code=payment.plan.code if payment.plan else "lifetime",
+                entitlement=entitlement_info,
+            )
+
+        # Validate status
+        status = payment_data.get("status")
+        if status not in ("captured", "paid"):
+            payment.status = "failed"
+            payment.failure_reason = f"Payment status is '{status}'. Only captured payments can be verified."
+            db.commit()
+            raise ValueError(f"Payment is not captured. Current gateway status is '{status}'.")
+
+        # Validate order association
+        gw_order_id = payment_data.get("order_id")
+        if gw_order_id and gw_order_id != payment.provider_order_id:
+            raise ValueError(
+                f"Payment belongs to order '{gw_order_id}', expected LearnMate order '{payment.provider_order_id}'."
+            )
+
+        # Validate amount (Razorpay amount in paise)
+        expected_paise = int(round(payment.amount * 100))
+        actual_paise = payment_data.get("amount")
+        if actual_paise is not None and int(actual_paise) != expected_paise:
+            raise ValueError(
+                f"Payment amount mismatch: received {actual_paise / 100} {payment_data.get('currency', 'INR')}, "
+                f"expected {payment.amount} INR."
+            )
+
+        # Validate currency
+        actual_currency = payment_data.get("currency", "INR")
+        if actual_currency and actual_currency.upper() != payment.currency.upper():
+            raise ValueError(
+                f"Payment currency mismatch: received '{actual_currency}', expected '{payment.currency}'."
+            )
+
+        # Anti-replay check: ensure payment_id hasn't been claimed by a different captured Payment
+        if payment_id and payment_id != "unknown_payment_id":
+            existing_claim = (
+                db.query(Payment)
+                .filter(
+                    Payment.provider_payment_id == payment_id,
+                    Payment.status == "captured",
+                    Payment.id != payment.id,
+                )
+                .first()
+            )
+            if existing_claim:
+                raise ValueError(f"Payment ID '{payment_id}' has already been utilized for another order.")
+
+        # Update Payment Record
+        payment.provider_payment_id = payment_id
+        payment.status = "captured"
+        payment.payment_method = payment_method or payment_data.get("method") or "online"
+        payment.payment_metadata = {
+            **(payment.payment_metadata or {}),
+            "captured_at": datetime.now(timezone.utc).isoformat(),
+            "gateway_status": status,
+        }
+
+        # Calculate Entitlement Duration
+        plan = payment.plan
+        now = datetime.now(timezone.utc)
+        is_lifetime = (plan.billing_interval == "lifetime" or plan.duration_days == 0)
+
+        # Check if user already has an active lifetime entitlement
+        existing_active_ent = (
+            db.query(Entitlement)
+            .filter(
+                Entitlement.user_id == user.id,
+                Entitlement.status == "active",
+            )
+            .first()
+        )
+
+        if not existing_active_ent or not existing_active_ent.is_lifetime:
+            if is_lifetime:
+                starts_at = now
+                expires_at = None
+            else:
+                duration = timedelta(days=plan.duration_days)
+                starts_at = now
+                expires_at = now + duration
+
+            entitlement = Entitlement(
+                user_id=user.id,
+                plan_id=plan.id,
+                payment_id=payment.id,
+                status="active",
+                starts_at=starts_at,
+                expires_at=expires_at,
+                is_lifetime=is_lifetime,
+                granted_by="payment",
+                notes=f"Subscribed to {plan.name} via order {payment.provider_order_id}",
+            )
+            db.add(entitlement)
+
+        db.commit()
+        db.refresh(payment)
+
+        entitlement_info = PaymentService.get_user_entitlement(db, user)
+
+        return VerifyPaymentResponse(
+            success=True,
+            message="Payment successfully verified! Your lifetime access is now active.",
+            payment_id=payment_id,
+            order_id=payment.provider_order_id,
+            plan_code=plan.code if plan else "lifetime",
+            entitlement=entitlement_info,
+        )
+
+    @staticmethod
     def verify_payment_and_grant_entitlement(
         db: Session,
         user: User,
@@ -458,7 +669,7 @@ class PaymentService:
         payment_method: Optional[str] = "online",
     ) -> VerifyPaymentResponse:
         """
-        Verifies payment authenticity via HMAC signature and atomically activates the subscription entitlement.
+        Verifies modal checkout payment authenticity via HMAC signature and reconciles entitlement.
         """
         payment = db.query(Payment).filter(Payment.provider_order_id == order_id).first()
         if not payment:
@@ -467,7 +678,7 @@ class PaymentService:
         if payment.user_id != user.id and not user.is_admin:
             raise ValueError("Unauthorized: Payment order does not belong to the requesting user.")
 
-        # Idempotency Check: if already captured and entitlement exists
+        # Idempotency Check
         if payment.status == "captured":
             entitlement_info = PaymentService.get_user_entitlement(db, user)
             return VerifyPaymentResponse(
@@ -475,7 +686,7 @@ class PaymentService:
                 message="Payment already verified and active.",
                 payment_id=payment.provider_payment_id or payment_id,
                 order_id=order_id,
-                plan_code=payment.plan.code if payment.plan else "pro",
+                plan_code=payment.plan.code if payment.plan else "lifetime",
                 entitlement=entitlement_info,
             )
 
@@ -490,78 +701,113 @@ class PaymentService:
                 db.commit()
                 raise ValueError("Payment signature verification failed. Transaction was not captured.")
 
-        # Update Payment Record
-        payment.provider_payment_id = payment_id
         payment.provider_signature = signature
-        payment.status = "captured"
-        payment.payment_method = payment_method or "online"
-        payment.payment_metadata = {
-            **payment.payment_metadata,
-            "captured_at": datetime.now(timezone.utc).isoformat(),
+
+        payment_data = {
+            "id": payment_id,
+            "order_id": order_id,
+            "amount": int(round(payment.amount * 100)),
+            "currency": payment.currency,
+            "status": "captured",
+            "method": payment_method or "online",
         }
 
-        # Calculate Entitlement Duration
-        plan = payment.plan
-        now = datetime.now(timezone.utc)
-        is_lifetime = (plan.billing_interval == "lifetime" or plan.duration_days == 0)
+        return PaymentService.reconcile_and_activate_payment(
+            db=db,
+            payment=payment,
+            user=user,
+            payment_data=payment_data,
+            payment_method=payment_method,
+        )
 
-        # Check existing active entitlement to extend if applicable
-        existing_active = (
-            db.query(Entitlement)
-            .filter(
-                Entitlement.user_id == user.id,
-                Entitlement.status == "active",
-                Entitlement.is_lifetime == False,
+    @staticmethod
+    def verify_hosted_payment(
+        db: Session,
+        user: User,
+        order_id: str,
+        payment_id: Optional[str] = None,
+        plan_code: Optional[str] = None,
+    ) -> VerifyPaymentResponse:
+        """
+        Authoritative manual verification endpoint for Razorpay hosted checkout / payment page.
+        Fetches payment/order state from Razorpay API and performs strict server-side reconciliation.
+        """
+        payment = db.query(Payment).filter(Payment.provider_order_id == order_id).first()
+        if not payment:
+            raise ValueError(f"Order '{order_id}' not found in database.")
+
+        if payment.user_id != user.id and not user.is_admin:
+            raise ValueError("Unauthorized: Payment order does not belong to the requesting user.")
+
+        # If already captured, return idempotent success immediately
+        if payment.status == "captured":
+            entitlement_info = PaymentService.get_user_entitlement(db, user)
+            return VerifyPaymentResponse(
+                success=True,
+                message="Payment already verified and active.",
+                payment_id=payment.provider_payment_id or payment_id or "captured",
+                order_id=order_id,
+                plan_code=payment.plan.code if payment.plan else "lifetime",
+                entitlement=entitlement_info,
             )
-            .order_by(desc(Entitlement.expires_at))
-            .first()
+
+        gateway = get_payment_gateway()
+
+        # Path A: Learner provided payment_id
+        if payment_id and payment_id.strip():
+            clean_pid = payment_id.strip()
+            try:
+                pay_data = gateway.fetch_payment(clean_pid)
+            except Exception as e:
+                raise ValueError(f"Failed to fetch payment details from Razorpay: {str(e)}")
+
+            if not pay_data:
+                raise ValueError(f"Payment '{clean_pid}' was not found on Razorpay.")
+
+            # If pay_data has no order_id set (e.g. standalone payment page), associate with this order
+            if not pay_data.get("order_id"):
+                pay_data["order_id"] = payment.provider_order_id
+
+            return PaymentService.reconcile_and_activate_payment(
+                db=db,
+                payment=payment,
+                user=user,
+                payment_data=pay_data,
+                payment_method=pay_data.get("method", "online"),
+            )
+
+        # Path B: Learner clicked "Check Payment Status" without payment_id
+        # Reconcile order payments via Razorpay API
+        try:
+            order_payments = gateway.fetch_order_payments(payment.provider_order_id)
+        except Exception as e:
+            raise ValueError(f"Failed to query order payments from Razorpay: {str(e)}")
+
+        if not order_payments:
+            raise ValueError(
+                f"No captured payment found for order '{order_id}'. "
+                "If you just completed payment, please wait a few seconds or enter your Razorpay Payment ID."
+            )
+
+        # Find a captured payment in the order payments list
+        captured_pay = next(
+            (p for p in order_payments if p.get("status") in ("captured", "paid")),
+            None,
         )
 
-        if is_lifetime:
-            starts_at = now
-            expires_at = None
-        else:
-            duration = timedelta(days=plan.duration_days)
-            if existing_active and existing_active.expires_at:
-                exp = existing_active.expires_at
-                if exp.tzinfo is None:
-                    exp = exp.replace(tzinfo=timezone.utc)
-                if exp > now:
-                    # Extend from prior expiration
-                    starts_at = existing_active.starts_at
-                    expires_at = exp + duration
-                else:
-                    starts_at = now
-                    expires_at = now + duration
-            else:
-                starts_at = now
-                expires_at = now + duration
+        if not captured_pay:
+            latest_status = order_payments[0].get("status", "unknown") if order_payments else "none"
+            raise ValueError(
+                f"No captured payment found for order '{order_id}'. "
+                f"Latest transaction status is '{latest_status}'."
+            )
 
-        # Create or update Entitlement
-        entitlement = Entitlement(
-            user_id=user.id,
-            plan_id=plan.id,
-            payment_id=payment.id,
-            status="active",
-            starts_at=starts_at,
-            expires_at=expires_at,
-            is_lifetime=is_lifetime,
-            granted_by="payment",
-            notes=f"Subscribed to {plan.name} via order {order_id}",
-        )
-        db.add(entitlement)
-        db.commit()
-        db.refresh(entitlement)
-
-        entitlement_info = PaymentService.get_user_entitlement(db, user)
-
-        return VerifyPaymentResponse(
-            success=True,
-            message="Payment successfully verified! Your subscription is now active.",
-            payment_id=payment_id,
-            order_id=order_id,
-            plan_code=plan.code,
-            entitlement=entitlement_info,
+        return PaymentService.reconcile_and_activate_payment(
+            db=db,
+            payment=payment,
+            user=user,
+            payment_data=captured_pay,
+            payment_method=captured_pay.get("method", "online"),
         )
 
     @staticmethod
@@ -584,7 +830,6 @@ class PaymentService:
         if event_name == "payment.captured":
             payment_entity = payload.get("payment", {}).get("entity", {})
             order_id = payment_entity.get("order_id")
-            payment_id = payment_entity.get("id")
             method = payment_entity.get("method")
 
             if order_id:
@@ -592,12 +837,11 @@ class PaymentService:
                 if payment and payment.status != "captured":
                     user = db.query(User).filter(User.id == payment.user_id).first()
                     if user:
-                        PaymentService.verify_payment_and_grant_entitlement(
+                        PaymentService.reconcile_and_activate_payment(
                             db=db,
+                            payment=payment,
                             user=user,
-                            order_id=order_id,
-                            payment_id=payment_id,
-                            signature=None,
+                            payment_data=payment_entity,
                             payment_method=method,
                         )
 
@@ -679,7 +923,7 @@ class PaymentService:
         # Mark Payment Refunded
         payment.status = "refunded"
         payment.payment_metadata = {
-            **payment.payment_metadata,
+            **(payment.payment_metadata or {}),
             "refunded_at": datetime.now(timezone.utc).isoformat(),
             "refund_reason": reason,
         }

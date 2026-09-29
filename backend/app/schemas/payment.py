@@ -88,6 +88,12 @@ class VerifyPaymentRequest(BaseModel):
     provider: str = "razorpay"
 
 
+class VerifyHostedPaymentRequest(BaseModel):
+    order_id: str
+    payment_id: Optional[str] = None
+    plan_code: Optional[str] = None
+
+
 class VerifyPaymentResponse(BaseModel):
     success: bool
     message: str

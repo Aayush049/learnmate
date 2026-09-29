@@ -11,6 +11,7 @@ from app.schemas.payment import (
     CreateOrderRequest,
     CreateOrderResponse,
     VerifyPaymentRequest,
+    VerifyHostedPaymentRequest,
     VerifyPaymentResponse,
     PaymentHistoryResponse,
     RefundRequest,
@@ -101,6 +102,33 @@ def verify_payment_transaction(
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail=f"Verification failed: {str(e)}",
+        )
+
+
+@router.post("/verify-hosted-payment", response_model=VerifyPaymentResponse)
+def verify_hosted_payment_transaction(
+    verification_data: VerifyHostedPaymentRequest,
+    current_user: User = Depends(get_current_active_user),
+    db: Session = Depends(get_db),
+):
+    """
+    Authenticated endpoint: Authoritatively reconciles payment against Razorpay API
+    using LearnMate order_id and optional payment_id before activating entitlement.
+    """
+    try:
+        result = PaymentService.verify_hosted_payment(
+            db=db,
+            user=current_user,
+            order_id=verification_data.order_id,
+            payment_id=verification_data.payment_id,
+        )
+        return result
+    except ValueError as e:
+        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=str(e))
+    except Exception as e:
+        raise HTTPException(
+            status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
+            detail=f"Hosted payment verification failed: {str(e)}",
         )
 
 

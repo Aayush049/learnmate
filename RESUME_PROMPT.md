@@ -211,6 +211,58 @@ A responsive, parameter-driven question practice engine supporting both syllabus
    - Detailed score card with total questions, attempted count, correct count, wrong count, accuracy %, and skipped breakdown.
    - Dual action paths: Retry Practice (clears session state) and Review Answers (preserves selected and evaluated answers for retrospective study).
 
+### J. Authoritative Server-Side Razorpay Payment Reconciliation & Entitlement Synchronization
+A robust, idempotent server-side payment reconciliation engine ensuring students completing hosted checkout on Razorpay (`https://rzp.io/rzp/R2O8T8Ic`) or modal checkout receive verified, active lifetime entitlements:
+1. **Security & Cryptographic Invariants**:
+   - Never activate lifetime access based solely on client-side state, user claims, or the mere existence of a pending LearnMate order.
+   - Authoritatively establishes that Razorpay actually captured the correct payment for the correct LearnMate order before activating entitlement.
+   - Server-side verification validates:
+     1. Status is `captured` or `paid` (rejects `created`, `authorized`, or `failed`).
+     2. Payment belongs to the expected LearnMate / Razorpay `order_id`.
+     3. Amount matches the database-configured lifetime plan price (₹2,999 / 299900 paise).
+     4. Currency matches (`INR`).
+     5. The authenticated LearnMate user owns the pending order.
+     6. Anti-replay protection strictly rejects reused payment IDs across different orders.
+2. **Unified Idempotent Reconciliation Engine (`PaymentService.reconcile_and_activate_payment`)**:
+   - Single source of truth shared across:
+     - Webhook callbacks (`POST /payments/webhook` on `payment.captured`).
+     - Modal HMAC signature verification (`POST /payments/verify-payment`).
+     - Hosted payment reconciliation (`POST /payments/verify-hosted-payment`).
+   - If either the webhook or manual verification activates the entitlement first, subsequent calls return success idempotently without creating duplicate database rows.
+3. **Hosted Verification & Modal State (`POST /payments/verify-hosted-payment` & `PricingPage.tsx`)**:
+   - Supports passing the learner's Razorpay Payment ID (`pay_...`) or reconciling the pending order directly against the Razorpay order payments API.
+   - Upon successful server verification, navigates to `/payment/success` with receipt details and grants immediate dashboard access.
+4. **Comprehensive Unit & Integration Test Suite (`backend/tests/test_payments.py`)**:
+   - 17 dedicated in-memory tests covering:
+     - `test_successful_manual_verification`
+     - `test_payment_id_does_not_belong_to_order`
+     - `test_wrong_amount_rejected`
+     - `test_wrong_currency_rejected`
+     - `test_uncaptured_failed_payment_rejected`
+     - `test_unauthorized_user_verification_rejected`
+     - `test_webhook_then_manual_verification_idempotent`
+     - `test_manual_then_webhook_verification_idempotent`
+     - `test_repeated_verification_idempotent`
+     - `test_unpaid_order_remains_unpaid`
+     - `test_admin_bypass_remains_active`
+     - `test_anti_replay_payment_reuse_rejected`
+     - Plus plan seeding, inactive plan rejection, order creation, lifetime entitlement provisioning, and refund revocation.
+   - 100% pass rate in 0.96s.
+
+### K. Unit-Based Syllabus Remapping (`<unit_number>.<topic_number>`) & Database Alignment
+A canonical, unit-based numbering and hierarchy mapping system aligning the entire LearnMate SSC JE Civil Engineering syllabus:
+1. **Canonical Numbering Standard (`<unit_number>.<topic_number>`)**:
+   - Numbered across Units 1 to 24 in `<unit_number>.<topic_number>` notation (e.g., `1.1 Important Indian Standard Codes` through `1.16 Building Laws` for Unit 1, up to `23.11 Plastic-Analysis` for Unit 23).
+   - Designated Miscellaneous Units (Unit 7: Earthquake, Unit 17: Tunnel Engineering, Unit 18: Bridge Engineering, Unit 24: Auto Cad) with `topicsAvailable: false` and no topic numbering.
+2. **In-Place Database Hierarchy Remapping (`backend/remap_syllabus_units.py`)**:
+   - Updates `Subject.display_order` (1..24), `Chapter.display_order` (1..N), and `Topic.display_order` (1..N) with normalized topic titles in-place.
+   - Strictly preserves database primary keys (`id`) and foreign key relationships across `subjects`, `chapters`, `topics`, and `questions`, keeping all 1,172+ mapped questions, PYQs, attempt histories, and performance metrics 100% intact.
+3. **Frontend Syllabus Single Source of Truth (`frontend/src/collab/data/syllabusData.js`)**:
+   - Comprehensive canonical unit metadata with page ranges, Core Topics, and Advance Topics.
+   - Rendered with `<unit_number>.<topic_number>` badges in `MyTextbook.jsx` and `Topics.jsx`.
+4. **Grouped Hierarchy Reference (`topics_by_subject.txt`)**:
+   - Export utility (`backend/generate_grouped_topics.py`) generating the full tree breakdown of Subjects, Chapters, Topics, and active question counts.
+
 ---
 
 ## 4. Current Work & Next Up
