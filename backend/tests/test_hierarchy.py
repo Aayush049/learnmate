@@ -9,7 +9,8 @@ def test_get_exams():
     assert res.status_code == 200
     data = res.json()
     assert len(data) > 0
-    assert data[0]["name"] == "SSC JE"
+    # V1 targets SSC JE Civil specifically.
+    assert data[0]["name"].startswith("SSC JE")
 
 def test_get_exam_by_id():
     res = client.get("/api/v1/exams/")
@@ -17,7 +18,7 @@ def test_get_exam_by_id():
 
     res = client.get(f"/api/v1/exams/{exam_id}")
     assert res.status_code == 200
-    assert res.json()["name"] == "SSC JE"
+    assert res.json()["name"].startswith("SSC JE")
 
 def test_get_branches_for_exam():
     res = client.get("/api/v1/exams/")

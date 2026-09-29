@@ -12,7 +12,7 @@ from app.models.subject import Subject
 from app.models.topic import Topic
 from app.models.chapter import Chapter
 from app.models.user_profile import UserWeaknessProfile
-from app.auth import get_current_user
+from app.auth import get_current_user, require_active_entitlement
 
 router = APIRouter()
 
@@ -90,7 +90,7 @@ def get_weekly_activity(
 
 @router.get("/performance")
 def get_performance(
-    current_user: User = Depends(get_current_user),
+    current_user: User = Depends(require_active_entitlement),
     db: Session = Depends(get_db)
 ):
     # Overall score/accuracy
@@ -208,7 +208,7 @@ def get_topic_progress(
 
 @router.get("/ai-profile")
 def get_ai_profile(
-    current_user: User = Depends(get_current_user),
+    current_user: User = Depends(require_active_entitlement),
     db: Session = Depends(get_db)
 ):
     perf_data = get_performance(current_user, db)
@@ -220,7 +220,7 @@ def get_ai_profile(
 
 @router.get("/weakness-profile")
 def get_weakness_profile(
-    current_user: User = Depends(get_current_user),
+    current_user: User = Depends(require_active_entitlement),
     db: Session = Depends(get_db)
 ):
     profiles = db.query(UserWeaknessProfile).filter(UserWeaknessProfile.user_id == current_user.id).all()
@@ -238,7 +238,7 @@ def get_weakness_profile(
 @router.post("/generate-study-plan")
 def post_study_plan(
     data: dict = None,
-    current_user: User = Depends(get_current_user),
+    current_user: User = Depends(require_active_entitlement),
     db: Session = Depends(get_db)
 ):
     perf = get_performance(current_user, db)
@@ -249,7 +249,7 @@ def post_study_plan(
 @router.post("/mistake-explanation")
 def post_mistake_explanation(
     data: dict = None,
-    current_user: User = Depends(get_current_user),
+    current_user: User = Depends(require_active_entitlement),
     db: Session = Depends(get_db)
 ):
     topic = data.get("topic", "") if data else ""

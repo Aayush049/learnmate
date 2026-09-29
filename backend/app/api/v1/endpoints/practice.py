@@ -6,7 +6,7 @@ from datetime import datetime
 
 from app import schemas, models
 from app.database import get_db
-from app.auth import get_current_active_user
+from app.auth import get_current_active_user, require_active_entitlement
 
 router = APIRouter()
 
@@ -16,7 +16,7 @@ def start_practice_session(
     topic_id: int = Query(..., description="Topic ID to practice"),
     difficulty: Optional[str] = Query(None, description="Filter by difficulty (easy/medium/hard)"),
     num_questions: int = Query(10, ge=1, le=50, description="Number of questions"),
-    current_user: models.User = Depends(get_current_active_user),
+    current_user: models.User = Depends(require_active_entitlement),
     db: Session = Depends(get_db)
 ):
     """
@@ -81,7 +81,7 @@ def start_practice_session(
 @router.post("/submit-answer")
 def submit_practice_answer(
     answer: schemas.AnswerSubmission,
-    current_user: models.User = Depends(get_current_active_user),
+    current_user: models.User = Depends(require_active_entitlement),
     db: Session = Depends(get_db)
 ):
     """

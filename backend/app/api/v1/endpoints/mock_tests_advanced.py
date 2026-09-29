@@ -4,11 +4,11 @@ Advanced mock test endpoints: question navigation palette, auto-submit on timer 
 from fastapi import APIRouter, Depends, HTTPException, Query
 from sqlalchemy.orm import Session
 from typing import List, Optional, Dict
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 from app import schemas, models
 from app.database import get_db
-from app.auth import get_current_active_user
+from app.auth import get_current_active_user, require_active_entitlement
 
 router = APIRouter()
 
@@ -17,7 +17,7 @@ router = APIRouter()
 def get_question_palette(
     test_id: int,
     attempt_id: int,
-    current_user: models.User = Depends(get_current_active_user),
+    current_user: models.User = Depends(require_active_entitlement),
     db: Session = Depends(get_db)
 ):
     """
@@ -92,7 +92,7 @@ def mark_for_review(
     test_id: int,
     attempt_id: int,
     question_id: int,
-    current_user: models.User = Depends(get_current_active_user),
+    current_user: models.User = Depends(require_active_entitlement),
     db: Session = Depends(get_db)
 ):
     """
@@ -138,7 +138,7 @@ def mark_for_review(
 def auto_submit_on_expiry(
     test_id: int,
     attempt_id: int,
-    current_user: models.User = Depends(get_current_active_user),
+    current_user: models.User = Depends(require_active_entitlement),
     db: Session = Depends(get_db)
 ):
     """
@@ -178,10 +178,14 @@ def auto_submit_on_expiry(
             )
             db.add(qa)
 
-    # Finalize the attempt
-    attempt.completed_at = datetime.utcnow()
+    # Finalize the attempt. `started_at` comes back tz-aware from Postgres while
+    # `datetime.utcnow()` is naive, so normalize before subtracting.
+    attempt.completed_at = datetime.now(timezone.utc)
     if attempt.started_at:
-        time_diff = attempt.completed_at - attempt.started_at
+        started_at = attempt.started_at
+        if started_at.tzinfo is None:
+            started_at = started_at.replace(tzinfo=timezone.utc)
+        time_diff = attempt.completed_at - started_at
         attempt.total_time_seconds = int(time_diff.total_seconds())
 
     db.commit()

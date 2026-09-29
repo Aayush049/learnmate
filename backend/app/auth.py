@@ -144,9 +144,5 @@ def require_active_entitlement(
 
     raise HTTPException(
         status_code=status.HTTP_403_FORBIDDEN,
-        detail={
-            "message": "Active Pro/Master subscription required to access this resource.",
-            "code": "SUBSCRIPTION_REQUIRED",
-            "upgrade_url": "/pricing"
-        }
+        detail="Active SSC JE Civil Full Access entitlement required to access this resource."
     )

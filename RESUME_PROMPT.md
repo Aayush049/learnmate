@@ -158,34 +158,42 @@ A modern, 5-level hierarchical dashboard layout with SaaS design system variable
 5. **Synchronized with `origin/main`**:
    - All repository cleanup, documentation, and bugfix changes are committed and pushed cleanly to GitHub `main`.
 
-### H. Commercial Access & Payment Gateway Architecture (V1)
+### H. Commercial Access & Authentic Razorpay Hosted Checkout Flow (V1)
 A production-grade, PCI DSS compliant, and DPDP Act 2025 aligned payment & entitlement subsystem for LearnMate:
-1. **Database-Driven Dynamic Pricing (`Plan` Entity)**:
-   - Dynamic plan management supporting dynamic price updates, billing intervals (`free`, `monthly`, `annual`, `lifetime`), discount percentages, and feature lists.
-   - Seeded default tiers: `Free Starter` (₹0), `Pro Monthly` (₹499), `Pro Annual` (₹1,499), and `Master Lifetime Pass` (₹2,999).
-2. **Pluggable Payment Gateway Architecture (`backend/app/services/payment_service.py`)**:
+1. **Unified Lifetime Access Model (`SSC JE Civil Full Access`)**:
+   - Authorized offering: **SSC JE Civil Full Access** at ₹2,999 one-time payment with permanent lifetime entitlement (`expires_at = NULL`, `is_lifetime = True`).
+   - Legacy recurring subscription plans (`free`, `pro_monthly`, `pro_annual`) marked inactive (`is_active = False`) in the database catalog.
+2. **Authentic Razorpay Hosted Checkout Flow & Direct Payment Page (`https://rzp.io/rzp/R2O8T8Ic`)**:
+   - Eliminated any client-side simulated bypass; checkouts support both the hosted SDK modal (`window.Razorpay`) and official live Razorpay Payment Page (`https://rzp.io/rzp/R2O8T8Ic`).
+   - Backend order creation (`POST /payments/create-order`) returns `order_id`, `amount`, `currency`, `key_id`, and prefilled learner info.
+   - When live API credentials are authenticated, modal checkout verifies cryptographic HMAC SHA-256 signature using `RAZORPAY_KEY_SECRET` (`POST /payments/verify-payment`) before marking `Payment.status = "captured"` and `Entitlement.status = "active"`.
+   - Direct Razorpay Payment Page opens seamlessly with an in-app verification dialog on `PricingPage.tsx`.
+   - Entitlements remain strictly inactive if payment is dismissed, pending, cancelled, or verification fails.
+   - Successful checkout routes to `/payment/success` with receipt details and an automated 3-second countdown redirect to `/dashboard`.
+3. **Strict Architectural Decoupling (Authentication vs. Authorization vs. Entitlement)**:
+   - **Authentication**: JWT token issuance, credentials, and Google OAuth handle identity only.
+   - **Authorization**: Role-based access (`user.is_admin`) with automatic full bypass for administrators across all protected routes and endpoints.
+   - **Entitlement**: Commercial access gate (`require_active_entitlement` dependency in FastAPI) protecting mock tests (`/mock-tests/start`, `/mock-tests/submit`, `/mock-tests/palette`), PYQ practice (`/practice/start`, `/practice/submit-answer`), AI tutor (`/ai-tutor/solve`), and weakness analytics (`/analytics/performance`, `/analytics/ai-profile`, `/analytics/weakness-profile`).
+4. **Pluggable Payment Gateway Architecture (`backend/app/services/payment_service.py`)**:
    - `BasePaymentGateway` abstract interface.
    - `RazorpayGateway`: Integration with Razorpay India API v1 for hosted checkout order creation, cryptographic HMAC SHA-256 signature verification, webhook processing, and statutory refunds.
-   - `MockPaymentGateway`: Built-in sandbox gateway for local development and CI testing without requiring live third-party API credentials.
-3. **Cryptographic Verification & Server-Side Entitlement Gatekeeping**:
-   - `verify_payment_and_grant_entitlement`: Atomically captures payments, verifies signatures, and provisions/extends `Entitlement` records.
-   - `require_active_entitlement` dependency in `backend/app/auth.py`: Protects premium mock tests and advanced features with automatic Admin role bypass.
-   - Webhook processing with idempotency guards for asynchronous payment capture events (`payment.captured`, `payment.failed`).
-4. **PCI DSS & Data Privacy Boundaries**:
-   - Zero raw cardholder data (PAN, CVV, expiry dates) is transmitted, processed, or persisted on LearnMate servers.
-   - Secure server-to-server metadata with DPDP Act 2025 consent collection prior to checkout launch.
-5. **Statutory Refund & Cancellation Flow**:
-   - Direct digital purchase policy with clear statutory exception handling (duplicate charges, technical delivery failures).
-   - Auditable Admin refund processing (`admin_process_refund`) that triggers gateway reversal, logs admin ID/reason, and automatically revokes active user entitlements.
-6. **Complete Frontend UI/UX Flow**:
-   - `/pricing`: Dynamic pricing tier cards, billing interval switches, feature comparison table, and Razorpay modal integration.
-   - `/payment/success`: Verification confirmation, transaction receipt summary, and direct links to CBT mocks & PYQs.
-   - `/payment/failed`: Diagnostic failure screen with order reference, common gateway failure causes, retry action, and support contact.
-   - `/admin/payments`: Financial administration hub with Gross Revenue, Captured Orders, Active Entitlements, and Statutory Refund metrics, live searchable transaction logs, and refund execution modal.
-   - `SettingsPage.jsx`: Subscription & Entitlement management widget showing current plan status, validity days, and upgrade CTAs.
-   - Legal Policies: `/legal/terms`, `/legal/privacy`, and `/legal/refund-policy`.
-7. **Automated Unit Testing (`backend/tests/test_payments.py`)**:
-   - Standalone in-memory SQLite test suite verifying plan seeding, mock order generation, HMAC verification, lifetime entitlements, and admin statutory refund revocations.
+   - `MockPaymentGateway`: Built-in sandbox gateway for zero-friction local development and CI testing without requiring live credentials.
+5. **Authoritative Routing Flow**:
+   - Visitor $\to$ Public Promotional Landing Page (`/`).
+   - Sign up / Login $\to$ Server check:
+     - Admin $\to$ `/admin/dashboard`
+     - Student with active entitlement $\to$ `/dashboard`
+     - Student without entitlement $\to$ `/pricing`
+   - Checkout $\to$ Razorpay Hosted Gateway $\to$ Server HMAC Verification / Webhook $\to$ Active Lifetime Entitlement $\to$ `/payment/success` $\to$ Learning Dashboard.
+6. **PCI DSS & DPDP Act 2025 Privacy Boundaries**:
+   - Zero cardholder PAN, CVV, or expiry dates stored or processed on LearnMate servers (fully outsourced to PCI DSS Level 1 hosted checkout).
+   - DPDP Act 2025 explicit consent collection for Terms of Service and Statutory Refund Policy prior to checkout.
+7. **Statutory Refund & Financial Auditing**:
+   - Transparent refund policy with exceptions for statutory requirements (technical non-delivery, duplicate billing).
+   - Auditable Admin refund engine (`admin_process_refund`) that executes gateway refunds, logs admin ID/reason, and automatically revokes active entitlements.
+8. **Comprehensive Verification & Test Suite**:
+   - Backend `pytest`: All 51 tests across `test_payments.py`, `test_hierarchy.py`, `test_mock_tests.py`, `test_mock_tests_advanced.py`, `test_questions.py`, `test_pipeline.py`, `test_main.py`, and `test_practice.py` passing cleanly.
+   - Frontend `tsc && vite build`: Passes with zero TypeScript compilation warnings or errors.
 
 ---
 

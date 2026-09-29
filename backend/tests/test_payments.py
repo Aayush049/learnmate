@@ -60,19 +60,39 @@ def test_seed_default_plans(db_session):
     assert "pro_annual" in plan_codes
     assert "lifetime" in plan_codes
 
+    # Verify only active V1 plans are returned by get_plans
+    active_plans = PaymentService.get_plans(db_session)
+    assert len(active_plans) == 1
+    assert active_plans[0].code == "lifetime"
+    assert active_plans[0].is_active is True
+    assert active_plans[0].price_inr == 2999
 
-def test_create_order_and_verify_mock(db_session):
+
+def test_inactive_plan_rejection(db_session):
     PaymentService.seed_default_plans(db_session)
     user = db_session.query(User).filter(User.id == 1).first()
 
-    # Create Order for Monthly Plan
+    with pytest.raises(ValueError) as excinfo:
+        PaymentService.create_order(
+            db=db_session,
+            user=user,
+            plan_code="pro_monthly"
+        )
+    assert "currently inactive" in str(excinfo.value)
+
+
+def test_create_order_and_verify_lifetime_mock(db_session):
+    PaymentService.seed_default_plans(db_session)
+    user = db_session.query(User).filter(User.id == 1).first()
+
+    # Create Order for V1 Lifetime Plan
     order_data = PaymentService.create_order(
         db=db_session,
         user=user,
-        plan_code="pro_monthly"
+        plan_code="lifetime"
     )
     assert order_data.order_id.startswith("order_mock_")
-    assert order_data.amount == 499.0 # 499 INR
+    assert order_data.amount == 2999.0 # 2999 INR
     assert order_data.is_mock is True
 
     # Verify Mock Payment
@@ -86,13 +106,15 @@ def test_create_order_and_verify_mock(db_session):
 
     assert result.success is True
     assert result.entitlement.has_active_entitlement is True
-    assert result.plan_code == "pro_monthly"
+    assert result.plan_code == "lifetime"
+    assert result.entitlement.is_lifetime is True
 
     # Check user entitlement status
     entitlement_info = PaymentService.get_user_entitlement(db_session, user)
     assert entitlement_info.has_active_entitlement is True
-    assert entitlement_info.plan_code == "pro_monthly"
-    assert (entitlement_info.days_remaining or 0) > 0
+    assert entitlement_info.plan_code == "lifetime"
+    assert entitlement_info.is_lifetime is True
+    assert entitlement_info.expires_at is None
 
 
 def test_lifetime_plan_entitlement(db_session):
@@ -124,11 +146,11 @@ def test_statutory_refund_revocation(db_session):
     user = db_session.query(User).filter(User.id == 1).first()
     admin = db_session.query(User).filter(User.id == 2).first()
 
-    # 1. Purchase Monthly Plan
+    # 1. Purchase Lifetime Plan
     order_data = PaymentService.create_order(
         db=db_session,
         user=user,
-        plan_code="pro_monthly"
+        plan_code="lifetime"
     )
     PaymentService.verify_payment_and_grant_entitlement(
         db=db_session,
@@ -166,7 +188,8 @@ def test_statutory_refund_revocation(db_session):
 if __name__ == "__main__":
     tests = [
         ("test_seed_default_plans", test_seed_default_plans),
-        ("test_create_order_and_verify_mock", test_create_order_and_verify_mock),
+        ("test_inactive_plan_rejection", test_inactive_plan_rejection),
+        ("test_create_order_and_verify_lifetime_mock", test_create_order_and_verify_lifetime_mock),
         ("test_lifetime_plan_entitlement", test_lifetime_plan_entitlement),
         ("test_statutory_refund_revocation", test_statutory_refund_revocation),
     ]

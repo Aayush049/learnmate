@@ -2,8 +2,8 @@ from fastapi import APIRouter, Depends, HTTPException, status
 import os
 import google.generativeai as genai
 
-from app.schemas.user import UserResponse
-from app.auth import get_current_user
+from app.models.user import User
+from app.auth import require_active_entitlement
 from pydantic import BaseModel
 
 router = APIRouter()
@@ -15,7 +15,7 @@ class DoubtRequest(BaseModel):
 @router.post("/solve")
 def solve_doubt(
     request: DoubtRequest,
-    current_user: UserResponse = Depends(get_current_user)
+    current_user: User = Depends(require_active_entitlement)
 ):
     try:
         api_key = os.getenv("GEMINI_API_KEY")
@@ -27,7 +27,7 @@ def solve_doubt(
         model = genai.GenerativeModel('gemini-flash-latest')
 
         prompt = f"You are a helpful engineering tutor focused on SSC JE Civil Engineering. Answer this student's question clearly and concisely.\n\nContext: {request.topic_context}\n\nQuestion: {request.query}"
-        
+
         response = model.generate_content(prompt)
         return {"answer": response.text}
     except Exception as e:

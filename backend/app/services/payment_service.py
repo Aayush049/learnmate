@@ -176,96 +176,96 @@ class PaymentService:
 
     @staticmethod
     def seed_default_plans(db: Session) -> List[Plan]:
-        """Seed initial standard pricing tiers if the plans table is empty"""
-        existing_count = db.query(Plan).count()
-        if existing_count > 0:
-            return db.query(Plan).order_by(Plan.price_inr.asc()).all()
+        """Seed and maintain standard pricing tiers with V1 Lifetime Pass as active"""
+        existing_plans = {p.code: p for p in db.query(Plan).all()}
 
-        default_plans = [
-            Plan(
-                name="Free Starter",
-                code="free",
-                description="Essential practice for SSC JE Civil Engineering aspirants starting their prep journey.",
-                price_inr=0,
-                original_price_inr=0,
-                billing_interval="free",
-                duration_days=0,
-                features=[
+        default_plans_spec = [
+            {
+                "name": "SSC JE Civil Full Access",
+                "code": "lifetime",
+                "description": "One-time payment for lifetime access to the complete SSC JE Civil Engineering preparation suite.",
+                "price_inr": 2999,
+                "original_price_inr": 5999,
+                "billing_interval": "lifetime",
+                "duration_days": 0,
+                "features": [
+                    "Complete SSC JE Civil PYQ Archive (with Detailed Explanations)",
+                    "Full-Length Computer-Based (CBT) Mock Tests & Real-Time Ranks",
+                    "Subject-Wise & Topic-Wise Dynamic MCQ Practice Engine",
+                    "IS 456 & IS 800 Engineering Code Navigator & Formula Sheets",
+                    "AI Test-Taking Personality & Topic Weakness Analytics",
+                    "Personalized Daily Study Plan Generator & AI Copilot",
+                    "Lifetime Access — Single One-Time Payment, Zero Recurring Fees",
+                ],
+                "is_active": True,
+                "is_popular": True,
+                "badge": "ONE-TIME LIFETIME PASS",
+            },
+            {
+                "name": "Free Starter",
+                "code": "free",
+                "description": "Basic introductory access.",
+                "price_inr": 0,
+                "original_price_inr": 0,
+                "billing_interval": "free",
+                "duration_days": 0,
+                "features": [
                     "Access to Subject Syllabus & Overview",
-                    "Limited PYQ Practice (5 Questions/Day)",
-                    "1 Free Full Mock Test with Solutions",
-                    "Standard Performance Dashboard",
-                    "Civil Engineering Formula Bookmarks",
                 ],
-                is_active=True,
-                is_popular=False,
-                badge=None,
-            ),
-            Plan(
-                name="Pro Monthly",
-                code="pro_monthly",
-                description="Comprehensive 30-day intensive access with full question bank and AI Copilot guidance.",
-                price_inr=499,
-                original_price_inr=999,
-                billing_interval="monthly",
-                duration_days=30,
-                features=[
-                    "Unlimited Subject & Topic MCQ Practice",
-                    "Full Past 10 Years SSC JE PYQs with In-depth Explanations",
-                    "Unlimited Full-Length CBT Mock Tests",
-                    "AI Personality Profile & Weakness Diagnostics",
-                    "Personalized Daily Study Plan Generator",
-                    "Instant AI Doubt Solving & Mistake Explanations",
+                "is_active": False,
+                "is_popular": False,
+                "badge": None,
+            },
+            {
+                "name": "Pro Monthly",
+                "code": "pro_monthly",
+                "description": "30-day access (Legacy Tier).",
+                "price_inr": 499,
+                "original_price_inr": 999,
+                "billing_interval": "monthly",
+                "duration_days": 30,
+                "features": [
+                    "30 Days Access",
                 ],
-                is_active=True,
-                is_popular=False,
-                badge="MONTHLY PASS",
-            ),
-            Plan(
-                name="Pro Annual (Exam Pass)",
-                code="pro_annual",
-                description="Complete 1-Year mastery pass for SSC JE 2025/2026. Most popular choice among rankers.",
-                price_inr=1499,
-                original_price_inr=3499,
-                billing_interval="annual",
-                duration_days=365,
-                features=[
-                    "All Pro Monthly Features Included",
-                    "365 Days Unrestricted Access",
-                    "All Previous & Upcoming Shift Question Banks",
-                    "IS 456 / IS 800 Code Navigator & Key Formula Cards",
-                    "Estimated Percentile & All-India Rank Predictor",
-                    "Priority AI Server Processing & Instant Responses",
-                    "Save 60% compared to monthly renewal",
+                "is_active": False,
+                "is_popular": False,
+                "badge": None,
+            },
+            {
+                "name": "Pro Annual (Exam Pass)",
+                "code": "pro_annual",
+                "description": "1-Year access (Legacy Tier).",
+                "price_inr": 1499,
+                "original_price_inr": 3499,
+                "billing_interval": "annual",
+                "duration_days": 365,
+                "features": [
+                    "365 Days Access",
                 ],
-                is_active=True,
-                is_popular=True,
-                badge="BEST VALUE",
-            ),
-            Plan(
-                name="Master Lifetime Pass",
-                code="lifetime",
-                description="One-time investment for lifetime access to all current and future engineering exam modules.",
-                price_inr=2999,
-                original_price_inr=5999,
-                billing_interval="lifetime",
-                duration_days=0,
-                features=[
-                    "Lifetime Access — Never Pay Again",
-                    "All Future SSC JE, State AE/JE, and RRB JE Modules",
-                    "Full Advanced AI Tutor Suite with IS Code Assistant",
-                    "Offline Downloadable PDF Solutions & Formula Sheets",
-                    "Direct Instructor & Community Doubt Forums",
-                    "Lifetime Priority Platform Support",
-                ],
-                is_active=True,
-                is_popular=False,
-                badge="LIFETIME ACCESS",
-            ),
+                "is_active": False,
+                "is_popular": False,
+                "badge": None,
+            },
         ]
 
-        for p in default_plans:
-            db.add(p)
+        for spec in default_plans_spec:
+            code = spec["code"]
+            if code in existing_plans:
+                plan = existing_plans[code]
+                plan.name = spec["name"]
+                plan.description = spec["description"]
+                plan.price_inr = spec["price_inr"]
+                plan.original_price_inr = spec["original_price_inr"]
+                plan.billing_interval = spec["billing_interval"]
+                plan.duration_days = spec["duration_days"]
+                plan.features = spec["features"]
+                plan.is_active = spec["is_active"]
+                plan.is_popular = spec["is_popular"]
+                plan.badge = spec["badge"]
+            else:
+                new_plan = Plan(**spec)
+                db.add(new_plan)
+
         db.commit()
         return db.query(Plan).order_by(Plan.price_inr.asc()).all()
 

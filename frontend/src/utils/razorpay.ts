@@ -9,6 +9,16 @@ declare global {
   }
 }
 
+export const RAZORPAY_PAYMENT_PAGE_URL =
+  (import.meta.env.VITE_RAZORPAY_PAGE_URL as string) || 'https://rzp.io/rzp/R2O8T8Ic';
+
+export function openRazorpayPaymentPage(customUrl?: string): void {
+  const url = customUrl || RAZORPAY_PAYMENT_PAGE_URL;
+  if (typeof window !== 'undefined') {
+    window.open(url, '_blank', 'noopener,noreferrer');
+  }
+}
+
 let razorpayScriptLoadedPromise: Promise<boolean> | null = null;
 
 export function loadRazorpayScript(): Promise<boolean> {
@@ -46,41 +56,44 @@ export interface CheckoutOptions {
   customerName: string;
   customerEmail: string;
   customerPhone?: string;
-  isMock?: boolean;
   onSuccess: (response: {
     razorpay_payment_id: string;
     razorpay_order_id: string;
-    razorpay_signature?: string;
+    razorpay_signature: string;
   }) => void;
   onDismiss?: () => void;
   onError?: (error: any) => void;
 }
 
 export async function initiateCheckout(options: CheckoutOptions) {
+  // If no live key is configured or key is a mock stub, open official hosted payment page directly
+  if (!options.keyId || options.keyId.startsWith('rzp_test_mock')) {
+    openRazorpayPaymentPage();
+    return;
+  }
+
   const isLoaded = await loadRazorpayScript();
 
-  // If in sandbox mock mode or script failed to load
-  if (options.isMock || !isLoaded || !options.keyId || options.keyId.startsWith('rzp_test_mock')) {
-    // Sandbox test simulation with simulated payment confirmation
-    const mockPaymentId = `pay_mock_${Math.random().toString(36).substring(2, 14)}`;
-    options.onSuccess({
-      razorpay_payment_id: mockPaymentId,
-      razorpay_order_id: options.orderId,
-      razorpay_signature: `sig_mock_${Math.random().toString(36).substring(2, 16)}`,
-    });
+  if (!isLoaded || typeof window === 'undefined' || !window.Razorpay) {
+    // Fallback to hosted payment page
+    openRazorpayPaymentPage();
     return;
   }
 
   try {
     const rzpOptions = {
       key: options.keyId,
-      amount: options.amount * 100, // Amount in paise
+      amount: Math.round(options.amount * 100), // Amount in paise
       currency: options.currency || 'INR',
-      name: 'LEARNMATE AI',
+      name: options.name || 'LEARNMATE AI',
       description: options.description || 'SSC JE Civil Engineering Subscription',
       image: '/favicon.ico',
       order_id: options.orderId,
-      handler: function (response: any) {
+      handler: function (response: {
+        razorpay_payment_id: string;
+        razorpay_order_id: string;
+        razorpay_signature: string;
+      }) {
         options.onSuccess({
           razorpay_payment_id: response.razorpay_payment_id,
           razorpay_order_id: response.razorpay_order_id,
@@ -88,8 +101,8 @@ export async function initiateCheckout(options: CheckoutOptions) {
         });
       },
       prefill: {
-        name: options.customerName,
-        email: options.customerEmail,
+        name: options.customerName || '',
+        email: options.customerEmail || '',
         contact: options.customerPhone || '',
       },
       notes: {
@@ -104,6 +117,8 @@ export async function initiateCheckout(options: CheckoutOptions) {
             options.onDismiss();
           }
         },
+        escape: true,
+        backdropclose: false,
       },
     };
 

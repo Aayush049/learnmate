@@ -3,9 +3,8 @@ import { useNavigate, useLocation } from 'react-router-dom';
 import { Button } from '../../components/ui/Button';
 import { Card, CardBody } from '../../components/ui/Card';
 import { useAuth } from '../../contexts/AuthContext';
-
+import { paymentsAPI } from '../../api/payments';
 import { GoogleLogin } from '@react-oauth/google';
-
 
 export const LoginPage: React.FC = () => {
   const navigate = useNavigate();
@@ -19,16 +18,37 @@ export const LoginPage: React.FC = () => {
   const [error, setError] = useState<string | null>(null);
   const [isLoading, setIsLoading] = useState(false);
 
-  
+  const determinePostAuthRedirect = async (user: any): Promise<string> => {
+    if (user?.is_admin) {
+      return '/admin/dashboard';
+    }
+
+    const searchParams = new URLSearchParams(location.search);
+    const redirectParam = searchParams.get('redirect');
+    const attemptedFrom = (location.state as any)?.from?.pathname || redirectParam;
+
+    try {
+      const entitlement = await paymentsAPI.getMyEntitlement();
+      if (entitlement && entitlement.has_active_entitlement) {
+        return attemptedFrom && attemptedFrom !== '/login' && attemptedFrom !== '/register'
+          ? attemptedFrom
+          : '/dashboard';
+      }
+    } catch (err) {
+      console.warn('Entitlement check on login fallback:', err);
+    }
+
+    return '/pricing';
+  };
+
   const handleGoogleSuccess = async (credentialResponse: any) => {
     try {
       if (!credentialResponse.credential) throw new Error("No credential received from Google");
       setIsLoading(true);
       setError(null);
       const loggedInUser = await googleLogin(credentialResponse.credential);
-      const fallbackRoute = loggedInUser.is_admin ? '/admin/dashboard' : '/dashboard';
-      const from = (location.state as any)?.from?.pathname || fallbackRoute;
-      navigate(from, { replace: true });
+      const targetRoute = await determinePostAuthRedirect(loggedInUser);
+      navigate(targetRoute, { replace: true });
     } catch (err: any) {
       setError(err.message || 'Google Login failed. Please try again.');
     } finally {
@@ -51,10 +71,8 @@ export const LoginPage: React.FC = () => {
         password: formData.password,
       });
 
-      // Redirect to intended page or dashboard based on role
-      const fallbackRoute = loggedInUser.is_admin ? '/admin/dashboard' : '/dashboard';
-      const from = (location.state as any)?.from?.pathname || fallbackRoute;
-      navigate(from, { replace: true });
+      const targetRoute = await determinePostAuthRedirect(loggedInUser);
+      navigate(targetRoute, { replace: true });
     } catch (err: any) {
       setError(err.message || 'Login failed. Please check your credentials.');
     } finally {
@@ -89,7 +107,7 @@ export const LoginPage: React.FC = () => {
                 value={formData.email}
                 onChange={(e) => setFormData({ ...formData, email: e.target.value })}
                 disabled={isLoading}
-                className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition disabled:bg-gray-100"
+                className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent transition disabled:bg-gray-100"
                 placeholder="you@example.com"
               />
             </div>
@@ -105,12 +123,12 @@ export const LoginPage: React.FC = () => {
                 value={formData.password}
                 onChange={(e) => setFormData({ ...formData, password: e.target.value })}
                 disabled={isLoading}
-                className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent transition disabled:bg-gray-100"
+                className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent transition disabled:bg-gray-100"
                 placeholder="••••••••"
               />
             </div>
 
-            <Button type="submit" variant="primary" fullWidth size="lg" disabled={isLoading}>
+            <Button type="submit" variant="primary" fullWidth size="lg" disabled={isLoading} className="bg-purple-600 hover:bg-purple-700">
               {isLoading ? 'Signing in...' : 'Sign In'}
             </Button>
 
@@ -131,20 +149,16 @@ export const LoginPage: React.FC = () => {
               />
             </div>
 
-
             <div className="text-center">
               <Button
                 type="button"
                 variant="ghost"
                 onClick={() => navigate('/register')}
                 disabled={isLoading}
-                className="text-blue-600 hover:text-blue-700"
+                className="text-purple-600 hover:text-purple-700"
               >
                 Don't have an account? Create one
               </Button>
-
-            
-
             </div>
           </form>
         </CardBody>

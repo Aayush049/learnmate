@@ -8,7 +8,7 @@ from datetime import datetime, timezone, timedelta
 from app import schemas, models
 from app.database import get_db
 from app.services.ai_test_generator import generate_personalized_test_distribution, build_mock_test_from_distribution
-from app.auth import get_current_active_user, get_current_admin_user
+from app.auth import get_current_active_user, get_current_admin_user, require_active_entitlement
 from app.models.user_profile import UserWeaknessProfile
 
 router = APIRouter()
@@ -92,7 +92,7 @@ def get_available_mock_tests(
 @router.get("/{test_id}/start")
 def start_mock_test(
     test_id: int,
-    current_user: models.User = Depends(get_current_active_user),
+    current_user: models.User = Depends(require_active_entitlement),
     db: Session = Depends(get_db)
 ):
     """
@@ -261,7 +261,7 @@ def submit_mock_test(
     attempt_id: int,
     answers: List[schemas.AnswerSubmission],
     background_tasks: BackgroundTasks,
-    current_user: models.User = Depends(get_current_active_user),
+    current_user: models.User = Depends(require_active_entitlement),
     db: Session = Depends(get_db)
 ):
     """

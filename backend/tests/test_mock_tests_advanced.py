@@ -221,11 +221,19 @@ def test_analytics_not_completed(setup_advanced_test, student_token_headers):
 def test_palette_after_answers(setup_advanced_test, student_token_headers, db):
     """Test palette updates correctly after answering questions"""
     test_data = setup_advanced_test
+    # Use the authenticated student's real PK rather than assuming id == 1.
+    user_id = db.query(QuestionAttempt.user_id).filter(
+        QuestionAttempt.mock_test_attempt_id == test_data["attempt_id"]
+    ).first()
+    student_id = user_id[0] if user_id else None
+    if student_id is None:
+        from app.models import User
+        student_id = db.query(User).filter(User.email == "student_practice@test.com").first().id
 
     # Answer 3 questions
     for i in range(3):
         qa = QuestionAttempt(
-            user_id=1,  # Assuming student user id is 1
+            user_id=student_id,
             question_id=test_data["questions"][i]["id"],
             mock_test_attempt_id=test_data["attempt_id"],
             selected_option="A",
@@ -275,3 +283,46 @@ def test_negative_marking_calculation(sample_mock_test, student_token_headers, d
     assert data["correct_answers"] == 6
     assert data["incorrect_answers"] == 4
     assert data["score"] == 5.0  # 6 - (4 * 0.25)
+
+
+# --- Entitlement gatekeeping (V1: SSC JE Civil Full Access) -----------------
+
+def test_student_without_entitlement_is_blocked(sample_mock_test, unentitled_token_headers):
+    """An authenticated student with no entitlement gets 403, not 200."""
+    response = client.get(
+        f"/api/v1/mock-tests/{sample_mock_test.id}/start",
+        headers=unentitled_token_headers
+    )
+    assert response.status_code == 403
+    assert "entitlement" in response.json()["detail"].lower()
+
+
+def test_admin_bypasses_entitlement_gate(admin_user, admin_token_headers, db):
+    """Admins are never subject to the commercial gate."""
+    from app.models import MockTest
+    from app.models.payment import Entitlement
+
+    # Sanity check: the admin truly holds no commercial entitlement.
+    assert db.query(Entitlement).filter(
+        Entitlement.user_id == admin_user.id,
+        Entitlement.status == "active"
+    ).first() is None
+
+    response = client.get(
+        "/api/v1/mock-tests/999999/start",
+        headers=admin_token_headers
+    )
+    # 404 (no such test) proves the request cleared the entitlement gate.
+    assert response.status_code == 404
+
+
+def test_revoked_entitlement_is_blocked(sample_mock_test, student_user, db, unentitled_token_headers):
+    """A refunded/revoked lifetime pass no longer grants access."""
+    from conftest import revoke_entitlements
+
+    revoke_entitlements(db, student_user)
+    response = client.get(
+        f"/api/v1/mock-tests/{sample_mock_test.id}/start",
+        headers=unentitled_token_headers
+    )
+    assert response.status_code == 403
