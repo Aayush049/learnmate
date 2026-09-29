@@ -195,16 +195,29 @@ A production-grade, PCI DSS compliant, and DPDP Act 2025 aligned payment & entit
    - Backend `pytest`: All 51 tests across `test_payments.py`, `test_hierarchy.py`, `test_mock_tests.py`, `test_mock_tests_advanced.py`, `test_questions.py`, `test_pipeline.py`, `test_main.py`, and `test_practice.py` passing cleanly.
    - Frontend `tsc && vite build`: Passes with zero TypeScript compilation warnings or errors.
 
+### I. Interactive Topic-Based & PYQ MCQ Practice Engine
+A responsive, parameter-driven question practice engine supporting both syllabus topic-wise practice and authentic PYQ papers:
+1. **Routing & Parameter Handling (`TopicContent.jsx`, `Topics.jsx`, `PYQLanding.jsx`, `PracticeQuestions.jsx`)**:
+   - Direct navigation from topic cards and chapters to `/learn/practice?topic_id=${topic.id}`.
+   - Full support for PYQ paper filtering via `?is_pyq=true&year=${year}&shift=${shift}` with dynamic lightweight index fetching (`/questions/pyq-index`) and lazy question detail loading.
+2. **Immediate Answer Evaluation & Interactive Feedback**:
+   - Option selection locks choices and calls `POST /questions/submit` (`questionsAPI.submitAnswer`).
+   - Instant visual indicators: Correct answer highlighted in emerald green, incorrect selection flagged in soft red, and detailed concept explanation revealed with auto-scroll.
+   - Records student attempts in the database for authenticated users to power real-time accuracy and weak/strong topic analytics.
+3. **Searchable Question Navigator Palette**:
+   - 5-column responsive grid with real-time state styling (Not Attempted, Correct, Wrong, Currently Viewing).
+   - Instant search filter supporting topic names, subjects, question numbers, and keyword queries.
+4. **Summary & Review Mode**:
+   - Detailed score card with total questions, attempted count, correct count, wrong count, accuracy %, and skipped breakdown.
+   - Dual action paths: Retry Practice (clears session state) and Review Answers (preserves selected and evaluated answers for retrospective study).
+
 ---
 
 ## 4. Current Work & Next Up
 
-### Reusable Topic-Based MCQ Practice Engine
-- **Objective:** Convert `Topics.jsx` / `PracticeQuestions.jsx` into an interactive, parameter-driven question practice engine.
-- **Scope:**
-  1. Fix routing in `TopicContent.jsx` (`/learn/practice?topic_id=${topic.id}`).
-  2. Implement immediate answer evaluation against `questionsAPI.submitAnswer` (lock selected option, color green/red, reveal explanation).
-  3. Support next/prev navigation, question palette, progress indicator, and final score summary view.
+### Ongoing Enhancements & Roadmap
+- **AI Tutor v2 Conversational Engine**: Upgrade the AI Tutor preview page with interactive chat sessions, LaTeX formula formatting, and IS Code clause citations.
+- **Advanced Analytics Visualizations**: Expand chapter-level mastery heatmaps and historical trend graphs on the Performance dashboard.
 
 ---
 

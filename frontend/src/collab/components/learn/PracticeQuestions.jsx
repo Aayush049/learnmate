@@ -551,7 +551,10 @@ export default function PracticeQuestions() {
                 </h2>
 
                 <div className="space-y-3">
-                  {activeQuestion.options.map((option) => {
+                  {(activeQuestion.options || [])
+                    .slice()
+                    .sort((a, b) => (a.option_label || "").localeCompare(b.option_label || ""))
+                    .map((option) => {
                     const isSelected = activeAnswer?.selected === option.option_label;
                     const isCorrectOpt = activeAnswer?.correct_option === option.option_label;
 
