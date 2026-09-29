@@ -724,7 +724,7 @@ class PaymentService:
     def verify_hosted_payment(
         db: Session,
         user: User,
-        order_id: str,
+        order_id: Optional[str] = None,
         payment_id: Optional[str] = None,
         plan_code: Optional[str] = None,
     ) -> VerifyPaymentResponse:
@@ -732,9 +732,38 @@ class PaymentService:
         Authoritative manual verification endpoint for Razorpay hosted checkout / payment page.
         Fetches payment/order state from Razorpay API and performs strict server-side reconciliation.
         """
-        payment = db.query(Payment).filter(Payment.provider_order_id == order_id).first()
-        if not payment:
-            raise ValueError(f"Order '{order_id}' not found in database.")
+        target_plan_code = plan_code or "lifetime"
+        payment = None
+
+        if order_id and order_id.strip():
+            clean_oid = order_id.strip()
+            payment = db.query(Payment).filter(Payment.provider_order_id == clean_oid).first()
+            if not payment and clean_oid.isdigit():
+                payment = db.query(Payment).filter(Payment.id == int(clean_oid)).first()
+            if not payment:
+                raise ValueError(f"Order '{clean_oid}' not found in database.")
+        else:
+            # Look for user's latest payment for target plan
+            payment = (
+                db.query(Payment)
+                .join(Plan)
+                .filter(
+                    Payment.user_id == user.id,
+                    Plan.code == target_plan_code,
+                )
+                .order_by(Payment.created_at.desc())
+                .first()
+            )
+            if not payment:
+                plan = db.query(Plan).filter(Plan.code == target_plan_code, Plan.is_active == True).first()
+                if not plan:
+                    plan = db.query(Plan).filter(Plan.code == "lifetime").first()
+                if not plan:
+                    PaymentService.seed_default_plans(db)
+                    plan = db.query(Plan).filter(Plan.code == "lifetime").first()
+
+                order_res = PaymentService.create_order(db, user, plan.code)
+                payment = db.query(Payment).filter(Payment.provider_order_id == order_res.order_id).first()
 
         if payment.user_id != user.id and not user.is_admin:
             raise ValueError("Unauthorized: Payment order does not belong to the requesting user.")

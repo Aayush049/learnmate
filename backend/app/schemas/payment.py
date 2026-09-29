@@ -89,7 +89,7 @@ class VerifyPaymentRequest(BaseModel):
 
 
 class VerifyHostedPaymentRequest(BaseModel):
-    order_id: str
+    order_id: Optional[str] = None
     payment_id: Optional[str] = None
     plan_code: Optional[str] = None
 

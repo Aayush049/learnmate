@@ -121,6 +121,7 @@ def verify_hosted_payment_transaction(
             user=current_user,
             order_id=verification_data.order_id,
             payment_id=verification_data.payment_id,
+            plan_code=verification_data.plan_code,
         )
         return result
     except ValueError as e:

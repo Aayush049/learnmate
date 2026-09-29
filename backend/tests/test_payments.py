@@ -612,6 +612,42 @@ def test_anti_replay_payment_reuse_rejected(db_session):
     assert "already been utilized" in str(excinfo.value)
 
 
+def test_manual_verification_without_order_id(db_session):
+    """13. Learner can verify payment by entering payment ID directly without pre-existing frontend order_id"""
+    PaymentService.seed_default_plans(db_session)
+    user = db_session.query(User).filter(User.id == 1).first()
+
+    # User did not have an active order session in frontend state, but has a payment ID from Razorpay
+    gateway = get_payment_gateway()
+    gateway.register_mock_payment({
+        "id": "pay_direct_entry_success",
+        "amount": 299900,
+        "currency": "INR",
+        "status": "captured",
+        "method": "upi",
+    })
+
+    # Verify hosted payment passing only payment_id and plan_code="lifetime"
+    result = PaymentService.verify_hosted_payment(
+        db=db_session,
+        user=user,
+        order_id=None,
+        payment_id="pay_direct_entry_success",
+        plan_code="lifetime",
+    )
+
+    assert result.success is True
+    assert result.payment_id == "pay_direct_entry_success"
+    assert result.plan_code == "lifetime"
+    assert result.entitlement.has_active_entitlement is True
+    assert result.entitlement.is_lifetime is True
+
+    # Entitlement is verified active
+    entitlement = PaymentService.get_user_entitlement(db_session, user)
+    assert entitlement.has_active_entitlement is True
+    assert entitlement.is_lifetime is True
+
+
 if __name__ == "__main__":
     tests = [
         ("test_seed_default_plans", test_seed_default_plans),
@@ -631,6 +667,7 @@ if __name__ == "__main__":
         ("test_unpaid_order_remains_unpaid", test_unpaid_order_remains_unpaid),
         ("test_admin_bypass_remains_active", test_admin_bypass_remains_active),
         ("test_anti_replay_payment_reuse_rejected", test_anti_replay_payment_reuse_rejected),
+        ("test_manual_verification_without_order_id", test_manual_verification_without_order_id),
     ]
 
     for name, test_fn in tests:

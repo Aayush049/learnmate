@@ -129,12 +129,12 @@ export const paymentsAPI = {
 
   // Authoritatively reconcile hosted payment against Razorpay server-side
   verifyHostedPayment: async (
-    orderId: string,
+    orderId?: string,
     paymentId?: string,
     planCode?: string
   ): Promise<VerifyPaymentResponse> => {
     const response = await apiClient.post<VerifyPaymentResponse>('/payments/verify-hosted-payment', {
-      order_id: orderId,
+      order_id: orderId?.trim() || undefined,
       payment_id: paymentId?.trim() || undefined,
       plan_code: planCode,
     });

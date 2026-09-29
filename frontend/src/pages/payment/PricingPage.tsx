@@ -153,28 +153,33 @@ export const PricingPage: React.FC = () => {
     }
   };
 
-  const handleVerifyHostedPayment = async () => {
-    if (!activeOrderId) {
-      setHostedError('Order session is missing. Please click Unlock again to re-initiate.');
+  const handleVerifyHostedPayment = async (overridePaymentId?: string) => {
+    // Require login
+    if (!user) {
+      navigate('/login?redirect=/pricing');
       return;
     }
+
+    const paymentIdToVerify = (overridePaymentId !== undefined ? overridePaymentId : hostedPaymentIdInput).trim();
     setHostedError(null);
     setVerifyingHosted(true);
+
     try {
       const res = await paymentsAPI.verifyHostedPayment(
-        activeOrderId,
-        hostedPaymentIdInput.trim() || undefined,
-        activePlan?.code
+        activeOrderId || undefined,
+        paymentIdToVerify || undefined,
+        activePlan?.code || (singlePlan ? singlePlan.code : 'ssc_je_civil_lifetime')
       );
+
       if (res.success) {
         setShowHostedModal(false);
         navigate('/payment/success', {
           state: {
-            planName: activePlan?.name || 'SSC JE Civil Full Access',
-            planCode: activePlan?.code || 'ssc_je_civil_lifetime',
+            planName: activePlan?.name || singlePlan?.name || 'SSC JE Civil Full Access',
+            planCode: activePlan?.code || singlePlan?.code || 'ssc_je_civil_lifetime',
             orderId: res.order_id,
             paymentId: res.payment_id,
-            amount: activePlan?.price_inr || 2999,
+            amount: activePlan?.price_inr || singlePlan?.price_inr || 2999,
             isLifetime: true,
           },
         });
@@ -182,7 +187,7 @@ export const PricingPage: React.FC = () => {
         setHostedError(res.message || 'Payment is not verified yet.');
       }
     } catch (err: any) {
-      const detail = err.response?.data?.detail || err.message || 'Payment verification failed. Please try again.';
+      const detail = err.response?.data?.detail || err.message || 'Payment verification failed. Please check the Payment ID and try again.';
       setHostedError(detail);
     } finally {
       setVerifyingHosted(false);
@@ -448,6 +453,75 @@ export const PricingPage: React.FC = () => {
           </div>
         )}
 
+        {/* Direct Payment ID Verification Section (Always Visible) */}
+        <div className="max-w-xl mx-auto mt-8">
+          <div className="rounded-3xl bg-gradient-to-br from-white via-purple-50/30 to-indigo-50/20 border-2 border-purple-200/80 p-6 sm:p-7 shadow-lg shadow-purple-500/5 text-left">
+            <div className="flex items-center gap-3 mb-2">
+              <div className="w-9 h-9 rounded-xl bg-purple-600 text-white flex items-center justify-center flex-shrink-0 shadow-sm">
+                <ShieldCheck className="w-5 h-5" />
+              </div>
+              <div>
+                <h3 className="text-sm sm:text-base font-black text-gray-900">
+                  Already Completed Payment on Razorpay?
+                </h3>
+                <p className="text-[11px] text-gray-500 font-medium">
+                  Enter your Razorpay Payment ID below to verify and unlock your lifetime access.
+                </p>
+              </div>
+            </div>
+
+            <div className="mt-4 space-y-3">
+              <div>
+                <label className="block text-xs font-bold text-gray-700 mb-1.5">
+                  Razorpay Payment ID <span className="text-purple-600 font-medium">(starts with pay_...)</span>
+                </label>
+                <div className="flex flex-col sm:flex-row gap-2">
+                  <input
+                    type="text"
+                    value={hostedPaymentIdInput}
+                    onChange={(e) => {
+                      setHostedPaymentIdInput(e.target.value);
+                      if (hostedError) setHostedError(null);
+                    }}
+                    placeholder="e.g. pay_R1O2T3I4c5..."
+                    className="flex-1 px-3.5 py-2.5 bg-white border border-gray-300 rounded-xl text-xs font-mono text-gray-900 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-purple-500 focus:border-transparent transition-all shadow-xs"
+                  />
+                  <button
+                    onClick={() => handleVerifyHostedPayment()}
+                    disabled={verifyingHosted}
+                    className="py-2.5 px-4 bg-purple-600 hover:bg-purple-700 disabled:bg-purple-400 text-white font-bold rounded-xl text-xs transition-all shadow-md shadow-purple-500/20 flex items-center justify-center gap-1.5 whitespace-nowrap"
+                  >
+                    {verifyingHosted ? (
+                      <>
+                        <Loader2 className="w-4 h-4 animate-spin" />
+                        Verifying...
+                      </>
+                    ) : (
+                      <>
+                        <Check className="w-4 h-4" />
+                        Verify & Unlock
+                      </>
+                    )}
+                  </button>
+                </div>
+                <p className="text-[11px] text-gray-400 mt-1.5">
+                  💡 Found on your Razorpay payment confirmation screen, bank SMS, or email receipt.
+                </p>
+              </div>
+
+              {hostedError && (
+                <div className="p-3 bg-red-50 border border-red-200 rounded-xl flex items-start gap-2.5 text-left">
+                  <AlertCircle className="w-4 h-4 text-red-600 flex-shrink-0 mt-0.5" />
+                  <div className="text-xs text-red-700 leading-snug">
+                    <span className="font-bold">Verification Error: </span>
+                    {hostedError}
+                  </div>
+                </div>
+              )}
+            </div>
+          </div>
+        </div>
+
         {/* Consent & Compliance Checkbox */}
         <div className="max-w-xl mx-auto mt-8 p-4 bg-white border border-gray-200 rounded-2xl text-center shadow-xs">
           <label className="flex items-start justify-center gap-3 text-xs text-gray-600 cursor-pointer">
@@ -596,7 +670,7 @@ export const PricingPage: React.FC = () => {
 
               <div className="space-y-2.5">
                 <button
-                  onClick={handleVerifyHostedPayment}
+                  onClick={() => handleVerifyHostedPayment()}
                   disabled={verifyingHosted}
                   className="w-full py-3.5 px-4 bg-purple-600 hover:bg-purple-700 disabled:bg-purple-400 text-white font-bold rounded-xl text-sm transition-all shadow-md shadow-purple-500/20 flex items-center justify-center gap-2"
                 >
@@ -615,7 +689,7 @@ export const PricingPage: React.FC = () => {
 
                 <div className="flex items-center gap-2">
                   <button
-                    onClick={handleVerifyHostedPayment}
+                    onClick={() => handleVerifyHostedPayment()}
                     disabled={verifyingHosted}
                     className="flex-1 py-2.5 px-3 bg-gray-50 hover:bg-gray-100 text-gray-700 font-semibold rounded-xl text-xs transition-all border border-gray-200"
                   >
