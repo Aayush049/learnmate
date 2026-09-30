@@ -525,7 +525,7 @@ export default function MyTextbook() {
                                   {/* Topic Left Details */}
                                   <div className="flex items-center gap-3 min-w-0 flex-1">
                                     <span className="px-1.5 h-6 rounded-md flex items-center justify-center bg-[var(--bg-color)] text-[var(--text-muted)] text-xs font-extrabold shrink-0 border border-[var(--border-color)]/60 min-w-[28px]">
-                                      {unit.unitNumber}.{topic.number}
+                                      {selectedUnit?.unitNumber ? `${selectedUnit.unitNumber}.${topic.number}` : topic.number}
                                     </span>
 
                                     <span className={`text-xs md:text-sm font-semibold truncate ${
