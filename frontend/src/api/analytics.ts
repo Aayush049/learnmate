@@ -51,5 +51,21 @@ export const analyticsAPI = {
       correct_answer: correctAnswer
     });
     return response.data;
+  },
+
+  postHeartbeat: async (data: { topic_id: number; duration_seconds: number; activity_type?: string }) => {
+    const response = await api.post('/analytics/study-session/heartbeat', data);
+    return response.data;
+  },
+
+  getPerformanceOverview: async () => {
+    const response = await api.get('/analytics/performance-overview');
+    return response.data;
+  },
+
+  getTopicBreakdown: async () => {
+    const response = await api.get('/analytics/topic-breakdown');
+    return response.data;
   }
 };
+

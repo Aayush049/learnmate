@@ -37,3 +37,8 @@ from .flashcard import Flashcard
 __all__.append('Flashcard')
 from .payment import Plan, Payment, Entitlement, Refund
 __all__.extend(['Plan', 'Payment', 'Entitlement', 'Refund'])
+from .performance_profile import UserPerformanceProfile
+from .topic_mastery import UserTopicMastery
+from .study_session import UserTopicStudySession
+__all__.extend(['UserPerformanceProfile', 'UserTopicMastery', 'UserTopicStudySession'])
+

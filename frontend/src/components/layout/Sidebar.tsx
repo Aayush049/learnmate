@@ -15,9 +15,9 @@ export const Sidebar: React.FC = () => {
   ];
 
   return (
-    <aside className="w-64 bg-white border-r border-gray-200 h-screen flex flex-col">
+    <aside className="w-64 bg-[var(--surface-color)] border-r border-[var(--border-color)] h-screen flex flex-col transition-colors">
       <div className="p-6">
-        <h1 className="text-xl font-bold text-blue-600">LearnMate AI</h1>
+        <h1 className="text-xl font-bold text-[var(--primary-color)]">LearnMate AI</h1>
       </div>
 
       <nav className="flex-1 px-4">
@@ -31,8 +31,8 @@ export const Sidebar: React.FC = () => {
               to={item.path}
               className={`flex items-center gap-3 px-4 py-3 rounded-lg mb-1 transition-colors ${
                 isActive
-                  ? 'bg-blue-50 text-blue-600 font-medium'
-                  : 'text-gray-600 hover:bg-gray-50'
+                  ? 'bg-[var(--primary-light)] text-[var(--primary-color)] font-medium'
+                  : 'text-[var(--text-muted)] hover:bg-[var(--primary-light)]/40 hover:text-[var(--text-main)]'
               }`}
             >
               <Icon className="w-5 h-5" />

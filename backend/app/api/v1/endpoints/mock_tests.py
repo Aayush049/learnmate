@@ -10,6 +10,8 @@ from app.database import get_db
 from app.services.ai_test_generator import generate_personalized_test_distribution, build_mock_test_from_distribution
 from app.auth import get_current_active_user, get_current_admin_user, require_active_entitlement
 from app.models.user_profile import UserWeaknessProfile
+from app.services.diagnostics import evaluate_performance_updates
+
 
 router = APIRouter()
 
@@ -359,6 +361,12 @@ def submit_mock_test(
 
     db.commit()
     db.refresh(attempt)
+
+    # Evaluate BKT, cognitive load quadrants, and Welford running profile
+    try:
+        evaluate_performance_updates(db, current_user.id, attempt.id)
+    except Exception as e:
+        print(f"Diagnostics performance update error: {e}")
 
     # Trigger background task to update UserWeaknessProfile asynchronously
     background_tasks.add_task(update_user_weakness_cache, current_user.id, attempt.id)

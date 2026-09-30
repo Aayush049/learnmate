@@ -1,6 +1,7 @@
 import { Menu, Search, Bell, LogOut } from "lucide-react";
 import { useAuth } from "../../../contexts/AuthContext";
 import { useNavigate } from "react-router-dom";
+import ThemeSelector from "../common/ThemeSelector";
 
 export default function Topbar({ title, setOpen }) {
   const { user, logout } = useAuth();
@@ -23,6 +24,7 @@ export default function Topbar({ title, setOpen }) {
       </div>
 
       <div className="top-actions">
+        <ThemeSelector />
         <button className="icon-button"><Search size={18} /></button>
         <button className="icon-button notification">
           <Bell size={18} />

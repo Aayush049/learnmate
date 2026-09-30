@@ -42,7 +42,7 @@ function App() {
   return (
     <AuthProvider>
       <Router>
-        <div className="min-h-screen bg-gray-50">
+        <div className="min-h-screen bg-[var(--bg-color)] transition-colors duration-300 text-[var(--text-main)]">
           <Routes>
             {/* Public Routes */}
             <Route path="/" element={<LandingPage />} />

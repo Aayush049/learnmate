@@ -5,6 +5,7 @@ import PageIntro from "../common/PageIntro";
 import ProgressBar from "../common/ProgressBar";
 import { hierarchyAPI } from "../../../api/hierarchy";
 import { analyticsAPI } from "../../../api/analytics";
+import { getUnitTopicIdentifier } from "../../collab/data/syllabusData";
 
 export default function Topics() {
   const [subjects, setSubjects] = useState([]);
@@ -88,7 +89,7 @@ export default function Topics() {
         <div className="topic-list">
           {filteredTopics.map((topic, index) => (
             <NavLink className="topic-row" to={`/learn/topic/${topic.id}`} key={topic.id || topic.name}>
-              <div className="topic-number">{index + 1}</div>
+              <div className="topic-number">{getUnitTopicIdentifier(topic.name, index + 1)}</div>
               <div className="topic-info">
                 <strong>{topic.name}</strong>
                 <span>{topic.progress || 0}% complete</span>

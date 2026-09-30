@@ -12,7 +12,18 @@ from app.models.subject import Subject
 from app.models.topic import Topic
 from app.models.chapter import Chapter
 from app.models.user_profile import UserWeaknessProfile
+from app.models.performance_profile import UserPerformanceProfile
+from app.models.topic_mastery import UserTopicMastery
+from app.models.study_session import UserTopicStudySession
 from app.auth import get_current_user, require_active_entitlement
+from pydantic import BaseModel
+from typing import Optional, List, Dict, Any
+
+class StudyHeartbeatRequest(BaseModel):
+    topic_id: int
+    duration_seconds: int = 30
+    activity_type: Optional[str] = "reading"
+
 
 router = APIRouter()
 
@@ -256,4 +267,180 @@ def post_mistake_explanation(
     wrong = data.get("incorrect_answer", "") if data else ""
     correct = data.get("correct_answer", "") if data else ""
     return {"explanation": generate_mistake_explanation(topic, wrong, correct)}
+
+
+@router.post("/study-session/heartbeat")
+def record_study_heartbeat(
+    payload: StudyHeartbeatRequest,
+    current_user: User = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    """
+    Heartbeat ping from learner's reading or practice session to accumulate time.
+    """
+    today = datetime.now().date()
+    from sqlalchemy import cast, Date
+
+    session = db.query(UserTopicStudySession).filter(
+        UserTopicStudySession.user_id == current_user.id,
+        UserTopicStudySession.topic_id == payload.topic_id,
+        UserTopicStudySession.activity_type == payload.activity_type,
+        cast(UserTopicStudySession.session_date, Date) == today
+    ).first()
+
+    if session:
+        session.duration_seconds = (session.duration_seconds or 0) + payload.duration_seconds
+    else:
+        session = UserTopicStudySession(
+            user_id=current_user.id,
+            topic_id=payload.topic_id,
+            duration_seconds=payload.duration_seconds,
+            activity_type=payload.activity_type
+        )
+        db.add(session)
+
+    db.commit()
+    db.refresh(session)
+    return {
+        "status": "recorded",
+        "topic_id": payload.topic_id,
+        "total_duration_seconds": session.duration_seconds
+    }
+
+
+@router.get("/performance-overview")
+def get_performance_overview(
+    current_user: User = Depends(require_active_entitlement),
+    db: Session = Depends(get_db)
+):
+    """
+    Comprehensive diagnostics payload for Phase 5 Visual Analytics:
+    - Welford running metrics and burnout detection
+    - 4-Quadrant Cognitive Load Matrix totals
+    - Top Priority Revision Feed (decayed mastery / speed traps)
+    """
+    profile = db.query(UserPerformanceProfile).filter(
+        UserPerformanceProfile.user_id == current_user.id
+    ).first()
+
+    masteries = db.query(UserTopicMastery).filter(
+        UserTopicMastery.user_id == current_user.id
+    ).all()
+
+    # Aggregate cognitive quadrants
+    fast_master = sum(m.fast_correct_count or 0 for m in masteries)
+    methodical = sum(m.slow_correct_count or 0 for m in masteries)
+    speed_trap = sum(m.fast_incorrect_count or 0 for m in masteries)
+    high_load = sum(m.slow_incorrect_count or 0 for m in masteries)
+
+    # Priority Revision Feed: rank topics needing urgent review
+    priority_topics = []
+    for m in masteries:
+        topic = db.query(Topic).filter(Topic.id == m.topic_id).first()
+        topic_name = topic.name if topic else f"Topic {m.topic_id}"
+
+        # Urgency heuristic: low TMI score + high speed trap / high load
+        error_rate = (m.incorrect_count / m.total_attempts) if m.total_attempts > 0 else 0.0
+        urgency_score = (100.0 - (m.tmi_score or 10.0)) * 0.6 + (error_rate * 40.0)
+
+        # Classify recommendation reason
+        reason = "Conceptual Gap"
+        if (m.fast_incorrect_count or 0) >= (m.slow_incorrect_count or 0) and (m.fast_incorrect_count or 0) > 2:
+            reason = "Speed Trap (Careless Errors)"
+        elif (m.tmi_score or 10.0) < 40.0:
+            reason = "Memory Decay / Low Retention"
+        elif (m.slow_correct_count or 0) > 3 and (m.fast_correct_count or 0) == 0:
+            reason = "Speed Optimization Needed"
+
+        priority_topics.append({
+            "topic_id": m.topic_id,
+            "topic_name": topic_name,
+            "tmi_score": round(m.tmi_score or 10.0, 1),
+            "bkt_prob": round(m.bkt_mastery_prob or 0.10, 2),
+            "total_attempts": m.total_attempts,
+            "error_rate_percent": round(error_rate * 100, 1),
+            "urgency_score": round(urgency_score, 1),
+            "recommendation_reason": reason
+        })
+
+    priority_topics.sort(key=lambda x: x["urgency_score"], reverse=True)
+
+    # Fallback/defaults if user has not completed mock tests yet
+    profile_data = {
+        "tests_completed": profile.tests_completed if profile else 0,
+        "running_mean_score": round(profile.running_mean_score, 1) if profile else 0.0,
+        "running_variance": round(profile.running_variance, 2) if profile else 0.0,
+        "running_std_dev": round(profile.running_std_dev, 2) if profile else 0.0,
+        "score_velocity": round(profile.score_velocity, 2) if profile else 0.0,
+        "trend_direction": profile.trend_direction if profile else "Neutral",
+        "archetype": profile.archetype if profile else "The Exploring Learner",
+        "burnout_flag": profile.burnout_flag if profile else "Normal",
+        "predicted_mock_score": round(profile.predicted_mock_score, 1) if profile else 0.0,
+    }
+
+    return {
+        "profile": profile_data,
+        "cognitive_matrix": {
+            "fast_master": fast_master,
+            "methodical": methodical,
+            "speed_trap": speed_trap,
+            "high_load": high_load,
+            "total_analyzed": fast_master + methodical + speed_trap + high_load
+        },
+        "priority_revision_feed": priority_topics[:6],
+    }
+
+
+@router.get("/topic-breakdown")
+def get_topic_breakdown(
+    current_user: User = Depends(require_active_entitlement),
+    db: Session = Depends(get_db)
+):
+    """
+    Detailed topic-by-topic mastery, cognitive quadrants, and study duration.
+    """
+    topics = db.query(Topic).all()
+    masteries = {
+        m.topic_id: m for m in db.query(UserTopicMastery).filter(
+            UserTopicMastery.user_id == current_user.id
+        ).all()
+    }
+
+    # Sum study sessions per topic
+    study_times = {}
+    sessions = db.query(
+        UserTopicStudySession.topic_id,
+        func.sum(UserTopicStudySession.duration_seconds).label("total_seconds")
+    ).filter(
+        UserTopicStudySession.user_id == current_user.id
+    ).group_by(UserTopicStudySession.topic_id).all()
+
+    for s in sessions:
+        study_times[s.topic_id] = s.total_seconds
+
+    results = []
+    for t in topics:
+        m = masteries.get(t.id)
+        chapter = db.query(Chapter).filter(Chapter.id == t.chapter_id).first() if t.chapter_id else None
+        subject = db.query(Subject).filter(Subject.id == chapter.subject_id).first() if chapter and chapter.subject_id else None
+
+        results.append({
+            "topic_id": t.id,
+            "topic_name": t.name,
+            "chapter_name": chapter.name if chapter else None,
+            "subject_name": subject.name if subject else None,
+            "tmi_score": round(m.tmi_score, 1) if m and m.tmi_score is not None else 10.0,
+            "bkt_prob": round(m.bkt_mastery_prob, 2) if m and m.bkt_mastery_prob is not None else 0.10,
+            "total_attempts": m.total_attempts if m else 0,
+            "correct_count": m.correct_count if m else 0,
+            "incorrect_count": m.incorrect_count if m else 0,
+            "fast_correct": m.fast_correct_count if m else 0,
+            "slow_correct": m.slow_correct_count if m else 0,
+            "fast_incorrect": m.fast_incorrect_count if m else 0,
+            "slow_incorrect": m.slow_incorrect_count if m else 0,
+            "study_duration_seconds": study_times.get(t.id, 0)
+        })
+
+    return results
+
 

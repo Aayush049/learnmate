@@ -106,16 +106,6 @@ export default function Dashboard() {
             <span className="eyebrow">SSC JE CIVIL • PERSONALIZED PREPARATION</span>
             <h2>Good morning, {firstName} 👋</h2>
             <p>Let's crack SSC JE Civil today. Focus on your weakest topics first.</p>
-            <div className="hero-cta">
-              <NavLink to="/learn/textbook" className="primary-button hero-button">
-                Continue Preparation <ArrowRight size={15} />
-              </NavLink>
-              <span className="hero-hint">
-                {remainingGoals > 0
-                  ? `${remainingGoals} task${remainingGoals > 1 ? "s" : ""} left today`
-                  : "Plan today's tasks below"}
-              </span>
-            </div>
           </div>
           <div className="hero-right-zone">
             <img src={bgimg} alt="Engineering" className="hero-illustration-img" />

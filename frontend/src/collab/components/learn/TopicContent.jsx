@@ -3,6 +3,8 @@ import { ChevronRight, PlayCircle, FileText, CheckCircle } from "lucide-react";
 import { useParams, NavLink, useNavigate } from "react-router-dom";
 import apiClient from "../../../api/client";
 import { questionsAPI } from "../../../api/questions";
+import { useStudyTracker } from "../../../hooks/useStudyTracker";
+import { getUnitTopicDetails } from "../../data/syllabusData";
 
 export default function TopicContent() {
   const { id } = useParams();
@@ -11,6 +13,13 @@ export default function TopicContent() {
   const [questions, setQuestions] = useState([]);
   const [loading, setLoading] = useState(true);
   const [activeTab, setActiveTab] = useState("Learn");
+
+  useStudyTracker({
+    topicId: id ? parseInt(id, 10) : null,
+    activityType: "reading",
+    heartbeatIntervalMs: 30000,
+  });
+
 
   useEffect(() => {
     const fetchData = async () => {
@@ -48,16 +57,19 @@ export default function TopicContent() {
   }
 
   const pyqs = questions.filter(q => q.is_pyq);
+  const unitDetails = topic ? getUnitTopicDetails(topic.name) : null;
 
   return (
     <div className="page">
       <div className="breadcrumb">
-        SSC JE Civil <ChevronRight size={13} /> Chapter #{topic.chapter_id} <ChevronRight size={13} /> {topic.name}
+        SSC JE Civil <ChevronRight size={13} /> {unitDetails ? `Unit ${unitDetails.unitNumber}: ${unitDetails.unitTitle}` : `Chapter #${topic.chapter_id}`} <ChevronRight size={13} /> {topic.name}
       </div>
 
       <section className="card topic-content">
         <div className="topic-content-header pb-4 border-b border-gray-100">
-          <span className="eyebrow uppercase text-blue-600 font-bold text-xs tracking-wider">TOPIC #{topic.id}</span>
+          <span className="eyebrow uppercase text-blue-600 font-bold text-xs tracking-wider">
+            TOPIC {unitDetails ? unitDetails.formattedNumber : `#${topic.id}`}
+          </span>
           <h2 className="text-2xl font-bold mt-1 mb-2 text-gray-900">{topic.name}</h2>
           <p className="text-gray-600">{topic.description || "Master this concept to score well in SSC JE."}</p>
         </div>
